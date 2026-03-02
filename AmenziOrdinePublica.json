@@ -1,0 +1,967 @@
+{
+  "lege_metadata": {
+    "titlu": "LEGEA nr. 61 din 27 septembrie 1991 (*republicată*) pentru sancționarea faptelor de încălcare a unor norme de conviețuire socială, a ordinii și liniștii publice",
+    "data_actualizare": "25 iulie 2024",
+    "monitor_oficial": "Monitorul Oficial nr. 125 din 18 februarie 2020"
+  },
+  "fapte": [
+    {
+      "id": "art2_pct1",
+      "punct": "1",
+      "descriere": "săvârșirea în public de fapte, acte sau gesturi obscene, proferarea de injurii, expresii jignitoare sau vulgare, amenințări cu acte de violență împotriva persoanelor sau bunurilor acestora, de natură să tulbure ordinea și liniștea publică sau să provoace indignarea cetățenilor ori să lezeze demnitatea și onoarea acestora",
+      "articol_prevedere": "Art. 2, pct. 1",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. b)",
+      "amenda_min": 200,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 100,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "obscen",
+        "injuriu",
+        "jignitor",
+        "vulgar",
+        "amenintare",
+        "violenta",
+        "public",
+        "demnitate",
+        "onoare"
+      ]
+    },
+    {
+      "id": "art2_pct2",
+      "punct": "2",
+      "descriere": "constituirea unui grup format din trei sau mai multe persoane, în scopul de a săvârși acțiuni ilicite, contrare ordinii și liniștii publice și normelor de conviețuire socială, precum și actele de încurajare sau sprijinire, sub orice formă, a unor astfel de grupuri de persoane, care incită la dezordine socială",
+      "articol_prevedere": "Art. 2, pct. 2",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "grup",
+        "actiuni ilicite",
+        "dezordine",
+        "incitare",
+        "ordine publica"
+      ]
+    },
+    {
+      "id": "art2_pct3",
+      "punct": "3",
+      "descriere": "apelarea, în mod repetat, la mila publicului, de către o persoană aptă de muncă, precum și determinarea unei persoane la săvârșirea unor astfel de fapte",
+      "articol_prevedere": "Art. 2, pct. 3",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
+      "amenda_min": 100,
+      "amenda_max": 500,
+      "permite_jumatate": true,
+      "suma_jumatate": 50,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "cersit",
+        "mila publica",
+        "apt de munca",
+        "vagabondaj"
+      ]
+    },
+    {
+      "id": "art2_pct4",
+      "punct": "4",
+      "descriere": "aruncarea asupra unei persoane, construcții sau asupra unui mijloc de transport cu obiecte de orice fel, cu substanțe inflamante, iritant-lacrimogene sau cu efect paralizant, corosive sau care murdăresc, dacă nu s-au produs vătămări ale integrității corporale sau sănătății, ori pagube materiale",
+      "articol_prevedere": "Art. 2, pct. 4",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
+      "amenda_min": 100,
+      "amenda_max": 500,
+      "permite_jumatate": true,
+      "suma_jumatate": 50,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "aruncare obiecte",
+        "substante inflamante",
+        "vatamare",
+        "transport"
+      ]
+    },
+    {
+      "id": "art2_pct5",
+      "punct": "5",
+      "descriere": "organizarea, îngăduirea sau participarea la jocuri de noroc - altele decât cele autorizate potrivit legii - de natură să lezeze bunele moravuri",
+      "articol_prevedere": "Art. 2, pct. 5",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "jocuri de noroc",
+        "neautorizate",
+        "moralitate"
+      ]
+    },
+    {
+      "id": "art2_pct6",
+      "punct": "6",
+      "descriere": "comercializarea armelor cu aer comprimat sau cu gaze comprimate, a arbaletelor, arcurilor pentru tir, pescuit sau vânătoare în alte locuri decât în magazinele autorizate să efectueze operațiuni cu arme de foc și muniții",
+      "articol_prevedere": "Art. 2, pct. 6",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
+      "permite_jumatate": false,
+      "suma_jumatate": 0,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "arme",
+        "aer comprimat",
+        "vanzare",
+        "neautorizat"
+      ]
+    },
+    {
+      "id": "art2_pct7",
+      "punct": "7",
+      "descriere": "acceptarea sau tolerarea practicării faptelor de atragere de persoane pentru prostituție în hoteluri, moteluri, campinguri, baruri, restaurante, cluburi, pensiuni, discoteci sau în anexele acestora de către patronii sau administratorii ori conducătorii localurilor respective",
+      "articol_prevedere": "Art. 2, pct. 7",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "prostitutie",
+        "local public",
+        "tolerare",
+        "administrator"
+      ]
+    },
+    {
+      "id": "art2_pct8",
+      "punct": "8",
+      "descriere": "vânzarea armelor cu aer comprimat sau cu gaze comprimate, a arbaletelor, arcurilor pentru tir, pescuit sau vânătoare persoanelor care nu au împlinit vârsta de 18 ani, persoanelor care au săvârșit acte de violență menționate în cazierul judiciar, precum și persoanelor care suferă de boli neuropsihice menționate în certificatul de sănătate eliberat de policlinica teritorială",
+      "articol_prevedere": "Art. 2, pct. 8",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "vanzare arme",
+        "minori",
+        "cazier",
+        "boli neuropsihice"
+      ]
+    },
+    {
+      "id": "art2_pct9",
+      "punct": "9",
+      "descriere": "menținerea evidenței de către magazinele autorizate a cumpărătorilor armelor prevăzute la pct. 8) în registre speciale, vizate de organele de poliție, nerespectarea obligațiilor de înregistrare",
+      "articol_prevedere": "Art. 2, pct. 10",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "evidenta",
+        "registre",
+        "arme",
+        "magazine autorizate"
+      ]
+    },
+    {
+      "id": "art2_pct10",
+      "punct": "10",
+      "descriere": "alarmarea publicului, a organelor specializate pentru a interveni în caz de pericol ori a organelor de menținere a ordinii publice, prin darea semnalelor de pericol sau, după caz, prin solicitarea intervenției la fața locului, fără motiv întemeiat",
+      "articol_prevedere": "Art. 2, pct. 11",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
+      "amenda_min": 100,
+      "amenda_max": 500,
+      "permite_jumatate": true,
+      "suma_jumatate": 50,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "alarma falsa",
+        "apel fals",
+        "112",
+        "pompieri",
+        "politic"
+      ]
+    },
+    {
+      "id": "art2_pct11",
+      "punct": "11",
+      "descriere": "întreruperea curentului electric sau stingerea, fără drept, a lămpilor ce servesc la iluminatul public pe străzi, în parcuri, săli de spectacol sau în alte locuri publice",
+      "articol_prevedere": "Art. 2, pct. 12",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. b)",
+      "amenda_min": 200,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 100,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "iluminat public",
+        "curent electric",
+        "paguba"
+      ]
+    },
+    {
+      "id": "art2_pct12",
+      "punct": "12",
+      "descriere": "pătrunderea, cu încălcarea normelor legale de acces, în sediile autorităților publice, instituțiilor publice, de învățământ, partidelor politice, ambasadelor sau ocuparea fără drept a terenurilor acestora ori refuzul de a le părăsi la cererea organelor de ordine",
+      "articol_prevedere": "Art. 2, pct. 13",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "patrundere",
+        "institutie publica",
+        "ambasada",
+        "ocupare"
+      ]
+    },
+    {
+      "id": "art2_pct13",
+      "punct": "13",
+      "descriere": "imprimarea de însemne, înscrieri, desene sau imagini, fără drept, prin orice mijloace, pe pereții clădirilor, pe garduri sau pe obiecte de folosință comună aflate în locuri publice, precum și deteriorarea prin orice mijloc a acestora",
+      "articol_prevedere": "Art. 2, pct. 14",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. f)",
+      "amenda_min": 3000,
+      "amenda_max": 6000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1500,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "graffiti",
+        "deteriorare",
+        "cladire",
+        "gard",
+        "spatiu public"
+      ]
+    },
+    {
+      "id": "art2_pct14",
+      "punct": "14^1",
+      "descriere": "dezlipirea sau distrugerea, fără drept, a reclamelor, anunțurilor și afișelor legal amplasate în locuri anume destinate",
+      "articol_prevedere": "Art. 2, pct. 14^1",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
+      "amenda_min": 100,
+      "amenda_max": 500,
+      "permite_jumatate": true,
+      "suma_jumatate": 50,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "reclame",
+        "afise",
+        "distrugere",
+        "dezlipire"
+      ]
+    },
+    {
+      "id": "art2_pct15",
+      "punct": "15",
+      "descriere": "nerespectarea măsurilor de ordine sau a regulilor stabilite pentru buna desfășurare a manifestărilor cultural-sportive",
+      "articol_prevedere": "Art. 2, pct. 15",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "manifestatii",
+        "culturale",
+        "sportive",
+        "reguli"
+      ]
+    },
+    {
+      "id": "art2_pct16",
+      "punct": "16",
+      "descriere": "deteriorarea, ridicarea sau mutarea, fără drept, a semnelor sau indicatoarelor de orientare turistică și rutieră ori a celor care semnalează existența unui pericol pentru viața persoanelor",
+      "articol_prevedere": "Art. 2, pct. 16",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. b)",
+      "amenda_min": 200,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 100,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "indicatoare",
+        "semnal rutier",
+        "turistic",
+        "pericol"
+      ]
+    },
+    {
+      "id": "art2_pct17",
+      "punct": "17",
+      "descriere": "lăsarea în libertate ori fără supraveghere a animalelor care pot prezenta pericol pentru persoane sau bunuri",
+      "articol_prevedere": "Art. 2, pct. 17",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
+      "amenda_min": 100,
+      "amenda_max": 500,
+      "permite_jumatate": true,
+      "suma_jumatate": 50,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "animale",
+        "pericol",
+        "libertate",
+        "supraveghere"
+      ]
+    },
+    {
+      "id": "art2_pct18",
+      "punct": "18",
+      "descriere": "refuzul consumatorului de a părăsi un local public în care se consumă băuturi alcoolice, după ora de închidere sau la cererea îndreptățită a unui salariat al localului",
+      "articol_prevedere": "Art. 2, pct. 18",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
+      "amenda_min": 100,
+      "amenda_max": 500,
+      "permite_jumatate": true,
+      "suma_jumatate": 50,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "local public",
+        "alcool",
+        "ora inchiderii",
+        "refuz"
+      ]
+    },
+    {
+      "id": "art2_pct19",
+      "punct": "19",
+      "descriere": "servirea consumatorilor cu băuturi alcoolice în localurile publice și în afara acestora, în zilele și la orele când, potrivit dispozițiilor legale, acestea sunt închise sau este interzisă desfacerea băuturilor alcoolice ori după ora de închidere stabilită prin autorizația de funcționare",
+      "articol_prevedere": "Art. 2, pct. 19",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "servire alcool",
+        "interzis",
+        "program",
+        "local public"
+      ]
+    },
+    {
+      "id": "art2_pct20",
+      "punct": "20",
+      "descriere": "servirea și consumul băuturilor alcoolice în localuri publice și în afara acestora pe timpul desfășurării adunărilor publice, grevelor, manifestărilor sportive",
+      "articol_prevedere": "Art. 2, pct. 20",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "alcool",
+        "adunari publice",
+        "greva",
+        "sport"
+      ]
+    },
+    {
+      "id": "art2_pct21",
+      "punct": "21",
+      "descriere": "desfacerea, comercializarea și consumul băuturilor alcoolice în locurile publice, la intrarea în curțile și în interioarele lor, cum sunt: spitale, centre de plasament, unități de învățământ, lăcașuri de cult etc.",
+      "articol_prevedere": "Art. 2, pct. 21",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. e)",
+      "amenda_min": 100,
+      "amenda_max": 500,
+      "permite_jumatate": true,
+      "suma_jumatate": 50,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "alcool",
+        "spital",
+        "scoala",
+        "lacas de cult",
+        "interzis"
+      ]
+    },
+    {
+      "id": "art2_pct22",
+      "punct": "22",
+      "descriere": "servirea cu băuturi alcoolice, în localurile publice, a consumatorilor aflați în vădită stare de ebrietate, precum și a minorilor",
+      "articol_prevedere": "Art. 2, pct. 22",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. g)",
+      "amenda_min": 5000,
+      "amenda_max": 20000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "alcool",
+        "minori",
+        "ebrietate",
+        "servire"
+      ]
+    },
+    {
+      "id": "art2_pct23",
+      "punct": "23",
+      "descriere": "consumul de băuturi alcoolice în următoarele locuri publice: drumuri publice, parcuri, stadioane, instituții culturale, săli de spectacole, mijloace de transport în comun etc.",
+      "articol_prevedere": "Art. 2, pct. 23",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. e)",
+      "amenda_min": 100,
+      "amenda_max": 500,
+      "permite_jumatate": true,
+      "suma_jumatate": 50,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "alcool",
+        "consum",
+        "strada",
+        "parc",
+        "transport"
+      ]
+    },
+    {
+      "id": "art2_pct23_1",
+      "punct": "23^1",
+      "descriere": "comercializarea sau oferirea cu titlu gratuit a băuturilor alcoolice către minori de către unitățile autorizate să comercializeze băuturi alcoolice",
+      "articol_prevedere": "Art. 2, pct. 23^1",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. g)",
+      "amenda_min": 5000,
+      "amenda_max": 20000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "vanzare alcool",
+        "minori",
+        "comert"
+      ]
+    },
+    {
+      "id": "art2_pct23_2",
+      "punct": "23^2",
+      "descriere": "comercializarea sau oferirea cu titlu gratuit, inclusiv prin automate comerciale, a băuturilor energizante către minori de către unitățile autorizate să comercializeze băuturi energizante",
+      "articol_prevedere": "Art. 2, pct. 23^2",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. g)",
+      "amenda_min": 5000,
+      "amenda_max": 20000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "energizante",
+        "minori",
+        "automate comerciale",
+        "vanzare"
+      ]
+    },
+    {
+      "id": "art2_pct24",
+      "punct": "24",
+      "descriere": "provocarea ori participarea efectivă la scandal, în locuri sau localuri publice",
+      "articol_prevedere": "Art. 2, pct. 24",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. b)",
+      "amenda_min": 200,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 100,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "scandal",
+        "public",
+        "violenta"
+      ]
+    },
+    {
+      "id": "art2_pct25",
+      "punct": "25",
+      "descriere": "tulburarea, fără drept, a liniștii locuitorilor prin producerea de zgomote cu orice aparat sau obiect ori prin strigăte sau larmă",
+      "articol_prevedere": "Art. 2, pct. 25",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. b)",
+      "amenda_min": 200,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 100,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "zgomot",
+        "liniste",
+        "strigate",
+        "larma",
+        "vecini"
+      ]
+    },
+    {
+      "id": "art2_pct26",
+      "punct": "26",
+      "descriere": "tulburarea liniștii locatarilor între orele 22,00-8,00 și 13,00-14,00 prin producerea de zgomote, larmă sau folosirea aparatelor muzicale la intensitate mare",
+      "articol_prevedere": "Art. 2, pct. 26",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "zgomot",
+        "program",
+        "noapte",
+        "muzica",
+        "liniste"
+      ]
+    },
+    {
+      "id": "art2_pct27",
+      "punct": "27",
+      "descriere": "organizarea de petreceri cu caracter privat și utilizarea de aparatură muzicală la intensitate de natură a tulbura liniștea locuitorilor, în corturi, alte amenajări sau în spațiu neacoperit, situate în perimetrul apropiat imobilelor cu destinația de locuințe sau cu caracter social",
+      "articol_prevedere": "Art. 2, pct. 27",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. d)",
+      "amenda_min": 2000,
+      "amenda_max": 3000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "petrecere",
+        "zgomot",
+        "muzica",
+        "cort",
+        "vecini"
+      ]
+    },
+    {
+      "id": "art2_pct28",
+      "punct": "28",
+      "descriere": "alungarea din locuința comună a soțului sau soției, a copiilor, precum și a oricărei alte persoane aflate în întreținere",
+      "articol_prevedere": "Art. 2, pct. 28",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. b)",
+      "amenda_min": 200,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 100,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "familie",
+        "locuinta",
+        "alungare",
+        "divort"
+      ]
+    },
+    {
+      "id": "art2_pct29",
+      "punct": "29",
+      "descriere": "nerespectarea măsurilor de ordine luate de organele competente în caz de calamități naturale sau alte pericole publice",
+      "articol_prevedere": "Art. 2, pct. 29",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "calamitate",
+        "pericol public",
+        "masuri",
+        "ordine"
+      ]
+    },
+    {
+      "id": "art2_pct30",
+      "punct": "30",
+      "descriere": "nerespectarea măsurii de suspendare, dispusă conform dispozițiilor art. 3 alin. (3) și (4)",
+      "articol_prevedere": "Art. 2, pct. 30",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. d)",
+      "amenda_min": 2000,
+      "amenda_max": 3000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "suspendare",
+        "local public",
+        "nerespectare"
+      ]
+    },
+    {
+      "id": "art2_pct31",
+      "punct": "31",
+      "descriere": "refuzul unei persoane de a furniza date pentru stabilirea identității sale sau de a se prezenta la sediul poliției, la cererea ori la invitația justificată a organelor de urmărire penală sau a organelor de ordine publică",
+      "articol_prevedere": "Art. 2, pct. 31",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "identitate",
+        "legitimare",
+        "refuz",
+        "politic"
+      ]
+    },
+    {
+      "id": "art2_pct32",
+      "punct": "32",
+      "descriere": "îndemnul sub orice formă al minorilor la săvârșirea de contravenții",
+      "articol_prevedere": "Art. 2, pct. 32",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "minori",
+        "indemn",
+        "contraventie"
+      ]
+    },
+    {
+      "id": "art2_pct33",
+      "punct": "33",
+      "descriere": "neluarea de către părinți sau de către persoanele care au în îngrijire un minor de până la 16 ani a măsurilor necesare pentru a-l împiedica de la fapte de vagabondaj, cerșetorie sau prostituție",
+      "articol_prevedere": "Art. 2, pct. 33",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
+      "amenda_min": 100,
+      "amenda_max": 500,
+      "permite_jumatate": true,
+      "suma_jumatate": 50,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "parinti",
+        "minor",
+        "vagabondaj",
+        "cersit",
+        "prostitutie"
+      ]
+    },
+    {
+      "id": "art2_pct34",
+      "punct": "34",
+      "descriere": "lăsarea fără supraveghere a unui bolnav mintal periculos, de către persoanele care au îndatorirea de a-l îngriji sau de a-l păzi, precum și neanunțarea organelor sanitare sau ale poliției în caz de scăpare de sub pază sau supraveghere",
+      "articol_prevedere": "Art. 2, pct. 34",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
+      "amenda_min": 100,
+      "amenda_max": 500,
+      "permite_jumatate": true,
+      "suma_jumatate": 50,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "bolnav mintal",
+        "periculos",
+        "supraveghere",
+        "evadare"
+      ]
+    },
+    {
+      "id": "art2_pct35",
+      "punct": "35",
+      "descriere": "neasigurarea de către responsabili sau patroni, prin personal propriu ori specializat, a ordinii publice în localuri publice, cluburi, discoteci etc., precum și refuzul de a acorda sprijin organelor pentru restabilirea ordinii",
+      "articol_prevedere": "Art. 2, pct. 35",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. f)",
+      "amenda_min": 3000,
+      "amenda_max": 6000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1500,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "ordine publica",
+        "local public",
+        "paza",
+        "patron"
+      ]
+    },
+    {
+      "id": "art2_pct36",
+      "punct": "36",
+      "descriere": "împiedicarea, sub orice formă, a organelor însărcinate cu menținerea ordinii publice de a-și îndeplini obligațiile de serviciu privind legitimarea sau conducerea unei persoane la sediul poliției",
+      "articol_prevedere": "Art. 2, pct. 36",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. f)",
+      "amenda_min": 3000,
+      "amenda_max": 6000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1500,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițerii de poliție",
+        "Agenții de poliție",
+        "Ofițerii, maiștrii militari și subofițerii din jandarmerie",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "impiedicare",
+        "politist",
+        "serviciu",
+        "legitimare"
+      ]
+    }
+  ]
+}
