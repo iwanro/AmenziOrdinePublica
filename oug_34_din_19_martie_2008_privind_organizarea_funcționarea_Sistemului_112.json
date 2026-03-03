@@ -1,0 +1,221 @@
+{
+  "lege_metadata": {
+    "titlu": "Ordonanța de Urgență nr. 34 din 19 martie 2008 privind organizarea și funcționarea Sistemului național unic pentru apeluri de urgență",
+    "data_publicare": "28 martie 2008",
+    "monitorul_oficial": "Monitorul Oficial nr. 246 din 28 martie 2008",
+    "ultima_modificare": "Legea nr. 198/2022 (MO nr. 681 din 7 iulie 2022)"
+  },
+  "fapte": [
+    {
+      "id": "1",
+      "punct": "a)",
+      "descriere": "Apelarea abuzivă a numărului unic pentru apeluri de urgență 112 sau transmiterea de mesaje abuzive la numărul 113 ori la numărul 114",
+      "articol_prevedere": "Art. 32, alin. (1), lit. a)",
+      "articol_sanctiune": "Art. 32, alin. (1), lit. a)",
+      "amenda_min": 1000,
+      "amenda_max": 2000,
+      "permite_jumatate": false,
+      "suma_jumatate": 500,
+      "competenta": ["Persoane anume împuternicite din cadrul Ministerului Afacerilor Interne"],
+      "tags": ["apel abuziv", "112", "mesaj abuziv", "113", "114", "apelație", "telefon", "urgență falsă"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": {
+        "interval": "un an",
+        "amenda_min": 2000,
+        "amenda_max": 4000,
+        "observatie": "Prin derogare de la art. 9 alin. (1) din OUG nr. 2/2001",
+        "alternativa": "Prestarea de la 200 de ore la 400 de ore de activități în folosul comunității"
+      },
+      "alternativa_sanctiune": "Prestarea de la 100 de ore la 200 de ore de activități în folosul comunității"
+    },
+    {
+      "id": "2",
+      "punct": "a^1)",
+      "descriere": "Efectuarea de comunicații abuzive către Serviciul de urgență 112",
+      "articol_prevedere": "Art. 32, alin. (1), lit. a^1)",
+      "articol_sanctiune": "Art. 32, alin. (1), lit. a^1)",
+      "amenda_min": 1000,
+      "amenda_max": 2000,
+      "permite_jumatate": false,
+      "suma_jumatate": 500,
+      "competenta": ["Persoane anume împuternicite din cadrul Ministerului Afacerilor Interne"],
+      "tags": ["comunicație abuzivă", "112", "serviciu urgență", "abuz", "comunicații"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": {
+        "interval": "un an",
+        "amenda_min": 2000,
+        "amenda_max": 4000,
+        "observatie": "Prin derogare de la art. 9 alin. (1) din OUG nr. 2/2001",
+        "alternativa": "Prestarea de la 200 de ore la 400 de ore de activități în folosul comunității"
+      },
+      "alternativa_sanctiune": "Prestarea de la 100 de ore la 200 de ore de activități în folosul comunității",
+      "observatie": "Introducere prin Legea nr. 198/2022, în vigoare de la 9 august 2022"
+    },
+    {
+      "id": "3",
+      "punct": "b)",
+      "descriere": "Alertarea falsă a agențiilor specializate de intervenție",
+      "articol_prevedere": "Art. 32, alin. (1), lit. b)",
+      "articol_sanctiune": "Art. 32, alin. (1), lit. b)",
+      "amenda_min": 2000,
+      "amenda_max": 4000,
+      "permite_jumatate": false,
+      "suma_jumatate": 1000,
+      "competenta": ["Persoane anume împuternicite din cadrul Ministerului Afacerilor Interne"],
+      "tags": ["alertare falsă", "agenții intervenție", "pompieri", "poliție", "ambulanță", "alarmă falsă", "dezinformare"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": {
+        "interval": "un an",
+        "amenda_min": 4000,
+        "amenda_max": 8000,
+        "observatie": "Prin derogare de la art. 9 alin. (1) din OUG nr. 2/2001",
+        "alternativa": "Prestarea de la 400 de ore la 800 de ore de activități în folosul comunității"
+      },
+      "alternativa_sanctiune": "Prestarea de la 200 de ore la 400 de ore de activități în folosul comunității"
+    },
+    {
+      "id": "4",
+      "punct": "c)",
+      "descriere": "Nerespectarea de către furnizorii de rețele publice de comunicații electronice sau furnizorii de servicii de comunicații interpersonale bazate pe numere, destinate publicului, a obligațiilor prevăzute la art. 14-17, art. 18 alin. (1) și la art. 20 alin. (8) și (9)",
+      "articol_prevedere": "Art. 32, alin. (1), lit. c)",
+      "articol_sanctiune": "Art. 32, alin. (1), lit. c)",
+      "amenda_min": 5000,
+      "amenda_max": 100000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": ["Persoane anume împuternicite din cadrul Autorității Naționale pentru Reglementare în Comunicații și Tehnologia Informației (ANCOM)"],
+      "tags": ["furnizor", "rețea comunicații", "servicii telefonie", "obligații tehnice", "112", "rutare", "localizare", "date personale", "suspendare servicii"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "observatie": "Obligații privind: primirea și rutarea apelurilor (art. 14-15), primirea apelurilor din locuri publice (art. 16), prioritizarea legăturilor în situații de urgență (art. 17), furnizarea bazelor de date (art. 18 alin. 1), suspendarea serviciilor pentru apeluri abuzive (art. 20 alin. 8-9)",
+      "dispozitii_incalcate": [
+        "Art. 14 - Obligații furnizori servicii telefonie fixă",
+        "Art. 15 - Obligații furnizori servicii telefonie mobilă", 
+        "Art. 16 - Primirea apelurilor din locuri publice",
+        "Art. 17 - Prioritate legături în situații de urgență",
+        "Art. 18 alin. (1) - Furnizarea bazelor de date",
+        "Art. 20 alin. (8)-(9) - Suspendarea serviciilor pentru apeluri abuzive"
+      ]
+    },
+    {
+      "id": "5",
+      "punct": "d)",
+      "descriere": "Nerespectarea de către furnizorii de rețele publice de comunicații electronice sau furnizorii de servicii de comunicații interpersonale bazate pe numere, destinate publicului, a condițiilor tehnice și economice referitoare la realizarea comunicațiilor către SNUAU stabilite, în condițiile legii, de Autoritatea Națională pentru Administrare și Reglementare în Comunicații",
+      "articol_prevedere": "Art. 32, alin. (1), lit. d)",
+      "articol_sanctiune": "Art. 32, alin. (1), lit. d)",
+      "amenda_min": 5000,
+      "amenda_max": 100000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": ["Persoane anume împuternicite din cadrul Autorității Naționale pentru Reglementare în Comunicații și Tehnologia Informații (ANCOM)"],
+      "tags": ["furnizor", "rețea comunicații", "condiții tehnice", "condiții economice", "SNUAU", "ANCOM", "standarde", "interoperabilitate"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "observatie": "Conform art. 13, ANCOM stabilește condițiile tehnice și economice pentru realizarea comunicațiilor către SNUAU"
+    },
+    {
+      "id": "6",
+      "punct": "e)",
+      "descriere": "Neîndeplinirea de către administratorul SNUAU a obligațiilor privind securitatea și confidențialitatea bazelor de date, prevăzute la art. 18 alin. (2) și la art. 19 alin. (1)",
+      "articol_prevedere": "Art. 32, alin. (1), lit. e)",
+      "articol_sanctiune": "Art. 32, alin. (1), lit. e)",
+      "amenda_min": 1500,
+      "amenda_max": 50000,
+      "permite_jumatate": false,
+      "suma_jumatate": 750,
+      "competenta": ["Persoane anume împuternicite din cadrul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal (ANSPDCP)"],
+      "tags": ["administrator SNUAU", "securitate date", "confidențialitate", "bază date", "protecție date personale", "GDPR", "STS", "SNUAU"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "observatie": "Administratorul SNUAU este Serviciul de Telecomunicații Speciale (STS). Obligații privind protecția datelor personale conform Legii nr. 677/2001 și Legii nr. 102/2005"
+    }
+  ],
+  "dispozitii_generale": {
+    "definitii_importante": {
+      "apelare_abuziva": {
+        "articol": "Art. 3, lit. e)",
+        "definitie": "Apelarea repetată, cu rea intenție, a numărului 112, fără ca apelantul să justifice o stare care necesită acțiunea agențiilor specializate de intervenție, sau apelarea numărului 112 pentru a aduce injurii operatorilor"
+      },
+      "comunicatie_abuziva": {
+        "articol": "Art. 3, lit. e^1)",
+        "definitie": "Comunicarea repetată către Serviciul de urgență 112, realizată intenționat prin alte mijloace decât apelarea, fără ca utilizatorul final să justifice o stare care necesită acțiunea agențiilor specializate de intervenție, sau comunicarea pentru a aduce injurii operatorilor"
+      },
+      "alertare_falsa": {
+        "articol": "Art. 3, lit. b)",
+        "definitie": "Alertarea intenționată a Serviciului de urgență 112 pentru determinarea alarmării sau intervenției agențiilor specializate de intervenție în mod nejustificat"
+      },
+      "mesaj_abuziv": {
+        "articol": "Art. 3, lit. h)",
+        "definitie": "Transmiterea repetată de mesaje scurte (SMS) către numărul 113, cu rea intenție, de către o persoană care nu este înregistrată la administratorul SNUAU sau transmiterea unui mesaj scurt (SMS) către numărul 113 pentru a aduce injurii operatorilor, precum și transmiterea repetată către numărul 114, cu rea intenție, a unor mesaje care nu respectă condițiile prevăzute la art. 2 alin. (6)"
+      }
+    },
+    "competenta_constatare": {
+      "articol": "Art. 32, alin. (2)-(4)",
+      "detalii": [
+        {
+          "fapte": ["a)", "a^1)", "b)"],
+          "competenta": "Persoane anume împuternicite din cadrul Ministerului Afacerilor Interne",
+          "baza": "Datele furnizate de administratorul SNUAU"
+        },
+        {
+          "fapte": ["c)", "d)"],
+          "competenta": "Persoane anume împuternicite din cadrul ANCOM"
+        },
+        {
+          "fapte": ["e)"],
+          "competenta": "Persoane anume împuternicite din cadrul ANSPDCP"
+        }
+      ]
+    },
+    "plata_jumatate_amenda": {
+      "articol": "Art. 32, alin. (6)",
+      "dispozitie": "Pentru contravențiile prevăzute la lit. c) și d), contravenientul poate achita jumătate din amendă în termen de 15 zile de la înmânarea/comunicarea procesului-verbal",
+      "aplicabilitate": "Doar pentru faptele de la lit. c) și d) (nerespectarea obligațiilor de către furnizorii de comunicații)",
+      "termen": "15 zile"
+    },
+    "regim_juridic": {
+      "articol": "Art. 32, alin. (5)",
+      "dispozitie": "Dispozițiilor referitoare la contravenții le sunt aplicabile dispozițiile OUG nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002"
+    },
+    "suspensie_servicii": {
+      "articol": "Art. 20, alin. (6)-(10)",
+      "conditii": [
+        "Administratorul SNUAU stabilește că reprezintă apeluri/comunicații abuzive de natură să împiedice sau să întârzie operarea Serviciului de urgență 112",
+        "Apelurile/comunicațiile nu au putut fi filtrate la nivelul SNUAU",
+        "Administratorul SNUAU stabilește pe baza unor indicii temeinice că sunt efectuate în mod automat"
+      ],
+      "evenimente_calificate": [
+        "Mai mult de 5 apeluri/comunicații de urgență pe minut, repetitiv, în mai mult de 5 secvențe, utilizând aceeași numerotație (în interval de o oră)",
+        "Mai mult de 20 SMS pe minut, repetitiv, în 5 secvențe, utilizând aceeași numerotație (în interval de o oră)",
+        "Accesarea interfețelor și serviciilor informatice de mai mult de 100 de ori pe minut, repetitiv, în mai mult de 5 secvențe, utilizând aceeași numerotație (în interval de o oră)"
+      ],
+      "durata_suspensie": "3 ore de la primirea solicitării",
+      "reactivare": "Din oficiu la expirarea celor 3 ore"
+    },
+    "numere_urgenta": {
+      "112": "Numărul european unic de urgență pentru apeluri vocale",
+      "113": "Numărul unic pentru mesaje asociate apelurilor de urgență (SMS) pentru persoane cu dizabilități de auz și/sau vorbire",
+      "114": "Numărul pentru transmiterea mesajelor tehnice standardizate scurte ce conțin informația de localizare obținută pe baza echipamentului terminal"
+    },
+    "administrator_snuau": {
+      "denumire": "Serviciul de Telecomunicații Speciale (STS)",
+      "articol": "Art. 4, alin. (2)"
+    },
+    "perioada_prescriptie": {
+      "articol": "OUG nr. 2/2001",
+      "termen": "6 luni pentru contravenții (conform art. 6 din OUG nr. 2/2001)"
+    }
+  }
+}
