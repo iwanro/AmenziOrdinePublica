@@ -1,93 +1,67 @@
 {
   "lege_metadata": {
     "titlu": "Legea nr. 61/1991 pentru sancționarea faptelor de încălcare a unor norme de conviețuire socială, a ordinii și liniștii publice",
-    "titlu_scurt": "Legea 61/1991",
     "emitent": "PARLAMENTUL ROMÂNIEI",
-    "data_publicare_initiala": "27 septembrie 1991",
-    "monitor_oficial_republicare": "Monitorul Oficial nr. 125 din 18 februarie 2020",
-    "stare": "Republicată",
-    "ultimele_modificari": [
-      "Legea nr. 192/2019",
-      "Legea nr. 11/2020", 
-      "Legea nr. 260/2022",
-      "Legea nr. 174/2023",
-      "Legea nr. 42/2024",
-      "Legea nr. 233/2024"
-    ]
+    "monitor_oficial": "Monitorul Oficial nr. 125 din 18 februarie 2020",
+    "data_republicare": "18 februarie 2020"
   },
-  "organe_constatare": [
-    "Primar",
-    "Împuterniciții primarului",
-    "Ofițerii de poliție",
-    "Agenții de poliție",
-    "Ofițerii din jandarmerie",
-    "Maiștrii militari din jandarmerie",
-    "Subofițerii din jandarmerie",
-    "Polițiștii de frontieră (în zona de competență)"
-  ],
-  "regim_plata_jumatate": {
+  "organe_constatare": {
+    "articol": "Art. 6, alin. (1)",
+    "lista": ["Primar", "Împuterniciții primarului", "Ofițerii de poliție", "Agenții de poliție", "Ofițerii din jandarmerie", "Maiștrii militari din jandarmerie", "Subofițerii din jandarmerie", "Polițiștii de frontieră"]
+  },
+  "plata_jumatate": {
     "articol": "Art. 6^1",
-    "data_intrare_vigoare": "27-03-2026",
-    "termen_zile": 15,
-    "descriere": "Contravenientul poate achita jumătate din amendă în termen de 15 zile de la comunicarea procesului-verbal"
+    "text": "Contravenientul poate achita jumătate din amendă în termen de 15 zile de la comunicarea procesului-verbal",
+    "intrare_in_vigoare": "27-03-2026",
+    "exceptii": ["pct. 6)"]
   },
   "fapte": [
     {
-      "id": "L61_1991_p1",
+      "id": "L61-2-1",
       "punct": "1",
       "descriere": "Săvârșirea în public de fapte, acte sau gesturi obscene, proferarea de injurii, expresii jignitoare sau vulgare, amenințări cu acte de violență împotriva persoanelor sau bunurilor acestora, de natură să tulbure ordinea și liniștea publică sau să provoace indignarea cetățenilor ori să lezeze demnitatea și onoarea acestora.",
-      "articol_prevedere": "Art. 2 pct. 1)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. b)",
+      "articol_prevedere": "Art. 2, pct. 1)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. b)",
       "amenda_min": 200,
       "amenda_max": 1000,
       "permite_jumatate": true,
       "suma_jumatate": 100,
-      "sanciuni_agravare": [
-        {
-          "tip": "agravare_locatie",
-          "articol": "Art. 3 alin. (2)",
-          "conditii": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane defavorizate",
-          "amenda_min": 1000,
-          "amenda_max": 3000
-        },
-        {
-          "tip": "repetare_24h",
-          "articol": "Art. 5 lit. a)",
-          "conditii": "Repetarea în interval de 24 de ore de la constatarea primei fapte",
-          "amenda_min": 500,
-          "amenda_max": 1500,
-          "alternativa": "50-100 de ore de activități în folosul comunității"
-        }
-      ],
+      "agravare": {
+        "articol": "Art. 3, alin. (2)",
+        "conditii": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane defavorizate",
+        "amenda_min": 1000,
+        "amenda_max": 3000
+      },
+      "repetare_24h": {
+        "articol": "Art. 5, lit. a)",
+        "text": "Repetarea în interval de 24 de ore de la constatarea primei fapte se sancționează cu amendă de la 500 lei la 1.500 lei sau prestarea a 50-100 de ore de activități în folosul comunității"
+      },
       "tags": ["obscen", "injurii", "jigniri", "vulgar", "amenințări", "violență", "public", "demnitate", "onoare", "ordine publică"]
     },
     {
-      "id": "L61_1991_p2",
+      "id": "L61-2-2",
       "punct": "2",
       "descriere": "Constituirea unui grup format din trei sau mai multe persoane, în scopul de a săvârși acțiuni ilicite, contrare ordinii și liniștii publice și normelor de conviețuire socială, precum și actele de încurajare sau sprijinire, sub orice formă, a unor astfel de grupuri de persoane, care incită la dezordine socială.",
-      "articol_prevedere": "Art. 2 pct. 2)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. c)",
+      "articol_prevedere": "Art. 2, pct. 2)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "sanciuni_agravare": [
-        {
-          "tip": "agravare_locatie",
-          "articol": "Art. 3 alin. (2)",
-          "conditii": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane defavorizate",
-          "amenda_min": 1000,
-          "amenda_max": 3000
-        }
-      ],
+      "agravare": {
+        "articol": "Art. 3, alin. (2)",
+        "conditii": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane defavorizate",
+        "amenda_min": 1000,
+        "amenda_max": 3000
+      },
       "tags": ["grup", "trei persoane", "acțiuni ilicite", "dezordine socială", "incitare", "ordine publică", "conviețuire socială"]
     },
     {
-      "id": "L61_1991_p3",
+      "id": "L61-2-3",
       "punct": "3",
       "descriere": "Apelarea, în mod repetat, la mila publicului, de către o persoană aptă de muncă, precum și determinarea unei persoane la săvârșirea unor astfel de fapte.",
-      "articol_prevedere": "Art. 2 pct. 3)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. a)",
+      "articol_prevedere": "Art. 2, pct. 3)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
@@ -95,92 +69,78 @@
       "tags": ["cerșetorie", "mila publicului", "persoană aptă de muncă", "determinare", "repetat"]
     },
     {
-      "id": "L61_1991_p4",
+      "id": "L61-2-4",
       "punct": "4",
       "descriere": "Aruncarea asupra unei persoane, construcții sau asupra unui mijloc de transport cu obiecte de orice fel, cu substanțe inflamante, iritant-lacrimogene sau cu efect paralizant, corosive sau care murdăresc, dacă nu s-au produs vătămări ale integrității corporale sau sănătății, ori pagube materiale.",
-      "articol_prevedere": "Art. 2 pct. 4)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. a)",
+      "articol_prevedere": "Art. 2, pct. 4)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "sanciuni_agravare": [
-        {
-          "tip": "agravare_locatie",
-          "articol": "Art. 3 alin. (2)",
-          "conditii": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane defavorizate",
-          "amenda_min": 1000,
-          "amenda_max": 3000
-        }
-      ],
-      "masuri_complementare": [
-        {
-          "tip": "confiscare",
-          "articol": "Art. 4 alin. (1)",
-          "descriere": "Bunurile care au servit la săvârșirea contravenției, dacă sunt ale contravenientului"
-        }
-      ],
-      "tags": ["aruncare", "obiecte", "substanțe inflamante", "iritant-lacrimogene", "corosive", "persoană", "construcție", "transport", "vătămare"]
+      "agravare": {
+        "articol": "Art. 3, alin. (2)",
+        "conditii": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane defavorizate",
+        "amenda_min": 1000,
+        "amenda_max": 3000
+      },
+      "confiscare": {
+        "articol": "Art. 4, alin. (1)",
+        "text": "Bunurile care au servit la săvârșirea contravenției, dacă sunt ale contravenientului"
+      },
+      "tags": ["aruncare", "obiecte", "substanțe inflamante", "iritant-lacrimogene", "corosive", "persoană", "construcție", "transport"]
     },
     {
-      "id": "L61_1991_p5",
+      "id": "L61-2-5",
       "punct": "5",
       "descriere": "Organizarea, îngăduirea sau participarea la jocuri de noroc - altele decât cele autorizate potrivit legii - de natură să lezeze bunele moravuri.",
-      "articol_prevedere": "Art. 2 pct. 5)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. c)",
+      "articol_prevedere": "Art. 2, pct. 5)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "masuri_complementare": [
-        {
-          "tip": "confiscare",
-          "articol": "Art. 4 alin. (1)",
-          "descriere": "Bunurile care au servit la săvârșirea contravenției, dacă sunt ale contravenientului, precum și bunurile dobândite prin săvârșirea contravenției"
-        }
-      ],
-      "tags": ["jocuri de noroc", "organizare", "participare", "neautorizat", "bune moravuri", "pariuri", "căți"]
+      "confiscare": {
+        "articol": "Art. 4, alin. (1)",
+        "text": "Bunurile care au servit la săvârșirea contravenției, dacă sunt ale contravenientului, precum și bunurile dobândite prin săvârșirea contravențiilor, dacă nu sunt restituite persoanei vătămate"
+      },
+      "tags": ["jocuri de noroc", "organizare", "participare", "neautorizat", "bune moravuri", "pariuri"]
     },
     {
-      "id": "L61_1991_p6",
+      "id": "L61-2-6",
       "punct": "6",
       "descriere": "Atragerea de persoane, sub orice formă, săvârșită în localuri, parcuri, pe străzi sau în alte locuri publice în vederea practicării de raporturi sexuale cu acestea spre a obține foloase materiale, precum și îndemnul sau determinarea, în același scop, a unei persoane la săvârșirea unor astfel de fapte.",
-      "articol_prevedere": "Art. 2 pct. 6)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. c)",
+      "articol_prevedere": "Art. 2, pct. 6)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": false,
       "suma_jumatate": null,
-      "motiv_interdictie_jumatate": "Exceptat expres de la plata la jumătate conform Art. 6^1",
+      "motiv_exceptie": "Exceptat de la plata la jumătate conform Art. 6^1",
       "tags": ["prostituție", "raporturi sexuale", "foloase materiale", "atragere persoane", "local public", "parc", "stradă"]
     },
     {
-      "id": "L61_1991_p7",
+      "id": "L61-2-7",
       "punct": "7",
       "descriere": "Acceptarea sau tolerarea practicării faptelor prevăzute la pct. 6) în hoteluri, moteluri, campinguri, baruri, restaurante, cluburi, pensiuni, discoteci sau în anexele acestora de către patronii sau administratorii ori conducătorii localurilor respective.",
-      "articol_prevedere": "Art. 2 pct. 7)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. c)",
+      "articol_prevedere": "Art. 2, pct. 7)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "masuri_complementare": [
-        {
-          "tip": "suspendare",
-          "articol": "Art. 3 alin. (3)",
-          "descriere": "Suspendarea activității localului public",
-          "durata_min_zile": 10,
-          "durata_max_zile": 30
-        }
-      ],
-      "tags": ["prostituție", "hotel", "motel", "camping", "bar", "restaurant", "club", "pensiune", "discotecă", "patron", "administrator", "tolerare", "suspendare"]
+      "masura_complementara": {
+        "articol": "Art. 3, alin. (3)",
+        "text": "Suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
+      },
+      "tags": ["prostituție", "hotel", "motel", "camping", "bar", "restaurant", "club", "pensiune", "discotecă", "patron", "administrator", "tolerare"]
     },
     {
-      "id": "L61_1991_p8",
+      "id": "L61-2-8",
       "punct": "8",
       "descriere": "Comercializarea armelor cu aer comprimat sau cu gaze comprimate, a arbaletelor, arcurilor pentru tir, pescuit sau vânătoare în alte locuri decât în magazinele autorizate să efectueze operațiuni cu arme de foc și muniții.",
-      "articol_prevedere": "Art. 2 pct. 8)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. c)",
+      "articol_prevedere": "Art. 2, pct. 8)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
@@ -188,11 +148,11 @@
       "tags": ["arme", "aer comprimat", "gaze comprimate", "arbaletă", "arc", "tir", "pescuit", "vânătoare", "comercializare", "magazin autorizat"]
     },
     {
-      "id": "L61_1991_p9",
+      "id": "L61-2-9",
       "punct": "9",
       "descriere": "Vânzarea armelor cu aer comprimat sau cu gaze comprimate, a arbaletelor, arcurilor pentru tir, pescuit sau vânătoare persoanelor care nu au împlinit vârsta de 18 ani, persoanelor care au săvârșit acte de violență menționate în cazierul judiciar, precum și persoanelor care suferă de boli neuropsihice menționate în certificatul de sănătate eliberat de policlinica teritorială.",
-      "articol_prevedere": "Art. 2 pct. 9)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. c)",
+      "articol_prevedere": "Art. 2, pct. 9)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
@@ -200,11 +160,11 @@
       "tags": ["arme", "vânzare", "minor", "18 ani", "cazier judiciar", "violență", "boli neuropsihice", "certificat medical"]
     },
     {
-      "id": "L61_1991_p10",
+      "id": "L61-2-10",
       "punct": "10",
-      "descriere": "Nemenținerea evidenței de către magazinele autorizate a cumpărătorilor armelor prevăzute la pct. 8) în registre speciale, vizate de organele de poliție, în care vor fi menționate datele de stare civilă, domiciliul, seria și numărul actului de identitate ale cumpărătorului, numărul cazierului judiciar, numărul certificatului de sănătate neuropsihică, cu denumirea policlinicii teritoriale, precum și caracteristicile armei vândute.",
-      "articol_prevedere": "Art. 2 pct. 10)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. c)",
+      "descriere": "Menținerea evidenței de către magazinele autorizate a cumpărătorilor armelor prevăzute la pct. 8) în registre speciale, vizate de organele de poliție, în care vor fi menționate datele de stare civilă, domiciliul, seria și numărul actului de identitate ale cumpărătorului, numărul cazierului judiciar, numărul certificatului de sănătate neuropsihică, cu denumirea policlinicii teritoriale, precum și caracteristicile armei vândute. Dacă cumpărătorul este titular al unui permis de armă, este scutit de obligația de a prezenta cazierul judiciar și certificatul de sănătate neuropsihică, iar dacă cumpărătorul este titular al unui permis de conducere, acesta este obligat să prezinte numai cazierul judiciar.",
+      "articol_prevedere": "Art. 2, pct. 10)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
@@ -212,11 +172,11 @@
       "tags": ["arme", "evidență", "registru", "cumpărători", "cazier judiciar", "certificat medical", "poliție"]
     },
     {
-      "id": "L61_1991_p11",
+      "id": "L61-2-11",
       "punct": "11",
       "descriere": "Alarmarea publicului, a organelor specializate pentru a interveni în caz de pericol ori a organelor de menținere a ordinii publice, prin darea semnalelor de pericol sau, după caz, prin solicitarea intervenției la fața locului, fără motiv întemeiat.",
-      "articol_prevedere": "Art. 2 pct. 11)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. a)",
+      "articol_prevedere": "Art. 2, pct. 11)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
@@ -224,11 +184,11 @@
       "tags": ["alarmă", "semnal pericol", "fals", "intervenție", "public", "organe specializate", "ordine publică"]
     },
     {
-      "id": "L61_1991_p12",
+      "id": "L61-2-12",
       "punct": "12",
       "descriere": "Întreruperea curentului electric sau stingerea, fără drept, a lămpilor ce servesc la iluminatul public pe străzi, în parcuri, săli de spectacol sau în alte locuri publice.",
-      "articol_prevedere": "Art. 2 pct. 12)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. b)",
+      "articol_prevedere": "Art. 2, pct. 12)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. b)",
       "amenda_min": 200,
       "amenda_max": 1000,
       "permite_jumatate": true,
@@ -236,11 +196,11 @@
       "tags": ["curent electric", "iluminat public", "lămpi", "stradă", "parc", "sală spectacol", "întrerupere", "stingere"]
     },
     {
-      "id": "L61_1991_p13",
+      "id": "L61-2-13",
       "punct": "13",
-      "descriere": "Pătrunderea, cu încălcarea normelor legale de acces, în sediile autorităților publice centrale și locale, instituțiilor publice, instituțiilor de învățământ și spațiilor aparținând acestora, indiferent de destinația lor, regiilor autonome, societăților comerciale, partidelor sau altor formațiuni politice, organizațiilor guvernamentale și neguvernamentale, ambasadelor și reprezentanțelor altor state ori ale organizațiilor internaționale de pe teritoriul României, precum și ocuparea fără drept a terenurilor aparținând ambasadelor și reprezentanțelor sau a terenurilor situate în perimetrul acestora ori refuzul de a le părăsi la cererea organelor de ordine.",
-      "articol_prevedere": "Art. 2 pct. 13)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. c)",
+      "descriere": "Pătrunderea, cu încălcarea normelor legale de acces, în sediile autorităților publice centrale și locale, instituțiilor publice, instituțiilor de învățământ și spațiilor aparținând acestora, indiferent de destinația lor, regiilor autonome, societăților reglementate de Legea nr. 31/1990, partidelor sau altor formațiuni politice, organizațiilor guvernamentale și neguvernamentale, ambasadelor și reprezentanțelor altor state ori ale organizațiilor internaționale de pe teritoriul României, precum și ocuparea fără drept a terenurilor aparținând ambasadelor și reprezentanțelor sau a terenurilor situate în perimetrul acestora ori refuzul de a le părăsi la cererea organelor de ordine.",
+      "articol_prevedere": "Art. 2, pct. 13)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
@@ -248,40 +208,36 @@
       "tags": ["pătrundere", "acces neautorizat", "autoritate publică", "instituție publică", "învățământ", "ambasada", "ONG", "partid politic"]
     },
     {
-      "id": "L61_1991_p14",
+      "id": "L61-2-14",
       "punct": "14",
       "descriere": "Imprimarea de însemne, înscrieri, desene sau imagini, fără drept, prin orice mijloace, pe pereții clădirilor, pe garduri sau pe obiecte de folosință comună aflate în locuri publice, precum și deteriorarea prin orice mijloc a acestora.",
-      "articol_prevedere": "Art. 2 pct. 14)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. f)",
+      "articol_prevedere": "Art. 2, pct. 14)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. f)",
       "amenda_min": 3000,
       "amenda_max": 6000,
       "permite_jumatate": true,
       "suma_jumatate": 1500,
-      "masuri_complementare": [
-        {
-          "tip": "confiscare",
-          "articol": "Art. 4 alin. (1)",
-          "descriere": "Bunurile care au servit la săvârșirea contravenției, dacă sunt ale contravenientului"
-        },
-        {
-          "tip": "obligare_remediere",
-          "articol": "Art. 3 alin. (6^1)",
-          "descriere": "Obligarea înlăturării înscrierilor, însemnelor sau desenelor, cu redarea stării inițiale a bunului",
-          "termen_executare": "15 zile calendaristice",
-          "executare_silita": {
-            "articol": "Art. 3 alin. (6^2)",
-            "descriere": "În caz de neîndeplinire, autoritatea locală poate reabilita bunurile din fonduri proprii, având drept de regres împotriva contravenientului"
-          }
-        }
-      ],
+      "confiscare": {
+        "articol": "Art. 4, alin. (1)",
+        "text": "Bunurile care au servit la săvârșirea contravenției, dacă sunt ale contravenientului"
+      },
+      "masura_complementara": {
+        "articol": "Art. 3, alin. (6^1)",
+        "text": "Obligarea înlăturării de către contravenient a înscrierilor, însemnelor sau desenelor, cu redarea stării inițiale a bunului scris, pictat, desenat sau deteriorat ori cu refacerea acestuia",
+        "termen": "15 zile calendaristice de la data la care devine executorie"
+      },
+      "executare_silita": {
+        "articol": "Art. 3, alin. (6^2)",
+        "text": "În cazul neîndeplinirii obligației, autoritatea administrației publice locale pe a cărei rază teritorială s-a săvârșit contravenția poate să reabiliteze din fonduri proprii bunurile afectate, având drept la acțiune în regres împotriva contravenientului"
+      },
       "tags": ["graffiti", "desene", "însemne", "înscrieri", "imagini", "pereți", "clădire", "gard", "deteriorare", "vandalism", "loc public"]
     },
     {
-      "id": "L61_1991_p14_1",
+      "id": "L61-2-14-1",
       "punct": "14^1",
       "descriere": "Dezlipirea sau distrugerea, fără drept, a reclamelor, anunțurilor și afișelor legal amplasate în locuri anume destinate.",
-      "articol_prevedere": "Art. 2 pct. 14^1)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. a)",
+      "articol_prevedere": "Art. 2, pct. 14^1)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
@@ -289,11 +245,11 @@
       "tags": ["reclamă", "anunț", "afiș", "dezlipire", "distrugere", "publicitate", "loc destinat"]
     },
     {
-      "id": "L61_1991_p15",
+      "id": "L61-2-15",
       "punct": "15",
       "descriere": "Nerespectarea măsurilor de ordine sau a regulilor stabilite pentru buna desfășurare a manifestărilor cultural-sportive.",
-      "articol_prevedere": "Art. 2 pct. 15)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. c)",
+      "articol_prevedere": "Art. 2, pct. 15)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
@@ -301,11 +257,11 @@
       "tags": ["manifestare culturală", "manifestare sportivă", "măsuri ordine", "reguli", "stadioane", "eveniment"]
     },
     {
-      "id": "L61_1991_p16",
+      "id": "L61-2-16",
       "punct": "16",
       "descriere": "Deteriorarea, ridicarea sau mutarea, fără drept, a semnelor sau indicatoarelor de orientare turistică și rutieră ori a celor care semnalează existența unui pericol pentru viața persoanelor.",
-      "articol_prevedere": "Art. 2 pct. 16)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. b)",
+      "articol_prevedere": "Art. 2, pct. 16)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. b)",
       "amenda_min": 200,
       "amenda_max": 1000,
       "permite_jumatate": true,
@@ -313,11 +269,11 @@
       "tags": ["indicator", "semn", "orientare turistică", "rutier", "pericol", "deteriorare", "ridicare", "mutare", "trafic"]
     },
     {
-      "id": "L61_1991_p17",
+      "id": "L61-2-17",
       "punct": "17",
       "descriere": "Lăsarea în libertate ori fără supraveghere a animalelor care pot prezenta pericol pentru persoane sau bunuri.",
-      "articol_prevedere": "Art. 2 pct. 17)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. a)",
+      "articol_prevedere": "Art. 2, pct. 17)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
@@ -325,11 +281,11 @@
       "tags": ["animale", "pericol", "supraveghere", "libertate", "persoane", "bunuri", "câini"]
     },
     {
-      "id": "L61_1991_p18",
+      "id": "L61-2-18",
       "punct": "18",
       "descriere": "Refuzul consumatorului de a părăsi un local public în care se consumă băuturi alcoolice, după ora de închidere sau la cererea îndreptățită a unui salariat al localului.",
-      "articol_prevedere": "Art. 2 pct. 18)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. a)",
+      "articol_prevedere": "Art. 2, pct. 18)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
@@ -337,307 +293,259 @@
       "tags": ["local public", "refuz", "părăsire", "băuturi alcoolice", "închidere", "consumator", "salariat"]
     },
     {
-      "id": "L61_1991_p19",
+      "id": "L61-2-19",
       "punct": "19",
       "descriere": "Servirea consumatorilor cu băuturi alcoolice în localurile publice și în afara acestora, în zilele și la orele când, potrivit dispozițiilor legale, acestea sunt închise sau este interzisă desfacerea băuturilor alcoolice ori după ora de închidere stabilită prin autorizația de funcționare.",
-      "articol_prevedere": "Art. 2 pct. 19)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. c)",
+      "articol_prevedere": "Art. 2, pct. 19)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "sanciuni_agravare": [
-        {
-          "tip": "repetare",
-          "articol": "Art. 3 alin. (4)",
-          "conditii": "În caz de repetare a contravenției",
-          "masura": "Suspendarea activității localului public",
-          "durata_min_zile": 10,
-          "durata_max_zile": 30
-        }
-      ],
-      "tags": ["băuturi alcoolice", "servire", "local public", "program", "închidere", "autorizație", "interdicție", "suspendare"]
+      "repetare": {
+        "articol": "Art. 3, alin. (4)",
+        "text": "În cazul repetării contravenției se dispune măsura suspendării activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
+      },
+      "tags": ["băuturi alcoolice", "servire", "local public", "program", "închidere", "autorizație", "interdicție"]
     },
     {
-      "id": "L61_1991_p20",
+      "id": "L61-2-20",
       "punct": "20",
       "descriere": "Servirea și consumul băuturilor alcoolice în localuri publice și în afara acestora pe timpul desfășurării adunărilor publice, grevelor, manifestărilor sportive, cu excepția spațiilor în care sunt organizate evenimente pentru celebrarea revelionului, zilelor unităților administrativ-teritoriale, ale categoriilor socio-profesionale sau pentru promovarea unor produse alimentare sau nealimentare, precum și a perimetrelor special amenajate și delimitate unde se desfășoară manifestări cultural-artistice cu acces controlat.",
-      "articol_prevedere": "Art. 2 pct. 20)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. c)",
+      "articol_prevedere": "Art. 2, pct. 20)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "masuri_complementare": [
-        {
-          "tip": "suspendare",
-          "articol": "Art. 3 alin. (3)",
-          "descriere": "Suspendarea activității localului public",
-          "durata_min_zile": 10,
-          "durata_max_zile": 30
-        }
-      ],
-      "tags": ["băuturi alcoolice", "adunare publică", "grevă", "manifestare sportivă", "revelion", "eveniment", "local public", "suspendare"]
+      "masura_complementara": {
+        "articol": "Art. 3, alin. (3)",
+        "text": "Suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
+      },
+      "tags": ["băuturi alcoolice", "adunare publică", "grevă", "manifestare sportivă", "revelion", "eveniment", "local public"]
     },
     {
-      "id": "L61_1991_p21",
+      "id": "L61-2-21",
       "punct": "21",
       "descriere": "Desfacerea, comercializarea și consumul băuturilor alcoolice în locurile publice, la intrarea în curțile și în interioarele lor, cum sunt: spitale și alte unități sanitare, centre de plasament al minorilor, unități și instituții de învățământ și educație, lăcașuri de cult și instituții religioase aferente cultelor care interzic consumul băuturilor alcoolice în practicarea religiei respective, pe trotuarele sau aleile de acces ale acestora.",
-      "articol_prevedere": "Art. 2 pct. 21)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. e)",
+      "articol_prevedere": "Art. 2, pct. 21)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. e)",
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "sanciuni_agravare": [
-        {
-          "tip": "repetare",
-          "articol": "Art. 3 alin. (4)",
-          "conditii": "În caz de repetare a contravenției",
-          "masura": "Suspendarea activității localului public",
-          "durata_min_zile": 10,
-          "durata_max_zile": 30
-        }
-      ],
+      "repetare": {
+        "articol": "Art. 3, alin. (4)",
+        "text": "În cazul repetării contravenției se dispune măsura suspendării activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
+      },
       "tags": ["băuturi alcoolice", "spital", "unitate sanitară", "centru plasament", "minor", "învățământ", "biserică", "lăcaș cult", "trotuar"]
     },
     {
-      "id": "L61_1991_p22",
+      "id": "L61-2-22",
       "punct": "22",
       "descriere": "Servirea cu băuturi alcoolice, în localurile publice, a consumatorilor aflați în vădită stare de ebrietate, precum și a minorilor.",
-      "articol_prevedere": "Art. 2 pct. 22)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. g)",
+      "articol_prevedere": "Art. 2, pct. 22)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. g)",
       "amenda_min": 5000,
       "amenda_max": 20000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "sanciuni_agravare": [
-        {
-          "tip": "agravare_locatie",
-          "articol": "Art. 3 alin. (2^1)",
-          "conditii": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane",
+      "masura_complementara": {
+        "articol": "Art. 3, alin. (3)",
+        "text": "Suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
+      },
+      "repetare": {
+        "articol": "Art. 3, alin. (4)",
+        "text": "În cazul repetării contravenției se dispune măsura suspendării activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
+      },
+      "agravare": {
+        "articol": "Art. 3, alin. (2^1)",
+        "conditii": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane",
+        "amenda_min": 10000,
+        "amenda_max": 30000
+      },
+      "obligatia_verificare_varsta": {
+        "articol": "Art. 2^1, alin. (1)",
+        "text": "În vederea verificării împlinirii vârstei de 18 ani a consumatorilor care solicită servirea băuturilor alcoolice, membrii personalului localurilor publice au obligația de a solicita consultarea actelor de identitate ale consumatorilor",
+        "santionare_nerespectare": {
+          "articol": "Art. 2^1, alin. (2)",
           "amenda_min": 10000,
           "amenda_max": 30000
-        },
-        {
-          "tip": "repetare",
-          "articol": "Art. 3 alin. (4)",
-          "conditii": "În caz de repetare a contravenției",
-          "masura": "Suspendarea activității localului public",
-          "durata_min_zile": 10,
-          "durata_max_zile": 30
         }
-      ],
-      "masuri_complementare": [
-        {
-          "tip": "suspendare",
-          "articol": "Art. 3 alin. (3)",
-          "descriere": "Suspendarea activității localului public",
-          "durata_min_zile": 10,
-          "durata_max_zile": 30
-        }
-      ],
-      "tags": ["băuturi alcoolice", "ebrietate", "minor", "servire", "local public", "beție", "suspendare"]
+      },
+      "tags": ["băuturi alcoolice", "ebrietate", "minor", "servire", "local public", "beție"]
     },
     {
-      "id": "L61_1991_p23",
+      "id": "L61-2-23",
       "punct": "23",
-      "descriere": "Consumul de băuturi alcoolice în următoarele locuri publice: drumuri publice, parcuri, stadioane și terenuri sportive, instituții culturale, săli de spectacole, instituții sau unități economice, toate mijloacele de transport în comun, autogări, gări și aeroporturi, de stat și private, sau alte locuri prevăzute de lege. În locurile publice enumerate se interzice cu desăvârșire consumul de băuturi alcoolice de către persoanele care nu au împlinit vârsta de 18 ani.",
-      "articol_prevedere": "Art. 2 pct. 23)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. e)",
+      "descriere": "Consumul de băuturi alcoolice în următoarele locuri publice: drumuri publice, parcuri, stadioane și terenuri sportive, instituții culturale, săli de spectacole, instituții sau unități economice, toate mijloacele de transport în comun, autogări, gări și aeroporturi, de stat și private, sau alte locuri prevăzute de lege. În incinta acestor locuri publice se pot consuma băuturi alcoolice prin delimitarea unor spații special amenajate pentru consumarea băuturilor alcoolice, prin hotărârea conducerilor locurilor publice respective. Sunt exceptate localurile de alimentație publică și turism, cum sunt: restaurante, baruri și discoteci. În locurile publice enumerate se interzice cu desăvârșire consumul de băuturi alcoolice de către persoanele care nu au împlinit vârsta de 18 ani.",
+      "articol_prevedere": "Art. 2, pct. 23)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. e)",
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "exceptii": "Localurile de alimentație publică și turism (restaurante, baruri, discoteci) și spații special amenajate prin hotărârea conducerii locurilor publice",
       "tags": ["băuturi alcoolice", "consum", "drum public", "parc", "stadion", "transport în comun", "autogară", "gară", "aeroport", "minor", "18 ani"]
     },
     {
-      "id": "L61_1991_p23_1",
+      "id": "L61-2-23-1",
       "punct": "23^1",
       "descriere": "Comercializarea sau oferirea cu titlu gratuit a băuturilor alcoolice către minori de către unitățile autorizate să comercializeze băuturile alcoolice.",
-      "articol_prevedere": "Art. 2 pct. 23^1)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. g)",
+      "articol_prevedere": "Art. 2, pct. 23^1)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. g)",
       "amenda_min": 5000,
       "amenda_max": 20000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "sanciuni_agravare": [
-        {
-          "tip": "agravare_locatie",
-          "articol": "Art. 3 alin. (2^1)",
-          "conditii": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane",
+      "masura_complementara": {
+        "articol": "Art. 3, alin. (3)",
+        "text": "Suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
+      },
+      "repetare": {
+        "articol": "Art. 3, alin. (4)",
+        "text": "În cazul repetării contravenției se dispune măsura suspendării activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
+      },
+      "agravare": {
+        "articol": "Art. 3, alin. (2^1)",
+        "conditii": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane",
+        "amenda_min": 10000,
+        "amenda_max": 30000
+      },
+      "sesizare_speciala": {
+        "articol": "Art. 3, alin. (7)",
+        "text": "Sesizarea se poate face și de către organele de ocrotire socială"
+      },
+      "obligatia_verificare_varsta": {
+        "articol": "Art. 2^1, alin. (1)",
+        "text": "În vederea verificării împlinirii vârstei de 18 ani a cumpărătorilor care solicită vânzarea băuturilor alcoolice, vânzătorii din unitățile comerciale au obligația de a solicita consultarea actelor de identitate ale consumatorilor",
+        "santionare_nerespectare": {
+          "articol": "Art. 2^1, alin. (2)",
           "amenda_min": 10000,
           "amenda_max": 30000
-        },
-        {
-          "tip": "repetare",
-          "articol": "Art. 3 alin. (4)",
-          "conditii": "În caz de repetare a contravenției",
-          "masura": "Suspendarea activității localului public",
-          "durata_min_zile": 10,
-          "durata_max_zile": 30
         }
-      ],
-      "masuri_complementare": [
-        {
-          "tip": "suspendare",
-          "articol": "Art. 3 alin. (3)",
-          "descriere": "Suspendarea activității localului public",
-          "durata_min_zile": 10,
-          "durata_max_zile": 30
-        }
-      ],
-      "sesizare_speciala": {
-        "articol": "Art. 3 alin. (7)",
-        "organe": ["Organele de ocrotire socială"]
       },
-      "tags": ["băuturi alcoolice", "minor", "comercializare", "ofertă gratuită", "unitate autorizată", "vânzare", "suspendare"]
+      "tags": ["băuturi alcoolice", "minor", "comercializare", "ofertă gratuită", "unitate autorizată", "vânzare"]
     },
     {
-      "id": "L61_1991_p23_2",
+      "id": "L61-2-23-2",
       "punct": "23^2",
       "descriere": "Comercializarea sau oferirea cu titlu gratuit, inclusiv prin automate comerciale, a băuturilor energizante către minori de către unitățile autorizate să comercializeze băuturi energizante. Băuturi energizante sunt băuturile care conțin combinații variate de carbohidrați, vitamine, minerale, cu două sau mai multe substanțe precum: cofeină, taurină, carnitină, guarana, glucuronolactona și alți compuși cu efect de stimulare a sistemului nervos central.",
-      "articol_prevedere": "Art. 2 pct. 23^2)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. g)",
+      "articol_prevedere": "Art. 2, pct. 23^2)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. g)",
       "amenda_min": 5000,
       "amenda_max": 20000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "sanciuni_agravare": [
-        {
-          "tip": "repetare",
-          "articol": "Art. 3 alin. (4)",
-          "conditii": "În caz de repetare a contravenției",
-          "masura": "Suspendarea activității localului public",
-          "durata_min_zile": 10,
-          "durata_max_zile": 30
+      "repetare": {
+        "articol": "Art. 3, alin. (4)",
+        "text": "În cazul repetării contravenției se dispune măsura suspendării activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
+      },
+      "obligatia_verificare_varsta": {
+        "articol": "Art. 2^1, alin. (1)",
+        "text": "În vederea verificării împlinirii vârstei de 18 ani a cumpărătorilor care solicită vânzarea băuturilor energizante, vânzătorii din unitățile comerciale au obligația de a solicita consultarea actelor de identitate ale consumatorilor",
+        "santionare_nerespectare": {
+          "articol": "Art. 2^1, alin. (2)",
+          "amenda_min": 10000,
+          "amenda_max": 30000
         }
-      ],
-      "tags": ["băuturi energizante", "minor", "comercializare", "ofertă gratuită", "automat comercial", "cofeină", "taurină", "guarana", "energizant", "suspendare"]
+      },
+      "tags": ["băuturi energizante", "minor", "comercializare", "ofertă gratuită", "automat comercial", "cofeină", "taurină", "guarana", "energizant"]
     },
     {
-      "id": "L61_1991_p24",
+      "id": "L61-2-24",
       "punct": "24",
       "descriere": "Provocarea ori participarea efectivă la scandal, în locuri sau localuri publice.",
-      "articol_prevedere": "Art. 2 pct. 24)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. b)",
+      "articol_prevedere": "Art. 2, pct. 24)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. b)",
       "amenda_min": 200,
       "amenda_max": 1000,
       "permite_jumatate": true,
       "suma_jumatate": 100,
-      "sanciuni_agravare": [
-        {
-          "tip": "agravare_locatie",
-          "articol": "Art. 3 alin. (2)",
-          "conditii": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane defavorizate",
-          "amenda_min": 1000,
-          "amenda_max": 3000
-        }
-      ],
+      "agravare": {
+        "articol": "Art. 3, alin. (2)",
+        "conditii": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane defavorizate",
+        "amenda_min": 1000,
+        "amenda_max": 3000
+      },
       "tags": ["scandal", "provocare", "participare", "loc public", "local public", "ceartă", "altercație"]
     },
     {
-      "id": "L61_1991_p25",
+      "id": "L61-2-25",
       "punct": "25",
       "descriere": "Tulburarea, fără drept, a liniștii locuitorilor prin producerea de zgomote cu orice aparat sau obiect ori prin strigăte sau larmă.",
-      "articol_prevedere": "Art. 2 pct. 25)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. b)",
+      "articol_prevedere": "Art. 2, pct. 25)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. b)",
       "amenda_min": 200,
       "amenda_max": 1000,
       "permite_jumatate": true,
       "suma_jumatate": 100,
-      "sanciuni_agravare": [
-        {
-          "tip": "repetare_24h",
-          "articol": "Art. 5 lit. a)",
-          "conditii": "Repetarea în interval de 24 de ore de la constatarea primei fapte",
-          "amenda_min": 500,
-          "amenda_max": 1500,
-          "alternativa": "50-100 de ore de activități în folosul comunității"
-        }
-      ],
+      "repetare_24h": {
+        "articol": "Art. 5, lit. a)",
+        "text": "Repetarea în interval de 24 de ore de la constatarea primei fapte se sancționează cu amendă de la 500 lei la 1.500 lei sau prestarea a 50-100 de ore de activități în folosul comunității"
+      },
       "tags": ["zgomot", "liniște", "locuitori", "strigăte", "larmă", "aparat", "obiect", "tulburare", "vecini"]
     },
     {
-      "id": "L61_1991_p26",
+      "id": "L61-2-26",
       "punct": "26",
       "descriere": "Tulburarea liniștii locatarilor între orele 22,00-8,00 și 13,00-14,00 de către orice persoană prin producerea de zgomote, larmă sau prin folosirea oricărui aparat, obiect ori instrument muzical la intensitate mare în localurile sau în sediile persoanelor juridice, în locuințele persoanelor fizice sau în oricare alt loc din imobile cu destinația de locuințe ori situat în imediata vecinătate a acestora.",
-      "articol_prevedere": "Art. 2 pct. 26)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. c)",
+      "articol_prevedere": "Art. 2, pct. 26)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "interval_orar_interzis": ["22:00-08:00", "13:00-14:00"],
-      "sanciuni_agravare": [
-        {
-          "tip": "repetare",
-          "articol": "Art. 3 alin. (4)",
-          "conditii": "În caz de repetare a contravenției",
-          "masura": "Suspendarea activității localului public",
-          "durata_min_zile": 10,
-          "durata_max_zile": 30
-        },
-        {
-          "tip": "repetare_24h",
-          "articol": "Art. 5 lit. b)",
-          "conditii": "Repetarea în interval de 24 de ore de la constatarea primei fapte",
-          "amenda_min": 2000,
-          "amenda_max": 3000,
-          "alternativa": "70-120 de ore de activități în folosul comunității"
-        }
-      ],
+      "repetare": {
+        "articol": "Art. 3, alin. (4)",
+        "text": "În cazul repetării contravenției se dispune măsura suspendării activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
+      },
+      "repetare_24h": {
+        "articol": "Art. 5, lit. b)",
+        "text": "Repetarea în interval de 24 de ore de la constatarea primei fapte se sancționează cu amendă de la 2.000 lei la 3.000 lei sau prestarea a 70-120 de ore de activități în folosul comunității"
+      },
       "tags": ["zgomot", "liniște", "locatari", "22:00", "08:00", "13:00", "14:00", "instrument muzical", "locuință", "vecinătate"]
     },
     {
-      "id": "L61_1991_p27",
+      "id": "L61-2-27",
       "punct": "27",
       "descriere": "Organizarea de petreceri cu caracter privat și utilizarea de aparatură muzicală la intensitate de natură a tulbura liniștea locuitorilor, în corturi, alte amenajări sau în spațiu neacoperit, situate în perimetrul apropiat imobilelor cu destinația de locuințe sau cu caracter social.",
-      "articol_prevedere": "Art. 2 pct. 27)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. d)",
+      "articol_prevedere": "Art. 2, pct. 27)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. d)",
       "amenda_min": 2000,
       "amenda_max": 3000,
       "permite_jumatate": true,
       "suma_jumatate": 1000,
-      "observatie_importanta": "Sintagma 'în mediul urban' a fost declarată neconstituțională prin Decizia CCR nr. 368/2022 - prevederea se aplică în toate mediile (urban și rural)",
-      "sanciuni_agravare": [
-        {
-          "tip": "repetare_24h",
-          "articol": "Art. 5 lit. c)",
-          "conditii": "Repetarea în interval de 24 de ore de la constatarea primei fapte",
-          "amenda_min": 3000,
-          "amenda_max": 6000,
-          "alternativa": "100-150 de ore de activități în folosul comunității"
-        }
-      ],
+      "repetare_24h": {
+        "articol": "Art. 5, lit. c)",
+        "text": "Repetarea în interval de 24 de ore de la constatarea primei fapte se sancționează cu amendă de la 3.000 lei la 6.000 lei sau prestarea a 100-150 de ore de activități în folosul comunității"
+      },
+      "nota_constitutionala": {
+        "text": "Prin DECIZIA CURȚII CONSTITUȚIONALE nr. 368 din 5 iulie 2022 s-a constatat că sintagma „în mediul urban" este neconstituțională. Sintagma și-a încetat efectele juridice începând cu data 13 ianuarie 2023."
+      },
       "tags": ["petrecere", "aparatură muzicală", "intensitate", "liniște", "locuitori", "cort", "amenajare", "locuință", "social"]
     },
     {
-      "id": "L61_1991_p28",
+      "id": "L61-2-28",
       "punct": "28",
       "descriere": "Alungarea din locuința comună a soțului sau soției, a copiilor, precum și a oricărei alte persoane aflate în întreținere.",
-      "articol_prevedere": "Art. 2 pct. 28)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. b)",
+      "articol_prevedere": "Art. 2, pct. 28)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. b)",
       "amenda_min": 200,
       "amenda_max": 1000,
       "permite_jumatate": true,
       "suma_jumatate": 100,
       "procedura_speciala": {
-        "articol": "Art. 4 alin. (2)",
-        "necesita_plangere_parte_vatamata": true,
-        "retragere_plangere": "Înlătură răspunderea făptuitorului",
-        "impacare_parti": "Înlătură răspunderea făptuitorului",
-        "organe_abilitate_restabiliesc_situatia": true
+        "articol": "Art. 4, alin. (2)",
+        "text": "Este necesară plângerea părții vătămate. Retragerea plângerii ori împăcarea părților înlătură răspunderea făptuitorului. Organele constatatoare sunt abilitate să restabilească situația anterioară."
       },
       "tags": ["alungare", "locuință comună", "soț", "soție", "copii", "întreținere", "familie", "evacuare", "împăcare"]
     },
     {
-      "id": "L61_1991_p29",
+      "id": "L61-2-29",
       "punct": "29",
       "descriere": "Nerespectarea măsurilor de ordine luate de organele competente în caz de calamități naturale sau alte pericole publice.",
-      "articol_prevedere": "Art. 2 pct. 29)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. c)",
+      "articol_prevedere": "Art. 2, pct. 29)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
@@ -645,30 +553,27 @@
       "tags": ["calamitate naturală", "pericol public", "măsuri ordine", "nerespectare", "situație urgență", "dezastre"]
     },
     {
-      "id": "L61_1991_p30",
+      "id": "L61-2-30",
       "punct": "30",
       "descriere": "Nerespectarea măsurii de suspendare, dispusă conform dispozițiilor art. 3 alin. (3) și (4).",
-      "articol_prevedere": "Art. 2 pct. 30)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. d)",
+      "articol_prevedere": "Art. 2, pct. 30)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. d)",
       "amenda_min": 2000,
       "amenda_max": 3000,
       "permite_jumatate": true,
       "suma_jumatate": 1000,
-      "masuri_complementare": [
-        {
-          "tip": "retragere_autorizatie",
-          "articol": "Art. 3 alin. (5)",
-          "descriere": "Retragerea autorizației de funcționare a localului public"
-        }
-      ],
+      "masura_complementara": {
+        "articol": "Art. 3, alin. (5)",
+        "text": "Se dispune retragerea autorizației de funcționare a localului public"
+      },
       "tags": ["suspendare", "nerespectare", "local public", "autorizație funcționare", "retragere", "închidere"]
     },
     {
-      "id": "L61_1991_p31",
+      "id": "L61-2-31",
       "punct": "31",
       "descriere": "Refuzul unei persoane de a furniza date pentru stabilirea identității sale sau de a se prezenta la sediul poliției, la cererea ori la invitația justificată a organelor de urmărire penală sau a organelor de ordine publică, aflate în exercitarea atribuțiilor de serviciu.",
-      "articol_prevedere": "Art. 2 pct. 31)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. c)",
+      "articol_prevedere": "Art. 2, pct. 31)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
@@ -676,59 +581,59 @@
       "tags": ["identificare", "refuz", "date identitate", "poliție", "urmărire penală", "ordine publică", "prezentare"]
     },
     {
-      "id": "L61_1991_p32",
+      "id": "L61-2-32",
       "punct": "32",
       "descriere": "Îndemnul sub orice formă al minorilor la săvârșirea de contravenții.",
-      "articol_prevedere": "Art. 2 pct. 32)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. c)",
+      "articol_prevedere": "Art. 2, pct. 32)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
       "sesizare_speciala": {
-        "articol": "Art. 3 alin. (7)",
-        "organe": ["Organele de ocrotire socială"]
+        "articol": "Art. 3, alin. (7)",
+        "text": "Sesizarea se poate face și de către organele de ocrotire socială"
       },
       "tags": ["minor", "îndemn", "contravenție", "incitare", "determinare", "protecție minor", "ocrotire socială"]
     },
     {
-      "id": "L61_1991_p33",
+      "id": "L61-2-33",
       "punct": "33",
       "descriere": "Neluarea de către părinți sau de către persoanele cărora li s-a încredințat spre creștere și educare un minor în vârstă de până la 16 ani sau care au în îngrijire un alienat ori debil mintal a măsurilor necesare pentru a-l împiedica de la fapte de vagabondaj, cerșetorie sau prostituție.",
-      "articol_prevedere": "Art. 2 pct. 33)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. a)",
+      "articol_prevedere": "Art. 2, pct. 33)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
       "sesizare_speciala": {
-        "articol": "Art. 3 alin. (7)",
-        "organe": ["Organele de ocrotire socială"]
+        "articol": "Art. 3, alin. (7)",
+        "text": "Sesizarea se poate face și de către organele de ocrotire socială"
       },
       "tags": ["părinți", "minor", "16 ani", "creștere", "educare", "vagabondaj", "cerșetorie", "prostituție", "alienat mintal", "ocrotire socială"]
     },
     {
-      "id": "L61_1991_p34",
+      "id": "L61-2-34",
       "punct": "34",
       "descriere": "Lăsarea fără supraveghere a unui bolnav mintal periculos, de către persoanele care au îndatorirea de a-l îngriji sau de a-l păzi, precum și neanunțarea organelor sanitare sau ale poliției în caz de scăpare de sub pază sau supraveghere.",
-      "articol_prevedere": "Art. 2 pct. 34)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. a)",
+      "articol_prevedere": "Art. 2, pct. 34)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
       "sesizare_speciala": {
-        "articol": "Art. 3 alin. (7)",
-        "organe": ["Organele de ocrotire socială"]
+        "articol": "Art. 3, alin. (7)",
+        "text": "Sesizarea se poate face și de către organele de ocrotire socială"
       },
       "tags": ["bolnav mintal", "periculos", "supraveghere", "pază", "îngrijire", "scăpare", "anunțare", "organe sanitare", "poliție"]
     },
     {
-      "id": "L61_1991_p35",
+      "id": "L61-2-35",
       "punct": "35",
       "descriere": "Neasigurarea de către responsabili sau patroni, prin personal propriu ori specializat, a ordinii publice în localuri publice, hoteluri, moteluri, campinguri, cluburi, pensiuni, discoteci și în alte locuri de distracție sau de agrement pe care le conduc, precum și refuzul acestora de a acorda sprijin organelor în drept pentru restabilirea în locurile respective a ordinii publice ori pentru luarea măsurilor împotriva persoanelor care au încălcat legea.",
-      "articol_prevedere": "Art. 2 pct. 35)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. f)",
+      "articol_prevedere": "Art. 2, pct. 35)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. f)",
       "amenda_min": 3000,
       "amenda_max": 6000,
       "permite_jumatate": true,
@@ -736,11 +641,11 @@
       "tags": ["ordine publică", "local public", "hotel", "motel", "camping", "club", "pensiune", "discotecă", "patron", "responsabil", "personal", "refuz", "sprijin"]
     },
     {
-      "id": "L61_1991_p36",
+      "id": "L61-2-36",
       "punct": "36",
       "descriere": "Împiedicarea, sub orice formă, a organelor însărcinate cu menținerea ordinii publice de a-și îndeplini obligațiile de serviciu privind legitimarea sau conducerea unei persoane la sediul poliției ori al altui organ de stat sau de a lua măsurile necesare pentru menținerea ori restabilirea ordinii publice.",
-      "articol_prevedere": "Art. 2 pct. 36)",
-      "articol_sanctiune": "Art. 3 alin. (1) lit. f)",
+      "articol_prevedere": "Art. 2, pct. 36)",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. f)",
       "amenda_min": 3000,
       "amenda_max": 6000,
       "permite_jumatate": true,
@@ -748,40 +653,28 @@
       "tags": ["împiedicare", "organe ordine publică", "legitimare", "conducere", "poliție", "obstrucție", "serviciu", "menținere ordine"]
     }
   ],
-  "obligatii_verificare_varsta": {
-    "articol": "Art. 2^1",
-    "descriere": "Membrii personalului localurilor publice și vânzătorii din unitățile comerciale au obligația de a solicita consultarea actelor de identitate ale consumatorilor pentru verificarea împlinirii vârstei de 18 ani în cazul vânzării/servirii de băuturi alcoolice, băuturi energizante și produse din tutun.",
-    "sanctiune_nerespectare": {
-      "amenda_min": 10000,
-      "amenda_max": 30000
-    }
-  },
-  "procedura_contencioasa": {
+  "procedura": {
     "plangere": {
       "articol": "Art. 7",
-      "termen_zile": 15,
-      "calcul_termen": "De la comunicarea procesului-verbal"
+      "text": "Împotriva procesului-verbal de constatare a contravențiilor prin care s-a aplicat sancțiunea amenzii se poate face plângere în termen de 15 zile de la comunicarea acestuia."
     },
     "solutionare": {
-      "articol": "Art. 8 alin. (1)",
-      "instanta": "Judecătorie"
+      "articol": "Art. 8, alin. (1)",
+      "text": "Plângerea împotriva procesului-verbal de constatare a contravenției se soluționează de judecătorie."
     },
     "militari": {
-      "articol": "Art. 9",
-      "descriere": "Dacă contravenientul este militar, procesul-verbal se trimite comandantului unității pentru aplicarea sancțiunilor potrivit Regulamentului disciplinei militare"
+      "articol": "Art. 9, alin. (1)",
+      "text": "În cazul în care contravențiile prevăzute în prezenta lege sunt săvârșite de un militar, procesul-verbal de constatare se trimite comandantului unității din care face parte contravenientul, spre a i se aplica sancțiuni potrivit Regulamentului disciplinei militare."
     }
   },
-  "dispozitii_aplicabile": {
+  "dispozitii_finale": {
     "drept_comun": {
       "articol": "Art. 10",
-      "act_normativ": "Ordonanța Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002"
+      "text": "Dispozițiile prezentei legi se completează cu prevederile Ordonanței Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002."
     },
     "abrogari": {
       "articol": "Art. 11",
-      "acte_abrogate": [
-        "Decretul nr. 153 din 24 martie 1970 pentru stabilirea și sancționarea unor contravenții privind regulile de conviețuire socială, ordinea și liniștea publică",
-        "Art. 6 din Decretul nr. 76 din 15 iulie 1975"
-      ]
+      "text": "Pe data intrării în vigoare a prezentei legi se abrogă Decretul nr. 153 din 24 martie 1970 pentru stabilirea și sancționarea unor contravenții privind regulile de conviețuire socială, ordinea și liniștea publică, art. 6 din Decretul nr. 76 din 15 iulie 1975, precum și orice alte dispoziții contrare."
     }
   }
 }
