@@ -1,680 +1,874 @@
 {
   "lege_metadata": {
-    "titlu": "Legea nr. 61/1991 pentru sancționarea faptelor de încălcare a unor norme de conviețuire socială, a ordinii și liniștii publice",
-    "emitent": "PARLAMENTUL ROMÂNIEI",
-    "monitor_oficial": "Monitorul Oficial nr. 125 din 18 februarie 2020",
-    "data_republicare": "18 februarie 2020"
-  },
-  "organe_constatare": {
-    "articol": "Art. 6, alin. (1)",
-    "lista": ["Primar", "Împuterniciții primarului", "Ofițerii de poliție", "Agenții de poliție", "Ofițerii din jandarmerie", "Maiștrii militari din jandarmerie", "Subofițerii din jandarmerie", "Polițiștii de frontieră"]
-  },
-  "plata_jumatate": {
-    "articol": "Art. 6^1",
-    "text": "Contravenientul poate achita jumătate din amendă în termen de 15 zile de la comunicarea procesului-verbal",
-    "intrare_in_vigoare": "27-03-2026",
-    "exceptii": ["pct. 6)"]
+    "titlu": "Legea nr. 61 din 27 septembrie 1991 pentru sancționarea faptelor de încălcare a unor norme de conviețuire socială, a ordinii și liniștii publice",
+    "data_republicare": "18 februarie 2020",
+    "monitorul_oficial": "Monitorul Oficial nr. 125 din 18 februarie 2020",
+    "ultima_modificare": "Legea nr. 233/2024 (MO nr. 713 din 22 iulie 2024)"
   },
   "fapte": [
     {
-      "id": "L61-2-1",
+      "id": "1",
       "punct": "1",
-      "descriere": "Săvârșirea în public de fapte, acte sau gesturi obscene, proferarea de injurii, expresii jignitoare sau vulgare, amenințări cu acte de violență împotriva persoanelor sau bunurilor acestora, de natură să tulbure ordinea și liniștea publică sau să provoace indignarea cetățenilor ori să lezeze demnitatea și onoarea acestora.",
-      "articol_prevedere": "Art. 2, pct. 1)",
+      "descriere": "Săvârșirea în public de fapte, acte sau gesturi obscene, proferarea de injurii, expresii jignitoare sau vulgare, amenințări cu acte de violență împotriva persoanelor sau bunurilor acestora, de natură să tulbure ordinea și liniștea publică sau să provoace indignarea cetățenilor ori să lezeze demnitatea și onoarea acestora",
+      "articol_prevedere": "Art. 2, pct. 1",
       "articol_sanctiune": "Art. 3, alin. (1), lit. b)",
       "amenda_min": 200,
       "amenda_max": 1000,
       "permite_jumatate": true,
       "suma_jumatate": 100,
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["obscenitate", "injurii", "vulgaritate", "amenințări", "violenta", "ordine publică", "demnitate", "onoare"],
+      "masuri_complementare": null,
+      "confiscare": null,
       "agravare": {
+        "conditie": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane defavorizate",
         "articol": "Art. 3, alin. (2)",
-        "conditii": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane defavorizate",
         "amenda_min": 1000,
         "amenda_max": 3000
       },
-      "repetare_24h": {
+      "repetare": {
+        "interval": "24 de ore",
         "articol": "Art. 5, lit. a)",
-        "text": "Repetarea în interval de 24 de ore de la constatarea primei fapte se sancționează cu amendă de la 500 lei la 1.500 lei sau prestarea a 50-100 de ore de activități în folosul comunității"
-      },
-      "tags": ["obscen", "injurii", "jigniri", "vulgar", "amenințări", "violență", "public", "demnitate", "onoare", "ordine publică"]
+        "amenda_min": 500,
+        "amenda_max": 1500,
+        "alternativa": "Prestarea a 50-100 ore de activități în folosul comunității"
+      }
     },
     {
-      "id": "L61-2-2",
+      "id": "2",
       "punct": "2",
-      "descriere": "Constituirea unui grup format din trei sau mai multe persoane, în scopul de a săvârși acțiuni ilicite, contrare ordinii și liniștii publice și normelor de conviețuire socială, precum și actele de încurajare sau sprijinire, sub orice formă, a unor astfel de grupuri de persoane, care incită la dezordine socială.",
-      "articol_prevedere": "Art. 2, pct. 2)",
+      "descriere": "Constituirea unui grup format din trei sau mai multe persoane, în scopul de a săvârși acțiuni ilicite, contrare ordinii și liniștii publice și normelor de conviețuire socială, precum și actele de încurajare sau sprijinire, sub orice formă, a unor astfel de grupuri de persoane, care incită la dezordine socială",
+      "articol_prevedere": "Art. 2, pct. 2",
       "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["grup", "persoane", "acțiuni ilicite", "dezordine socială", "incitare"],
+      "masuri_complementare": null,
+      "confiscare": null,
       "agravare": {
+        "conditie": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane defavorizate",
         "articol": "Art. 3, alin. (2)",
-        "conditii": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane defavorizate",
         "amenda_min": 1000,
         "amenda_max": 3000
       },
-      "tags": ["grup", "trei persoane", "acțiuni ilicite", "dezordine socială", "incitare", "ordine publică", "conviețuire socială"]
+      "repetare": null
     },
     {
-      "id": "L61-2-3",
+      "id": "2_1",
+      "punct": "2^1",
+      "descriere": "Neîndeplinirea obligației de a solicita consultarea actelor de identitate ale consumatorilor în vederea verificării împlinirii vârstei de 18 ani a cumpărătorilor și consumatorilor care solicită vânzarea, respectiv servirea băuturilor alcoolice, băuturilor energizante și/sau produselor reglementate de dispozițiile art. 2 din Legea nr. 201/2016",
+      "articol_prevedere": "Art. 2^1, alin. (1)",
+      "articol_sanctiune": "Art. 2^1, alin. (2)",
+      "amenda_min": 10000,
+      "amenda_max": 30000,
+      "permite_jumatate": true,
+      "suma_jumatate": 5000,
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["băuturi alcoolice", "băuturi energizante", "tutun", "minor", "vârstă", "act identitate", "verificare"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
+    },
+    {
+      "id": "3",
       "punct": "3",
-      "descriere": "Apelarea, în mod repetat, la mila publicului, de către o persoană aptă de muncă, precum și determinarea unei persoane la săvârșirea unor astfel de fapte.",
-      "articol_prevedere": "Art. 2, pct. 3)",
+      "descriere": "Apelarea, în mod repetat, la mila publicului, de către o persoană aptă de muncă, precum și determinarea unei persoane la săvârșirea unor astfel de fapte",
+      "articol_prevedere": "Art. 2, pct. 3",
       "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "tags": ["cerșetorie", "mila publicului", "persoană aptă de muncă", "determinare", "repetat"]
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["cerșetorie", "milă publică", "apt de muncă", "determinare"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-4",
+      "id": "4",
       "punct": "4",
-      "descriere": "Aruncarea asupra unei persoane, construcții sau asupra unui mijloc de transport cu obiecte de orice fel, cu substanțe inflamante, iritant-lacrimogene sau cu efect paralizant, corosive sau care murdăresc, dacă nu s-au produs vătămări ale integrității corporale sau sănătății, ori pagube materiale.",
-      "articol_prevedere": "Art. 2, pct. 4)",
+      "descriere": "Aruncarea asupra unei persoane, construcții sau asupra unui mijloc de transport cu obiecte de orice fel, cu substanțe inflamante, iritant-lacrimogene sau cu efect paralizant, corosive sau care murdăresc, dacă nu s-au produs vătămări ale integrității corporale sau sănătății, ori pagube materiale",
+      "articol_prevedere": "Art. 2, pct. 4",
       "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["aruncare", "obiecte", "substanțe inflamante", "lacrimogene", "corosive", "murdărire", "transport"],
+      "masuri_complementare": null,
+      "confiscare": {
+        "articol": "Art. 4, alin. (1)",
+        "descriere": "Sunt supuse confiscării bunurile care au servit la săvârșirea contravenției, dacă sunt ale contravenientului, precum și bunurile dobândite prin săvârșirea contravenției, dacă nu sunt restituite persoanei vătămate"
+      },
       "agravare": {
+        "conditie": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane defavorizate",
         "articol": "Art. 3, alin. (2)",
-        "conditii": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane defavorizate",
         "amenda_min": 1000,
         "amenda_max": 3000
       },
-      "confiscare": {
-        "articol": "Art. 4, alin. (1)",
-        "text": "Bunurile care au servit la săvârșirea contravenției, dacă sunt ale contravenientului"
-      },
-      "tags": ["aruncare", "obiecte", "substanțe inflamante", "iritant-lacrimogene", "corosive", "persoană", "construcție", "transport"]
+      "repetare": null
     },
     {
-      "id": "L61-2-5",
+      "id": "5",
       "punct": "5",
-      "descriere": "Organizarea, îngăduirea sau participarea la jocuri de noroc - altele decât cele autorizate potrivit legii - de natură să lezeze bunele moravuri.",
-      "articol_prevedere": "Art. 2, pct. 5)",
+      "descriere": "Organizarea, îngăduirea sau participarea la jocuri de noroc - altele decât cele autorizate potrivit legii - de natură să lezeze bunele moravuri",
+      "articol_prevedere": "Art. 2, pct. 5",
       "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["jocuri de noroc", "noroc", "autorizare", "bune moravuri", "organizare"],
+      "masuri_complementare": null,
       "confiscare": {
         "articol": "Art. 4, alin. (1)",
-        "text": "Bunurile care au servit la săvârșirea contravenției, dacă sunt ale contravenientului, precum și bunurile dobândite prin săvârșirea contravențiilor, dacă nu sunt restituite persoanei vătămate"
+        "descriere": "Sunt supuse confiscării bunurile care au servit la săvârșirea contravenției, dacă sunt ale contravenientului, precum și bunurile dobândite prin săvârșirea contravenției, dacă nu sunt restituite persoanei vătămate"
       },
-      "tags": ["jocuri de noroc", "organizare", "participare", "neautorizat", "bune moravuri", "pariuri"]
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-6",
+      "id": "6",
       "punct": "6",
-      "descriere": "Atragerea de persoane, sub orice formă, săvârșită în localuri, parcuri, pe străzi sau în alte locuri publice în vederea practicării de raporturi sexuale cu acestea spre a obține foloase materiale, precum și îndemnul sau determinarea, în același scop, a unei persoane la săvârșirea unor astfel de fapte.",
-      "articol_prevedere": "Art. 2, pct. 6)",
+      "descriere": "Atragerea de persoane, sub orice formă, săvârșită în localuri, parcuri, pe străzi sau în alte locuri publice în vederea practicării de raporturi sexuale cu acestea spre a obține foloase materiale, precum și îndemnul sau determinarea, în același scop, a unei persoane la săvârșirea unor astfel de fapte",
+      "articol_prevedere": "Art. 2, pct. 6",
       "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": false,
-      "suma_jumatate": null,
-      "motiv_exceptie": "Exceptat de la plata la jumătate conform Art. 6^1",
-      "tags": ["prostituție", "raporturi sexuale", "foloase materiale", "atragere persoane", "local public", "parc", "stradă"]
+      "suma_jumatate": 250,
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["prostituate", "raporturi sexuale", "foloase materiale", "îndemn", "determinare", "localuri publice"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "observatie": "Conform Art. 6^1, pentru pct. 6 nu se poate achita jumătate din amendă"
     },
     {
-      "id": "L61-2-7",
+      "id": "7",
       "punct": "7",
-      "descriere": "Acceptarea sau tolerarea practicării faptelor prevăzute la pct. 6) în hoteluri, moteluri, campinguri, baruri, restaurante, cluburi, pensiuni, discoteci sau în anexele acestora de către patronii sau administratorii ori conducătorii localurilor respective.",
-      "articol_prevedere": "Art. 2, pct. 7)",
+      "descriere": "Acceptarea sau tolerarea practicării faptelor prevăzute la pct. 6 în hoteluri, moteluri, campinguri, baruri, restaurante, cluburi, pensiuni, discoteci sau în anexele acestora de către patronii sau administratorii ori conducătorii localurilor respective",
+      "articol_prevedere": "Art. 2, pct. 7",
       "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "masura_complementara": {
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["prostituate", "tolerare", "hotel", "motel", "bar", "restaurant", "club", "pensiune", "discotecă", "patron", "administrator"],
+      "masuri_complementare": {
         "articol": "Art. 3, alin. (3)",
-        "text": "Suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
+        "descriere": "Suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
       },
-      "tags": ["prostituție", "hotel", "motel", "camping", "bar", "restaurant", "club", "pensiune", "discotecă", "patron", "administrator", "tolerare"]
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-8",
+      "id": "8",
       "punct": "8",
-      "descriere": "Comercializarea armelor cu aer comprimat sau cu gaze comprimate, a arbaletelor, arcurilor pentru tir, pescuit sau vânătoare în alte locuri decât în magazinele autorizate să efectueze operațiuni cu arme de foc și muniții.",
-      "articol_prevedere": "Art. 2, pct. 8)",
+      "descriere": "Comercializarea armelor cu aer comprimat sau cu gaze comprimate, a arbaletelor, arcurilor pentru tir, pescuit sau vânătoare în alte locuri decât în magazinele autorizate să efectueze operațiuni cu arme de foc și muniții",
+      "articol_prevedere": "Art. 2, pct. 8",
       "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "tags": ["arme", "aer comprimat", "gaze comprimate", "arbaletă", "arc", "tir", "pescuit", "vânătoare", "comercializare", "magazin autorizat"]
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["arme", "aer comprimat", "gaze comprimate", "arbaletă", "arc", "tir", "pescuit", "vânătoare", "comercializare", "magazine autorizate"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-9",
+      "id": "9",
       "punct": "9",
-      "descriere": "Vânzarea armelor cu aer comprimat sau cu gaze comprimate, a arbaletelor, arcurilor pentru tir, pescuit sau vânătoare persoanelor care nu au împlinit vârsta de 18 ani, persoanelor care au săvârșit acte de violență menționate în cazierul judiciar, precum și persoanelor care suferă de boli neuropsihice menționate în certificatul de sănătate eliberat de policlinica teritorială.",
-      "articol_prevedere": "Art. 2, pct. 9)",
+      "descriere": "Vânzarea armelor cu aer comprimat sau cu gaze comprimate, a arbaletelor, arcurilor pentru tir, pescuit sau vânătoare persoanelor care nu au împlinit vârsta de 18 ani, persoanelor care au săvârșit acte de violență menționate în cazierul judiciar, precum și persoanelor care suferă de boli neuropsihice menționate în certificatul de sănătate eliberat de policlinica teritorială",
+      "articol_prevedere": "Art. 2, pct. 9",
       "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "tags": ["arme", "vânzare", "minor", "18 ani", "cazier judiciar", "violență", "boli neuropsihice", "certificat medical"]
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["arme", "vânzare", "minor", "18 ani", "cazier judiciar", "violenta", "boli neuropsihice", "certificat sănătate"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-10",
+      "id": "10",
       "punct": "10",
-      "descriere": "Menținerea evidenței de către magazinele autorizate a cumpărătorilor armelor prevăzute la pct. 8) în registre speciale, vizate de organele de poliție, în care vor fi menționate datele de stare civilă, domiciliul, seria și numărul actului de identitate ale cumpărătorului, numărul cazierului judiciar, numărul certificatului de sănătate neuropsihică, cu denumirea policlinicii teritoriale, precum și caracteristicile armei vândute. Dacă cumpărătorul este titular al unui permis de armă, este scutit de obligația de a prezenta cazierul judiciar și certificatul de sănătate neuropsihică, iar dacă cumpărătorul este titular al unui permis de conducere, acesta este obligat să prezinte numai cazierul judiciar.",
-      "articol_prevedere": "Art. 2, pct. 10)",
+      "descriere": "Nemenținerea evidenței de către magazinele autorizate a cumpărătorilor armelor prevăzute la pct. 8 în registre speciale, vizate de organele de poliție, în care vor fi menționate datele de stare civilă, domiciliul, seria și numărul actului de identitate ale cumpărătorului, numărul cazierului judiciar, numărul certificatului de sănătate neuropsihică, cu denumirea policlinicii teritoriale, precum și caracteristicile armei vândute",
+      "articol_prevedere": "Art. 2, pct. 10",
       "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "tags": ["arme", "evidență", "registru", "cumpărători", "cazier judiciar", "certificat medical", "poliție"]
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["arme", "evidență", "registru", "magazine autorizate", "cumpărător", "date personale", "cazier", "certificat sănătate"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-11",
+      "id": "11",
       "punct": "11",
-      "descriere": "Alarmarea publicului, a organelor specializate pentru a interveni în caz de pericol ori a organelor de menținere a ordinii publice, prin darea semnalelor de pericol sau, după caz, prin solicitarea intervenției la fața locului, fără motiv întemeiat.",
-      "articol_prevedere": "Art. 2, pct. 11)",
+      "descriere": "Alarmarea publicului, a organelor specializate pentru a interveni în caz de pericol ori a organelor de menținere a ordinii publice, prin darea semnalelor de pericol sau, după caz, prin solicitarea intervenției la fața locului, fără motiv întemeiat",
+      "articol_prevedere": "Art. 2, pct. 11",
       "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "tags": ["alarmă", "semnal pericol", "fals", "intervenție", "public", "organe specializate", "ordine publică"]
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["alarmare", "alarmă falsă", "semnale pericol", "intervenție", "pompieri", "poliție", "fără motiv"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-12",
+      "id": "12",
       "punct": "12",
-      "descriere": "Întreruperea curentului electric sau stingerea, fără drept, a lămpilor ce servesc la iluminatul public pe străzi, în parcuri, săli de spectacol sau în alte locuri publice.",
-      "articol_prevedere": "Art. 2, pct. 12)",
+      "descriere": "Întreruperea curentului electric sau stingerea, fără drept, a lămpilor ce servesc la iluminatul public pe străzi, în parcuri, săli de spectacol sau în alte locuri publice",
+      "articol_prevedere": "Art. 2, pct. 12",
       "articol_sanctiune": "Art. 3, alin. (1), lit. b)",
       "amenda_min": 200,
       "amenda_max": 1000,
       "permite_jumatate": true,
       "suma_jumatate": 100,
-      "tags": ["curent electric", "iluminat public", "lămpi", "stradă", "parc", "sală spectacol", "întrerupere", "stingere"]
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["curent electric", "întrerupere", "lămpi", "iluminat public", "stradă", "parc", "sală spectacol"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-13",
+      "id": "13",
       "punct": "13",
-      "descriere": "Pătrunderea, cu încălcarea normelor legale de acces, în sediile autorităților publice centrale și locale, instituțiilor publice, instituțiilor de învățământ și spațiilor aparținând acestora, indiferent de destinația lor, regiilor autonome, societăților reglementate de Legea nr. 31/1990, partidelor sau altor formațiuni politice, organizațiilor guvernamentale și neguvernamentale, ambasadelor și reprezentanțelor altor state ori ale organizațiilor internaționale de pe teritoriul României, precum și ocuparea fără drept a terenurilor aparținând ambasadelor și reprezentanțelor sau a terenurilor situate în perimetrul acestora ori refuzul de a le părăsi la cererea organelor de ordine.",
-      "articol_prevedere": "Art. 2, pct. 13)",
+      "descriere": "Pătrunderea, cu încălcarea normelor legale de acces, în sediile autorităților publice centrale și locale, instituțiilor publice, instituțiilor de învățământ și spațiilor aparținând acestora, indiferent de destinația lor, regiilor autonome, societăților reglementate de Legea nr. 31/1990, partidelor sau altor formațiuni politice, organizațiilor guvernamentale și neguvernamentale, ambasadelor și reprezentanțelor altor state ori ale organizațiilor internaționale de pe teritoriul României, precum și ocuparea fără drept a terenurilor aparținând ambasadelor și reprezentanțelor sau a terenurilor situate în perimetrul acestora ori refuzul de a le părăsi la cererea organelor de ordine",
+      "articol_prevedere": "Art. 2, pct. 13",
       "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "tags": ["pătrundere", "acces neautorizat", "autoritate publică", "instituție publică", "învățământ", "ambasada", "ONG", "partid politic"]
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["pătrundere", "acces ilegal", "instituții publice", "ambasadă", "autorități", "învățământ", "partide politice", "ONG", "ocupare teren"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-14",
+      "id": "14",
       "punct": "14",
-      "descriere": "Imprimarea de însemne, înscrieri, desene sau imagini, fără drept, prin orice mijloace, pe pereții clădirilor, pe garduri sau pe obiecte de folosință comună aflate în locuri publice, precum și deteriorarea prin orice mijloc a acestora.",
-      "articol_prevedere": "Art. 2, pct. 14)",
+      "descriere": "Imprimarea de însemne, înscrieri, desene sau imagini, fără drept, prin orice mijloace, pe pereții clădirilor, pe garduri sau pe obiecte de folosință comună aflate în locuri publice, precum și deteriorarea prin orice mijloc a acestora",
+      "articol_prevedere": "Art. 2, pct. 14",
       "articol_sanctiune": "Art. 3, alin. (1), lit. f)",
       "amenda_min": 3000,
       "amenda_max": 6000,
       "permite_jumatate": true,
       "suma_jumatate": 1500,
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["graffiti", "însemne", "desene", "scrieri", "pereți", "garduri", "deteriorare", "murdărire", "spațiu public"],
+      "masuri_complementare": {
+        "articol": "Art. 3, alin. (6^1)",
+        "descriere": "Obligarea contravenientului la înlăturarea înscrierilor, însemnelor sau desenelor, cu redarea stării inițiale a bunului scris, pictat, desenat sau deteriorat ori cu refacerea acestuia, în termen de cel mult 15 zile calendaristice",
+        "executare": "15 zile calendaristice",
+        "consecinta_neexecutare": "Art. 3, alin. (6^2) - Autoritatea administrației publice locale poate reabilita din fonduri proprii bunurile afectate, având drept de regres împotriva contravenientului"
+      },
       "confiscare": {
         "articol": "Art. 4, alin. (1)",
-        "text": "Bunurile care au servit la săvârșirea contravenției, dacă sunt ale contravenientului"
+        "descriere": "Sunt supuse confiscării bunurile care au servit la săvârșirea contravenției, dacă sunt ale contravenientului, precum și bunurile dobândite prin săvârșirea contravenției, dacă nu sunt restituite persoanei vătămate"
       },
-      "masura_complementara": {
-        "articol": "Art. 3, alin. (6^1)",
-        "text": "Obligarea înlăturării de către contravenient a înscrierilor, însemnelor sau desenelor, cu redarea stării inițiale a bunului scris, pictat, desenat sau deteriorat ori cu refacerea acestuia",
-        "termen": "15 zile calendaristice de la data la care devine executorie"
-      },
-      "executare_silita": {
-        "articol": "Art. 3, alin. (6^2)",
-        "text": "În cazul neîndeplinirii obligației, autoritatea administrației publice locale pe a cărei rază teritorială s-a săvârșit contravenția poate să reabiliteze din fonduri proprii bunurile afectate, având drept la acțiune în regres împotriva contravenientului"
-      },
-      "tags": ["graffiti", "desene", "însemne", "înscrieri", "imagini", "pereți", "clădire", "gard", "deteriorare", "vandalism", "loc public"]
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-14-1",
+      "id": "14_1",
       "punct": "14^1",
-      "descriere": "Dezlipirea sau distrugerea, fără drept, a reclamelor, anunțurilor și afișelor legal amplasate în locuri anume destinate.",
-      "articol_prevedere": "Art. 2, pct. 14^1)",
+      "descriere": "Dezlipirea sau distrugerea, fără drept, a reclamelor, anunțurilor și afișelor legal amplasate în locuri anume destinate",
+      "articol_prevedere": "Art. 2, pct. 14^1",
       "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "tags": ["reclamă", "anunț", "afiș", "dezlipire", "distrugere", "publicitate", "loc destinat"]
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["reclame", "afișe", "anunțuri", "dezlipire", "distrugere", "spațiu public"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-15",
+      "id": "15",
       "punct": "15",
-      "descriere": "Nerespectarea măsurilor de ordine sau a regulilor stabilite pentru buna desfășurare a manifestărilor cultural-sportive.",
-      "articol_prevedere": "Art. 2, pct. 15)",
+      "descriere": "Nerespectarea măsurilor de ordine sau a regulilor stabilite pentru buna desfășurare a manifestărilor cultural-sportive",
+      "articol_prevedere": "Art. 2, pct. 15",
       "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "tags": ["manifestare culturală", "manifestare sportivă", "măsuri ordine", "reguli", "stadioane", "eveniment"]
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["manifestări culturale", "manifestări sportive", "ordine", "reguli", "evenimente"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-16",
+      "id": "16",
       "punct": "16",
-      "descriere": "Deteriorarea, ridicarea sau mutarea, fără drept, a semnelor sau indicatoarelor de orientare turistică și rutieră ori a celor care semnalează existența unui pericol pentru viața persoanelor.",
-      "articol_prevedere": "Art. 2, pct. 16)",
+      "descriere": "Deteriorarea, ridicarea sau mutarea, fără drept, a semnelor sau indicatoarelor de orientare turistică și rutieră ori a celor care semnalează existența unui pericol pentru viața persoanelor",
+      "articol_prevedere": "Art. 2, pct. 16",
       "articol_sanctiune": "Art. 3, alin. (1), lit. b)",
       "amenda_min": 200,
       "amenda_max": 1000,
       "permite_jumatate": true,
       "suma_jumatate": 100,
-      "tags": ["indicator", "semn", "orientare turistică", "rutier", "pericol", "deteriorare", "ridicare", "mutare", "trafic"]
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["indicatoare", "semne rutiere", "orientare turistică", "deteriorare", "mutare", "pericol", "viață"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-17",
+      "id": "17",
       "punct": "17",
-      "descriere": "Lăsarea în libertate ori fără supraveghere a animalelor care pot prezenta pericol pentru persoane sau bunuri.",
-      "articol_prevedere": "Art. 2, pct. 17)",
+      "descriere": "Lăsarea în libertate ori fără supraveghere a animalelor care pot prezenta pericol pentru persoane sau bunuri",
+      "articol_prevedere": "Art. 2, pct. 17",
       "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "tags": ["animale", "pericol", "supraveghere", "libertate", "persoane", "bunuri", "câini"]
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["animale", "câini", "pericol", "libertate", "fără supraveghere", "animale periculoase"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-18",
+      "id": "18",
       "punct": "18",
-      "descriere": "Refuzul consumatorului de a părăsi un local public în care se consumă băuturi alcoolice, după ora de închidere sau la cererea îndreptățită a unui salariat al localului.",
-      "articol_prevedere": "Art. 2, pct. 18)",
+      "descriere": "Refuzul consumatorului de a părăsi un local public în care se consumă băuturi alcoolice, după ora de închidere sau la cererea îndreptățită a unui salariat al localului",
+      "articol_prevedere": "Art. 2, pct. 18",
       "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "tags": ["local public", "refuz", "părăsire", "băuturi alcoolice", "închidere", "consumator", "salariat"]
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["local public", "băuturi alcoolice", "refuz părăsire", "ora închidere", "consumator"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-19",
+      "id": "19",
       "punct": "19",
-      "descriere": "Servirea consumatorilor cu băuturi alcoolice în localurile publice și în afara acestora, în zilele și la orele când, potrivit dispozițiilor legale, acestea sunt închise sau este interzisă desfacerea băuturilor alcoolice ori după ora de închidere stabilită prin autorizația de funcționare.",
-      "articol_prevedere": "Art. 2, pct. 19)",
+      "descriere": "Servirea consumatorilor cu băuturi alcoolice în localurile publice și în afara acestora, în zilele și la orele când, potrivit dispozițiilor legale, acestea sunt închise sau este interzisă desfacerea băuturilor alcoolice ori după ora de închidere stabilită prin autorizația de funcționare",
+      "articol_prevedere": "Art. 2, pct. 19",
       "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "repetare": {
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["băuturi alcoolice", "servire", "ora închidere", "program", "autorizație funcționare", "interdicție"],
+      "masuri_complementare": {
         "articol": "Art. 3, alin. (4)",
-        "text": "În cazul repetării contravenției se dispune măsura suspendării activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
+        "descriere": "În cazul repetării: suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
       },
-      "tags": ["băuturi alcoolice", "servire", "local public", "program", "închidere", "autorizație", "interdicție"]
+      "confiscare": null,
+      "agravare": null,
+      "repetare": {
+        "tip": "suspendare activitate",
+        "perioada": "10-30 zile",
+        "articol": "Art. 3, alin. (4)"
+      }
     },
     {
-      "id": "L61-2-20",
+      "id": "20",
       "punct": "20",
-      "descriere": "Servirea și consumul băuturilor alcoolice în localuri publice și în afara acestora pe timpul desfășurării adunărilor publice, grevelor, manifestărilor sportive, cu excepția spațiilor în care sunt organizate evenimente pentru celebrarea revelionului, zilelor unităților administrativ-teritoriale, ale categoriilor socio-profesionale sau pentru promovarea unor produse alimentare sau nealimentare, precum și a perimetrelor special amenajate și delimitate unde se desfășoară manifestări cultural-artistice cu acces controlat.",
-      "articol_prevedere": "Art. 2, pct. 20)",
+      "descriere": "Servirea și consumul băuturilor alcoolice în localuri publice și în afara acestora pe timpul desfășurării adunărilor publice, grevelor, manifestărilor sportive, cu excepția spațiilor în care sunt organizate evenimente pentru celebrarea revelionului, zilelor unităților administrativ-teritoriale, ale categoriilor socio-profesionale sau pentru promovarea unor produse alimentare sau nealimentare, precum și a perimetrelor special amenajate și delimitate unde se desfășoară manifestări cultural-artistice cu acces controlat",
+      "articol_prevedere": "Art. 2, pct. 20",
       "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "masura_complementara": {
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["băuturi alcoolice", "adunare publică", "greva", "manifestare sportivă", "revelion", "evenimente"],
+      "masuri_complementare": {
         "articol": "Art. 3, alin. (3)",
-        "text": "Suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
+        "descriere": "Suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
       },
-      "tags": ["băuturi alcoolice", "adunare publică", "grevă", "manifestare sportivă", "revelion", "eveniment", "local public"]
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-21",
+      "id": "21",
       "punct": "21",
-      "descriere": "Desfacerea, comercializarea și consumul băuturilor alcoolice în locurile publice, la intrarea în curțile și în interioarele lor, cum sunt: spitale și alte unități sanitare, centre de plasament al minorilor, unități și instituții de învățământ și educație, lăcașuri de cult și instituții religioase aferente cultelor care interzic consumul băuturilor alcoolice în practicarea religiei respective, pe trotuarele sau aleile de acces ale acestora.",
-      "articol_prevedere": "Art. 2, pct. 21)",
+      "descriere": "Desfacerea, comercializarea și consumul băuturilor alcoolice în locurile publice, la intrarea în curțile și în interioarele lor, cum sunt: spitale și alte unități sanitare, centre de plasament al minorilor, unități și instituții de învățământ și educație, lăcașuri de cult și instituții religioase aferente cultelor care interzic consumul băuturilor alcoolice în practicarea religiei respective, pe trotuarele sau aleile de acces ale acestora",
+      "articol_prevedere": "Art. 2, pct. 21",
       "articol_sanctiune": "Art. 3, alin. (1), lit. e)",
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "repetare": {
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["băuturi alcoolice", "spital", "unitate sanitară", "centru plasament", "minor", "școală", "învățământ", "lăcaș cult", "religie", "trotuar"],
+      "masuri_complementare": {
         "articol": "Art. 3, alin. (4)",
-        "text": "În cazul repetării contravenției se dispune măsura suspendării activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
+        "descriere": "În cazul repetării: suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
       },
-      "tags": ["băuturi alcoolice", "spital", "unitate sanitară", "centru plasament", "minor", "învățământ", "biserică", "lăcaș cult", "trotuar"]
+      "confiscare": null,
+      "agravare": null,
+      "repetare": {
+        "tip": "suspendare activitate",
+        "perioada": "10-30 zile",
+        "articol": "Art. 3, alin. (4)"
+      }
     },
     {
-      "id": "L61-2-22",
+      "id": "22",
       "punct": "22",
-      "descriere": "Servirea cu băuturi alcoolice, în localurile publice, a consumatorilor aflați în vădită stare de ebrietate, precum și a minorilor.",
-      "articol_prevedere": "Art. 2, pct. 22)",
+      "descriere": "Servirea cu băuturi alcoolice, în localurile publice, a consumatorilor aflați în vădită stare de ebrietate, precum și a minorilor",
+      "articol_prevedere": "Art. 2, pct. 22",
       "articol_sanctiune": "Art. 3, alin. (1), lit. g)",
       "amenda_min": 5000,
       "amenda_max": 20000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "masura_complementara": {
-        "articol": "Art. 3, alin. (3)",
-        "text": "Suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["băuturi alcoolice", "servire", "ebrietate", "beat", "minor", "18 ani", "local public"],
+      "masuri_complementare": {
+        "articol": "Art. 3, alin. (3) și (4)",
+        "descriere": "Suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile (atât la săvârșire cât și la repetare)"
       },
-      "repetare": {
-        "articol": "Art. 3, alin. (4)",
-        "text": "În cazul repetării contravenției se dispune măsura suspendării activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
-      },
+      "confiscare": null,
       "agravare": {
+        "conditie": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane",
         "articol": "Art. 3, alin. (2^1)",
-        "conditii": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane",
         "amenda_min": 10000,
         "amenda_max": 30000
       },
-      "obligatia_verificare_varsta": {
-        "articol": "Art. 2^1, alin. (1)",
-        "text": "În vederea verificării împlinirii vârstei de 18 ani a consumatorilor care solicită servirea băuturilor alcoolice, membrii personalului localurilor publice au obligația de a solicita consultarea actelor de identitate ale consumatorilor",
-        "santionare_nerespectare": {
-          "articol": "Art. 2^1, alin. (2)",
-          "amenda_min": 10000,
-          "amenda_max": 30000
-        }
-      },
-      "tags": ["băuturi alcoolice", "ebrietate", "minor", "servire", "local public", "beție"]
+      "repetare": {
+        "tip": "suspendare activitate",
+        "perioada": "10-30 zile",
+        "articol": "Art. 3, alin. (4)"
+      }
     },
     {
-      "id": "L61-2-23",
+      "id": "23",
       "punct": "23",
-      "descriere": "Consumul de băuturi alcoolice în următoarele locuri publice: drumuri publice, parcuri, stadioane și terenuri sportive, instituții culturale, săli de spectacole, instituții sau unități economice, toate mijloacele de transport în comun, autogări, gări și aeroporturi, de stat și private, sau alte locuri prevăzute de lege. În incinta acestor locuri publice se pot consuma băuturi alcoolice prin delimitarea unor spații special amenajate pentru consumarea băuturilor alcoolice, prin hotărârea conducerilor locurilor publice respective. Sunt exceptate localurile de alimentație publică și turism, cum sunt: restaurante, baruri și discoteci. În locurile publice enumerate se interzice cu desăvârșire consumul de băuturi alcoolice de către persoanele care nu au împlinit vârsta de 18 ani.",
-      "articol_prevedere": "Art. 2, pct. 23)",
+      "descriere": "Consumul de băuturi alcoolice în următoarele locuri publice: drumuri publice, parcuri, stadioane și terenuri sportive, instituții culturale, săli de spectacole, instituții sau unități economice, toate mijloacele de transport în comun, autogări, gări și aeroporturi, de stat și private, sau alte locuri prevăzute de lege. Sunt exceptate localurile de alimentație publică și turism, cum sunt: restaurante, baruri și discoteci. În locurile publice enumerate se interzice cu desăvârșire consumul de băuturi alcoolice de către persoanele care nu au împlinit vârsta de 18 ani",
+      "articol_prevedere": "Art. 2, pct. 23",
       "articol_sanctiune": "Art. 3, alin. (1), lit. e)",
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "tags": ["băuturi alcoolice", "consum", "drum public", "parc", "stadion", "transport în comun", "autogară", "gară", "aeroport", "minor", "18 ani"]
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["băuturi alcoolice", "consum", "drum public", "parc", "stadion", "transport în comun", "autogară", "gară", "aeroport", "minor", "18 ani"],
+      "masuri_complementare": {
+        "articol": "Art. 3, alin. (3)",
+        "descriere": "Suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile (doar pentru operatorii economici care nu respectă delimitarea spațiilor)"
+      },
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-23-1",
+      "id": "23_1",
       "punct": "23^1",
-      "descriere": "Comercializarea sau oferirea cu titlu gratuit a băuturilor alcoolice către minori de către unitățile autorizate să comercializeze băuturile alcoolice.",
-      "articol_prevedere": "Art. 2, pct. 23^1)",
+      "descriere": "Comercializarea sau oferirea cu titlu gratuit a băuturilor alcoolice către minori de către unitățile autorizate să comercializeze băuturile alcoolice",
+      "articol_prevedere": "Art. 2, pct. 23^1",
       "articol_sanctiune": "Art. 3, alin. (1), lit. g)",
       "amenda_min": 5000,
       "amenda_max": 20000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "masura_complementara": {
-        "articol": "Art. 3, alin. (3)",
-        "text": "Suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră", "Organe de ocrotire socială"],
+      "tags": ["băuturi alcoolice", "comercializare", "minor", "18 ani", "ofertare gratuită", "unități autorizate"],
+      "masuri_complementare": {
+        "articol": "Art. 3, alin. (3) și (4)",
+        "descriere": "Suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile (atât la săvârșire cât și la repetare)"
       },
-      "repetare": {
-        "articol": "Art. 3, alin. (4)",
-        "text": "În cazul repetării contravenției se dispune măsura suspendării activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
-      },
+      "confiscare": null,
       "agravare": {
+        "conditie": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane",
         "articol": "Art. 3, alin. (2^1)",
-        "conditii": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane",
         "amenda_min": 10000,
         "amenda_max": 30000
       },
-      "sesizare_speciala": {
-        "articol": "Art. 3, alin. (7)",
-        "text": "Sesizarea se poate face și de către organele de ocrotire socială"
-      },
-      "obligatia_verificare_varsta": {
-        "articol": "Art. 2^1, alin. (1)",
-        "text": "În vederea verificării împlinirii vârstei de 18 ani a cumpărătorilor care solicită vânzarea băuturilor alcoolice, vânzătorii din unitățile comerciale au obligația de a solicita consultarea actelor de identitate ale consumatorilor",
-        "santionare_nerespectare": {
-          "articol": "Art. 2^1, alin. (2)",
-          "amenda_min": 10000,
-          "amenda_max": 30000
-        }
-      },
-      "tags": ["băuturi alcoolice", "minor", "comercializare", "ofertă gratuită", "unitate autorizată", "vânzare"]
+      "repetare": {
+        "tip": "suspendare activitate",
+        "perioada": "10-30 zile",
+        "articol": "Art. 3, alin. (4)"
+      }
     },
     {
-      "id": "L61-2-23-2",
+      "id": "23_2",
       "punct": "23^2",
-      "descriere": "Comercializarea sau oferirea cu titlu gratuit, inclusiv prin automate comerciale, a băuturilor energizante către minori de către unitățile autorizate să comercializeze băuturi energizante. Băuturi energizante sunt băuturile care conțin combinații variate de carbohidrați, vitamine, minerale, cu două sau mai multe substanțe precum: cofeină, taurină, carnitină, guarana, glucuronolactona și alți compuși cu efect de stimulare a sistemului nervos central.",
-      "articol_prevedere": "Art. 2, pct. 23^2)",
+      "descriere": "Comercializarea sau oferirea cu titlu gratuit, inclusiv prin automate comerciale, a băuturilor energizante către minori de către unitățile autorizate să comercializeze băuturi energizante; băuturi energizante sunt băuturile care conțin combinații variate de carbohidrați, vitamine, minerale, cu două sau mai multe substanțe precum: cofeină, taurină, carnitină, guarana, glucuronolactona și alți compuși cu efect de stimulare a sistemului nervos central",
+      "articol_prevedere": "Art. 2, pct. 23^2",
       "articol_sanctiune": "Art. 3, alin. (1), lit. g)",
       "amenda_min": 5000,
       "amenda_max": 20000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "repetare": {
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră", "Organe de ocrotire socială"],
+      "tags": ["băuturi energizante", "energizante", "comercializare", "minor", "automat comercial", "cofeină", "taurină", "guarana"],
+      "masuri_complementare": {
         "articol": "Art. 3, alin. (4)",
-        "text": "În cazul repetării contravenției se dispune măsura suspendării activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
+        "descriere": "În cazul repetării: suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
       },
-      "obligatia_verificare_varsta": {
-        "articol": "Art. 2^1, alin. (1)",
-        "text": "În vederea verificării împlinirii vârstei de 18 ani a cumpărătorilor care solicită vânzarea băuturilor energizante, vânzătorii din unitățile comerciale au obligația de a solicita consultarea actelor de identitate ale consumatorilor",
-        "santionare_nerespectare": {
-          "articol": "Art. 2^1, alin. (2)",
-          "amenda_min": 10000,
-          "amenda_max": 30000
-        }
+      "confiscare": null,
+      "agravare": {
+        "conditie": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane",
+        "articol": "Art. 3, alin. (2^1)",
+        "amenda_min": 10000,
+        "amenda_max": 30000
       },
-      "tags": ["băuturi energizante", "minor", "comercializare", "ofertă gratuită", "automat comercial", "cofeină", "taurină", "guarana", "energizant"]
+      "repetare": {
+        "tip": "suspendare activitate",
+        "perioada": "10-30 zile",
+        "articol": "Art. 3, alin. (4)"
+      }
     },
     {
-      "id": "L61-2-24",
+      "id": "24",
       "punct": "24",
-      "descriere": "Provocarea ori participarea efectivă la scandal, în locuri sau localuri publice.",
-      "articol_prevedere": "Art. 2, pct. 24)",
+      "descriere": "Provocarea ori participarea efectivă la scandal, în locuri sau localuri publice",
+      "articol_prevedere": "Art. 2, pct. 24",
       "articol_sanctiune": "Art. 3, alin. (1), lit. b)",
       "amenda_min": 200,
       "amenda_max": 1000,
       "permite_jumatate": true,
       "suma_jumatate": 100,
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["scandal", "altercație", "loc public", "local public", "participare", "provocare"],
+      "masuri_complementare": null,
+      "confiscare": null,
       "agravare": {
+        "conditie": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane defavorizate",
         "articol": "Art. 3, alin. (2)",
-        "conditii": "Săvârșirea în incinta unei instituții de învățământ, a unei instituții de sănătate ori destinate ocrotirii speciale a unor categorii de persoane defavorizate",
         "amenda_min": 1000,
         "amenda_max": 3000
       },
-      "tags": ["scandal", "provocare", "participare", "loc public", "local public", "ceartă", "altercație"]
+      "repetare": null
     },
     {
-      "id": "L61-2-25",
+      "id": "25",
       "punct": "25",
-      "descriere": "Tulburarea, fără drept, a liniștii locuitorilor prin producerea de zgomote cu orice aparat sau obiect ori prin strigăte sau larmă.",
-      "articol_prevedere": "Art. 2, pct. 25)",
+      "descriere": "Tulburarea, fără drept, a liniștii locuitorilor prin producerea de zgomote cu orice aparat sau obiect ori prin strigăte sau larmă",
+      "articol_prevedere": "Art. 2, pct. 25",
       "articol_sanctiune": "Art. 3, alin. (1), lit. b)",
       "amenda_min": 200,
       "amenda_max": 1000,
       "permite_jumatate": true,
       "suma_jumatate": 100,
-      "repetare_24h": {
-        "articol": "Art. 5, lit. a)",
-        "text": "Repetarea în interval de 24 de ore de la constatarea primei fapte se sancționează cu amendă de la 500 lei la 1.500 lei sau prestarea a 50-100 de ore de activități în folosul comunității"
-      },
-      "tags": ["zgomot", "liniște", "locuitori", "strigăte", "larmă", "aparat", "obiect", "tulburare", "vecini"]
-    },
-    {
-      "id": "L61-2-26",
-      "punct": "26",
-      "descriere": "Tulburarea liniștii locatarilor între orele 22,00-8,00 și 13,00-14,00 de către orice persoană prin producerea de zgomote, larmă sau prin folosirea oricărui aparat, obiect ori instrument muzical la intensitate mare în localurile sau în sediile persoanelor juridice, în locuințele persoanelor fizice sau în oricare alt loc din imobile cu destinația de locuințe ori situat în imediata vecinătate a acestora.",
-      "articol_prevedere": "Art. 2, pct. 26)",
-      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
-      "amenda_min": 500,
-      "amenda_max": 1500,
-      "permite_jumatate": true,
-      "suma_jumatate": 250,
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["zgomot", "larmă", "strigăte", "tulburare liniște", "vecini", "aparat", "liniște publică"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
       "repetare": {
-        "articol": "Art. 3, alin. (4)",
-        "text": "În cazul repetării contravenției se dispune măsura suspendării activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
-      },
-      "repetare_24h": {
-        "articol": "Art. 5, lit. b)",
-        "text": "Repetarea în interval de 24 de ore de la constatarea primei fapte se sancționează cu amendă de la 2.000 lei la 3.000 lei sau prestarea a 70-120 de ore de activități în folosul comunității"
-      },
-      "tags": ["zgomot", "liniște", "locatari", "22:00", "08:00", "13:00", "14:00", "instrument muzical", "locuință", "vecinătate"]
+        "interval": "24 de ore",
+        "articol": "Art. 5, lit. a)",
+        "amenda_min": 500,
+        "amenda_max": 1500,
+        "alternativa": "Prestarea a 50-100 ore de activități în folosul comunității"
+      }
     },
     {
-      "id": "L61-2-27",
+      "id": "26",
+      "punct": "26",
+      "descriere": "Tulburarea liniștii locatarilor între orele 22,00-8,00 și 13,00-14,00 de către orice persoană prin producerea de zgomote, larmă sau prin folosirea oricărui aparat, obiect ori instrument muzical la intensitate mare în localurile sau în sediile persoanelor juridice, în locuințele persoanelor fizice sau în oricare alt loc din imobile cu destinația de locuințe ori situat în imediata vecinătate a acestora",
+      "articol_prevedere": "Art. 2, pct. 26",
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["zgomot", "tulburare liniște", "program liniște", "22:00", "8:00", "13:00", "14:00", "vecini", "aparat muzical", "intensitate mare", "locuință"],
+      "masuri_complementare": {
+        "articol": "Art. 3, alin. (4)",
+        "descriere": "În cazul repetării: suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
+      },
+      "confiscare": null,
+      "agravare": null,
+      "repetare": {
+        "interval": "24 de ore",
+        "articol": "Art. 5, lit. b)",
+        "amenda_min": 2000,
+        "amenda_max": 3000,
+        "alternativa": "Prestarea a 70-120 ore de activități în folosul comunității",
+        "masuri_suplimentare": "Suspendarea activității localului public 10-30 zile (Art. 3, alin. 4)"
+      }
+    },
+    {
+      "id": "27",
       "punct": "27",
-      "descriere": "Organizarea de petreceri cu caracter privat și utilizarea de aparatură muzicală la intensitate de natură a tulbura liniștea locuitorilor, în corturi, alte amenajări sau în spațiu neacoperit, situate în perimetrul apropiat imobilelor cu destinația de locuințe sau cu caracter social.",
-      "articol_prevedere": "Art. 2, pct. 27)",
+      "descriere": "Organizarea de petreceri cu caracter privat și utilizarea de aparatură muzicală la intensitate de natură a tulbura liniștea locuitorilor, în corturi, alte amenajări sau în spațiu neacoperit, situate în perimetrul apropiat imobilelor cu destinația de locuințe sau cu caracter social (NOTĂ: Sintagma „în mediul urban\" a fost declarată neconstituțională prin Decizia CCR nr. 368/2022 și și-a încetat efectele juridice la 13 ianuarie 2023)",
+      "articol_prevedere": "Art. 2, pct. 27",
       "articol_sanctiune": "Art. 3, alin. (1), lit. d)",
       "amenda_min": 2000,
       "amenda_max": 3000,
       "permite_jumatate": true,
       "suma_jumatate": 1000,
-      "repetare_24h": {
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["petrecere", "zgomot", "muzică", "cort", "spațiu neacoperit", "vecini", "imobile locuințe", "intensitate"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": {
+        "interval": "24 de ore",
         "articol": "Art. 5, lit. c)",
-        "text": "Repetarea în interval de 24 de ore de la constatarea primei fapte se sancționează cu amendă de la 3.000 lei la 6.000 lei sau prestarea a 100-150 de ore de activități în folosul comunității"
+        "amenda_min": 3000,
+        "amenda_max": 6000,
+        "alternativa": "Prestarea a 100-150 ore de activități în folosul comunității"
       },
-      "nota_constitutionala": {
-        "text": "Prin DECIZIA CURȚII CONSTITUȚIONALE nr. 368 din 5 iulie 2022 s-a constatat că sintagma IN MEDIUL URBAN este neconstituțională. Sintagma și-a încetat efectele juridice începând cu data 13 ianuarie 2023."
-      },
-      "tags": ["petrecere", "aparatură muzicală", "intensitate", "liniște", "locuitori", "cort", "amenajare", "locuință", "social"]
+      "observatie_constitutionala": "Prin Decizia CCR nr. 368/2022, sintagma „în mediul urban\" a fost declarată neconstituțională. Efectele juridice au încetat la 13 ianuarie 2023."
     },
     {
-      "id": "L61-2-28",
+      "id": "28",
       "punct": "28",
-      "descriere": "Alungarea din locuința comună a soțului sau soției, a copiilor, precum și a oricărei alte persoane aflate în întreținere.",
-      "articol_prevedere": "Art. 2, pct. 28)",
+      "descriere": "Alungarea din locuința comună a soțului sau soției, a copiilor, precum și a oricărei alte persoane aflate în întreținere",
+      "articol_prevedere": "Art. 2, pct. 28",
       "articol_sanctiune": "Art. 3, alin. (1), lit. b)",
       "amenda_min": 200,
       "amenda_max": 1000,
       "permite_jumatate": true,
       "suma_jumatate": 100,
-      "procedura_speciala": {
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["alungare", "locuință comună", "soț", "soție", "copii", "întreținere", "familie", "violenta domestică"],
+      "masuri_complementare": {
         "articol": "Art. 4, alin. (2)",
-        "text": "Este necesară plângerea părții vătămate. Retragerea plângerii ori împăcarea părților înlătură răspunderea făptuitorului. Organele constatatoare sunt abilitate să restabilească situația anterioară."
+        "descriere": "Organele constatatoare sunt abilitate să restabilească situația anterioară"
       },
-      "tags": ["alungare", "locuință comună", "soț", "soție", "copii", "întreținere", "familie", "evacuare", "împăcare"]
+      "confiscare": null,
+      "conditie_speciala": {
+        "articol": "Art. 4, alin. (2)",
+        "descriere": "Este necesară plângerea părții vătămate. Retragerea plângerii ori împăcarea părților înlătură răspunderea făptuitorului"
+      },
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-29",
+      "id": "29",
       "punct": "29",
-      "descriere": "Nerespectarea măsurilor de ordine luate de organele competente în caz de calamități naturale sau alte pericole publice.",
-      "articol_prevedere": "Art. 2, pct. 29)",
+      "descriere": "Nerespectarea măsurilor de ordine luate de organele competente în caz de calamități naturale sau alte pericole publice",
+      "articol_prevedere": "Art. 2, pct. 29",
       "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "tags": ["calamitate naturală", "pericol public", "măsuri ordine", "nerespectare", "situație urgență", "dezastre"]
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["calamitate", "dezastru natural", "pericol public", "măsuri ordine", "inundație", "cutremur", "incendiu"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-30",
+      "id": "30",
       "punct": "30",
-      "descriere": "Nerespectarea măsurii de suspendare, dispusă conform dispozițiilor art. 3 alin. (3) și (4).",
-      "articol_prevedere": "Art. 2, pct. 30)",
+      "descriere": "Nerespectarea măsurii de suspendare, dispusă conform dispozițiilor art. 3 alin. (3) și (4)",
+      "articol_prevedere": "Art. 2, pct. 30",
       "articol_sanctiune": "Art. 3, alin. (1), lit. d)",
       "amenda_min": 2000,
       "amenda_max": 3000,
       "permite_jumatate": true,
       "suma_jumatate": 1000,
-      "masura_complementara": {
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["suspendare", "nerespectare", "activitate", "local public", "măsură preventivă"],
+      "masuri_complementare": {
         "articol": "Art. 3, alin. (5)",
-        "text": "Se dispune retragerea autorizației de funcționare a localului public"
+        "descriere": "Retragerea autorizației de funcționare a localului public"
       },
-      "tags": ["suspendare", "nerespectare", "local public", "autorizație funcționare", "retragere", "închidere"]
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-31",
+      "id": "31",
       "punct": "31",
-      "descriere": "Refuzul unei persoane de a furniza date pentru stabilirea identității sale sau de a se prezenta la sediul poliției, la cererea ori la invitația justificată a organelor de urmărire penală sau a organelor de ordine publică, aflate în exercitarea atribuțiilor de serviciu.",
-      "articol_prevedere": "Art. 2, pct. 31)",
+      "descriere": "Refuzul unei persoane de a furniza date pentru stabilirea identității sale sau de a se prezenta la sediul poliției, la cererea ori la invitația justificată a organelor de urmărire penală sau a organelor de ordine publică, aflate în exercitarea atribuțiilor de serviciu",
+      "articol_prevedere": "Art. 2, pct. 31",
       "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "tags": ["identificare", "refuz", "date identitate", "poliție", "urmărire penală", "ordine publică", "prezentare"]
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["refuz", "identificare", "date personale", "poliție", "urmărire penală", "prezentare sediu"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-32",
+      "id": "32",
       "punct": "32",
-      "descriere": "Îndemnul sub orice formă al minorilor la săvârșirea de contravenții.",
-      "articol_prevedere": "Art. 2, pct. 32)",
+      "descriere": "Îndemnul sub orice formă al minorilor la săvârșirea de contravenții",
+      "articol_prevedere": "Art. 2, pct. 32",
       "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "sesizare_speciala": {
-        "articol": "Art. 3, alin. (7)",
-        "text": "Sesizarea se poate face și de către organele de ocrotire socială"
-      },
-      "tags": ["minor", "îndemn", "contravenție", "incitare", "determinare", "protecție minor", "ocrotire socială"]
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră", "Organe de ocrotire socială"],
+      "tags": ["îndemn", "minor", "contravenție", "incitare", "corupere minor"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-33",
+      "id": "33",
       "punct": "33",
-      "descriere": "Neluarea de către părinți sau de către persoanele cărora li s-a încredințat spre creștere și educare un minor în vârstă de până la 16 ani sau care au în îngrijire un alienat ori debil mintal a măsurilor necesare pentru a-l împiedica de la fapte de vagabondaj, cerșetorie sau prostituție.",
-      "articol_prevedere": "Art. 2, pct. 33)",
+      "descriere": "Neluaarea de către părinți sau de către persoanele cărora li s-a încredințat spre creștere și educare un minor în vârstă de până la 16 ani sau care au în îngrijire un alienat ori debil mintal a măsurilor necesare pentru a-l împiedica de la fapte de vagabondaj, cerșetorie sau prostituție",
+      "articol_prevedere": "Art. 2, pct. 33",
       "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "sesizare_speciala": {
-        "articol": "Art. 3, alin. (7)",
-        "text": "Sesizarea se poate face și de către organele de ocrotire socială"
-      },
-      "tags": ["părinți", "minor", "16 ani", "creștere", "educare", "vagabondaj", "cerșetorie", "prostituție", "alienat mintal", "ocrotire socială"]
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră", "Organe de ocrotire socială"],
+      "tags": ["părinți", "minor", "16 ani", "vagabondaj", "cerșetorie", "prostituate", "îngrijire", "educație", "alienat", "debil mintal"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-34",
+      "id": "34",
       "punct": "34",
-      "descriere": "Lăsarea fără supraveghere a unui bolnav mintal periculos, de către persoanele care au îndatorirea de a-l îngriji sau de a-l păzi, precum și neanunțarea organelor sanitare sau ale poliției în caz de scăpare de sub pază sau supraveghere.",
-      "articol_prevedere": "Art. 2, pct. 34)",
+      "descriere": "Lăsarea fără supraveghere a unui bolnav mintal periculos, de către persoanele care au îndatorirea de a-l îngriji sau de a-l păzi, precum și neanunțarea organelor sanitare sau ale poliției în caz de scăpare de sub pază sau supraveghere",
+      "articol_prevedere": "Art. 2, pct. 34",
       "articol_sanctiune": "Art. 3, alin. (1), lit. a)",
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "sesizare_speciala": {
-        "articol": "Art. 3, alin. (7)",
-        "text": "Sesizarea se poate face și de către organele de ocrotire socială"
-      },
-      "tags": ["bolnav mintal", "periculos", "supraveghere", "pază", "îngrijire", "scăpare", "anunțare", "organe sanitare", "poliție"]
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră", "Organe de ocrotire socială"],
+      "tags": ["bolnav mintal", "periculos", "supraveghere", "pază", "scăpare", "anunțare", "poliție", "sanitar"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-35",
+      "id": "35",
       "punct": "35",
-      "descriere": "Neasigurarea de către responsabili sau patroni, prin personal propriu ori specializat, a ordinii publice în localuri publice, hoteluri, moteluri, campinguri, cluburi, pensiuni, discoteci și în alte locuri de distracție sau de agrement pe care le conduc, precum și refuzul acestora de a acorda sprijin organelor în drept pentru restabilirea în locurile respective a ordinii publice ori pentru luarea măsurilor împotriva persoanelor care au încălcat legea.",
-      "articol_prevedere": "Art. 2, pct. 35)",
+      "descriere": "Neasigurarea de către responsabili sau patroni, prin personal propriu ori specializat, a ordinii publice în localuri publice, hoteluri, moteluri, campinguri, cluburi, pensiuni, discoteci și în alte locuri de distracție sau de agrement pe care le conduc, precum și refuzul acestora de a acorda sprijin organelor în drept pentru restabilirea în locurile respective a ordinii publice ori pentru luarea măsurilor împotriva persoanelor care au încălcat legea",
+      "articol_prevedere": "Art. 2, pct. 35",
       "articol_sanctiune": "Art. 3, alin. (1), lit. f)",
       "amenda_min": 3000,
       "amenda_max": 6000,
       "permite_jumatate": true,
       "suma_jumatate": 1500,
-      "tags": ["ordine publică", "local public", "hotel", "motel", "camping", "club", "pensiune", "discotecă", "patron", "responsabil", "personal", "refuz", "sprijin"]
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["ordine publică", "local public", "hotel", "motel", "club", "pensiune", "discotecă", "patron", "responsabil", "sprijin poliție"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     },
     {
-      "id": "L61-2-36",
+      "id": "36",
       "punct": "36",
-      "descriere": "Împiedicarea, sub orice formă, a organelor însărcinate cu menținerea ordinii publice de a-și îndeplini obligațiile de serviciu privind legitimarea sau conducerea unei persoane la sediul poliției ori al altui organ de stat sau de a lua măsurile necesare pentru menținerea ori restabilirea ordinii publice.",
-      "articol_prevedere": "Art. 2, pct. 36)",
+      "descriere": "Împiedicarea, sub orice formă, a organelor însărcinate cu menținerea ordinii publice de a-și îndeplini obligațiile de serviciu privind legitimarea sau conducerea unei persoane la sediul poliției ori al altui organ de stat sau de a lua măsurile necesare pentru menținerea ori restabilirea ordinii publice",
+      "articol_prevedere": "Art. 2, pct. 36",
       "articol_sanctiune": "Art. 3, alin. (1), lit. f)",
       "amenda_min": 3000,
       "amenda_max": 6000,
       "permite_jumatate": true,
       "suma_jumatate": 1500,
-      "tags": ["împiedicare", "organe ordine publică", "legitimare", "conducere", "poliție", "obstrucție", "serviciu", "menținere ordine"]
+      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
+      "tags": ["împiedicare", "poliție", "jandarmerie", "ordine publică", "legitimare", "conducere sediu", "obligații serviciu"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
     }
   ],
-  "procedura": {
+  "dispozitii_generale": {
+    "confiscare": {
+      "articol": "Art. 4",
+      "aplicare": "Bunurile care au servit la săvârșirea contravențiilor prevăzute la pct. 4), 5) și 14), dacă sunt ale contravenientului, precum și bunurile dobândite prin săvârșirea contravențiilor, dacă nu sunt restituite persoanei vătămate"
+    },
+    "plata_jumatate_amenda": {
+      "articol": "Art. 6^1 (introdus prin OUG nr. 7/2026, în vigoare de la 27-03-2026)",
+      "dispozitie": "Contravenientul poate achita, în termen de cel mult 15 zile de la data înmânării sau comunicării procesului-verbal, jumătate din cuantumul amenzii aplicate de agentul constatator pentru contravențiile prevăzute la art. 2, cu excepția celei prevăzute la pct. 6)",
+      "termen": "15 zile",
+      "exceptie": "Punctul 6 (proxenetism)"
+    },
+    "competenta_constatare": {
+      "articol": "Art. 6",
+      "organe": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră (pentru faptele din zona specifică de competență)"]
+    },
+    "sesizare_ocrotire_sociala": {
+      "articol": "Art. 3, alin. (7)",
+      "aplicare": "Pentru pct. 23^1), 23^2), 32), 33) și 34), sesizarea se poate face și de către organele de ocrotire socială"
+    },
+    "aplicare_sanctiune": {
+      "articol": "Art. 6, alin. (2)",
+      "dispozitie": "Agentul constatator, odată cu constatarea, aplică și sancțiunea amenzii"
+    },
+    "persoana_juridica": {
+      "articol": "Art. 3, alin. (8)",
+      "dispozitie": "Sancțiunea amenzii poate fi aplicată și persoanei juridice"
+    },
+    "suspendare_activitate": {
+      "dispozitii": [
+        {
+          "articol": "Art. 3, alin. (3)",
+          "cazuri": "Pct. 7), 20), 22), 23) și 23^1)",
+          "perioada": "10-30 zile"
+        },
+        {
+          "articol": "Art. 3, alin. (4)",
+          "cazuri": "Repetarea pct. 19), 21), 22), 23^1), 23^2) și 26)",
+          "perioada": "10-30 zile"
+        }
+      ],
+      "procedura": {
+        "articol": "Art. 3, alin. (6)",
+        "dispozitie": "Se dispune de către organul care a eliberat autorizația, la propunerea organului constatator, cu comunicare în scris în termen de 5 zile"
+      }
+    },
     "plangere": {
+      "termen": "15 zile de la comunicare",
       "articol": "Art. 7",
-      "text": "Împotriva procesului-verbal de constatare a contravențiilor prin care s-a aplicat sancțiunea amenzii se poate face plângere în termen de 15 zile de la comunicarea acestuia."
-    },
-    "solutionare": {
-      "articol": "Art. 8, alin. (1)",
-      "text": "Plângerea împotriva procesului-verbal de constatare a contravenției se soluționează de judecătorie."
-    },
-    "militari": {
-      "articol": "Art. 9, alin. (1)",
-      "text": "În cazul în care contravențiile prevăzute în prezenta lege sunt săvârșite de un militar, procesul-verbal de constatare se trimite comandantului unității din care face parte contravenientul, spre a i se aplica sancțiuni potrivit Regulamentului disciplinei militare."
-    }
-  },
-  "dispozitii_finale": {
-    "drept_comun": {
-      "articol": "Art. 10",
-      "text": "Dispozițiile prezentei legi se completează cu prevederile Ordonanței Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002."
-    },
-    "abrogari": {
-      "articol": "Art. 11",
-      "text": "Pe data intrării în vigoare a prezentei legi se abrogă Decretul nr. 153 din 24 martie 1970 pentru stabilirea și sancționarea unor contravenții privind regulile de conviețuire socială, ordinea și liniștea publică, art. 6 din Decretul nr. 76 din 15 iulie 1975, precum și orice alte dispoziții contrare."
+      "solutionare": "Judecătorie (Art. 8)"
     }
   }
 }
