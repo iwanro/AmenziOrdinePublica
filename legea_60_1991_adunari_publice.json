@@ -1,0 +1,387 @@
+{
+  "lege_metadata": {
+    "titlu": "Legea nr. 60 din 23 septembrie 1991 privind organizarea și desfășurarea adunărilor publice (republicată)",
+    "data_publicare": "14 martie 2014",
+    "monitorul_oficial": "Monitorul Oficial nr. 186 din 14 martie 2014",
+    "data_actualizare": "2021-10-11 (modificări prin Legea nr. 240/2021) și 2026-02-27 (OUG nr. 7/2026)",
+    "nota": "Republicată în temeiul art. 248 din Legea nr. 187/2012"
+  },
+  "fapte": [
+    {
+      "id": "26_1_a",
+      "punct": "a)",
+      "descriere": "Organizarea și desfășurarea de adunări publice nedeclarate, neînregistrate sau interzise",
+      "articol_prevedere": "Art. 26, alin. (1), lit. a)",
+      "articol_sanctiune": "Art. 26, alin. (2)",
+      "amenda_min": 1000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "polițiști",
+        "ofițeri și subofițeri de jandarmi",
+        "primari sau împuterniciții acestora, anume desemnați"
+      ],
+      "tags": [
+        "organizare",
+        "desfășurare",
+        "adunare publică",
+        "nedeclarată",
+        "neînregistrată",
+        "interzisă",
+        "fără declarare prealabilă",
+        "Art. 6",
+        "Art. 7",
+        "Art. 10"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "obligatii_incalcate_detaliate": [
+        "Art. 6: Obligația de a solicita organizarea adunării publice în scris primarului unității administrativ-teritoriale",
+        "Art. 7: Obligația de a depune declarația scrisă cu cel puțin 3 zile înainte, menționând denumirea grupului organizator, scopul, locul, data, ora începerii, durata, traseele, numărul participanților, persoanele împuternicite, serviciile solicitate",
+        "Art. 12 alin. (1) lit. a): Obligația de a înregistra declarațiile la unitățile de jandarmi competente teritorial, cu cel puțin 48 de ore înainte",
+        "Art. 10: Interdicția organizării când primarul a dispus interzicerea conform art. 10 alin. (1) (date de la organele specializate că desfășurarea ar duce la încălcarea art. 2 sau lucrări edilitar-gospodărești de amploare)"
+      ],
+      "sancționat": "organizatorii sau persoanele fizice responsabile pentru conducerea adunărilor publice (conform Art. 26 alin. 3)"
+    },
+    {
+      "id": "26_1_b",
+      "punct": "b)",
+      "descriere": "Nerespectarea orelor de desfășurare, traseelor de deplasare sau locului și perimetrului destinat adunării publice",
+      "articol_prevedere": "Art. 26, alin. (1), lit. b)",
+      "articol_sanctiune": "Art. 26, alin. (2)",
+      "amenda_min": 1000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "polițiști",
+        "ofițeri și subofițeri de jandarmi",
+        "primari sau împuterniciții acestora, anume desemnați"
+      ],
+      "tags": [
+        "nerespectare",
+        "ore desfășurare",
+        "trasee deplasare",
+        "loc",
+        "perimetru",
+        "adunare publică",
+        "abatere de la program",
+        "modificare traseu",
+        "depășire spațiu"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "obligatii_incalcate_detaliate": [
+        "Art. 7: Obligația de a respecta în declarație ora începerii, durata, traseele de afluire și defluire, locul",
+        "Art. 8 alin. (2): Obligația de a respecta modificările convenite cu comisia de avizare",
+        "Art. 12 alin. (1) lit. f): Obligația de a respecta traseele de afluire și defluire și de a ocupa spațiile cu puțin timp înainte de ora începerii și de a le părăsi imediat după ora-limită"
+      ],
+      "sancționat": "organizatorii sau persoanele fizice responsabile pentru conducerea adunărilor publice (conform Art. 26 alin. 3)"
+    },
+    {
+      "id": "26_1_c",
+      "punct": "c)",
+      "descriere": "Neluarea de către organizatori a măsurilor de întrerupere a adunării publice, când constată că au intervenit fapte de natură celor prevăzute în art. 2 (desfășurare nepașnică, necivilizată, stânjenirea folosirii normale a drumurilor publice și transportului în comun, funcționarea instituțiilor, degenereare în acțiuni turbulente, continuare după ora 23:00)",
+      "articol_prevedere": "Art. 26, alin. (1), lit. c)",
+      "articol_sanctiune": "Art. 26, alin. (2)",
+      "amenda_min": 1000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "polițiști",
+        "ofițeri și subofițeri de jandarmi",
+        "primari sau împuterniciții acestora, anume desemnați"
+      ],
+      "tags": [
+        "neluare măsuri",
+        "întrerupere",
+        "adunare publică",
+        "fapte Art. 2",
+        "desfășurare nepașnică",
+        "turbulențe",
+        "depășire orar",
+        "organizator",
+        "obligație de a întrerupe"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "obligatii_incalcate_detaliate": [
+        "Art. 2: Adunările publice trebuie să se desfășoare în mod pașnic și civilizat, cu protecția participanților și a mediului ambiant, fără să stânjească folosirea normală a drumurilor publice, a transportului în comun, funcționarea instituțiilor publice sau private, a celor de învățământ, cultură și sănătate, a unităților economice ori să degenereze în acțiuni turbulente de natură a pune în primejdie ordinea și liniștea publică, siguranța persoanelor, integritatea corporală, viața sau bunurile",
+        "Art. 12 alin. (1) lit. i): Obligația organizatorilor de a întrerupe imediat adunarea publică atunci când constată că au intervenit fapte de natura celor prevăzute la art. 2"
+      ],
+      "sancționat": "organizatorii sau persoanele fizice responsabile pentru conducerea adunărilor publice (conform Art. 26 alin. 3)"
+    },
+    {
+      "id": "26_1_d",
+      "punct": "d)",
+      "descriere": "Participarea la adunări publice nedeclarate sau interzise și urmate de refuzul părăsirii locurilor de desfășurare a acestora, la avertizările și somațiile organelor de ordine făcute potrivit legii",
+      "articol_prevedere": "Art. 26, alin. (1), lit. d)",
+      "articol_sanctiune": "Art. 26, alin. (2)",
+      "amenda_min": 500,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "polițiști",
+        "ofițeri și subofițeri de jandarmi",
+        "primari sau împuterniciții acestora, anume desemnați"
+      ],
+      "tags": [
+        "participare",
+        "adunare nedeclarată",
+        "adunare interzisă",
+        "refuz părăsire",
+        "avertizare",
+        "somație",
+        "organ de ordine",
+        "refuz dispersare"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "obligatii_incalcate_detaliate": [
+        "Art. 13 lit. d): Obligația participanților de a părăsi imediat adunările publice sau locul unde acestea se desfășoară, când au fost somați de către organizatori, împuterniciții acestora sau organele de poliție",
+        "Art. 20-23: Procedura de avertizare și somare înaintea folosirii forței"
+      ]
+    },
+    {
+      "id": "26_1_e",
+      "punct": "e)",
+      "descriere": "Instigarea prin orice mijloace, inițierea sau recurgerea la acțiuni violente sau alte manifestări, cu intenția de zădărnicire ori tulburare, în orice mod, a adunărilor publice",
+      "articol_prevedere": "Art. 26, alin. (1), lit. e)",
+      "articol_sanctiune": "Art. 26, alin. (2)",
+      "amenda_min": 500,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "polițiști",
+        "ofițeri și subofițeri de jandarmi",
+        "primari sau împuterniciții acestora, anume desemnați"
+      ],
+      "tags": [
+        "instigare",
+        "inițiere",
+        "acțiuni violente",
+        "manifestări",
+        "zădărnicire",
+        "tulburare",
+        "adunare publică",
+        "violență",
+        "dezordine"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "obligatii_incalcate_detaliate": [
+        "Art. 2: Interdicția desfășurării în alte condiții decât pașnice și civilizate, fără acțiuni turbulente",
+        "Art. 9: Interdicția propagării ideilor totalitare, defăimării țării, îndemnului la ură, incitării la discriminare, violență publică și manifestări obscene",
+        "Art. 12 alin. (1) lit. j): Obligația organizatorilor de a interzice participarea persoanelor care au asupra lor arme, materiale explozive, substanțe iritant-lacrimogene, dispozitive pentru șocuri electrice sau alte obiecte ce pot fi folosite pentru acțiuni violente",
+        "Art. 13 lit. b): Obligația participanților de a se abține de la acțiuni de natură a împiedica desfășurarea normală a adunărilor publice și de a nu incita la asemenea acțiuni",
+        "Art. 14: Interdicția infiltrării de persoane sau grupuri fără legătură cu adunarea publică organizată, cu scopul de a tulbura desfășurarea normală"
+      ]
+    },
+    {
+      "id": "26_1_f",
+      "punct": "f)",
+      "descriere": "Refuzul de a părăsi imediat adunarea, dacă măsura a fost dispusă de conducătorii acțiunilor",
+      "articol_prevedere": "Art. 26, alin. (1), lit. f)",
+      "articol_sanctiune": "Art. 26, alin. (2)",
+      "amenda_min": 500,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "polițiști",
+        "ofițeri și subofițeri de jandarmi",
+        "primari sau împuterniciții acestora, anume desemnați"
+      ],
+      "tags": [
+        "refuz",
+        "părăsire",
+        "adunare",
+        "conducători acțiuni",
+        "dispoziție",
+        "organizator",
+        "împuternicit"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "obligatii_incalcate_detaliate": [
+        "Art. 13 lit. d): Obligația participanților de a părăsi imediat adunările publice sau locul unde acestea se desfășoară, când au fost somați de către organizatori sau împuterniciții acestora"
+      ]
+    },
+    {
+      "id": "26_1_g",
+      "punct": "g)",
+      "descriere": "Organizarea sau participarea la contramanifestații desfășurate în același timp și în același loc cu adunările publice declarate, indiferent de modul lor de exprimare",
+      "articol_prevedere": "Art. 26, alin. (1), lit. g)",
+      "articol_sanctiune": "Art. 26, alin. (2)",
+      "amenda_min": 500,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "polițiști",
+        "ofițeri și subofițeri de jandarmi",
+        "primari sau împuterniciții acestora, anume desemnați"
+      ],
+      "tags": [
+        "organizare",
+        "participare",
+        "contramanifestație",
+        "același timp",
+        "același loc",
+        "adunare publică declarată",
+        "simultan",
+        "Art. 5 alin. 2"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "obligatii_incalcate_detaliate": [
+        "Art. 5 alin. (2): Interdicția desfășurării simultane a două sau mai multe adunări publice distincte, în același loc sau pe aceleași trasee, indiferent de caracterul acestora"
+      ]
+    },
+    {
+      "id": "26_1_h",
+      "punct": "h)",
+      "descriere": "Introducerea sau desfacerea băuturilor alcoolice în locurile destinate desfășurării adunărilor publice, pe toată durata acestora, cu excepția spațiilor pentru revelion, zilele unităților administrativ-teritoriale, ale categoriilor socioprofesionale, promovarea produselor, sau perimetrelor special amenajate pentru manifestări cultural-artistice cu acces controlat",
+      "articol_prevedere": "Art. 26, alin. (1), lit. h)",
+      "articol_sanctiune": "Art. 26, alin. (2)",
+      "amenda_min": 500,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "polițiști",
+        "ofițeri și subofițeri de jandarmi",
+        "primari sau împuterniciții acestora, anume desemnați"
+      ],
+      "tags": [
+        "introducere",
+        "desfacere",
+        "băuturi alcoolice",
+        "loc adunare publică",
+        "interdicție",
+        "excepții",
+        "revelion",
+        "zile localități",
+        "promovare produse",
+        "manifestări cultural-artistice"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "obligatii_incalcate_detaliate": [
+        "Art. 12 alin. (1) lit. g): Obligația organizatorilor de a lua măsuri pentru interzicerea participării persoanelor care au asupra lor băuturi alcoolice sau care se află sub influența acestora",
+        "Art. 13 lit. e): Obligația participanților de a nu consuma și de a nu distribui băuturi alcoolice sau droguri",
+        "Art. 15 lit. c): Obligația primăriilor de a interzice desfacerea băuturilor alcoolice în locurile destinate desfășurării adunărilor publice, cu excepțiile menționate (modificat prin Legea nr. 240/2021)"
+      ],
+      "nota_modificare": "Modificat prin Legea nr. 240/2021 din 8 octombrie 2021 - au fost adăugate excepțiile pentru revelion, zilele unităților administrativ-teritoriale etc."
+    },
+    {
+      "id": "26_1_i",
+      "punct": "i)",
+      "descriere": "Refuzul de a părăsi imediat adunarea la solicitarea organelor de ordine, potrivit legii",
+      "articol_prevedere": "Art. 26, alin. (1), lit. i)",
+      "articol_sanctiune": "Art. 26, alin. (2)",
+      "amenda_min": 500,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "polițiști",
+        "ofițeri și subofițeri de jandarmi",
+        "primari sau împuterniciții acestora, anume desemnați"
+      ],
+      "tags": [
+        "refuz",
+        "părăsire",
+        "adunare",
+        "solicitare",
+        "organ de ordine",
+        "poliție",
+        "jandarmerie",
+        "refuz dispersare"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "obligatii_incalcate_detaliate": [
+        "Art. 13 lit. d): Obligația participanților de a părăsi imediat adunările publice sau locul unde acestea se desfășoară, când au fost somați de către organele de poliție",
+        "Art. 17-24: Procedura de intervenție a organelor de ordine și obligația participanților de a se dispersa la avertizări și somații"
+      ]
+    }
+  ],
+  "dispozitii_generale": {
+    "regim_juridic_contraventii": {
+      "articol": "Art. 28",
+      "dispozitie": "Dispozițiile prezentei legi, referitoare la constatarea și sancționarea contravențiilor, se completează cu cele ale Ordonanței Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002, cu modificările și completările ulterioare"
+    },
+    "plata_jumatate_amenda": {
+      "articol": "Art. 27^1 (introdus prin OUG nr. 7/2026)",
+      "dispozitie": "Prin derogare de la dispozițiile art. 28 alin. (1) din Ordonanța Guvernului nr. 2/2001, contravenientul poate achita, în termen de cel mult 15 zile de la data înmânării sau comunicării procesului-verbal, jumătate din cuantumul amenzii aplicate de agentul constatator pentru contravențiile prevăzute la art. 26",
+      "termen": "15 zile (nu 48 de ore ca în regimul general)",
+      "aplicabilitate": "Doar pentru contravențiile din Art. 26",
+      "intrare_in_vigoare": "27 martie 2026",
+      "observatie": "Termenul special de 15 zile (față de 48 de ore în OG 2/2001) pentru Legea nr. 60/1991"
+    },
+    "perioada_prescriptie": {
+      "termen": "6 luni pentru contravenții (conform art. 6 din OUG nr. 2/2001)"
+    },
+    "competenta_constatare": {
+      "articol": "Art. 27",
+      "organe": [
+        "polițiști",
+        "ofițeri și subofițeri de jandarmi",
+        "primari sau de împuterniciții acestora, anume desemnați"
+      ]
+    },
+    "interdictii_absolut": {
+      "articol": "Art. 5 și Art. 9",
+      "dispozitii": [
+        "Art. 5 alin. (1): Interdicția organizării adunărilor publice în imediata apropiere a gărilor, porturilor, aeroporturilor, stațiilor de metrou, spitalelor, obiectivelor militare, unităților economice cu instalații periculoase",
+        "Art. 5 alin. (2): Interdicția desfășurării simultane a două sau mai multe adunări publice distincte, în același loc sau pe aceleași trasee",
+        "Art. 9: Interdicția adunărilor publice care urmăresc propagarea ideilor totalitare fasciste, comuniste, rasiste, șovine, terorist-diversioniste, defăimarea țării și națiunii, îndemnul la ură națională sau religioasă, incitarea la discriminare, violență publică și manifestări obscene contrare bunelor moravuri, organizarea loviturii de stat sau acțiuni contrare siguranței naționale, încălcarea ordinii, siguranței sau moralității publice"
+      ]
+    },
+    "interventie_forta": {
+      "articol": "Art. 17-24",
+      "dispozitii": [
+        "Art. 19: Aprobarea intervenției în forță de către prefect sau înlocuitorul acestuia, cu excepția cazurilor de violențe asupra forțelor de ordine sau pericol iminent",
+        "Art. 20: Procedura de avertizare și somare înaintea folosirii forței",
+        "Art. 21-23: Conținutul avertizării și somațiilor (prima somație, ultima somație, semnal luminos roșu)",
+        "Art. 24: Încetarea folosirii mijloacelor de împiedicare sau constrângere după restabilirea ordinii"
+      ]
+    },
+    "exceptii_de_la_declarare": {
+      "articol": "Art. 3",
+      "dispozitie": "Nu trebuie declarate în prealabil adunările publice al căror scop îl constituie manifestările cultural-artistice, sportive, religioase, comemorative, cele ocazionate de vizite oficiale, precum și cele care se desfășoară în exteriorul sau în incinta sediilor ori a imobilelor persoanelor juridice de interes public sau privat",
+      "conditie": "Dacă organizatorii dețin indicii sau date că desfășurarea ar putea duce la acte de dezordine sau manifestări violente, au obligația să solicite sprijin de specialitate de la primari, unitățile de jandarmi și poliția locală"
+    }
+  },
+  "note_legale": {
+    "confiscare": "Nu sunt prevăzute măsuri de confiscare în cadrul contravențiilor la prezenta lege",
+    "masuri_complementare": "Conform Art. 28, sunt aplicabile dispozițiile OG nr. 2/2001 privind regimul juridic al contravențiilor",
+    "agravare": "Nu sunt prevăzute circumstanțe agravante specifice în cadrul contravențiilor",
+    "repetare": "Nu sunt prevăzute sancțiuni specifice pentru repetarea contravențiilor în cadrul prezentei legi",
+    "inchisoare_contraventionala": "Art. 28 face trimitere la închisoarea contravențională, dar conform notei de la sfârșitul legii și OUG nr. 108/2003, aceasta se consideră făcută la sancțiunea prestării unei activități în folosul comunității",
+    "infracțiuni": "Art. 29: Opunerea cu violență față de organizatori, împuterniciții acestora sau forțele de ordine ori împiedicarea lor de a-și exercita atribuțiile constituie infracțiune și se pedepsește cu închisoare de la 3 luni la 2 ani sau cu amendă"
+  }
+}
