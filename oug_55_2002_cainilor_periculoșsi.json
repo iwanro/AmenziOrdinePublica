@@ -1,0 +1,164 @@
+{
+  "lege_metadata": {
+    "titlu": "ORDONANȚĂ DE URGENȚĂ nr. 55 din 30 aprilie 2002 (*republicată*) privind regimul de deținere al câinilor periculoși sau agresivi",
+    "data_actualizare": "27 februarie 2014",
+    "monitor_oficial": "MONITORUL OFICIAL nr. 146 din 27 februarie 2014",
+    "forma_republicata": "M.Of. nr. 146/2014",
+    "acte_modificatoare": [
+      "Legea nr. 60/2003 (M.Of. nr. 183/2003)",
+      "Legea nr. 187/2012 (M.Of. nr. 757/2012)"
+    ]
+  },
+  "fapte": [
+    {
+      "id": "art_18_1_a",
+      "descriere": "Neluarea măsurilor de prevenire a atacului canin de către proprietarul sau deținătorul temporar al câinelui, dacă fapta s-a soldat cu rănirea sau cu uciderea unui animal domestic.",
+      "articol_prevedere": "Art. 18, alin. (1), lit. a)",
+      "articol_sanctiune": "Art. 18, alin. (2), lit. a)",
+      "amenda_min": 100,
+      "amenda_max": 500,
+      "permite_jumatate": true,
+      "suma_jumatate": 50,
+      "competenta": [
+        "Inspectorii poliției sanitare veterinare",
+        "Personal desemnat din MAI"
+      ],
+      "tags": [
+        "atac canin",
+        "animal domestic",
+        "rănire",
+        "ucidere",
+        "măsuri prevenire",
+        "proprietar câine"
+      ]
+    },
+    {
+      "id": "art_18_1_b",
+      "descriere": "Neanunțarea la poliție a pierderii sau a decesului câinilor periculoși (din rasele Pit Bull, Boerbull, Bandog, American Staffordshire Terrier, Tosa, Rottweiller, Dog Argentinian, Mastino Napolitano, Fila Brazileiro, Mastiff, Ciobănesc Caucazian, Cane Corso și metișii lor), de către proprietar sau de către persoana care îi are în pază, în termen de 48 de ore de la constatare.",
+      "articol_prevedere": "Art. 18, alin. (1), lit. b)",
+      "articol_sanctiune": "Art. 18, alin. (2), lit. a)",
+      "amenda_min": 100,
+      "amenda_max": 500,
+      "permite_jumatate": true,
+      "suma_jumatate": 50,
+      "competenta": [
+        "Inspectorii poliției sanitare veterinare",
+        "Personal desemnat din MAI"
+      ],
+      "tags": [
+        "anunț poliție",
+        "pierdere câine",
+        "deces câine",
+        "termen 48 ore",
+        "câine periculos"
+      ]
+    },
+    {
+      "id": "art_18_1_c",
+      "descriere": "Nerespectarea prevederilor privind condițiile și obligațiile deținătorilor: vârsta minimă 18 ani, capacitate deplină de exercițiu, să nu fi fost condamnați pentru infracțiuni contra persoanei; obligația de a înregistra câinii la Asociația Chinologică Română și de a afișa avertismentul 'Câine periculos' sau 'Câine agresiv'; obligația de a depune la poliție adeverința de încadrare a câinelui și o declarație privind numărul de identificare, vaccinarea antirabică, sterilizarea și asigurarea de răspundere civilă; obligația de a declara schimbarea adresei în termen de 48 de ore.",
+      "articol_prevedere": "Art. 18, alin. (1), lit. c) raportat la Art. 3 și Art. 4 alin. (1) și (2)",
+      "articol_sanctiune": "Art. 18, alin. (2), lit. b)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Inspectorii poliției sanitare veterinare",
+        "Personal desemnat din MAI"
+      ],
+      "tags": [
+        "înregistrare câine",
+        "avertisment",
+        "adeverință poliție",
+        "vaccinare",
+        "sterilizare",
+        "asigurare",
+        "schimbare adresă"
+      ]
+    },
+    {
+      "id": "art_18_1_d",
+      "descriere": "Nerespectarea prevederilor privind dresajul și reproducția: dresajul câinilor periculoși doar în centre speciale autorizate sau pe proprietate privată; interzicerea reproducerii câinilor periculoși fără acte de origine recunoscute; obligativitatea sterilizării câinilor din categoria I (Pit Bull, Boerbull, Bandog și metișii lor).",
+      "articol_prevedere": "Art. 18, alin. (1), lit. d) raportat la Art. 8, Art. 9 lit. c) și Art. 10",
+      "articol_sanctiune": "Art. 18, alin. (2), lit. b)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Inspectorii poliției sanitare veterinare",
+        "Personal desemnat din MAI"
+      ],
+      "tags": [
+        "dresaj",
+        "centru autorizat",
+        "reproducție",
+        "acte origine",
+        "sterilizare obligatorie",
+        "câini luptă"
+      ]
+    },
+    {
+      "id": "art_18_1_e",
+      "descriere": "Nerespectarea regulilor de acces și circulație: interzicerea accesului câinilor din categoria I în locuri publice și transport în comun; obligativitatea purtării botniței și lesăciului pe drumurile publice și în părțile comune; interzicerea staționării câinilor din categoria I în părțile comune; obligativitatea purtării botniței și lesăciului pentru câinii din categoria a II-a și cei agresivi în locuri publice.",
+      "articol_prevedere": "Art. 18, alin. (1), lit. e) raportat la Art. 6",
+      "articol_sanctiune": "Art. 18, alin. (2), lit. c)",
+      "amenda_min": 1500,
+      "amenda_max": 3000,
+      "permite_jumatate": true,
+      "suma_jumatate": 750,
+      "competenta": [
+        "Inspectorii poliției sanitare veterinare",
+        "Personal desemnat din MAI"
+      ],
+      "tags": [
+        "acces public",
+        "botniță",
+        "lesă",
+        "transport în comun",
+        "locuri publice",
+        "circulație câine"
+      ]
+    },
+    {
+      "id": "art_18_1_f",
+      "descriere": "Abandonarea câinilor periculoși sau agresivi (prevăzuți la art. 1, art. 2 alin. (1) și la art. 6 alin. (4)).",
+      "articol_prevedere": "Art. 18, alin. (1), lit. f) raportat la Art. 9 lit. d)",
+      "articol_sanctiune": "Art. 18, alin. (2), lit. c)",
+      "amenda_min": 1500,
+      "amenda_max": 3000,
+      "permite_jumatate": true,
+      "suma_jumatate": 750,
+      "competenta": [
+        "Inspectorii poliției sanitare veterinare",
+        "Personal desemnat din MAI"
+      ],
+      "tags": [
+        "abandonare",
+        "câine periculos",
+        "câine agresiv",
+        "protecția animalelor"
+      ]
+    },
+    {
+      "id": "art_19_1",
+      "descriere": "Fapta persoanei care produce câinelui, în orice mod, o suferință nejustificată ori îl provoacă la reacții agresive.",
+      "articol_prevedere": "Art. 19, alin. (1)",
+      "articol_sanctiune": "Art. 19, alin. (1)",
+      "amenda_min": 1000,
+      "amenda_max": 2000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Inspectorii poliției sanitare veterinare",
+        "Personal desemnat din MAI"
+      ],
+      "tags": [
+        "suferință animal",
+        "reacții agresive",
+        "maltratare câine",
+        "protejare animale"
+      ]
+    }
+  ]
+}
