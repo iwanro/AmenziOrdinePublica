@@ -1,0 +1,3664 @@
+{
+  "lege_metadata": {
+    "titlu": "Legea nr. 171/2010 privind stabilirea și sancționarea contravențiilor silvice",
+    "emitent": "Parlamentul României",
+    "data_publicare": "23 iulie 2010",
+    "monitorul_oficial": "Monitorul Oficial nr. 513 din 23 iulie 2010",
+    "data_actualizare": "9 ianuarie 2025 (prin Codul Silvic)"
+  },
+  "fapte": [
+    {
+      "id": "fapta_1",
+      "descriere": "Încheierea de contracte de administrare/servicii silvice de către administratorul/prestatorul de servicii silvice cu persoanele care dobândesc exclusiv dreptul de proprietate asupra masei lemnoase, fără a fi proprietar al terenului pe care este amplasată aceasta, cu excepția uzufructuarilor dovediți.",
+      "articol_prevedere": "Art. 3 alin. (1)",
+      "articol_sanctiune": "Art. 3 alin. (1)",
+      "amenda_min": 10000,
+      "amenda_max": 20000,
+      "permite_jumatate": true,
+      "suma_jumatate": 5000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Personalul silvic din cadrul administratorilor fondului forestier proprietate publică a statului",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "contract administrare",
+        "servicii silvice",
+        "proprietate masa lemnoasa",
+        "uzufruct",
+        "administrator silvic"
+      ],
+      "masuri_complementare": "Nulitatea de drept a contractelor încheiate.",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_2",
+      "descriere": "Neasigurarea administrării sau serviciilor silvice de către proprietarul/succesorul în drepturi/uzufructuarul de fond forestier prin ocoale silvice autorizate, pe bază de contract.",
+      "articol_prevedere": "Art. 3 alin. (2) lit. a)",
+      "articol_sanctiune": "Art. 3 alin. (2)",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Personalul silvic din cadrul administratorilor fondului forestier proprietate publică a statului",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "administrare obligatorie",
+        "servicii silvice",
+        "ocol silvic",
+        "contract",
+        "proprietar forestier"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_3",
+      "descriere": "Nematerializarea și nedelimitarea în teren de către proprietari a limitelor terenurilor forestiere pe care le dețin, cu țăruși, borne, vopsea, neîntreținerea/nemenținerea în stare corespunzătoare/vizibilă a semnelor de hotar, respectiv mutarea semnelor amenajistice și/sau de hotar.",
+      "articol_prevedere": "Art. 3 alin. (2) lit. b)",
+      "articol_sanctiune": "Art. 3 alin. (2)",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Personalul silvic din cadrul administratorilor fondului forestier proprietate publică a statului",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "delimitare proprietate",
+        "semne de hotar",
+        "borne",
+        "materializare limite",
+        "semne amenajistice"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_4",
+      "descriere": "Neasigurarea de către administratorii drumurilor și ai căilor ferate forestiere a întreținerii și reparării acestora, conform normelor legale în vigoare.",
+      "articol_prevedere": "Art. 4 lit. a)",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 1000,
+      "amenda_max": 2000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Personalul silvic din cadrul administratorilor fondului forestier proprietate publică a statului",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "drum forestier",
+        "cale ferata forestiera",
+        "intretinere",
+        "reparatii",
+        "administrator drum"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_5",
+      "descriere": "Neîndeplinirea de către ocolul silvic nominalizat a obligației de a asigura, pe bază de contract, la solicitarea scrisă a proprietarului, administrarea/serviciile silvice, pentru fondul forestier pentru care se face solicitarea.",
+      "articol_prevedere": "Art. 4 lit. b)",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 1000,
+      "amenda_max": 2000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Personalul silvic din cadrul administratorilor fondului forestier proprietate publică a statului",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "ocol silvic",
+        "servicii silvice obligatorii",
+        "contract administrare",
+        "refuz prestare",
+        "solicitare proprietar"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_6",
+      "descriere": "Depășirea posibilității, inclusiv ca urmare a recoltării produselor accidentale I și fără existența aprobărilor legale, în procent de 3,1%-10% din posibilitate.",
+      "articol_prevedere": "Art. 5 alin. (1)",
+      "articol_sanctiune": "Art. 5 alin. (1) lit. b)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Personalul silvic din cadrul administratorilor fondului forestier proprietate publică a statului",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "depasire posibilitate",
+        "produse accidentale",
+        "amenajament",
+        "recoltare ilegala",
+        "volum"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_7",
+      "descriere": "Depășirea posibilității, inclusiv ca urmare a recoltării produselor accidentale I și fără existența aprobărilor legale, în procent de 10,1%-25% din posibilitate.",
+      "articol_prevedere": "Art. 5 alin. (1)",
+      "articol_sanctiune": "Art. 5 alin. (1) lit. c)",
+      "amenda_min": 10000,
+      "amenda_max": 20000,
+      "permite_jumatate": true,
+      "suma_jumatate": 5000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Personalul silvic din cadrul administratorilor fondului forestier proprietate publică a statului",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "depasire posibilitate",
+        "produse accidentale",
+        "amenajament",
+        "recoltare ilegala",
+        "volum"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_8",
+      "descriere": "Depășirea posibilității, inclusiv ca urmare a recoltării produselor accidentale I și fără existența aprobărilor legale, în procent de peste 25% din posibilitate.",
+      "articol_prevedere": "Art. 5 alin. (1)",
+      "articol_sanctiune": "Art. 5 alin. (1) lit. d)",
+      "amenda_min": 20000,
+      "amenda_max": 30000,
+      "permite_jumatate": true,
+      "suma_jumatate": 10000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Personalul silvic din cadrul administratorilor fondului forestier proprietate publică a statului",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "depasire posibilitate",
+        "produse accidentale",
+        "amenajament",
+        "recoltare ilegala",
+        "volum"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_9",
+      "descriere": "Nerespectarea normelor tehnice de amenajare a pădurilor la culegerea datelor din teren, care determină modificarea măsurilor de gospodărire a pădurilor.",
+      "articol_prevedere": "Art. 5 alin. (6) lit. a)",
+      "articol_sanctiune": "Art. 5 alin. (6)",
+      "amenda_min": 3000,
+      "amenda_max": 7000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "norme tehnice",
+        "amenajare paduri",
+        "culegere date",
+        "gospodarie paduri",
+        "proiect amenajament"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_10",
+      "descriere": "Depășirea prin recoltare în alte condiții decât cele prevăzute de lege, fără aprobarea legală, a volumului de produse principale posibil de recoltat.",
+      "articol_prevedere": "Art. 5 alin. (6) lit. b)",
+      "articol_sanctiune": "Art. 5 alin. (6)",
+      "amenda_min": 3000,
+      "amenda_max": 7000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "depasire recoltare",
+        "produse principale",
+        "aprobare legala",
+        "volum",
+        "amenajament"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_11",
+      "descriere": "Elaborarea unui amenajament silvic înainte de expirarea perioadei de valabilitate a celui existent cu încălcarea normelor tehnice.",
+      "articol_prevedere": "Art. 5 alin. (6) lit. c)",
+      "articol_sanctiune": "Art. 5 alin. (6)",
+      "amenda_min": 3000,
+      "amenda_max": 7000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "amenajament silvic",
+        "valabilitate",
+        "elaborare",
+        "norme tehnice",
+        "conference amenajare"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_12",
+      "descriere": "Neîntocmirea amenajamentelor silvice pentru suprafețe de fond forestier pentru care există obligativitatea întocmirii.",
+      "articol_prevedere": "Art. 5 alin. (6) lit. d)",
+      "articol_sanctiune": "Art. 5 alin. (6)",
+      "amenda_min": 3000,
+      "amenda_max": 7000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "amenajament silvic",
+        "obligativitate",
+        "intocmire",
+        "proprietar fond forestier",
+        "lipsa amenajament"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_13",
+      "descriere": "Recoltarea prin lucrări de conservare la nivelul de subunitate de gospodărire a unui volum mai mare decât volumul prevăzut, fără existența unei aprobări legale, în procent de 3,1%-10% din volumul prevăzut.",
+      "articol_prevedere": "Art. 5 alin. (8)",
+      "articol_sanctiune": "Art. 5 alin. (8) lit. b)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "lucrari conservare",
+        "volum recoltare",
+        "aprobare legala",
+        "subunitate gospodarie",
+        "depasire"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_14",
+      "descriere": "Recoltarea prin lucrări de conservare la nivelul de subunitate de gospodărire a unui volum mai mare decât volumul prevăzut, fără existența unei aprobări legale, în procent de 10,1%-25% din volumul prevăzut.",
+      "articol_prevedere": "Art. 5 alin. (8)",
+      "articol_sanctiune": "Art. 5 alin. (8) lit. c)",
+      "amenda_min": 10000,
+      "amenda_max": 20000,
+      "permite_jumatate": true,
+      "suma_jumatate": 5000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "lucrari conservare",
+        "volum recoltare",
+        "aprobare legala",
+        "subunitate gospodarie",
+        "depasire"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_15",
+      "descriere": "Recoltarea prin lucrări de conservare la nivelul de subunitate de gospodărire a unui volum mai mare decât volumul prevăzut, fără existența unei aprobări legale, în procent de peste 25% din volumul prevăzut.",
+      "articol_prevedere": "Art. 5 alin. (8)",
+      "articol_sanctiune": "Art. 5 alin. (8) lit. d)",
+      "amenda_min": 20000,
+      "amenda_max": 30000,
+      "permite_jumatate": true,
+      "suma_jumatate": 10000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "lucrari conservare",
+        "volum recoltare",
+        "aprobare legala",
+        "subunitate gospodarie",
+        "depasire"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_16",
+      "descriere": "Depășirea cu peste 50% a procentului de extras prin lucrări de conservare stabilit prin amenajamentul silvic la nivel de arboret.",
+      "articol_prevedere": "Art. 5 alin. (9)",
+      "articol_sanctiune": "Art. 5 alin. (9)",
+      "amenda_min": 3000,
+      "amenda_max": 6000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "procent extras",
+        "lucrari conservare",
+        "amenajament",
+        "arboret",
+        "depasire procent"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_17",
+      "descriere": "Aprobarea sau autorizarea spre exploatare a actelor de punere în valoare de produse accidentale, altele decât cele rezultate din defrișările legal aprobate sau cele aferente instalațiilor de scos-apropiat, fără notificarea structurii teritoriale de specialitate a autorității publice centrale care răspunde de silvicultură.",
+      "articol_prevedere": "Art. 5^1 lit. b)",
+      "articol_sanctiune": "Art. 5^1",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție"
+      ],
+      "tags": [
+        "produse accidentale",
+        "aprobare exploatare",
+        "notificare",
+        "autoritate centrala",
+        "punere in valoare"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_18",
+      "descriere": "Punerea în valoare, ca produse de igienă sau ca produse accidentale, a arborilor care nu îndeplinesc condițiile de a fi încadrați ca igienă sau produse accidentale.",
+      "articol_prevedere": "Art. 5^1 lit. c)",
+      "articol_sanctiune": "Art. 5^1",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție"
+      ],
+      "tags": [
+        "produse igiena",
+        "produse accidentale",
+        "incadrare arbori",
+        "punere in valoare",
+        "conditii tehnice"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_19",
+      "descriere": "Nerespectarea de către șeful de proiect a prevederilor consemnate în ședința de preavizare a soluțiilor tehnice.",
+      "articol_prevedere": "Art. 6 lit. b)",
+      "articol_sanctiune": "Art. 6",
+      "amenda_min": 1000,
+      "amenda_max": 2000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "sef proiect",
+        "solutii tehnice",
+        "preavizare",
+        "amenajament",
+        "proces verbal"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_20",
+      "descriere": "Nematerializarea și/sau neîntreținerea semnelor amenajistice.",
+      "articol_prevedere": "Art. 6 lit. c)",
+      "articol_sanctiune": "Art. 6",
+      "amenda_min": 1000,
+      "amenda_max": 2000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție"
+      ],
+      "tags": [
+        "semne amenajistice",
+        "materializare",
+        "intretinere",
+        "delimitare",
+        "bornare"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_21",
+      "descriere": "Mutarea semnelor amenajistice.",
+      "articol_prevedere": "Art. 6 lit. d)",
+      "articol_sanctiune": "Art. 6",
+      "amenda_min": 1000,
+      "amenda_max": 2000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție"
+      ],
+      "tags": [
+        "semne amenajistice",
+        "mutare",
+        "deteriorare",
+        "limita parcela",
+        "borna"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_22",
+      "descriere": "Compensarea volumului de recoltat prevăzut de amenajamentul silvic din unități amenajistice inaccesibile cu volume echivalente din unități amenajistice accesibile, cu excepția produselor accidentale I, de către ocoalele silvice care asigură administrarea sau serviciile silvice.",
+      "articol_prevedere": "Art. 6 lit. e)",
+      "articol_sanctiune": "Art. 6",
+      "amenda_min": 1000,
+      "amenda_max": 2000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "compensare volum",
+        "unitati amenajistice",
+        "accesibilitate",
+        "produse accidentale",
+        "ocol silvic"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_23",
+      "descriere": "Schimbarea fără aprobare legală a categoriei de folosință a terenurilor din fondul forestier național.",
+      "articol_prevedere": "Art. 7 alin. (1) lit. a)",
+      "articol_sanctiune": "Art. 7 alin. (1)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "schimbare folosinta",
+        "fond forestier",
+        "aprobare legala",
+        "teren forestier",
+        "defrisare"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_24",
+      "descriere": "Trecerea terenurilor forestiere din domeniul public al unităților administrativ-teritoriale în domeniul privat al acestora prin hotărâre a consiliului local, a consiliului județean, respectiv a Consiliului General al Municipiului București.",
+      "articol_prevedere": "Art. 7 alin. (1) lit. b)",
+      "articol_sanctiune": "Art. 7 alin. (1)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "teren forestier",
+        "domeniu public",
+        "domeniu privat",
+        "hotarare consiliu",
+        "trecere teren"
+      ],
+      "masuri_complementare": "Nulitatea de drept a hotărârii prin care s-a săvârșit fapta.",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_25",
+      "descriere": "Includerea pădurilor în intravilan.",
+      "articol_prevedere": "Art. 7 alin. (1) lit. c)",
+      "articol_sanctiune": "Art. 7 alin. (1)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "padure",
+        "intravilan",
+        "urbanism",
+        "includere",
+        "teritoriu"
+      ],
+      "masuri_complementare": "Nulitatea de drept a hotărârii.",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_26",
+      "descriere": "Neredarea terenurilor forestiere în circuitul silvic la termenul și/sau în condițiile prevăzute în aprobarea de ocupare temporară.",
+      "articol_prevedere": "Art. 7 alin. (1) lit. d)",
+      "articol_sanctiune": "Art. 7 alin. (1)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "teren forestier",
+        "circuit silvic",
+        "ocupare temporara",
+        "redare teren",
+        "termen"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_27",
+      "descriere": "Exploatarea agregatelor minerale de pe terenuri din fondul forestier național fără aprobările legale.",
+      "articol_prevedere": "Art. 7 alin. (1) lit. e)",
+      "articol_sanctiune": "Art. 7 alin. (1)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "agregate minerale",
+        "balast",
+        "piatra",
+        "exploatare",
+        "aprobare"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_28",
+      "descriere": "Ruperea, distrugerea, degradarea ori scoaterea din rădăcini, fără drept, de arbori, puieți sau lăstari din fondul forestier național, indiferent de forma de proprietate, dacă valoarea prejudiciului produs este de până la 5 ori prețul mediu al unui metru cub de masă lemnoasă pe picior.",
+      "articol_prevedere": "Art. 8 alin. (1) lit. a)",
+      "articol_sanctiune": "Art. 8 alin. (2)",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "rupere arbori",
+        "scoatere radacini",
+        "degradare padure",
+        "prejudiciu",
+        "taieri ilegale"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_29",
+      "descriere": "Tăierea, ruperea sau scoaterea din rădăcini a arborilor, fără drept, precum și distrugerea ori vătămarea de arbori din vegetația forestieră din afara fondului forestier național, pentru un volum de până la 10,00 mc.",
+      "articol_prevedere": "Art. 8 alin. (1) lit. b)",
+      "articol_sanctiune": "Art. 8 alin. (3) lit. a)",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "vegetatie forestiera",
+        "afara fondului",
+        "taieri ilegale",
+        "volum 10 mc",
+        "distrugere arbori"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_30",
+      "descriere": "Tăierea, ruperea sau scoaterea din rădăcini a arborilor, fără drept, precum și distrugerea ori vătămarea de arbori din vegetația forestieră din afara fondului forestier național, pentru un volum între 10,01 și 30,00 mc.",
+      "articol_prevedere": "Art. 8 alin. (1) lit. b)",
+      "articol_sanctiune": "Art. 8 alin. (3) lit. b)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "vegetatie forestiera",
+        "afara fondului",
+        "taieri ilegale",
+        "volum 30 mc",
+        "distrugere arbori"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_31",
+      "descriere": "Tăierea, ruperea sau scoaterea din rădăcini a arborilor, fără drept, precum și distrugerea ori vătămarea de arbori din vegetația forestieră din afara fondului forestier național, pentru un volum între 30,01 și 100 mc.",
+      "articol_prevedere": "Art. 8 alin. (1) lit. b)",
+      "articol_sanctiune": "Art. 8 alin. (3) lit. c)",
+      "amenda_min": 10000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 5000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "vegetatie forestiera",
+        "afara fondului",
+        "taieri ilegale",
+        "volum 100 mc",
+        "distrugere arbori"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_32",
+      "descriere": "Tăierea, ruperea sau scoaterea din rădăcini a arborilor, fără drept, precum și distrugerea ori vătămarea de arbori din vegetația forestieră din afara fondului forestier național, pentru un volum între 100,01 și 500 mc.",
+      "articol_prevedere": "Art. 8 alin. (1) lit. b)",
+      "articol_sanctiune": "Art. 8 alin. (3) lit. d)",
+      "amenda_min": 15000,
+      "amenda_max": 30000,
+      "permite_jumatate": true,
+      "suma_jumatate": 7500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "vegetatie forestiera",
+        "afara fondului",
+        "taieri ilegale",
+        "volum 500 mc",
+        "distrugere arbori"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_33",
+      "descriere": "Tăierea, ruperea sau scoaterea din rădăcini a arborilor, fără drept, precum și distrugerea ori vătămarea de arbori din vegetația forestieră din afara fondului forestier național, pentru un volum de peste 500 mc.",
+      "articol_prevedere": "Art. 8 alin. (1) lit. b)",
+      "articol_sanctiune": "Art. 8 alin. (3) lit. e)",
+      "amenda_min": 30000,
+      "amenda_max": 50000,
+      "permite_jumatate": true,
+      "suma_jumatate": 15000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "vegetatie forestiera",
+        "afara fondului",
+        "taieri ilegale",
+        "volum mare",
+        "distrugere arbori"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_34",
+      "descriere": "Furtul de puieți sau lăstari care au fost tăiați ori scoși din rădăcini, din păduri, perdele forestiere de protecție, din terenuri degradate care au fost ameliorate prin lucrări de împădurire, dacă valoarea prejudiciului produs este de până la 5 ori prețul mediu al unui metru cub de masă lemnoasă pe picior.",
+      "articol_prevedere": "Art. 8 alin. (1) lit. c)",
+      "articol_sanctiune": "Art. 8 alin. (2)",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "furt puieti",
+        "lastari",
+        "impadurire",
+        "perdele protectie",
+        "prejudiciu"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_35",
+      "descriere": "Săvârșirea de către operatorii atestați pentru lucrări de exploatare forestiere a faptelor de rupere, distrugere, scoatere din rădăcini sau furt de puieți/lăstari din fondul forestier național.",
+      "articol_prevedere": "Art. 8 alin. (1) lit. a) și c)",
+      "articol_sanctiune": "Art. 8 alin. (4)",
+      "amenda_min": 8000,
+      "amenda_max": 12000,
+      "permite_jumatate": true,
+      "suma_jumatate": 4000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "operator atestat",
+        "exploatare forestiera",
+        "taieri ilegale",
+        "prejudiciu",
+        "scoatere radacini"
+      ],
+      "masuri_complementare": "Solicitarea retragerii certificatului de atestare.",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_36",
+      "descriere": "Autorizarea spre exploatare a partizilor amplasate în arborete încadrate în tipul I funcțional - T I, fără aprobări legale, sau în arborete care îndeplinesc condițiile de a fi încadrate ca păduri virgine sau cvasivirgine.",
+      "articol_prevedere": "Art. 8 alin. (5)",
+      "articol_sanctiune": "Art. 8 alin. (5)",
+      "amenda_min": 20000,
+      "amenda_max": 30000,
+      "permite_jumatate": true,
+      "suma_jumatate": 10000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "tip functional I",
+        "paduri virgine",
+        "cvasivirgine",
+        "autorizare exploatare",
+        "protectie"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_37",
+      "descriere": "Inundarea terenurilor din fondul forestier național fără drept prin construirea de baraje, praguri sau altele asemenea, pe albiile pâraielor ori ale văilor.",
+      "articol_prevedere": "Art. 9 lit. a)",
+      "articol_sanctiune": "Art. 9",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "inundare",
+        "teren forestier",
+        "baraje",
+        "albie parau",
+        "constructie"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_38",
+      "descriere": "Aprinderea focului în fondul forestier național în alte locuri decât cele special amenajate și marcate ori la o distanță mai mică de 30 metri de limita pădurii.",
+      "articol_prevedere": "Art. 9 lit. b)",
+      "articol_sanctiune": "Art. 9",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române",
+        "Ofițerii și subofițerii din cadrul serviciilor profesioniste pentru situații de urgență"
+      ],
+      "tags": [
+        "foc padure",
+        "aprinde foc",
+        "distanta 30 m",
+        "locuri amenajate",
+        "incendiu"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_39",
+      "descriere": "Deteriorarea drumurilor sau a căilor ferate forestiere, a lucrărilor de artă aferente acestora, a amenajărilor, instalațiilor, construcțiilor civile, vânătorești, piscicole din apele de munte, a împrejmuirilor, a amenajărilor de propagandă silvică ori a celor pentru protecția pădurilor, a barierelor sau a altor lucrări asemănătoare din fondul forestier național.",
+      "articol_prevedere": "Art. 9 lit. c)",
+      "articol_sanctiune": "Art. 9",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "deteriorare drum",
+        "cale ferata",
+        "lucrari arta",
+        "instalatii padure",
+        "bariere"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_40",
+      "descriere": "Deteriorarea sau indisponibilizarea sistemelor tehnice de monitorizare/înregistrare video a drumurilor forestiere.",
+      "articol_prevedere": "Art. 9 lit. c^1)",
+      "articol_sanctiune": "Art. 9",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "monitorizare video",
+        "camere supraveghere",
+        "drum forestier",
+        "indisponibilizare",
+        "deteriorare sistem"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_41",
+      "descriere": "Deteriorarea, distrugerea lucrărilor de ameliorare a terenurilor degradate și/sau a lucrărilor de corectare a torentelor din fondul forestier național sau neîntocmirea documentației în vederea lucrărilor de reabilitare a acestora.",
+      "articol_prevedere": "Art. 9 lit. d)",
+      "articol_sanctiune": "Art. 9",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "lucrari ameliorare",
+        "corectare torente",
+        "teren degradat",
+        "deteriorare",
+        "reabilitare"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_42",
+      "descriere": "Ștergerea sau deteriorarea în orice fel a mărcilor sau a numerelor curente de pe arborii marcați ori de pe cioate.",
+      "articol_prevedere": "Art. 9 lit. e)",
+      "articol_sanctiune": "Art. 9",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "marci arbori",
+        "numere curente",
+        "cioate",
+        "sala de stejar",
+        "deteriorare marcaj"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_43",
+      "descriere": "Accesul oricărui autovehicul în fondul forestier național, cu încălcarea legii, cu excepția autovehiculelor din dotarea personalului cu atribuții de control, a autovehiculelor destinate transportului masei lemnoase din exploatările autorizate, a celor din dotarea administratorilor de fond forestier și a gestionarilor fondurilor de vânătoare.",
+      "articol_prevedere": "Art. 9 lit. f)",
+      "articol_sanctiune": "Art. 9",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "acces autovehicul",
+        "circulatie padure",
+        "drum forestier",
+        "interzis",
+        "transport lemn"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_44",
+      "descriere": "Încălcarea normelor de apărare împotriva incendiilor specifice fondului forestier, în zonele limitrofe acestuia, precum și în vegetația forestieră din afara fondului forestier.",
+      "articol_prevedere": "Art. 10 lit. a)",
+      "articol_sanctiune": "Art. 10",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române",
+        "Ofițerii și subofițerii din cadrul serviciilor profesioniste pentru situații de urgență"
+      ],
+      "tags": [
+        "aparare incendii",
+        "norme psi",
+        "zone limitrofe",
+        "vegetatie forestiera",
+        "prevenire"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_45",
+      "descriere": "Neasigurarea sursei de finanțare de către proprietar/deținător pentru efectuarea lucrărilor de prevenire și combatere la sol a bolilor și dăunătorilor pădurilor.",
+      "articol_prevedere": "Art. 10 lit. b)",
+      "articol_sanctiune": "Art. 10",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "finantare lucrari",
+        "combatere daunatori",
+        "boli padure",
+        "proprietar",
+        "prevenire"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_46",
+      "descriere": "Neefectuarea de către ocolul silvic a lucrărilor necesare pentru depistare și prognoză, precum și pentru prevenirea și combaterea la sol a bolilor și dăunătorilor pădurilor.",
+      "articol_prevedere": "Art. 10 lit. c)",
+      "articol_sanctiune": "Art. 10",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "lucrari combatere",
+        "ocol silvic",
+        "daunatori",
+        "prognoza",
+        "prevenire"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_47",
+      "descriere": "Prelevarea solului fertil, a humusului sau a brazdelor de iarbă din fondul forestier, prin orice mijloace.",
+      "articol_prevedere": "Art. 11 lit. a)",
+      "articol_sanctiune": "Art. 11",
+      "amenda_min": 600,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 300,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "sol fertil",
+        "humus",
+        "brazde iarba",
+        "prelevare sol",
+        "degradare sol"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_48",
+      "descriere": "Refuzul persoanelor care desfășoară activități în fondul forestier național sau în vegetația forestieră din afara acestuia de a participa, la solicitarea personalului silvic, a poliției, jandarmeriei sau ISU, la acțiunile de stingere a incendiilor.",
+      "articol_prevedere": "Art. 11 lit. b)",
+      "articol_sanctiune": "Art. 11",
+      "amenda_min": 600,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 300,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "stingere incendii",
+        "refuz participare",
+        "obligatie",
+        "actiune foc",
+        "personal silvic"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_49",
+      "descriere": "Nepermiterea de către proprietarii și/sau deținătorii cu orice titlu de păduri a accesului în pădurile pe care le dețin a persoanelor împuternicite să efectueze observații și măsurători necesare în vederea realizării Programului național de monitorizare sol-vegetație forestieră sau realizării inventarului forestier național și a specialiștilor care elaborează studiile de includere în Catalogul național al pădurilor virgine și cvasivirgine.",
+      "articol_prevedere": "Art. 11 lit. c)",
+      "articol_sanctiune": "Art. 11",
+      "amenda_min": 600,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 300,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "acces padure",
+        "inventar forestier",
+        "monitorizare",
+        "paduri virgine",
+        "catalog"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_50",
+      "descriere": "Pășunatul în pădurile în care este interzis acesta, dacă valoarea prejudiciului adus pădurii este de până la 5 ori prețul mediu al unui metru cub de masă lemnoasă pe picior.",
+      "articol_prevedere": "Art. 11 lit. d)",
+      "articol_sanctiune": "Art. 11",
+      "amenda_min": 600,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 300,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "pasunat",
+        "interzis",
+        "animale",
+        "prejudiciu padure",
+        "daune"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_51",
+      "descriere": "Instalarea în fondul forestier de corturi, tonete, rulote fără drept sau în alte locuri decât cele aprobate și delimitate de deținătorul terenului forestier respectiv.",
+      "articol_prevedere": "Art. 12 alin. (1) lit. a)",
+      "articol_sanctiune": "Art. 12 alin. (1)",
+      "amenda_min": 1000,
+      "amenda_max": 2000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "corturi",
+        "rulote",
+        "campare",
+        "instalare padure",
+        "locuri aprobate"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_52",
+      "descriere": "Amplasarea stupilor sau stupinelor în fondul forestier proprietate publică în alte locuri și în alte condiții decât cele aprobate.",
+      "articol_prevedere": "Art. 12 alin. (1) lit. b)",
+      "articol_sanctiune": "Art. 12 alin. (1)",
+      "amenda_min": 1000,
+      "amenda_max": 2000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "stupi",
+        "stupine",
+        "albine",
+        "fond public",
+        "aprobare"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_53",
+      "descriere": "Aducerea și menținerea pe vetrele de stupină instalate în fondul forestier de animale domestice și păsări.",
+      "articol_prevedere": "Art. 12 alin. (1) lit. c)",
+      "articol_sanctiune": "Art. 12 alin. (1)",
+      "amenda_min": 1000,
+      "amenda_max": 2000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "animale domestice",
+        "pasari",
+        "vetre stupina",
+        "padure",
+        "interzis"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_54",
+      "descriere": "Efectuarea de împrejmuiri în păduri fără aprobare legală.",
+      "articol_prevedere": "Art. 12 alin. (1) lit. d)",
+      "articol_sanctiune": "Art. 12 alin. (1)",
+      "amenda_min": 1000,
+      "amenda_max": 2000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "imprejmuiri",
+        "garduri",
+        "aprobare",
+        "padure",
+        "delimitare"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_55",
+      "descriere": "Trecerea animalelor domestice însoțite sau neînsoțite prin fondul forestier, fără aprobare legală.",
+      "articol_prevedere": "Art. 12 alin. (1) lit. e)",
+      "articol_sanctiune": "Art. 12 alin. (1)",
+      "amenda_min": 1000,
+      "amenda_max": 2000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "animale domestice",
+        "trecere fond forestier",
+        "aprobare",
+        "tranzit",
+        "vite"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_56",
+      "descriere": "Aruncarea sau depozitarea în fondul forestier național a reziduurilor menajere, industriale, petroliere sau rezultate din prelucrarea lemnului, a substanțelor chimice și a apei sărate.",
+      "articol_prevedere": "Art. 12 alin. (2) lit. a)",
+      "articol_sanctiune": "Art. 12 alin. (2)",
+      "amenda_min": 10000,
+      "amenda_max": 20000,
+      "permite_jumatate": true,
+      "suma_jumatate": 5000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "reziduuri menajere",
+        "deseuri",
+        "depozitare ilegala",
+        "poluare padure",
+        "substante chimice"
+      ],
+      "masuri_complementare": "Obligarea contravenientului de a aduce terenul de îndată la starea inițială, pe cheltuiala sa.",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_57",
+      "descriere": "Neluarea de către proprietarii sau deținătorii de obiective legal amplasate în fondul forestier sau limitrof acestuia a măsurilor privind salubrizarea și igienizarea pădurilor limitrofe obiectivelor.",
+      "articol_prevedere": "Art. 12 alin. (2) lit. b)",
+      "articol_sanctiune": "Art. 12 alin. (2)",
+      "amenda_min": 10000,
+      "amenda_max": 20000,
+      "permite_jumatate": true,
+      "suma_jumatate": 5000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "salubrizare",
+        "igienizare",
+        "obiective limitrofe",
+        "masuri obligatorii",
+        "proprietari"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_58",
+      "descriere": "Înființarea sau funcționarea de centre sau puncte de colectare permanente sau volante de achiziție a ciupercilor și fructelor de pădure, precum și a celorlalte produse nelemnoase specifice fondului forestier, fără avizul ocolului silvic.",
+      "articol_prevedere": "Art. 12 alin. (2) lit. c)",
+      "articol_sanctiune": "Art. 12 alin. (2)",
+      "amenda_min": 10000,
+      "amenda_max": 20000,
+      "permite_jumatate": true,
+      "suma_jumatate": 5000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "colectare ciuperci",
+        "fructe padure",
+        "produse nelemnoase",
+        "aviz ocol",
+        "achizitie"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_59",
+      "descriere": "Neîncadrarea proporției speciei/speciilor principale din compozițiile de regenerare în intervalul prevăzut de normele tehnice privind regenerarea pădurilor sau în proiectele tehnice/studiile de specialitate aprobate.",
+      "articol_prevedere": "Art. 13 alin. (1) lit. c)",
+      "articol_sanctiune": "Art. 13 alin. (1)",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "regenerare padure",
+        "compozitie specii",
+        "norme tehnice",
+        "proiecte tehnice",
+        "impadurire"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_60",
+      "descriere": "Neachitarea anticipată predării-primirii terenului pentru care a fost aprobată scoaterea definitivă/ocuparea temporară din fondul forestier național a obligațiilor bănești prevăzute de lege.",
+      "articol_prevedere": "Art. 13 alin. (1) lit. d)",
+      "articol_sanctiune": "Art. 13 alin. (1)",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "scoatem definitiva",
+        "ocupare temporara",
+        "obligatii banesti",
+        "predare primire",
+        "teren forestier"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_61",
+      "descriere": "Nepredarea de către beneficiar și/sau nepreluarea de către proprietar și/sau ocolul silvic a terenurilor oferite în compensarea terenurilor pentru care a fost emisă aprobarea de scoatere definitivă din fondul forestier național.",
+      "articol_prevedere": "Art. 13 alin. (1) lit. e)",
+      "articol_sanctiune": "Art. 13 alin. (1)",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "compensare teren",
+        "scoatere definitiva",
+        "predare teren",
+        "beneficiar",
+        "ocol silvic"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_62",
+      "descriere": "Neconstituirea și/sau nealimentarea de către administratorul fondului forestier sau de către proprietarii de fond forestier a fondului de conservare și regenerare a pădurilor.",
+      "articol_prevedere": "Art. 13 alin. (1) lit. f)",
+      "articol_sanctiune": "Art. 13 alin. (1)",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "fond conservare",
+        "regenerare paduri",
+        "alimentare fond",
+        "administrator",
+        "proprietar"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_63",
+      "descriere": "Nerespectarea obligațiilor privind înscrierea în amenajamentele silvice a suprafețelor preluate în compensare și asigurarea administrării sau serviciilor silvice în termen de 30 de zile de la data predării-primirii terenului.",
+      "articol_prevedere": "Art. 13 alin. (2)",
+      "articol_sanctiune": "Art. 13 alin. (2)",
+      "amenda_min": 1000,
+      "amenda_max": 3000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "amenajament silvic",
+        "suprafete compensare",
+        "inscriere",
+        "termen 30 zile",
+        "administrare"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_64",
+      "descriere": "Modificarea sau casarea unui act de punere în valoare cu încălcarea normelor tehnice silvice în cazul în care prin aceasta nu s-a creat niciun prejudiciu.",
+      "articol_prevedere": "Art. 14 alin. (1) lit. a)",
+      "articol_sanctiune": "Art. 14 alin. (1)",
+      "amenda_min": 4000,
+      "amenda_max": 8000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "act punere valoare",
+        "modificare",
+        "casare",
+        "norme tehnice",
+        "prejudiciu"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_65",
+      "descriere": "Efectuarea serviciului public de punere în valoare a masei lemnoase de către ocoale silvice la proprietarii de fond forestier și/sau vegetație forestieră din afara fondului forestier care nu au încheiat contracte de prestări servicii silvice/administrare/prestație silvică în condițiile legii.",
+      "articol_prevedere": "Art. 14 alin. (1) lit. b)",
+      "articol_sanctiune": "Art. 14 alin. (1)",
+      "amenda_min": 4000,
+      "amenda_max": 8000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "punere in valoare",
+        "masa lemnoasa",
+        "contract servicii",
+        "ocol silvic",
+        "proprietar fond"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_66",
+      "descriere": "Constituirea actului de punere în valoare a masei lemnoase cu încălcarea normelor tehnice specifice în vigoare, în cazul în care prin aceasta nu s-a creat niciun prejudiciu.",
+      "articol_prevedere": "Art. 14 alin. (1) lit. c)",
+      "articol_sanctiune": "Art. 14 alin. (1)",
+      "amenda_min": 4000,
+      "amenda_max": 8000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "act punere valoare",
+        "constituire",
+        "norme tehnice",
+        "masa lemnoasa",
+        "prejudiciu"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_67",
+      "descriere": "Aprobarea și/sau autorizarea spre exploatare a actelor de punere în valoare a masei lemnoase fără amenajament silvic în vigoere, pentru suprafețele de fond forestier pentru care legea obligă la existența unui amenajament silvic, în cazul în care prin aceasta nu s-a creat niciun prejudiciu.",
+      "articol_prevedere": "Art. 14 alin. (1) lit. e)",
+      "articol_sanctiune": "Art. 14 alin. (1)",
+      "amenda_min": 4000,
+      "amenda_max": 8000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "amenajament silvic",
+        "aprobare exploatare",
+        "lipsa amenajament",
+        "masa lemnoasa",
+        "prejudiciu"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_68",
+      "descriere": "Autorizarea la exploatare a partizilor constituite din tăieri cu restricție, în epocile în care exploatarea este interzisă prin normele tehnice în vigoare.",
+      "articol_prevedere": "Art. 15 alin. (1) lit. a)",
+      "articol_sanctiune": "Art. 15 alin. (1)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "autorizare exploatare",
+        "taieri restrictie",
+        "epoci interzise",
+        "partizi",
+        "norme tehnice"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_69",
+      "descriere": "Realizarea tăierii rase prin alăturare cu altă tăiere rasă, cu încălcarea prevederilor legale în vigoare.",
+      "articol_prevedere": "Art. 15 alin. (1) lit. b)",
+      "articol_sanctiune": "Art. 15 alin. (1)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "taiere rasa",
+        "alaturare",
+        "exploatare padure",
+        "prevederi legale",
+        "suprafata"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_70",
+      "descriere": "Neasigurarea transparenței comercializării masei lemnoase în condițiile Regulamentului de valorificare a masei lemnoase din fondul forestier proprietate publică.",
+      "articol_prevedere": "Art. 15 alin. (1) lit. c)",
+      "articol_sanctiune": "Art. 15 alin. (1)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "transparenta comercializare",
+        "masa lemnoasa",
+        "fond proprietate publica",
+        "regulament",
+        "licitatie"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_71",
+      "descriere": "Autorizarea spre exploatare a masei lemnoase sau efectuarea de lucrări silvotehnice în suprafețele pentru care este formulată notificare sau nu este emis aviz cu privire la existența pădurilor virgine sau cvasivirgine.",
+      "articol_prevedere": "Art. 15 alin. (1) lit. d)",
+      "articol_sanctiune": "Art. 15 alin. (1)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "paduri virgine",
+        "cvasivirgine",
+        "notificare",
+        "aviz",
+        "autorizare exploatare"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_72",
+      "descriere": "Aprobarea executării drumurilor de scos-apropiat cu încălcarea prevederilor Instrucțiunilor privind termenele, modalitățile și perioadele de colectare, scoatere și transport al materialului lemnos.",
+      "articol_prevedere": "Art. 15 alin. (1) lit. e)",
+      "articol_sanctiune": "Art. 15 alin. (1)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "drum scos apropiat",
+        "aprobare executare",
+        "instructiuni",
+        "transport lemn",
+        "scoatere"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_73",
+      "descriere": "Autorizarea la exploatare a partizilor prin care se depășește durata maximă de exploatare a masei lemnoase, prevăzută de instrucțiuni.",
+      "articol_prevedere": "Art. 15 alin. (1) lit. f)",
+      "articol_sanctiune": "Art. 15 alin. (1)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "durata exploatare",
+        "depasire termen",
+        "autorizare partizi",
+        "instructiuni",
+        "masa lemnoasa"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_74",
+      "descriere": "Neprelucrarea masei lemnoase achiziționate la nivelul prevăzut de lege sau depășirea prin achiziție/procesare a procentului prevăzut de lege, de către un operator economic/grup de operatori economici.",
+      "articol_prevedere": "Art. 15 alin. (2)",
+      "articol_sanctiune": "Art. 15 alin. (2)",
+      "amenda_min": 10000,
+      "amenda_max": 20000,
+      "permite_jumatate": true,
+      "suma_jumatate": 5000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "prelucrare lemn",
+        "procent legal",
+        "operator economic",
+        "achizitie",
+        "industrializare"
+      ],
+      "masuri_complementare": "Interzicerea participării la licitațiile/negocierile organizate în anul de producție următor.",
+      "confiscare": "Confiscarea volumului de materiale lemnoase sau contravaloarea acestora.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_75",
+      "descriere": "Exploatarea masei lemnoase din partizi contractate, fără autorizație de exploatare și proces-verbal de predare-primire a parchetului.",
+      "articol_prevedere": "Art. 16 alin. (1) lit. a)",
+      "articol_sanctiune": "Art. 16 alin. (1)",
+      "amenda_min": 6000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 3000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "exploatare masa lemnoasa",
+        "lipsa autorizatie",
+        "partizi contractate",
+        "predare primire",
+        "parchet"
+      ],
+      "masuri_complementare": "Solicitarea retragerii certificatului de atestare pentru operatorii atestați.",
+      "confiscare": "Confiscarea materialelor lemnoase rezultate.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_76",
+      "descriere": "Exploatarea masei lemnoase din parchete în afara termenelor prevăzute în autorizația de exploatare sau în actul de constatare încheiat la expirarea termenului.",
+      "articol_prevedere": "Art. 16 alin. (1) lit. b)",
+      "articol_sanctiune": "Art. 16 alin. (1)",
+      "amenda_min": 6000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 3000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "exploatare parchet",
+        "termene autorizatie",
+        "expirare termen",
+        "act constatare",
+        "masa lemnoasa"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_77",
+      "descriere": "Autorizarea spre exploatare de către ocoalele silvice a partizilor constituite în păduri ai căror proprietari nu au încheiat contracte de prestări servicii silvice/administrare în condițiile legii.",
+      "articol_prevedere": "Art. 16 alin. (1) lit. d)",
+      "articol_sanctiune": "Art. 16 alin. (1)",
+      "amenda_min": 6000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 3000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "autorizare partizi",
+        "lipsa contract",
+        "servicii silvice",
+        "proprietari paduri",
+        "ocol silvic"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_78",
+      "descriere": "Exploatarea masei lemnoase de către persoanele fizice în alte condiții decât cele prevăzute de lege.",
+      "articol_prevedere": "Art. 16 alin. (1) lit. e)",
+      "articol_sanctiune": "Art. 16 alin. (1)",
+      "amenda_min": 6000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 3000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "exploatare persoane fizice",
+        "masa lemnoasa",
+        "conditii legale",
+        "proprietari privati",
+        "recoltare"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_79",
+      "descriere": "Cesionarea contractelor de vânzare-cumpărare a masei lemnoase, încheiate în urma licitațiilor/negocierilor, în alte condiții decât cele prevăzute în Regulamentul de valorificare.",
+      "articol_prevedere": "Art. 16 alin. (1) lit. f)",
+      "articol_sanctiune": "Art. 16 alin. (1)",
+      "amenda_min": 6000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 3000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "cesionare contract",
+        "vanzare cumparare",
+        "masa lemnoasa",
+        "licitatie",
+        "regulament"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_80",
+      "descriere": "Amplasarea pe arbori a curselor feromonale echipate cu nade sau alți atractanți pentru inducerea atacului de gândaci de scoarță, în alte condiții decât cele prevăzute în instrucțiunile în vigoare.",
+      "articol_prevedere": "Art. 16 alin. (1) lit. g)",
+      "articol_sanctiune": "Art. 16 alin. (1)",
+      "amenda_min": 6000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 3000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "curse feromonale",
+        "gandaci de scoarta",
+        "atractanti",
+        "combatere daunatori",
+        "instructiuni"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_81",
+      "descriere": "Lăsarea de arbori marcați și netăiați în parchete, constatați după întocmirea procesului-verbal de reprimire, dacă numărul lor este mai mare de 1% din numărul arborilor inventariați.",
+      "articol_prevedere": "Art. 16 alin. (1) lit. h)",
+      "articol_sanctiune": "Art. 16 alin. (1)",
+      "amenda_min": 6000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 3000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "arbori marcati",
+        "netaiati",
+        "parchete",
+        "reprimire",
+        "procent 1%"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_82",
+      "descriere": "Neluarea de către comisia de preselecție a măsurii de respingere a participării operatorilor economici care nu îndeplinesc condițiile legale la licitațiile de masă lemnoasă.",
+      "articol_prevedere": "Art. 16 alin. (2)",
+      "articol_sanctiune": "Art. 16 alin. (2)",
+      "amenda_min": 3000,
+      "amenda_max": 6000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "comisia preselectie",
+        "respingere participare",
+        "operatori economici",
+        "licitatie",
+        "conditii legale"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_83",
+      "descriere": "Necompletarea anexei certificatului de atestare a operatorilor economici de către emitentul autorizației de exploatare a masei lemnoase pe picior, la momentul emiterii autorizației.",
+      "articol_prevedere": "Art. 16 alin. (3)",
+      "articol_sanctiune": "Art. 16 alin. (3)",
+      "amenda_min": 1000,
+      "amenda_max": 3000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "certificat atestare",
+        "anexa",
+        "autorizatie exploatare",
+        "emitent",
+        "operator economic"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_84",
+      "descriere": "Nerespectarea tehnologiilor și traseelor de scos-apropiat prevăzute în autorizația de exploatare.",
+      "articol_prevedere": "Art. 17 lit. a)",
+      "articol_sanctiune": "Art. 17",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "tehnologii scos apropiat",
+        "trasee",
+        "autorizatie exploatare",
+        "scoatere lemn",
+        "drumuri"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_85",
+      "descriere": "Scoaterea din rădăcini sau ridicarea din fondul forestier național fără aprobare legală a cioatelor și/sau a resturilor de exploatare nevalorificabile.",
+      "articol_prevedere": "Art. 17 lit. b)",
+      "articol_sanctiune": "Art. 17",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "cioate",
+        "resturi exploatare",
+        "scoatere radacini",
+        "aprobare legala",
+        "lemn foc"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_86",
+      "descriere": "Recoltarea, deținerea, transportul, comercializarea produselor nelemnoase specifice, fără documente legale și fără acordul scris al proprietarului și/sau al ocolului silvic.",
+      "articol_prevedere": "Art. 17 lit. c)",
+      "articol_sanctiune": "Art. 17",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "produse nelemnoase",
+        "ciuperci",
+        "fructe padure",
+        "acord proprietar",
+        "transport"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_87",
+      "descriere": "Executarea neautorizată a drumurilor de tractor sau fără respectarea traseelor aprobate.",
+      "articol_prevedere": "Art. 17 lit. d)",
+      "articol_sanctiune": "Art. 17",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "drum tractor",
+        "executare neautorizata",
+        "trasee aprobate",
+        "drum forestier",
+        "scoatere lemn"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_88",
+      "descriere": "Neexecutarea la termen și în condițiile prevăzute în autorizația de exploatare a lucrărilor de curățare a parchetelor.",
+      "articol_prevedere": "Art. 17 lit. e)",
+      "articol_sanctiune": "Art. 17",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "lucrari curatare",
+        "parchete",
+        "autorizatie exploatare",
+        "termen",
+        "conditii"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_89",
+      "descriere": "Neîndeplinirea obligației ca la exploatarea pădurilor de rășinoase să se cojească cioatele de pin și molid, în întregime, iar la celelalte rășinoase, prin curelare.",
+      "articol_prevedere": "Art. 18 lit. a)",
+      "articol_sanctiune": "Art. 18",
+      "amenda_min": 1000,
+      "amenda_max": 3000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "cojire cioate",
+        "paduri rasinoase",
+        "pin",
+        "molid",
+        "exploatare"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_90",
+      "descriere": "Menținerea în pădure, în intervalul 1 mai-1 octombrie, a lemnului de rășinoase infestat cu dăunători de scoarță și necojit.",
+      "articol_prevedere": "Art. 18 lit. b)",
+      "articol_sanctiune": "Art. 18",
+      "amenda_min": 1000,
+      "amenda_max": 3000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "lemn infestat",
+        "daunatori scoarta",
+        "lemn rasinos",
+        "necojit",
+        "perioada 1 mai-1 octombrie"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_91",
+      "descriere": "Nerespectarea obligației de a amplasa panoul cu principalele date referitoare la parchetul aflat în exploatare, de către titularul autorizației de exploatare.",
+      "articol_prevedere": "Art. 18 lit. d)",
+      "articol_sanctiune": "Art. 18",
+      "amenda_min": 1000,
+      "amenda_max": 3000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "panou informative",
+        "parchet exploatare",
+        "date referitoare",
+        "titular autorizatie",
+        "afisare"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_92",
+      "descriere": "Expedierea, primirea, depozitarea, deținerea și/sau prelucrarea materialelor lemnoase fără proveniență legală, pentru un volum de până la 10,00 mc.",
+      "articol_prevedere": "Art. 19 alin. (1)",
+      "articol_sanctiune": "Art. 19 alin. (1) lit. a)",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "material lemnos",
+        "provenienta ilegala",
+        "depozitare",
+        "prelucrare",
+        "volum 10 mc"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_93",
+      "descriere": "Expedierea, primirea, depozitarea, deținerea și/sau prelucrarea materialelor lemnoase fără proveniență legală, pentru un volum între 10,01 și 30,00 mc.",
+      "articol_prevedere": "Art. 19 alin. (1)",
+      "articol_sanctiune": "Art. 19 alin. (1) lit. b)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "material lemnos",
+        "provenienta ilegala",
+        "depozitare",
+        "prelucrare",
+        "volum 30 mc"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_94",
+      "descriere": "Expedierea, primirea, depozitarea, deținerea și/sau prelucrarea materialelor lemnoase fără proveniență legală, pentru un volum între 30,01 și 100 mc.",
+      "articol_prevedere": "Art. 19 alin. (1)",
+      "articol_sanctiune": "Art. 19 alin. (1) lit. c)",
+      "amenda_min": 10000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 5000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "material lemnos",
+        "provenienta ilegala",
+        "depozitare",
+        "prelucrare",
+        "volum 100 mc"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_95",
+      "descriere": "Expedierea, primirea, depozitarea, deținerea și/sau prelucrarea materialelor lemnoase fără proveniență legală, pentru un volum între 100,01 și 500 mc.",
+      "articol_prevedere": "Art. 19 alin. (1)",
+      "articol_sanctiune": "Art. 19 alin. (1) lit. d)",
+      "amenda_min": 15000,
+      "amenda_max": 30000,
+      "permite_jumatate": true,
+      "suma_jumatate": 7500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "material lemnos",
+        "provenienta ilegala",
+        "depozitare",
+        "prelucrare",
+        "volum 500 mc"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_96",
+      "descriere": "Expedierea, primirea, depozitarea, deținerea și/sau prelucrarea materialelor lemnoase fără proveniență legală, pentru un volum de peste 500 mc.",
+      "articol_prevedere": "Art. 19 alin. (1)",
+      "articol_sanctiune": "Art. 19 alin. (1) lit. e)",
+      "amenda_min": 30000,
+      "amenda_max": 50000,
+      "permite_jumatate": true,
+      "suma_jumatate": 15000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "material lemnos",
+        "provenienta ilegala",
+        "depozitare",
+        "prelucrare",
+        "volum mare"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_97",
+      "descriere": "Transportul materialelor lemnoase, cu un volum între 0,1 și 1 metru cub, neînsoțit de documentele specifice de transport.",
+      "articol_prevedere": "Art. 19 alin. (2) lit. a)",
+      "articol_sanctiune": "Art. 19 alin. (2) lit. a) pct. 1",
+      "amenda_min": 1000,
+      "amenda_max": 2000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "transport lemn",
+        "lipsa documente",
+        "aviz insotire",
+        "volum 1 mc",
+        "ilegal"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_98",
+      "descriere": "Transportul materialelor lemnoase, cu un volum între 1,01 și 3,00 metri cubi, neînsoțit de documentele specifice de transport.",
+      "articol_prevedere": "Art. 19 alin. (2) lit. a)",
+      "articol_sanctiune": "Art. 19 alin. (2) lit. a) pct. 2",
+      "amenda_min": 2000,
+      "amenda_max": 4000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "transport lemn",
+        "lipsa documente",
+        "aviz insotire",
+        "volum 3 mc",
+        "ilegal"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_99",
+      "descriere": "Transportul materialelor lemnoase, cu un volum între 3,01 și 5,00 metri cubi, neînsoțit de documentele specifice de transport.",
+      "articol_prevedere": "Art. 19 alin. (2) lit. a)",
+      "articol_sanctiune": "Art. 19 alin. (2) lit. a) pct. 3",
+      "amenda_min": 4000,
+      "amenda_max": 6000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "transport lemn",
+        "lipsa documente",
+        "aviz insotire",
+        "volum 5 mc",
+        "ilegal"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_100",
+      "descriere": "Transportul materialelor lemnoase însoțit de documente specifice, la care diferența dintre volumul constatat și cel înscris în aviz este de cel mult 5 metri cubi (pentru volume între 0,1 și 1 mc).",
+      "articol_prevedere": "Art. 19 alin. (2) lit. b)",
+      "articol_sanctiune": "Art. 19 alin. (2) lit. b) pct. 1",
+      "amenda_min": 1000,
+      "amenda_max": 2000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "transport lemn",
+        "diferenta volum",
+        "aviz insotire",
+        "neconcordanta",
+        "volum 1 mc"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    
+
+{
+      "id": "fapta_101",
+      "descriere": "Transportul materialelor lemnoase însoțit de documente specifice, la care diferența dintre volumul constatat și cel înscris în aviz este de cel mult 5 metri cubi (pentru volume între 1,01 și 3,00 mc).",
+      "articol_prevedere": "Art. 19 alin. (2) lit. b)",
+      "articol_sanctiune": "Art. 19 alin. (2) lit. b) pct. 2",
+      "amenda_min": 2000,
+      "amenda_max": 4000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "transport lemn",
+        "diferenta volum",
+        "aviz insotire",
+        "neconcordanta",
+        "volum 3 mc"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_102",
+      "descriere": "Transportul materialelor lemnoase însoțit de documente specifice, la care diferența dintre volumul constatat și cel înscris în aviz este de cel mult 5 metri cubi (pentru volume între 3,01 și 5,00 mc).",
+      "articol_prevedere": "Art. 19 alin. (2) lit. b)",
+      "articol_sanctiune": "Art. 19 alin. (2) lit. b) pct. 3",
+      "amenda_min": 4000,
+      "amenda_max": 6000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "transport lemn",
+        "diferenta volum",
+        "aviz insotire",
+        "neconcordanta",
+        "volum 5 mc"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_103",
+      "descriere": "Transportul cu orice mijloace de transport al materialelor lemnoase fără proveniență legală, pentru un volum cuprins între 0,1 și 5 metri cubi.",
+      "articol_prevedere": "Art. 19 alin. (2) lit. c)",
+      "articol_sanctiune": "Art. 19 alin. (2) lit. c)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "transport lemn",
+        "fara provenienta",
+        "ilegal",
+        "volum 5 mc",
+        "confiscare"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_104",
+      "descriere": "Transportul de materiale lemnoase ale căror caracteristici nu corespund cu elementele înscrise în avizul de însoțire (volum, specii, număr piese), pentru un volum între 0,1 și 1 mc.",
+      "articol_prevedere": "Art. 19 alin. (2) lit. d)",
+      "articol_sanctiune": "Art. 19 alin. (2) lit. d) pct. 1",
+      "amenda_min": 1000,
+      "amenda_max": 2000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "transport lemn",
+        "caracteristici",
+        "aviz insotire",
+        "specificatii tehnice",
+        "volum 1 mc"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "Confiscarea diferenței de volum în plus constatată.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_105",
+      "descriere": "Transportul de materiale lemnoase ale căror caracteristici nu corespund cu elementele înscrise în avizul de însoțire (volum, specii, număr piese), pentru un volum între 1,01 și 3,00 mc.",
+      "articol_prevedere": "Art. 19 alin. (2) lit. d)",
+      "articol_sanctiune": "Art. 19 alin. (2) lit. d) pct. 2",
+      "amenda_min": 2000,
+      "amenda_max": 4000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "transport lemn",
+        "caracteristici",
+        "aviz insotire",
+        "specificatii tehnice",
+        "volum 3 mc"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "Confiscarea diferenței de volum în plus constatată.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_106",
+      "descriere": "Transportul de materiale lemnoase ale căror caracteristici nu corespund cu elementele înscrise în avizul de însoțire (volum, specii, număr piese), pentru un volum între 3,01 și 5,00 mc.",
+      "articol_prevedere": "Art. 19 alin. (2) lit. d)",
+      "articol_sanctiune": "Art. 19 alin. (2) lit. d) pct. 3",
+      "amenda_min": 4000,
+      "amenda_max": 6000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "transport lemn",
+        "caracteristici",
+        "aviz insotire",
+        "specificatii tehnice",
+        "volum 5 mc"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "Confiscarea diferenței de volum în plus constatată.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_107",
+      "descriere": "Deținerea materialelor lemnoase de către deținătorii depozitelor în diferențe în plus față de stocul scriptic, de până la 5% din stoc, dar nu mai mult de 4 mc.",
+      "articol_prevedere": "Art. 19 alin. (2) lit. e)",
+      "articol_sanctiune": "Art. 19 alin. (2) lit. e) pct. 1",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "depozitare lemn",
+        "stoc scriptic",
+        "diferenta plus",
+        "SUMAL 2.0",
+        "depozit"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_108",
+      "descriere": "Deținerea materialelor lemnoase de către deținătorii depozitelor în diferențe în plus față de stocul scriptic, de până la 10% din stoc, dar nu mai mult de 8 mc.",
+      "articol_prevedere": "Art. 19 alin. (2) lit. e)",
+      "articol_sanctiune": "Art. 19 alin. (2) lit. e) pct. 2",
+      "amenda_min": 15000,
+      "amenda_max": 20000,
+      "permite_jumatate": true,
+      "suma_jumatate": 7500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "depozitare lemn",
+        "stoc scriptic",
+        "diferenta plus",
+        "SUMAL 2.0",
+        "depozit"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_109",
+      "descriere": "Deținerea materialelor lemnoase de către deținătorii depozitelor în diferențe în plus față de stocul scriptic, de până la 20% din stoc, dar nu mai mult de 10 mc.",
+      "articol_prevedere": "Art. 19 alin. (2) lit. e)",
+      "articol_sanctiune": "Art. 19 alin. (2) lit. e) pct. 3",
+      "amenda_min": 30000,
+      "amenda_max": 50000,
+      "permite_jumatate": true,
+      "suma_jumatate": 15000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "depozitare lemn",
+        "stoc scriptic",
+        "diferenta plus",
+        "SUMAL 2.0",
+        "depozit"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_110",
+      "descriere": "Nedeținerea materialelor lemnoase de către deținătorii depozitelor în diferențe în minus față de stocul scriptic, de până la 5% din stoc, dar nu mai mult de 4 mc.",
+      "articol_prevedere": "Art. 19 alin. (2) lit. f)",
+      "articol_sanctiune": "Art. 19 alin. (2) lit. f) pct. 1",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "depozitare lemn",
+        "stoc scriptic",
+        "diferenta minus",
+        "SUMAL 2.0",
+        "lipsa lemn"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_111",
+      "descriere": "Nedeținerea materialelor lemnoase de către deținătorii depozitelor în diferențe în minus față de stocul scriptic, de până la 10% din stoc, dar nu mai mult de 8 mc.",
+      "articol_prevedere": "Art. 19 alin. (2) lit. f)",
+      "articol_sanctiune": "Art. 19 alin. (2) lit. f) pct. 2",
+      "amenda_min": 15000,
+      "amenda_max": 20000,
+      "permite_jumatate": true,
+      "suma_jumatate": 7500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "depozitare lemn",
+        "stoc scriptic",
+        "diferenta minus",
+        "SUMAL 2.0",
+        "lipsa lemn"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_112",
+      "descriere": "Nedeținerea materialelor lemnoase de către deținătorii depozitelor în diferențe în minus față de stocul scriptic, de până la 20% din stoc, dar nu mai mult de 10 mc.",
+      "articol_prevedere": "Art. 19 alin. (2) lit. f)",
+      "articol_sanctiune": "Art. 19 alin. (2) lit. f) pct. 3",
+      "amenda_min": 30000,
+      "amenda_max": 50000,
+      "permite_jumatate": true,
+      "suma_jumatate": 15000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "depozitare lemn",
+        "stoc scriptic",
+        "diferenta minus",
+        "SUMAL 2.0",
+        "lipsa lemn"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_113",
+      "descriere": "Efectuarea de fotografii ale mijlocului de transport încărcat cu materiale lemnoase, de către transportator, din care nu se poate distinge încărcătura.",
+      "articol_prevedere": "Art. 19 alin. (2^2) lit. a)",
+      "articol_sanctiune": "Art. 19 alin. (2^2)",
+      "amenda_min": 1000,
+      "amenda_max": 3000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "fotografii transport",
+        "SUMAL 2.0",
+        "transportator",
+        "monitorizare",
+        "aplicatie mobila"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_114",
+      "descriere": "Transportul materialelor lemnoase fără fotografiile mijlocului de transport încărcat, atunci când normele instituie această obligație.",
+      "articol_prevedere": "Art. 19 alin. (2^2) lit. b)",
+      "articol_sanctiune": "Art. 19 alin. (2^2)",
+      "amenda_min": 1000,
+      "amenda_max": 3000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "fotografii transport",
+        "lipsa poze",
+        "SUMAL 2.0",
+        "transport lemn",
+        "obligatie"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_115",
+      "descriere": "Utilizarea tipurilor de pastă/cerneală termosensibilă sau care se poate șterge ușor prin mijloace mecanice, la completarea avizelor de însoțire în format letric.",
+      "articol_prevedere": "Art. 19 alin. (2^2) lit. c)",
+      "articol_sanctiune": "Art. 19 alin. (2^2)",
+      "amenda_min": 1000,
+      "amenda_max": 3000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "aviz insotire",
+        "cerneala",
+        "format letric",
+        "completare aviz",
+        "documente"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_116",
+      "descriere": "Transportul materialelor lemnoase fără conexiune permanentă de date mobile active pe toată perioada transportului, în situația în care normele instituie această obligație.",
+      "articol_prevedere": "Art. 19 alin. (2^3) lit. a)",
+      "articol_sanctiune": "Art. 19 alin. (2^3)",
+      "amenda_min": 2000,
+      "amenda_max": 3000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "conexiune date mobile",
+        "internet",
+        "SUMAL 2.0",
+        "transport lemn",
+        "monitorizare"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_117",
+      "descriere": "Transportul materialelor lemnoase fără receptorul GPS al dispozitivului mobil pornit pe toată perioada transportului, în situația în care normele instituie această obligație.",
+      "articol_prevedere": "Art. 19 alin. (2^3) lit. b)",
+      "articol_sanctiune": "Art. 19 alin. (2^3)",
+      "amenda_min": 2000,
+      "amenda_max": 3000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "receptor GPS",
+        "locatie",
+        "SUMAL 2.0",
+        "transport lemn",
+        "monitorizare"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_118",
+      "descriere": "Transportul realizat cu mijloace de transport feroviare și navale, precum și cele care au ca destinație exportul, în situația în care perioada de valabilitate a avizelor de însoțire care însoțesc transportul depășește perioada de executare a contractului de transport.",
+      "articol_prevedere": "Art. 19 alin. (3)",
+      "articol_sanctiune": "Art. 19 alin. (3)",
+      "amenda_min": 3000,
+      "amenda_max": 6000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "transport feroviar",
+        "transport naval",
+        "export lemn",
+        "aviz expirat",
+        "valabilitate"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_119",
+      "descriere": "Refuzul importatorului de a returna în țara exportatoare cantitatea de mărfuri care depășește cu mai mult de 10% volumul sau greutatea indicate în licența FLEGT.",
+      "articol_prevedere": "Art. 19 alin. (4)",
+      "articol_sanctiune": "Art. 19 alin. (4)",
+      "amenda_min": 4000,
+      "amenda_max": 6000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "import lemn",
+        "licenta FLEGT",
+        "refuz returnare",
+        "exportator",
+        "regulament comunitar"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "Confiscarea materialelor lemnoase.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_120",
+      "descriere": "Introducerea în aplicațiile informatice din SUMAL 2.0 și/sau înscrierea în avizul de însoțire a unui număr de înmatriculare diferit de cel al mijlocului de transport efectiv încărcat.",
+      "articol_prevedere": "Art. 19 alin. (5)",
+      "articol_sanctiune": "Art. 19 alin. (5)",
+      "amenda_min": 500,
+      "amenda_max": 2000,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "numar inmatriculare",
+        "SUMAL 2.0",
+        "aviz insotire",
+        "mijloc transport",
+        "date gresite"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_121",
+      "descriere": "Introducerea pe piață a lemnului recoltat în mod ilegal sau a produselor din lemn derivate din acesta.",
+      "articol_prevedere": "Art. 19 alin. (6) lit. b)",
+      "articol_sanctiune": "Art. 19 alin. (6) lit. b)",
+      "amenda_min": 15000,
+      "amenda_max": 20000,
+      "permite_jumatate": true,
+      "suma_jumatate": 7500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "lemn ilegal",
+        "produse din lemn",
+        "introducere piata",
+        "regulament UE",
+        "comert"
+      ],
+      "masuri_complementare": "Interzicerea comercializării lemnului sau a produselor din lemn.",
+      "confiscare": "Confiscarea lemnului recoltat în mod ilegal sau a produselor din lemn derivate din acesta.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_122",
+      "descriere": "Importul, transportul, deținerea și/sau prelucrarea și comercializarea produselor din lemn prevăzute în anexele II și III la Regulamentul (CE) nr. 2.173/2005, în cazul în care transportul produselor respective nu este însoțit de o licență FLEGT.",
+      "articol_prevedere": "Art. 19 alin. (6) lit. c)",
+      "articol_sanctiune": "Art. 19 alin. (6) lit. c)",
+      "amenda_min": 15000,
+      "amenda_max": 20000,
+      "permite_jumatate": true,
+      "suma_jumatate": 7500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "import lemn",
+        "licenta FLEGT",
+        "regulament comunitar",
+        "produse din lemn",
+        "comercializare"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "Confiscarea produselor din lemn.",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_123",
+      "descriere": "Nerespectarea de către operatorii economici a obligației de a utiliza un sistem «due diligence», astfel cum este prevăzut la art. 6 din Regulamentul (UE) nr. 995/2010.",
+      "articol_prevedere": "Art. 19 alin. (6) lit. d)",
+      "articol_sanctiune": "Art. 19 alin. (6) lit. d)",
+      "amenda_min": 8000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 4000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "due diligence",
+        "sistem control",
+        "operator economic",
+        "regulament UE",
+        "lemn legal"
+      ],
+      "masuri_complementare": "Suspendarea pentru o perioadă de maximum 12 luni a acordului de distribuire și utilizare a documentelor cu regim special.",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_124",
+      "descriere": "Neîndeplinirea de către o organizație de monitorizare a obligațiilor prevăzute pentru aceasta la art. 8 alin. (1) din Regulamentul (UE) nr. 995/2010.",
+      "articol_prevedere": "Art. 19 alin. (6) lit. e)",
+      "articol_sanctiune": "Art. 19 alin. (6) lit. e)",
+      "amenda_min": 8000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 4000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "organizatie monitorizare",
+        "due diligence",
+        "regulament UE",
+        "control",
+        "operatori"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_125",
+      "descriere": "Implementarea de către operator a propriului sistem «due diligence» care nu îndeplinește elementele prevăzute la art. 6 din Regulamentul (UE) nr. 995/2010.",
+      "articol_prevedere": "Art. 19 alin. (6) lit. h)",
+      "articol_sanctiune": "Art. 19 alin. (6) lit. h)",
+      "amenda_min": 5000,
+      "amenda_max": 8000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "due diligence",
+        "implementare sistem",
+        "operator economic",
+        "regulament UE",
+        "control"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_126",
+      "descriere": "Neîndeplinirea de către operator a condițiilor înscrise în sistemul «due diligence» pe care îl utilizează.",
+      "articol_prevedere": "Art. 19 alin. (6) lit. i)",
+      "articol_sanctiune": "Art. 19 alin. (6) lit. i)",
+      "amenda_min": 5000,
+      "amenda_max": 8000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "due diligence",
+        "conditii sistem",
+        "operator economic",
+        "regulament UE",
+        "control"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_127",
+      "descriere": "Neîndeplinirea de către comercianți a obligațiilor prevăzute pentru aceștia la art. 5 din Regulamentul (UE) nr. 995/2010.",
+      "articol_prevedere": "Art. 19 alin. (6) lit. j)",
+      "articol_sanctiune": "Art. 19 alin. (6) lit. j)",
+      "amenda_min": 5000,
+      "amenda_max": 8000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "comercianti lemn",
+        "obligatii",
+        "regulament UE",
+        "evidenta",
+        "due diligence"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_128",
+      "descriere": "Neîndeplinirea de către operatorii economici a obligației de a utiliza un sistem «due diligence» la momentul exploatării masei lemnoase pe picior, cu excepția situației în care operatorul realizează activități de exploatare prin prestații silvice.",
+      "articol_prevedere": "Art. 19 alin. (6) lit. k)",
+      "articol_sanctiune": "Art. 19 alin. (6) lit. k)",
+      "amenda_min": 3000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "due diligence",
+        "exploatare pe picior",
+        "operator economic",
+        "regulament UE",
+        "sistem control"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_129",
+      "descriere": "Nedepunerea licenței FLEGT pe suport hârtie sau în format electronic sau, după caz, a duplicatului ori substitutului licenței FLEGT la autoritatea națională competentă.",
+      "articol_prevedere": "Art. 19 alin. (6) lit. n)",
+      "articol_sanctiune": "Art. 19 alin. (6) lit. n)",
+      "amenda_min": 1000,
+      "amenda_max": 3000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "licenta FLEGT",
+        "nedepunere",
+        "autoritate competenta",
+        "import lemn",
+        "documente"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_130",
+      "descriere": "Încălcarea prevederilor art. 5 din Regulamentul de punere în aplicare (UE) nr. 607/2012 privind normele detaliate referitoare la sistemul «due diligence».",
+      "articol_prevedere": "Art. 19 alin. (6) lit. o)",
+      "articol_sanctiune": "Art. 19 alin. (6) lit. o)",
+      "amenda_min": 1000,
+      "amenda_max": 3000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "due diligence",
+        "regulament UE 607/2012",
+        "norme detaliate",
+        "operator economic",
+        "monitorizare"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_131",
+      "descriere": "Permiterea comercializării materialelor lemnoase și/sau pomilor de Crăciun în piețe, târguri, oboare, burse de mărfuri și altele asemenea, neautorizate conform normelor.",
+      "articol_prevedere": "Art. 21 lit. a)",
+      "articol_sanctiune": "Art. 21",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "comercializare lemn",
+        "pomi de Craciun",
+        "piete neautorizate",
+        "obor",
+        "targ"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_132",
+      "descriere": "Neîmprejmuirea de către deținători a depozitelor, a altor spații destinate depozitării temporare și/sau a instalațiilor de prelucrare a materialelor lemnoase.",
+      "articol_prevedere": "Art. 21 lit. b)",
+      "articol_sanctiune": "Art. 21",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "imprejmuire depozit",
+        "instalatie prelucrare",
+        "gard",
+        "spatiu inchis",
+        "depozitare lemn"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_133",
+      "descriere": "Nerespectarea de către emitenți a prevederilor legale privind modul de completare și eliberare a avizelor de însoțire a materialelor lemnoase, în format electronic, numai dacă prin această faptă nu se pot stabili cantitățile transportate și proveniența acestora.",
+      "articol_prevedere": "Art. 21 lit. d)",
+      "articol_sanctiune": "Art. 21",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "aviz insotire",
+        "completare gresita",
+        "format electronic",
+        "emitent",
+        "provenienta"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_134",
+      "descriere": "Prezentarea la autoritatea vamală a avizului de însoțire ori a documentului echivalent acestuia întocmit cu încălcarea prevederilor normelor privind circulația materialelor lemnoase sau conținând neconcordanțe cu datele înscrise în declarația vamală.",
+      "articol_prevedere": "Art. 21 lit. e)",
+      "articol_sanctiune": "Art. 21",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "aviz vamal",
+        "export lemn",
+        "neconcordanta",
+        "declaratie vamala",
+        "documente"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_135",
+      "descriere": "Neprezentarea de către transportator a avizului de însoțire în vederea efectuării controlului vamal al materialelor lemnoase exportate.",
+      "articol_prevedere": "Art. 21 lit. f)",
+      "articol_sanctiune": "Art. 21",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "aviz insotire",
+        "control vamal",
+        "export lemn",
+        "transportator",
+        "neprezentare"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_136",
+      "descriere": "Refuzul expeditorului/transportatorului de a transporta și descărca materialele lemnoase reținute în vederea confiscării/confiscate la locul de păstrare/depozitare în custodie stabilit de agentul constatator.",
+      "articol_prevedere": "Art. 21 lit. j)",
+      "articol_sanctiune": "Art. 21",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "refuz descarcare",
+        "material confiscat",
+        "custodie",
+        "transportator",
+        "agent constatator"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_137",
+      "descriere": "Refuzul de către profesioniști de a permite agenților constatatori să realizeze activitățile de verificare și/sau să inventarieze stocurile de material lemnos, să pună la dispoziție documentele necesare.",
+      "articol_prevedere": "Art. 21 lit. l)",
+      "articol_sanctiune": "Art. 21",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "refuz control",
+        "inventariere stocuri",
+        "profesionisti",
+        "verificare documente",
+        "acces interzis"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_138",
+      "descriere": "Neidentificarea de către structurile teritoriale de specialitate ale autorității publice centrale care răspunde de silvicultură a pădurilor care au făcut parte din categoria vegetație forestieră de pe terenuri din afara fondului forestier, pentru a fi incluse în fondul forestier.",
+      "articol_prevedere": "Art. 23^1",
+      "articol_sanctiune": "Art. 23^1",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "identificare paduri",
+        "vegetatie forestiera",
+        "fond forestier",
+        "includere",
+        "structuri teritoriale"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    }
+  ]
+}
+{
+      "id": "fapta_139",
+      "descriere": "Depășirea posibilității, inclusiv ca urmare a recoltării produselor accidentale I și fără existența aprobărilor legale, în procent de până la 3% din posibilitate.",
+      "articol_prevedere": "Art. 5 alin. (1)",
+      "articol_sanctiune": "Art. 5 alin. (1) lit. a)",
+      "amenda_min": 0,
+      "amenda_max": 0,
+      "permite_jumatate": false,
+      "suma_jumatate": 0,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Personalul silvic din cadrul administratorilor fondului forestier proprietate publică a statului"
+      ],
+      "tags": [
+        "depasire posibilitate",
+        "avertisment",
+        "produse accidentale",
+        "amenajament",
+        "procent 3%"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_140",
+      "descriere": "Recoltarea prin lucrări de conservare la nivelul de subunitate de gospodărire a unui volum mai mare decât volumul prevăzut, fără existența unei aprobări legale, în procent de până la 3% din volumul prevăzut.",
+      "articol_prevedere": "Art. 5 alin. (8)",
+      "articol_sanctiune": "Art. 5 alin. (8) lit. a)",
+      "amenda_min": 0,
+      "amenda_max": 0,
+      "permite_jumatate": false,
+      "suma_jumatate": 0,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale"
+      ],
+      "tags": [
+        "lucrari conservare",
+        "avertisment",
+        "volum recoltare",
+        "subunitate gospodarie",
+        "procent 3%"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_141",
+      "descriere": "Efectuarea de fotografii ale mijlocului de transport încărcat cu materiale lemnoase, din care nu se poate distinge încărcătura, sau transportul fără fotografii, atunci când normele instituie această obligație (sancțiune minimă).",
+      "articol_prevedere": "Art. 19 alin. (2^2)",
+      "articol_sanctiune": "Art. 19 alin. (2^2)",
+      "amenda_min": 0,
+      "amenda_max": 0,
+      "permite_jumatate": false,
+      "suma_jumatate": 0,
+      "competenta": [
+        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "avertisment",
+        "fotografii transport",
+        "SUMAL 2.0",
+        "transportator",
+        "monitorizare"
+      ],
+      "masuri_complementare": "",
+      "confiscare": "",
+      "agravare_fapta": "",
+      "repetare_fapta": ""
+    }
+  ]
+}
