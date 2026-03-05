@@ -1,0 +1,321 @@
+{
+  "lege_metadata": {
+    "titlu": "ORDONANȚĂ DE URGENȚĂ nr. 97 din 14 iulie 2005 (**republicată**) privind evidența, domiciliul, reședința și actele de identitate ale cetățenilor români",
+    "data_actualizare": "27 martie 2025",
+    "monitor_oficial": "MONITORUL OFICIAL nr. 719 din 12 octombrie 2011",
+    "forma_republicata": "M.Of. nr. 719/2011",
+    "acte_modificatoare": [
+      "Legea nr. 14/2025 (M.Of. nr. 218/2025)",
+      "O.U.G. nr. 17/2025 (M.Of. nr. 272/2025)",
+      "Legea nr. 162/2023 (M.Of. nr. 698/2023)",
+      "O.U.G. nr. 148/2022 (M.Of. nr. 1068/2022)"
+    ]
+  },
+  "fapte": [
+    {
+      "id": "art_43_a_14_4",
+      "descriere": "Nerespectarea dispozițiilor privind interzicerea eliberării pe bază de procură specială a primului act de identitate, a cărții electronice de identitate și a cărții de identitate simple.",
+      "articol_prevedere": "Art. 43 lit. a) raportat la Art. 14 alin. (4)",
+      "articol_sanctiune": "Art. 43 lit. a)",
+      "amenda_min": 25,
+      "amenda_max": 50,
+      "permite_jumatate": true,
+      "suma_jumatate": 13,
+      "competenta": [
+        "Persoane împuternicite din cadrul serviciilor publice comunitare de evidență a persoanelor",
+        "Polițiști"
+      ],
+      "tags": [
+        "procură specială",
+        "act de identitate",
+        "carte electronică identitate",
+        "eliberare"
+      ]
+    },
+    {
+      "id": "art_43_a_23_1",
+      "descriere": "Nerespectarea obligației titularilor actelor de identitate și a autorităților publice prevăzute de lege de a lua măsuri pentru a evita deteriorarea, distrugerea, pierderea sau furtul actelor de identitate.",
+      "articol_prevedere": "Art. 43 lit. a) raportat la Art. 23 alin. (1)",
+      "articol_sanctiune": "Art. 43 lit. a)",
+      "amenda_min": 25,
+      "amenda_max": 50,
+      "permite_jumatate": true,
+      "suma_jumatate": 13,
+      "competenta": [
+        "Persoane împuternicite din cadrul serviciilor publice comunitare de evidență a persoanelor",
+        "Polițiști"
+      ],
+      "tags": [
+        "deteriorare",
+        "distrugere",
+        "pierdere",
+        "furt",
+        "act identitate",
+        "obligație titular"
+      ]
+    },
+    {
+      "id": "art_43_a_24_1",
+      "descriere": "Neîndeplinirea obligației persoanei care a găsit sau a intrat în mod fortuit în posesia unui act de identitate de a îl depune ori îl trimită, în termen de 24 de ore, la cel mai apropiat serviciu public comunitar de evidență a persoanelor sau la cea mai apropiată unitate de poliție.",
+      "articol_prevedere": "Art. 43 lit. a) raportat la Art. 24 alin. (1)",
+      "articol_sanctiune": "Art. 43 lit. a)",
+      "amenda_min": 25,
+      "amenda_max": 50,
+      "permite_jumatate": true,
+      "suma_jumatate": 13,
+      "competenta": [
+        "Persoane împuternicite din cadrul serviciilor publice comunitare de evidență a persoanelor",
+        "Polițiști"
+      ],
+      "tags": [
+        "găsire act",
+        "predare act",
+        "termen 24 ore",
+        "obligație cetățean"
+      ]
+    },
+    {
+      "id": "art_43_a_38_4",
+      "descriere": "Nerespectarea obligației responsabilului cărții de imobil de a înscrie persoanele care domiciliază sau au reședința în imobil și de a prezenta cartea de imobil, la cerere, polițiștilor sau lucrătorilor serviciilor publice comunitare de evidență a persoanelor.",
+      "articol_prevedere": "Art. 43 lit. a) raportat la Art. 38 alin. (4)",
+      "articol_sanctiune": "Art. 43 lit. a)",
+      "amenda_min": 25,
+      "amenda_max": 50,
+      "permite_jumatate": true,
+      "suma_jumatate": 13,
+      "competenta": [
+        "Persoane împuternicite din cadrul serviciilor publice comunitare de evidență a persoanelor",
+        "Polițiști"
+      ],
+      "tags": [
+        "carte de imobil",
+        "responsabil carte imobil",
+        "înscriere persoane",
+        "prezentare"
+      ]
+    },
+    {
+      "id": "art_43_b_12_2",
+      "descriere": "Nerespectarea obligației cetățenilor români de a solicita eliberarea actului de identitate în termen de 15 zile de la împlinirea vârstei de 14 ani.",
+      "articol_prevedere": "Art. 43 lit. b) raportat la Art. 12 alin. (2)",
+      "articol_sanctiune": "Art. 43 lit. b)",
+      "amenda_min": 500,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Persoane împuternicite din cadrul serviciilor publice comunitare de evidență a persoanelor",
+        "Polițiști"
+      ],
+      "tags": [
+        "vârsta 14 ani",
+        "eliberare act identitate",
+        "termen 15 zile",
+        "obligație minor"
+      ]
+    },
+    {
+      "id": "art_43_b_12_21",
+      "descriere": "Nerespectarea obligației persoanelor care optează pentru stabilirea domiciliului în România de a solicita eliberarea primului act de identitate în termen de un an de la data acordării/redobândirii cetățeniei române.",
+      "articol_prevedere": "Art. 43 lit. b) raportat la Art. 12 alin. (2^1)",
+      "articol_sanctiune": "Art. 43 lit. b)",
+      "amenda_min": 500,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Persoane împuternicite din cadrul serviciilor publice comunitare de evidență a persoanelor",
+        "Polițiști"
+      ],
+      "tags": [
+        "cetățenie",
+        "domiciliu România",
+        "primul act identitate",
+        "termen un an"
+      ]
+    },
+    {
+      "id": "art_43_b_18_1",
+      "descriere": "Efectuarea oricăror modificări, adăugări sau mențiuni, altele decât cele prevăzute de lege, înscrise în actul de identitate.",
+      "articol_prevedere": "Art. 43 lit. b) raportat la Art. 18 alin. (1)",
+      "articol_sanctiune": "Art. 43 lit. b)",
+      "amenda_min": 500,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Persoane împuternicite din cadrul serviciilor publice comunitare de evidență a persoanelor",
+        "Polițiști"
+      ],
+      "tags": [
+        "modificare act",
+        "alterare",
+        "mențiuni ilegale",
+        "nulitate"
+      ]
+    },
+    {
+      "id": "art_43_b_19_2",
+      "descriere": "Nerespectarea obligației titularului sau reprezentantului legal de a solicita eliberarea unui nou act de identitate în termenii prevăzuți de lege (cu 180 zile înainte de expirare sau în 15 zile de la schimbarea datelor).",
+      "articol_prevedere": "Art. 43 lit. b) raportat la Art. 19 alin. (2)",
+      "articol_sanctiune": "Art. 43 lit. b)",
+      "amenda_min": 500,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Persoane împuternicite din cadrul serviciilor publice comunitare de evidență a persoanelor",
+        "Polițiști"
+      ],
+      "tags": [
+        "preschimbare act",
+        "expirare valabilitate",
+        "schimbare date",
+        "solicitare nou act"
+      ]
+    },
+    {
+      "id": "art_43_b_39_1",
+      "descriere": "Nerespectarea obligației persoanelor care locuiesc la alte adrese decât cea din actul de identitate de a solicita schimbarea domiciliului sau înscrierea reședinței în termen de 15 zile de la mutare și de a cere înscrierea în cartea de imobil.",
+      "articol_prevedere": "Art. 43 lit. b) raportat la Art. 39 alin. (1)",
+      "articol_sanctiune": "Art. 43 lit. b)",
+      "amenda_min": 500,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Persoane împuternicite din cadrul serviciilor publice comunitare de evidență a persoanelor",
+        "Polițiști"
+      ],
+      "tags": [
+        "schimbare domiciliu",
+        "stabilire reședință",
+        "mutare",
+        "termen 15 zile",
+        "carte imobil"
+      ]
+    },
+    {
+      "id": "art_43_b_39_2",
+      "descriere": "Refuzul persoanelor care locuiesc în imobil de a prezenta actul de identitate responsabilului cărții de imobil, la solicitarea acestuia, pentru actualizarea cărții de imobil.",
+      "articol_prevedere": "Art. 43 lit. b) raportat la Art. 39 alin. (2)",
+      "articol_sanctiune": "Art. 43 lit. b)",
+      "amenda_min": 500,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Persoane împuternicite din cadrul serviciilor publice comunitare de evidență a persoanelor",
+        "Polițiști"
+      ],
+      "tags": [
+        "carte imobil",
+        "prezentare act",
+        "actualizare date",
+        "refuz"
+      ]
+    },
+    {
+      "id": "art_43_b_40",
+      "descriere": "Nerespectarea obligației proprietarilor sau administratorilor de hoteluri și alte locuri de cazare în comun de a face înscrierea în cartea de imobil la sosirea persoanelor.",
+      "articol_prevedere": "Art. 43 lit. b) raportat la Art. 40",
+      "articol_sanctiune": "Art. 43 lit. b)",
+      "amenda_min": 500,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Persoane împuternicite din cadrul serviciilor publice comunitare de evidență a persoanelor",
+        "Polițiști"
+      ],
+      "tags": [
+        "hotel",
+        "cazare",
+        "carte imobil",
+        "proprietar administrator",
+        "înscriere"
+      ]
+    },
+    {
+      "id": "art_43_c_25",
+      "descriere": "Darea, primirea sau solicitarea actului de identitate drept garanție pentru prestarea unor servicii, pentru încredințarea unor bunuri și valori, pentru plata datoriilor sau în alte scopuri, de către persoanele neautorizate.",
+      "articol_prevedere": "Art. 43 lit. c) raportat la Art. 25",
+      "articol_sanctiune": "Art. 43 lit. c)",
+      "amenda_min": 75,
+      "amenda_max": 150,
+      "permite_jumatate": true,
+      "suma_jumatate": 38,
+      "competenta": [
+        "Persoane împuternicite din cadrul serviciilor publice comunitare de evidență a persoanelor",
+        "Polițiști"
+      ],
+      "tags": [
+        "garanție",
+        "reținere act",
+        "act identitate",
+        "sancțiune",
+        "interzis"
+      ]
+    },
+    {
+      "id": "art_43_c_31_3",
+      "descriere": "Nerespectarea dispoziției conform căreia nu poate fi înscrisă mențiunea privind reședința în actul de identitate dacă în RNEP sunt înregistrate mai mult de 10 persoane la adresa respectivă.",
+      "articol_prevedere": "Art. 43 lit. c) raportat la Art. 31 alin. (3)",
+      "articol_sanctiune": "Art. 43 lit. c)",
+      "amenda_min": 75,
+      "amenda_max": 150,
+      "permite_jumatate": true,
+      "suma_jumatate": 38,
+      "competenta": [
+        "Persoane împuternicite din cadrul serviciilor publice comunitare de evidență a persoanelor",
+        "Polițiști"
+      ],
+      "tags": [
+        "reședință",
+        "limită 10 persoane",
+        "înscriere mențiune",
+        "RNEP"
+      ]
+    },
+    {
+      "id": "art_43_c_34_2",
+      "descriere": "Nerespectarea obligației instituțiilor (de ocrotire, educative, sanitare) de a anunța imediat unitatea de poliție atunci când nu poate fi stabilită identitatea persoanelor internate sau primite spre îngrijire.",
+      "articol_prevedere": "Art. 43 lit. c) raportat la Art. 34 alin. (2)",
+      "articol_sanctiune": "Art. 43 lit. c)",
+      "amenda_min": 75,
+      "amenda_max": 150,
+      "permite_jumatate": true,
+      "suma_jumatate": 38,
+      "competenta": [
+        "Persoane împuternicite din cadrul serviciilor publice comunitare de evidență a persoanelor",
+        "Polițiști"
+      ],
+      "tags": [
+        "stabilire identitate",
+        "anunț poliție",
+        "instituție ocrotire",
+        "persoane neidentificate"
+      ]
+    },
+    {
+      "id": "art_43_c_36",
+      "descriere": "Nerespectarea obligației persoanei care găzduiește o altă persoană fără adresă înscrisă în actul de identitate de a se prezenta împreună cu aceasta la serviciul public comunitar de evidență a persoanelor pentru exprimarea consimțământului de primire în spațiu.",
+      "articol_prevedere": "Art. 43 lit. c) raportat la Art. 36",
+      "articol_sanctiune": "Art. 43 lit. c)",
+      "amenda_min": 75,
+      "amenda_max": 150,
+      "permite_jumatate": true,
+      "suma_jumatate": 38,
+      "competenta": [
+        "Persoane împuternicite din cadrul serviciilor publice comunitare de evidență a persoanelor",
+        "Polițiști"
+      ],
+      "tags": [
+        "găzduire",
+        "consimțământ primire",
+        "reședință",
+        "obligație gazdă"
+      ]
+    }
+  ]
+}
