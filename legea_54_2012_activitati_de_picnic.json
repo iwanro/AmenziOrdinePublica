@@ -1,0 +1,422 @@
+  ```json
+{
+  "lege_metadata": {
+    "titlu": "Legea nr. 54 din 19 martie 2012 privind desfășurarea activităților de picnic",
+    "data_publicare": "27 martie 2012",
+    "monitorul_oficial": "Monitorul Oficial nr. 201 din 27 martie 2012",
+    "ultima_modificare": "Legea nr. 54/2012 (fără modificări ulterioare semnificative)"
+  },
+  "fapte": [
+    {
+      "id": "1",
+      "punct": "a)",
+      "descriere": "Nerespectarea prevederilor art. 5 (obligațiile administratorului zonelor special amenajate pentru activitățile de picnic și al zonelor indicate pentru activitățile de picnic)",
+      "articol_prevedere": "Art. 5",
+      "articol_sanctiune": "Art. 8, alin. (1), lit. a)",
+      "amenda_min": 10000,
+      "amenda_max": 50000,
+      "permite_jumatate": true,
+      "suma_jumatate": 5000,
+      "competenta": [
+        "Reprezentanții Gărzii Naționale de Mediu",
+        "Autoritățile administrației publice locale",
+        "Personalul împuternicit al autorităților administrației publice locale",
+        "Ofițerii și agenții de poliție din cadrul Poliției Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române",
+        "Agenții Poliției locale"
+      ],
+      "tags": [
+        "administrator",
+        "zonă picnic",
+        "amenajare",
+        "urbanism",
+        "silvicultură",
+        "protecția mediului",
+        "defrișare",
+        "construcție temporară",
+        "toaletă ecologică",
+        "containere deșeuri",
+        "puncte stingere incendii",
+        "parcări",
+        "poliție locală"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "obligatii_incalcate": [
+        "Art. 5 lit. a) - Amenajarea zonei cu respectarea dispozițiilor de urbanism, silvicultură și protecția mediului",
+        "Art. 5 lit. b) - Amenajarea prin intervenții minime asupra mediului natural, fără defrișări, modificări ale malurilor/apelor, betonări sau asfaltări",
+        "Art. 5 lit. c) - Încadrarea și delimitarea zonelor în documentațiile de amenajare a teritoriului/urbanism",
+        "Art. 5 lit. d) - Delimitarea și marcarea zonelor cu indicarea orarului de funcționare",
+        "Art. 5 lit. e) - Amenajarea locurilor speciale pentru aprinderea focului",
+        "Art. 5 lit. f) - Dotarea cu containere pentru colectarea selectivă a deșeurilor și toalete ecologice",
+        "Art. 5 lit. g) - Marcarea punctelor de colectare și afișarea regulilor de colectare selectivă",
+        "Art. 5 lit. h) - Nepermiterea defrișărilor sau modificărilor cursurilor de apă",
+        "Art. 5 lit. i) - Nepermiterea ridicării de construcții cu excepția celor temporare",
+        "Art. 5 lit. j) - Organizarea serviciului de verificare zilnică a zonelor cu ajutorul poliției locale",
+        "Art. 5 lit. k) - Asigurarea serviciului de salubritate",
+        "Art. 5 lit. l) - Delimitarea și marcarea zonei de parcare autovehicule",
+        "Art. 5 lit. m) - Afișarea planului cu organizarea zonei, regulile, sancțiunile și numerele de telefon utile",
+        "Art. 5 lit. n) - Realizarea și dotarea pichete de stingere a incendiilor"
+      ]
+    },
+    {
+      "id": "2",
+      "punct": "b)",
+      "descriere": "Nerespectarea prevederilor art. 7 lit. a) (distrugerea, modificarea sau degradarea panourilor informative, marcajelor, indicatoarelor, construcțiilor, împrejmuirilor sau orice alte amenajări)",
+      "articol_prevedere": "Art. 7, lit. a)",
+      "articol_sanctiune": "Art. 8, alin. (1), lit. b)",
+      "amenda_min": 100,
+      "amenda_max": 500,
+      "permite_jumatate": true,
+      "suma_jumatate": 50,
+      "competenta": [
+        "Reprezentanții Gărzii Naționale de Mediu",
+        "Autoritățile administrației publice locale",
+        "Personalul împuternicit al autorităților administrației publice locale",
+        "Ofițerii și agenții de poliție din cadrul Poliției Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române",
+        "Agenții Poliției locale"
+      ],
+      "tags": [
+        "distrugere",
+        "modificare",
+        "degradare",
+        "panou informativ",
+        "marcaj",
+        "indicator",
+        "construcție",
+        "împrejmuire",
+        "amenajare",
+        "vandalism"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
+    },
+    {
+      "id": "3",
+      "punct": "c)",
+      "descriere": "Nerespectarea prevederilor art. 7 lit. b) (nerespectarea obligației de a arunca deșeurile doar în locurile special amenajate)",
+      "articol_prevedere": "Art. 7, lit. b)",
+      "articol_sanctiune": "Art. 8, alin. (1), lit. c)",
+      "amenda_min": 200,
+      "amenda_max": 2000,
+      "permite_jumatate": true,
+      "suma_jumatate": 100,
+      "competenta": [
+        "Reprezentanții Gărzii Naționale de Mediu",
+        "Autoritățile administrației publice locale",
+        "Personalul împuternicit al autorităților administrației publice locale",
+        "Ofițerii și agenții de poliție din cadrul Poliției Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române",
+        "Agenții Poliției locale"
+      ],
+      "tags": [
+        "deșeuri",
+        "gunoi",
+        "aruncare",
+        "loc special amenajat",
+        "colectare",
+        "salubrizare",
+        "mediu"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
+    },
+    {
+      "id": "4",
+      "punct": "d)",
+      "descriere": "Nerespectarea prevederilor art. 7 lit. c) (nedepunerea selectivă a deșeurilor de ambalaje în containerele inscripționate corespunzător)",
+      "articol_prevedere": "Art. 7, lit. c)",
+      "articol_sanctiune": "Art. 8, alin. (1), lit. d)",
+      "amenda_min": 100,
+      "amenda_max": 500,
+      "permite_jumatate": true,
+      "suma_jumatate": 50,
+      "competenta": [
+        "Reprezentanții Gărzii Naționale de Mediu",
+        "Autoritățile administrației publice locale",
+        "Personalul împuternicit al autorităților administrației publice locale",
+        "Ofițerii și agenții de poliție din cadrul Poliției Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române",
+        "Agenții Poliției locale"
+      ],
+      "tags": [
+        "colectare selectivă",
+        "deșeuri ambalaje",
+        "reciclare",
+        "containere",
+        "sortare",
+        "protecția mediului"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
+    },
+    {
+      "id": "5",
+      "punct": "e)",
+      "descriere": "Nerespectarea prevederilor art. 7 lit. d) (aprinderea focului în alte locuri decât cele special amenajate sau nesupravegherea acestuia)",
+      "articol_prevedere": "Art. 7, lit. d)",
+      "articol_sanctiune": "Art. 8, alin. (1), lit. e)",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Reprezentanții Gărzii Naționale de Mediu",
+        "Autoritățile administrației publice locale",
+        "Personalul împuternicit al autorităților administrației publice locale",
+        "Ofițerii și agenții de poliție din cadrul Poliției Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române",
+        "Agenții Poliției locale"
+      ],
+      "tags": [
+        "foc",
+        "foc deschis",
+        "grătar",
+        "incendiu",
+        "supraveghere",
+        "loc special amenajat",
+        "pericol",
+        "pădure",
+        "vegetație"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
+    },
+    {
+      "id": "6",
+      "punct": "f)",
+      "descriere": "Nerespectarea prevederilor art. 7 lit. f), o) și p) (nelăsarea locului curat și nealterat, aruncarea țigărilor/chibriturilor în alte locuri decât cele amenajate, nerespectarea ordinii publice și bunelor moravuri)",
+      "articol_prevedere": "Art. 7, lit. f), o), p)",
+      "articol_sanctiune": "Art. 8, alin. (1), lit. f)",
+      "amenda_min": 300,
+      "amenda_max": 3000,
+      "permite_jumatate": true,
+      "suma_jumatate": 150,
+      "competenta": [
+        "Reprezentanții Gărzii Naționale de Mediu",
+        "Autoritățile administrației publice locale",
+        "Personalul împuternicit al autorităților administrației publice locale",
+        "Ofițerii și agenții de poliție din cadrul Poliției Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române",
+        "Agenții Poliției locale"
+      ],
+      "tags": [
+        "loc curat",
+        "nealterat",
+        "igienă",
+        "țigară",
+        "chibrit",
+        "foc",
+        "ordine publică",
+        "bune moravuri",
+        "comportament",
+        "tulburare"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "obligatii_incalcate": [
+        "Art. 7 lit. f) - Lăsarea locului curat și nealterat",
+        "Art. 7 lit. o) - Ne aruncarea țigărilor, chibriturilor sau obiectelor aprinse în alte locuri decât cele special amenajate",
+        "Art. 7 lit. p) - Nerespectarea ordinii publice și a bunelor moravuri"
+      ]
+    },
+    {
+      "id": "7",
+      "punct": "g)",
+      "descriere": "Nerespectarea prevederilor art. 7 lit. e), g)-j) (nerespectarea orarului, parcarea în alte zone, folosirea altor locuri pentru necesități fiziologice, folosirea produselor de igienă la mai puțin de 30m de ape, spălarea obiectelor în ape, împrăștierea/vărsarea apei uzate)",
+      "articol_prevedere": "Art. 7, lit. e), g), h), i), j)",
+      "articol_sanctiune": "Art. 8, alin. (1), lit. g)",
+      "amenda_min": 100,
+      "amenda_max": 200,
+      "permite_jumatate": true,
+      "suma_jumatate": 50,
+      "competenta": [
+        "Reprezentanții Gărzii Naționale de Mediu",
+        "Autoritățile administrației publice locale",
+        "Personalul împuternicit al autorităților administrației publice locale",
+        "Ofițerii și agenții de poliție din cadrul Poliției Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române",
+        "Agenții Poliției locale"
+      ],
+      "tags": [
+        "orar",
+        "program",
+        "parcare",
+        "autovehicul",
+        "toaletă",
+        "necesități fiziologice",
+        "produse igienă",
+        "apă",
+        "curs de apă",
+        "spălare",
+        "apă uzată",
+        "poluare"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "obligatii_incalcate": [
+        "Art. 7 lit. e) - Nerespectarea orarului de desfășurare a activității de picnic",
+        "Art. 7 lit. g) - Parcarea autovehiculelor în alte zone decât cele special amenajate",
+        "Art. 7 lit. h) - Folosirea altor locuri decât cele special amenajate pentru necesități fiziologice",
+        "Art. 7 lit. i) - Folosirea produselor de igienă personală la mai puțin de 30m de cursurile de apă",
+        "Art. 7 lit. j) - Spălarea obiectelor în apele din vecinătate, împrăștierea sau vărsarea apei uzate"
+      ]
+    },
+    {
+      "id": "8",
+      "punct": "h)",
+      "descriere": "Nerespectarea prevederilor art. 7 lit. k)-n) (hrănirea animalelor sălbatice, îndepărtarea/rănirea/distrugerea plantelor, animalelor, rocilor, postarea de semne/mesaje, tulburarea liniștii)",
+      "articol_prevedere": "Art. 7, lit. k), l), m), n)",
+      "articol_sanctiune": "Art. 8, alin. (1), lit. h)",
+      "amenda_min": 200,
+      "amenda_max": 400,
+      "permite_jumatate": true,
+      "suma_jumatate": 100,
+      "competenta": [
+        "Reprezentanții Gărzii Naționale de Mediu",
+        "Autoritățile administrației publice locale",
+        "Personalul împuternicit al autorităților administrației publice locale",
+        "Ofițerii și agenții de poliție din cadrul Poliției Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române",
+        "Agenții Poliției locale"
+      ],
+      "tags": [
+        "animale sălbatice",
+        "hrănire",
+        "plantă",
+        "floră",
+        "faună",
+        "rocă",
+        "element natural",
+        "semn",
+        "mesaj",
+        "publicitate",
+        "liniște",
+        "tulburare",
+        "comunitate locală",
+        "viață sălbatică"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "obligatii_incalcate": [
+        "Art. 7 lit. k) - Hrănirea animalelor sălbatice",
+        "Art. 7 lit. l) - Îndepărtarea, rănirea sau distrugerea plantelor, animalelor, rocilor sau altor elemente ale cadrului natural/construit",
+        "Art. 7 lit. m) - Postarea de semne sau mesaje",
+        "Art. 7 lit. n) - Nepăstrarea liniștii, deranjarea comunităților locale, vieții sălbatice sau altor vizitatori"
+      ]
+    },
+    {
+      "id": "9",
+      "punct": "i)",
+      "descriere": "Nerespectarea prevederilor art. 7 lit. q) (desfășurarea activităților de picnic în afara zonelor special amenajate sau indicate)",
+      "articol_prevedere": "Art. 7, lit. q)",
+      "articol_sanctiune": "Art. 8, alin. (1), lit. i)",
+      "amenda_min": 1000,
+      "amenda_max": 3000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Reprezentanții Gărzii Naționale de Mediu",
+        "Autoritățile administrației publice locale",
+        "Personalul împuternicit al autorităților administrației publice locale",
+        "Ofițerii și agenții de poliție din cadrul Poliției Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române",
+        "Agenții Poliției locale"
+      ],
+      "tags": [
+        "zonă neamenajată",
+        "zonă neindicată",
+        "picnic interzis",
+        "zonă neautorizată",
+        "domeniu public",
+        "domeniu privat",
+        "protecția mediului"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "observatie": "Conform art. 4, desfășurarea activităților de picnic este interzisă în afara zonelor special amenajate (art. 3 lit. c) și a zonelor indicate (art. 3 lit. d), cu excepția evenimentelor ocazionale autorizate"
+    }
+  ],
+  "dispozitii_generale": {
+    "definitii": {
+      "activitate_picnic": {
+        "articol": "Art. 3, lit. a)",
+        "definitie": "Orice activitate de recreere de afluență publică, desfășurată în zone de afluență publică consacrate pe domeniul public ori privat al statului și/sau al unităților administrativ-teritoriale de una ori mai multe persoane și care presupune consumul de băuturi și/sau alimente, precum și, după caz, aprinderea ori nu a focului"
+      },
+      "zone_afluenta_publica_consacrate": {
+        "articol": "Art. 3, lit. b)",
+        "definitie": "Zone în care publicul obișnuiește să petreacă ocazional timpul liber, zone special amenajate pentru activitățile de picnic și zone indicate pentru activitățile de picnic organizate în acest scop de către autoritățile administrației publice locale"
+      },
+      "zone_special_amenajate": {
+        "articol": "Art. 3, lit. c)",
+        "definitie": "Zonele aparținând domeniului public ori privat al statului și/sau al unităților administrativ-teritoriale, dotate cu utilități și facilități pentru desfășurarea activităților de picnic și în care aprinderea focului este permisă"
+      },
+      "zone_indicate": {
+        "articol": "Art. 3, lit. d)",
+        "definitie": "Zonele indicate în planurile de zonificare ale parcurilor aflate în intravilanul localităților, precum și zonele limitrofe pădurilor situate în intravilanul localităților, în care sunt permise activități de picnic, cu excepția aprinderii focului"
+      },
+      "administrator": {
+        "articol": "Art. 3, lit. e)",
+        "definitie": "Persoana fizică și/sau juridică care administrează terenuri aparținând domeniului public ori privat al statului și/sau al unităților administrativ-teritoriale în temeiul unui titlu valabil"
+      }
+    },
+    "interdictii_generale": {
+      "articol": "Art. 4",
+      "dispozitie": "Desfășurarea activităților de picnic, cu excepția celor desfășurate în zonele prevăzute la art. 3 lit. c) și d), este interzisă. Prin excepție, desfășurarea activităților de picnic este permisă și în alte zone doar în condițiile organizării de evenimente ocazionale, autorizate potrivit legii."
+    },
+    "plata_jumatate_amenda": {
+      "articol": "Art. 8, alin. (3)",
+      "dispozitie": "Contravenientul poate achita pe loc sau în termen de cel mult 48 de ore de la data încheierii procesului-verbal de constatare a contravenției ori, după caz, de la data comunicării acestuia jumătate din minimul amenzii prevăzute la alin. (1)",
+      "termen": "48 de ore",
+      "aplicabilitate": "Toate contravențiile prevăzute la art. 8 alin. (1)",
+      "observatie": "Autoritățile prevăzute la alin. (2) menționează această posibilitate în procesul-verbal de constatare a contravenției"
+    },
+    "competenta_constatare": {
+      "articol": "Art. 8, alin. (2)",
+      "organe": [
+        "Reprezentanții Gărzii Naționale de Mediu",
+        "Autoritățile administrației publice locale",
+        "Personalul împuternicit al autorităților administrației publice locale",
+        "Ofițerii și agenții de poliție din cadrul Poliției Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române",
+        "Agenții Poliției locale"
+      ]
+    },
+    "atributii_constatatori": {
+      "articol": "Art. 8, alin. (4)",
+      "atributii": [
+        "a) Să inspecteze zonele în care se desfășoară activitățile de picnic",
+        "b) Să verifice datele cu caracter personal ale persoanelor care desfășoară activitățile de picnic",
+        "c) Să evacueze din zona în care se desfășoară activitățile de picnic persoanele care încalcă una sau mai multe dintre obligațiile prevăzute la art. 7"
+      ]
+    },
+    "regim_juridic": {
+      "articol": "Art. 9",
+      "dispozitie": "Dispozițiile referitoare la contravenții se completează cu prevederile OUG nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002"
+    },
+    "perioada_prescriptie": {
+      "articol": "OUG nr. 2/2001",
+      "termen": "6 luni pentru contravenții (conform art. 6 din OUG nr. 2/2001)"
+    }
+  }
+}
+```
