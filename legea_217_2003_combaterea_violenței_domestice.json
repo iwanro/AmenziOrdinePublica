@@ -1,0 +1,238 @@
+{
+  "lege_metadata": {
+    "titlu": "Legea nr. 217/2003 pentru prevenirea și combaterea violenței domestice (republicată)",
+    "data_publicare": "15 octombrie 2020",
+    "monitorul_oficial": "Monitorul Oficial nr. 948 din 15 octombrie 2020",
+    "data_actualizare": "2025-01-17 (modificări prin Legea nr. 1/2025)"
+  },
+  "fapte": [
+    {
+      "id": "57_1_a",
+      "descriere": "Refuzul primirii în adăpost ori refuzul de a acorda, la solicitarea motivată a asistentului social, îngrijire medicală gratuită celui aflat în suferință vizibilă, pentru înlăturarea consecințelor violențelor",
+      "articol_prevedere": "Art. 57, alin. (1), lit. a)",
+      "articol_sanctiune": "Art. 57, alin. (1)",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "asistenți sociali",
+        "primar",
+        "împuterniciții primarului"
+      ],
+      "tags": [
+        "refuz",
+        "adăpost",
+        "îngrijire medicală",
+        "asistent social",
+        "suferință vizibilă",
+        "consecințe violență"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
+    },
+    {
+      "id": "57_1_b",
+      "descriere": "Schimbarea destinației adăpostului",
+      "articol_prevedere": "Art. 57, alin. (1), lit. b)",
+      "articol_sanctiune": "Art. 57, alin. (1)",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "asistenți sociali",
+        "primar",
+        "împuterniciții primarului"
+      ],
+      "tags": [
+        "schimbare",
+        "destinație",
+        "adăpost",
+        "modificare utilizare"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
+    },
+    {
+      "id": "57_2",
+      "descriere": "Refuzul părăsirii adăpostului, indiferent de motiv, în momentul în care condițiile care au determinat internarea au dispărut",
+      "articol_prevedere": "Art. 57, alin. (2)",
+      "articol_sanctiune": "Art. 57, alin. (2)",
+      "amenda_min": 500,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "asistenți sociali",
+        "primar",
+        "împuterniciții primarului"
+      ],
+      "tags": [
+        "refuz",
+        "părăsire",
+        "adăpost",
+        "condiții internare",
+        "dispărut"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
+    },
+    {
+      "id": "57_3",
+      "descriere": "Încercarea persoanei care a comis acte de agresiune de a pătrunde în incinta adăpostului în care se află sau crede că se află victima",
+      "articol_prevedere": "Art. 57, alin. (3)",
+      "articol_sanctiune": "Art. 57, alin. (3)",
+      "amenda_min": 500,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "asistenți sociali",
+        "primar",
+        "împuterniciții primarului"
+      ],
+      "tags": [
+        "încercare",
+        "pătrundere",
+        "incintă",
+        "adăpost",
+        "agresor",
+        "victimă"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null
+    },
+    {
+      "id": "57_4_a",
+      "descriere": "Nerespectarea de către autoritățile administrației publice locale a obligațiilor de a include problematica prevenirii și combaterii violenței domestice în strategiile și programele de dezvoltare regională, județeană și locală; de a acorda sprijin logistic, informațional și material compartimentelor cu atribuții în domeniu; de a înființa servicii sociale pentru prevenirea și combaterea violenței domestice; de a dezvolta programe de prevenire și combatere; de a sprijini accesul agresorilor la consiliere psihologică, psihoterapie, tratamente psihiatrice, de dezintoxicare și dezalcoolizare; de a elabora și implementa proiecte în domeniu; de a prevădea în buget sume pentru susținerea serviciilor sociale; de a suporta cheltuielile cu întocmirea actelor juridice și certificatele medico-legale pentru victime; de a suporta cheltuielile cu asistența medicală a victimelor neasigurate; de a colabora la implementarea unui sistem de înregistrare, raportare și management al cazurilor; de a afișa și publica informații despre serviciile sociale; de a efectua și publica anual un raport al măsurilor dispuse; de a afișa în stațiile de transport public numărul liniei telefonice de urgență; de a include în contractele cu furnizorii de transport public obligația de a afișa numărul liniei telefonice de urgență",
+      "articol_prevedere": "Art. 13, alin. (1)",
+      "articol_sanctiune": "Art. 57, alin. (4)",
+      "amenda_min": 2000,
+      "amenda_max": 7000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "inspectorii sociali"
+      ],
+      "tags": [
+        "autorități locale",
+        "obligații",
+        "strategii",
+        "programe",
+        "servicii sociale",
+        "buget",
+        "raportare",
+        "informare publică",
+        "helpline",
+        "transport public"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "obligatii_incalcate_detaliate": [
+        "Art. 13 alin. (1) lit. a) - includerea problematicii prevenirii și combaterii violenței domestice în strategiile și programele de dezvoltare regională, județeană și locală",
+        "Art. 13 alin. (1) lit. b) - acordarea sprijinului logistic, informațional și material compartimentelor cu atribuții în prevenirea și combaterea violenței domestice",
+        "Art. 13 alin. (1) lit. c) - înființarea directă, în parteneriat public sau public-privat, a serviciilor sociale pentru prevenirea și combaterea violenței domestice și susținerea funcționării acestora",
+        "Art. 13 alin. (1) lit. d) - dezvoltarea programelor de prevenire și combatere a violenței domestice",
+        "Art. 13 alin. (1) lit. e) - sprijinirea accesului agresorilor familiali la consiliere psihologică, psihoterapie, tratamente psihiatrice, de dezintoxicare și dezalcoolizare",
+        "Art. 13 alin. (1) lit. f) - elaborarea și implementarea proiectelor în domeniul prevenirii și combaterii violenței domestice",
+        "Art. 13 alin. (1) lit. g) - prevăderea în bugetul anual a sumelor pentru susținerea serviciilor sociale și a altor măsuri de asistență socială pentru victimele violenței domestice",
+        "Art. 13 alin. (1) lit. h) - suportarea din bugetul local a cheltuielilor cu întocmirea actelor juridice și a certificatelor medico-legale pentru victimele violenței domestice",
+        "Art. 13 alin. (1) lit. i) - suportarea din bugetul local a cheltuielilor cu asistența medicală a victimelor violenței domestice care nu sunt asigurate medical",
+        "Art. 13 alin. (1) lit. j) - colaborarea la implementarea unui sistem de înregistrare, raportare și management al cazurilor de violență domestică",
+        "Art. 13 alin. (1) lit. k) - afișarea la sediu și publicarea pe paginile web a informațiilor despre modalitățile de accesare a serviciilor sociale și programele implementate",
+        "Art. 13 alin. (1) lit. l) - efectuarea anuală și publicarea pe pagina web a unui raport care să rezume măsurile dispuse, programele implementate și cheltuielile suportate",
+        "Art. 13 alin. (1) lit. m) - afișarea în stațiile de transport public în comun a numărului liniei telefonice de urgență - helpline și a informațiilor despre serviciile sociale",
+        "Art. 13 alin. (1) lit. n) - includerea în contractele cu furnizorii de servicii de transport public în comun a obligației de a afișa în mijloacele de transport numărul liniei telefonice de urgență - helpline"
+      ]
+    },
+    {
+      "id": "57_4_b",
+      "descriere": "Nerespectarea de către autoritățile administrației publice locale a obligației de a asigura crearea și funcționarea serviciilor sociale prevăzute la art. 16 (centre de primire în regim de urgență, centre de recuperare, locuințe protejate, centre pentru prevenirea și combaterea violenței domestice, centre pentru servicii de informare și sensibilizare a populației, centre de asistență destinate agresorilor, servicii de tip linie telefonică de urgență - helpline, centre integrate de urgență în caz de violență sexuală), cel puțin la nivel de județ, în funcție de identificarea și evaluarea nevoilor persoanelor supuse formelor de violență domestică, în termen de 2 ani de la intrarea în vigoare a dispozițiilor legale",
+      "articol_prevedere": "Art. 18, alin. (2)",
+      "articol_sanctiune": "Art. 57, alin. (4)",
+      "amenda_min": 2000,
+      "amenda_max": 7000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "inspectorii sociali"
+      ],
+      "tags": [
+        "autorități locale",
+        "servicii sociale",
+        "județ",
+        "centre primire urgență",
+        "centre recuperare",
+        "locuințe protejate",
+        "helpline",
+        "termen 2 ani"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "obligatii_incalcate_detaliate": [
+        "Art. 18 alin. (2) - obligația autorităților administrației publice locale de a asigura crearea și funcționarea serviciilor sociale prevăzute la art. 16, cel puțin la nivel de județ, în funcție de identificarea și evaluarea nevoilor persoanelor supuse formelor de violență domestică prevăzute de lege, în termen de 2 ani de la intrarea în vigoare a prezentelor dispoziții legale"
+      ],
+      "servicii_obligatorii_art_16": [
+        "Art. 16 alin. (2) lit. a) - centre de primire în regim de urgență (adăposturi)",
+        "Art. 16 alin. (2) lit. b) - centre de recuperare",
+        "Art. 16 alin. (2) lit. c) - locuințe protejate",
+        "Art. 16 alin. (3) lit. a) - centre pentru prevenirea și combaterea violenței domestice",
+        "Art. 16 alin. (3) lit. b) - centre pentru servicii de informare și sensibilizare a populației",
+        "Art. 16 alin. (3) lit. c) - centre de asistență destinate agresorilor",
+        "Art. 16 alin. (4) lit. a) - servicii de tip linie telefonică de urgență - helpline",
+        "Art. 16 alin. (4) lit. b) - servicii integrate de urgență destinate victimelor violenței sexuale"
+      ]
+    }
+  ],
+  "dispozitii_generale": {
+    "regim_juridic_contraventii": {
+      "articol": "Art. 57, alin. (7)",
+      "dispozitie": "Contravențiilor le sunt aplicabile dispozițiile Ordonanței Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002, cu modificările și completările ulterioare"
+    },
+    "plata_jumatate_amenda": {
+      "aplicabilitate": "Toate contravențiile prevăzute la Art. 57",
+      "termen": "48 de ore de la data încheierii procesului-verbal sau de la comunicarea acestuia",
+      "observatie": "Conform OG nr. 2/2001, plata jumătate din minim se aplică tuturor contravențiilor, cu excepția cazurilor în care legea specială prevede altfel (nu există astfel de excepții în Legea 217/2003)"
+    },
+    "perioada_prescriptie": {
+      "termen": "6 luni pentru contravenții (conform art. 6 din OUG nr. 2/2001)"
+    },
+    "competenta_constatare": {
+      "art_57_1_2_3": {
+        "articol": "Art. 57, alin. (6)",
+        "organe": [
+          "asistenți sociali",
+          "primar",
+          "împuterniciții primarului"
+        ]
+      },
+      "art_57_4": {
+        "articol": "Art. 57, alin. (5)",
+        "organe": [
+          "inspectorii sociali"
+        ],
+        "observatie": "Constatarea contravențiilor și aplicarea sancțiunilor prevăzute la alin. (4) se realizează de către inspectorii sociali"
+      }
+    }
+  },
+  "note_legale": {
+    "confiscare": "Nu sunt prevăzute măsuri de confiscare în cadrul contravențiilor la prezenta lege",
+    "masuri_complementare": "Contravențiilor le sunt aplicabile dispozițiile Ordonanței Guvernului nr. 2/2001 privind regimul juridic al contravențiilor (Art. 57, alin. 7)",
+    "agravare": "Nu sunt prevăzute circumstanțe agravante specifice în cadrul contravențiilor",
+    "repetare": "Nu sunt prevăzute sancțiuni specifice pentru repetarea faptelor în cadrul prezentei legi",
+    "dispozitive_electronice": "Art. 58 - Supravegherea respectării măsurilor de protecție cu ajutorul unui dispozitiv electronic de supraveghere se realizează în condiții stabilite prin lege"
+  }
+}
