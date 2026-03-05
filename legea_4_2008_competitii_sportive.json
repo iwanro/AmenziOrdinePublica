@@ -1,0 +1,1039 @@
+{
+  "lege_metadata": {
+    "titlu": "Legea nr. 4 din 9 ianuarie 2008 privind prevenirea și combaterea violenței cu ocazia competițiilor și a jocurilor sportive",
+    "data_publicare": "11 ianuarie 2008",
+    "monitorul_oficial": "Monitorul Oficial nr. 24 din 11 ianuarie 2008",
+    "data_actualizare": "2021 (modificări prin OUG)",
+    "nota": "Abrogă OG nr. 11/2006"
+  },
+  "fapte": [
+    {
+      "id": "22_a",
+      "punct": "a)",
+      "descriere": "Pătrunderea sau încercarea de pătrundere în incinta bazei sportive sau a arenei sportive fără documente de acces sau prin încălcarea normelor legale de acces stabilite de organizator",
+      "articol_prevedere": "Art. 20, lit. a)",
+      "articol_sanctiune": "Art. 22, lit. a)",
+      "amenda_min": 80,
+      "amenda_max": 200,
+      "permite_jumatate": true,
+      "suma_jumatate": 40,
+      "ore_comunitate_min": 50,
+      "ore_comunitate_max": 100,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "pătrundere",
+        "incintă bază sportivă",
+        "arenă sportivă",
+        "fără document acces",
+        "încălcare norme acces",
+        "intrare ilegală"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 50-100 ore de activități în folosul comunității"
+    },
+    {
+      "id": "22_b",
+      "punct": "b)",
+      "descriere": "Folosirea documentelor de acces individualizate care nu aparțin titularului, în scopul pătrunderii în incinta arenei sportive",
+      "articol_prevedere": "Art. 20, lit. b)",
+      "articol_sanctiune": "Art. 22, lit. a)",
+      "amenda_min": 80,
+      "amenda_max": 200,
+      "permite_jumatate": true,
+      "suma_jumatate": 40,
+      "ore_comunitate_min": 50,
+      "ore_comunitate_max": 100,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "document acces",
+        "individualizat",
+        "titular",
+        "folosire nelegitimă",
+        "intrare ilegală",
+        "transfer bilet"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 50-100 ore de activități în folosul comunității"
+    },
+    {
+      "id": "22_g_control",
+      "punct": "g)",
+      "descriere": "Refuzul supunerii la controlul corporal preventiv și al bagajelor efectuat de forțele de ordine",
+      "articol_prevedere": "Art. 20, lit. g)",
+      "articol_sanctiune": "Art. 22, lit. b)",
+      "amenda_min": 150,
+      "amenda_max": 400,
+      "permite_jumatate": true,
+      "suma_jumatate": 75,
+      "ore_comunitate_min": 70,
+      "ore_comunitate_max": 120,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "refuz",
+        "control corporal",
+        "control bagaje",
+        "forțe de ordine",
+        "prevenire",
+        "acces interzis"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 70-120 ore de activități în folosul comunității",
+      "efect_juridic": "Conform Art. 19 alin. (2), spectatorului care refuză controlul nu i se permite accesul în arena sportivă"
+    },
+    {
+      "id": "22_h",
+      "punct": "h)",
+      "descriere": "Ocuparea altor locuri decât cele prevăzute pe documentele de acces, urmat de refuzul eliberării acestora la avertismentul verbal al reprezentanților societății specializate de protecție și pază sau al forțelor de ordine",
+      "articol_prevedere": "Art. 20, lit. h)",
+      "articol_sanctiune": "Art. 22, lit. a)",
+      "amenda_min": 80,
+      "amenda_max": 200,
+      "permite_jumatate": true,
+      "suma_jumatate": 40,
+      "ore_comunitate_min": 50,
+      "ore_comunitate_max": 100,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "ocupare locuri",
+        "sector necorespunzător",
+        "refuz eliberare",
+        "avertisment verbal",
+        "personal protecție",
+        "forțe ordine"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 50-100 ore de activități în folosul comunității"
+    },
+    {
+      "id": "22_r",
+      "punct": "r)",
+      "descriere": "Scrierea sau desenarea pe pereții imobilelor, pe garduri sau pe alte obiecte amplasate în baza sportivă sau în arena sportivă",
+      "articol_prevedere": "Art. 20, lit. r)",
+      "articol_sanctiune": "Art. 22, lit. a)",
+      "amenda_min": 80,
+      "amenda_max": 200,
+      "permite_jumatate": true,
+      "suma_jumatate": 40,
+      "ore_comunitate_min": 50,
+      "ore_comunitate_max": 100,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "scriere",
+        "desenare",
+        "pereți",
+        "garduri",
+        "obiecte",
+        "bază sportivă",
+        "arenă sportivă",
+        "vandalism",
+        "graffiti"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 50-100 ore de activități în folosul comunității"
+    },
+    {
+      "id": "22_s",
+      "punct": "s)",
+      "descriere": "Dezlipirea sau distrugerea reclamelor, anunțurilor și afișelor expuse de organizator în incinta bazei sau a arenei sportive, precum și deteriorarea, ridicarea sau mutarea semnelor ori indicatoarelor amplasate de organizator pentru facilitarea accesului în arenă sau care semnalează existența unui pericol pentru viața persoanelor",
+      "articol_prevedere": "Art. 20, lit. s)",
+      "articol_sanctiune": "Art. 22, lit. a)",
+      "amenda_min": 80,
+      "amenda_max": 200,
+      "permite_jumatate": true,
+      "suma_jumatate": 40,
+      "ore_comunitate_min": 50,
+      "ore_comunitate_max": 100,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "dezlipire",
+        "distrugere",
+        "reclame",
+        "anunțuri",
+        "afișe",
+        "deteriorare",
+        "ridicare",
+        "mutare",
+        "semne",
+        "indicatoare",
+        "pericol viață"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 50-100 ore de activități în folosul comunității"
+    },
+    {
+      "id": "22_t",
+      "punct": "ț)",
+      "descriere": "Amplasarea emblemelor, pancartelor, bannerelor, afișelor, steagurilor sau altor mijloace de publicitate vizuală în alte locuri decât cele stabilite de organizator",
+      "articol_prevedere": "Art. 20, lit. ț)",
+      "articol_sanctiune": "Art. 22, lit. a)",
+      "amenda_min": 80,
+      "amenda_max": 200,
+      "permite_jumatate": true,
+      "suma_jumatate": 40,
+      "ore_comunitate_min": 50,
+      "ore_comunitate_max": 100,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "amplasare",
+        "embleme",
+        "pancarte",
+        "bannere",
+        "afișe",
+        "steaguri",
+        "publicitate vizuală",
+        "loc neautorizat",
+        "organizator"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 50-100 ore de activități în folosul comunității"
+    },
+    {
+      "id": "22_k",
+      "punct": "k)",
+      "descriere": "Escaladarea gardurilor care delimitează spațiul de joc sau gardurile interioare de separare a sectoarelor, sau cățărarea pe gardul care delimitează spațiul de joc de tribună",
+      "articol_prevedere": "Art. 20, lit. k)",
+      "articol_sanctiune": "Art. 22, lit. b)",
+      "amenda_min": 150,
+      "amenda_max": 400,
+      "permite_jumatate": true,
+      "suma_jumatate": 75,
+      "ore_comunitate_min": 70,
+      "ore_comunitate_max": 120,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "escaladare",
+        "garduri",
+        "delimitare spațiu joc",
+        "separare sectoare",
+        "cățărare",
+        "tribună",
+        "acces neautorizat"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 70-120 ore de activități în folosul comunității"
+    },
+    {
+      "id": "22_m",
+      "punct": "m)",
+      "descriere": "Săvârșirea de fapte, acte sau gesturi obscene, proferea ori scandarea de injurii, cuvinte sau expresii jignitoare ori vulgare, precum și amenințări cu acte de violență împotriva altor spectatori, oficiali, jucători sau a bunurilor acestora",
+      "articol_prevedere": "Art. 20, lit. m)",
+      "articol_sanctiune": "Art. 22, lit. b)",
+      "amenda_min": 150,
+      "amenda_max": 400,
+      "permite_jumatate": true,
+      "suma_jumatate": 75,
+      "ore_comunitate_min": 70,
+      "ore_comunitate_max": 120,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "fapte obscene",
+        "gesturi obscene",
+        "injurii",
+        "cuvinte jignitoare",
+        "expresii vulgare",
+        "amenințări",
+        "violență",
+        "spectatori",
+        "oficiali",
+        "jucători",
+        "bunuri"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 70-120 ore de activități în folosul comunității"
+    },
+    {
+      "id": "22_n",
+      "punct": "n)",
+      "descriere": "Proferea ori scandarea de injurii, cuvinte sau expresii jignitoare ori vulgare la adresa forțelor de ordine sau a personalului de ordine și siguranță",
+      "articol_prevedere": "Art. 20, lit. n)",
+      "articol_sanctiune": "Art. 22, lit. b)",
+      "amenda_min": 150,
+      "amenda_max": 400,
+      "permite_jumatate": true,
+      "suma_jumatate": 75,
+      "ore_comunitate_min": 70,
+      "ore_comunitate_max": 120,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "injurii",
+        "cuvinte jignitoare",
+        "expresii vulgare",
+        "forțe de ordine",
+        "personal ordine",
+        "personal siguranță",
+        "jandarmi",
+        "poliție"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 70-120 ore de activități în folosul comunității"
+    },
+    {
+      "id": "22_t_2",
+      "punct": "t)",
+      "descriere": "Amplasarea emblemelor, pancartelor, bannerelelor, afișelor, steagurilor sau altor mijloace de publicitate vizuală în alte locuri decât cele stabilite de organizator",
+      "articol_prevedere": "Art. 20, lit. t)",
+      "articol_sanctiune": "Art. 22, lit. b)",
+      "amenda_min": 150,
+      "amenda_max": 400,
+      "permite_jumatate": true,
+      "suma_jumatate": 75,
+      "ore_comunitate_min": 70,
+      "ore_comunitate_max": 120,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "amplasare",
+        "publicitate vizuală",
+        "loc neautorizat",
+        "organizator",
+        "ordine"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 70-120 ore de activități în folosul comunității"
+    },
+    {
+      "id": "22_c",
+      "punct": "c)",
+      "descriere": "Pătrunderea în stare de ebrietate în arena sportivă, consumul de băuturi alcoolice în arena sportivă, introducerea sau încercarea introducerii de băuturi alcoolice în arena sportivă",
+      "articol_prevedere": "Art. 20, lit. c), d)",
+      "articol_sanctiune": "Art. 22, lit. c)",
+      "amenda_min": 250,
+      "amenda_max": 750,
+      "permite_jumatate": true,
+      "suma_jumatate": 125,
+      "ore_comunitate_min": 100,
+      "ore_comunitate_max": 150,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "ebrietate",
+        "consum alcool",
+        "introducere alcool",
+        "arenă sportivă",
+        "interdicție"
+      ],
+      "masuri_complementare": "Interzicerea accesului la competițiile și jocurile sportive de genul celor la care s-a săvârșit fapta pe o perioadă de 6 luni",
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 100-150 ore de activități în folosul comunității",
+      "obligatii_incalcate_detaliate": [
+        "Art. 20 lit. c): Interdicția de a pătrunde în stare de ebrietate în arena sportivă",
+        "Art. 20 lit. d): Interdicția de a consuma sau introduce băuturi alcoolice în arena sportivă",
+        "Art. 10 alin. (1) lit. k): Obligația organizatorului de a interzice vânzarea, distribuirea sau consumul băuturilor alcoolice în arena sportivă"
+      ]
+    },
+    {
+      "id": "22_e",
+      "punct": "e)",
+      "descriere": "Introducerea în arena sportivă de inscripții, embleme, pancarte, bannere, afișe, steaguri sau alte suporturi ce conțin simboluri, sloganuri, imagini ori texte cu conținut obscen",
+      "articol_prevedere": "Art. 20, lit. e)",
+      "articol_sanctiune": "Art. 22, lit. c)",
+      "amenda_min": 250,
+      "amenda_max": 750,
+      "permite_jumatate": true,
+      "suma_jumatate": 125,
+      "ore_comunitate_min": 100,
+      "ore_comunitate_max": 150,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "introducere",
+        "inscripții",
+        "embleme",
+        "pancarte",
+        "bannere",
+        "afișe",
+        "steaguri",
+        "conținut obscen",
+        "arenă sportivă"
+      ],
+      "masuri_complementare": "Interzicerea accesului la competițiile și jocurile sportive de genul celor la care s-a săvârșit fapta pe o perioadă de 6 luni",
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 100-150 ore de activități în folosul comunității"
+    },
+    {
+      "id": "22_f",
+      "punct": "f)",
+      "descriere": "Refuzul prezentării documentelor de acces și, după caz, a actelor de identitate, la solicitarea justificată a forțelor de ordine sau a personalului de ordine și siguranță",
+      "articol_prevedere": "Art. 20, lit. f)",
+      "articol_sanctiune": "Art. 22, lit. c)",
+      "amenda_min": 250,
+      "amenda_max": 750,
+      "permite_jumatate": true,
+      "suma_jumatate": 125,
+      "ore_comunitate_min": 100,
+      "ore_comunitate_max": 150,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "refuz",
+        "prezentare documente",
+        "act identitate",
+        "forțe de ordine",
+        "personal ordine",
+        "solicitare justificată"
+      ],
+      "masuri_complementare": "Interzicerea accesului la competițiile și jocurile sportive de genul celor la care s-a săvârșit fapta pe o perioadă de 6 luni",
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 100-150 ore de activități în folosul comunității",
+      "obligatii_incalcate_detaliate": [
+        "Art. 18 alin. (2): Obligația spectatorilor de a prezenta documentele de acces și actele de identitate la solicitarea forțelor de ordine sau a personalului de ordine și siguranță"
+      ]
+    },
+    {
+      "id": "22_j",
+      "punct": "j)",
+      "descriere": "Aruncarea de obiecte de orice fel sau de substanțe corozive ori care murdăresc asupra celorlalți spectatori, oficiali, jucători, forțelor de ordine, personalului de ordine și siguranță, asupra bunurilor mobile și imobile din incinta bazei sportive sau în direcția suprafeței de joc",
+      "articol_prevedere": "Art. 20, lit. i)",
+      "articol_sanctiune": "Art. 22, lit. c)",
+      "amenda_min": 250,
+      "amenda_max": 750,
+      "permite_jumatate": true,
+      "suma_jumatate": 125,
+      "ore_comunitate_min": 100,
+      "ore_comunitate_max": 150,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "aruncare",
+        "obiecte",
+        "substanțe corozive",
+        "murdărire",
+        "spectatori",
+        "oficiali",
+        "jucători",
+        "forțe de ordine",
+        "bunuri",
+        "suprafață joc"
+      ],
+      "masuri_complementare": "Interzicerea accesului la competițiile și jocurile sportive de genul celor la care s-a săvârșit fapta pe o perioadă de 6 luni",
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 100-150 ore de activități în folosul comunității"
+    },
+    {
+      "id": "22_o",
+      "punct": "o)",
+      "descriere": "Amenințarea cu acte de violență a forțelor de ordine sau a personalului de ordine și siguranță",
+      "articol_prevedere": "Art. 20, lit. o)",
+      "articol_sanctiune": "Art. 22, lit. c)",
+      "amenda_min": 250,
+      "amenda_max": 750,
+      "permite_jumatate": true,
+      "suma_jumatate": 125,
+      "ore_comunitate_min": 100,
+      "ore_comunitate_max": 150,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "amenințare",
+        "acte violență",
+        "forțe de ordine",
+        "personal ordine",
+        "personal siguranță"
+      ],
+      "masuri_complementare": "Interzicerea accesului la competițiile și jocurile sportive de genul celor la care s-a săvârșit fapta pe o perioadă de 6 luni",
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 100-150 ore de activități în folosul comunității"
+    },
+    {
+      "id": "22_u",
+      "punct": "u)",
+      "descriere": "Nerespectarea măsurilor de ordine dispuse de organizator sau de comandantul forțelor de ordine, în cazul producerii unor catastrofe, calamități naturale sau al altor pericole",
+      "articol_prevedere": "Art. 20, lit. u)",
+      "articol_sanctiune": "Art. 22, lit. c)",
+      "amenda_min": 250,
+      "amenda_max": 750,
+      "permite_jumatate": true,
+      "suma_jumatate": 125,
+      "ore_comunitate_min": 100,
+      "ore_comunitate_max": 150,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "nerespectare",
+        "măsuri ordine",
+        "organizator",
+        "comandant forțe ordine",
+        "catastrofă",
+        "calamitate naturală",
+        "pericol"
+      ],
+      "masuri_complementare": "Interzicerea accesului la competițiile și jocurile sportive de genul celor la care s-a săvârșit fapta pe o perioadă de 6 luni",
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 100-150 ore de activități în folosul comunității"
+    },
+    {
+      "id": "22_v",
+      "punct": "v)",
+      "descriere": "Refuzul părăsirii imediate a arenei sportive, dacă măsura evacuării a fost dispusă de către personalul de ordine și siguranță sau de către forțele de ordine",
+      "articol_prevedere": "Art. 20, lit. v)",
+      "articol_sanctiune": "Art. 22, lit. c)",
+      "amenda_min": 250,
+      "amenda_max": 750,
+      "permite_jumatate": true,
+      "suma_jumatate": 125,
+      "ore_comunitate_min": 100,
+      "ore_comunitate_max": 150,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "refuz",
+        "părăsire",
+        "arenă sportivă",
+        "evacuare",
+        "personal ordine",
+        "forțe de ordine",
+        "dispoziție"
+      ],
+      "masuri_complementare": "Interzicerea accesului la competițiile și jocurile sportive de genul celor la care s-a săvârșit fapta pe o perioadă de 6 luni",
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 100-150 ore de activități în folosul comunității"
+    },
+    {
+      "id": "22_i",
+      "punct": "i)",
+      "descriere": "Aruncarea de obiecte de orice fel sau de substanțe corozive ori care murdăresc asupra celorlalți spectatori, oficiali, jucători, forțelor de ordine, personalului de ordine și siguranță, asupra bunurilor mobile și imobile din incinta bazei sportive sau în direcția suprafeței de joc",
+      "articol_prevedere": "Art. 20, lit. i)",
+      "articol_sanctiune": "Art. 22, lit. d)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "ore_comunitate_min": 120,
+      "ore_comunitate_max": 200,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "aruncare obiecte",
+        "substanțe corozive",
+        "murdărire",
+        "spectatori",
+        "oficiali",
+        "jucători",
+        "forțe de ordine",
+        "bunuri",
+        "suprafață joc"
+      ],
+      "masuri_complementare": "Interzicerea accesului la competițiile și jocurile sportive de genul celor la care s-a săvârșit fapta pe o perioadă de 1 an",
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 120-200 ore de activități în folosul comunității"
+    },
+    {
+      "id": "22_p",
+      "punct": "p)",
+      "descriere": "Ascunderea feței cu articole de îmbrăcăminte sau alte accesorii, cu intenția de a împiedica identificarea",
+      "articol_prevedere": "Art. 20, lit. p)",
+      "articol_sanctiune": "Art. 22, lit. d)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "ore_comunitate_min": 120,
+      "ore_comunitate_max": 200,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "ascundere față",
+        "îmbrăcăminte",
+        "accesorii",
+        "intenție",
+        "împiedicare identificare",
+        "cagulă",
+        "glugă",
+        "mască"
+      ],
+      "masuri_complementare": "Interzicerea accesului la competițiile și jocurile sportive de genul celor la care s-a săvârșit fapta pe o perioadă de 1 an",
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 120-200 ore de activități în folosul comunității"
+    },
+    {
+      "id": "22_s_2",
+      "punct": "ș)",
+      "descriere": "Ridicarea sau mutarea, fără drept, a barajelor, gardurilor ori altor obstacole amplasate de organizator sau de către forțele de ordine, pentru delimitarea sectoarelor de tribună ori peluză, pentru separarea grupurilor de suporteri și a terenului de joc de tribună, inclusiv pe cele amplasate cu caracter temporar",
+      "articol_prevedere": "Art. 20, lit. ș)",
+      "articol_sanctiune": "Art. 22, lit. d)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "ore_comunitate_min": 120,
+      "ore_comunitate_max": 200,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "ridicare",
+        "mutare",
+        "fără drept",
+        "baraje",
+        "garduri",
+        "obstacole",
+        "delimitare sectoare",
+        "separare suporteri",
+        "teren joc",
+        "tribună"
+      ],
+      "masuri_complementare": "Interzicerea accesului la competițiile și jocurile sportive de genul celor la care s-a săvârșit fapta pe o perioadă de 1 an",
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 120-200 ore de activități în folosul comunității"
+    },
+    {
+      "id": "22_l",
+      "punct": "l)",
+      "descriere": "Pătrunderea pe suprafața de joc, cu excepția cazurilor de forță majoră",
+      "articol_prevedere": "Art. 20, lit. l)",
+      "articol_sanctiune": "Art. 22, lit. e)",
+      "amenda_min": 1000,
+      "amenda_max": 3000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "ore_comunitate_min": 150,
+      "ore_comunitate_max": 300,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "pătrundere",
+        "suprafață joc",
+        "teren",
+        "forță majoră",
+        "intrare interzisă"
+      ],
+      "masuri_complementare": "Interzicerea accesului la competițiile și jocurile sportive de genul celor la care s-a săvârșit fapta pe o perioadă de 2 ani",
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 150-300 ore de activități în folosul comunității"
+    },
+    {
+      "id": "23",
+      "punct": "-",
+      "descriere": "Săvârșirea contravențiilor prevăzute la art. 2 pct. 2, 4, 25, 26 și 33 din Legea nr. 61/1991 de către suporteri înainte și după desfășurarea competiției sau jocului sportiv, în afara bazei sportive, care au legătură cu competiția sau jocul în cauză",
+      "articol_prevedere": "Legea nr. 61/1991, art. 2 pct. 2, 4, 25, 26 și 33",
+      "articol_sanctiune": "Art. 23",
+      "amenda_min": null,
+      "amenda_max": null,
+      "permite_jumatate": true,
+      "suma_jumatate": null,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "Legea 61/1991",
+        "suporteri",
+        "înainte competiție",
+        "după competiție",
+        "afara bazei sportive",
+        "legătură cu competiția"
+      ],
+      "masuri_complementare": "Interzicerea accesului pe 6 luni (pentru pct. 25 și 33) sau 1 an (pentru pct. 2, 4 și 26)",
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "observatie": "Se aplică sancțiunile din Legea nr. 61/1991, plus sancțiunea complementară de interzicere a accesului conform Art. 23",
+      "fapte_Legea_61": [
+        "Art. 2 pct. 2: Îmbrăcarea în public de către orice persoană a uniformei militare sau a unor însemne distinctive ale funcțiilor militare, fără drept",
+        "Art. 2 pct. 4: Portul fără drept, în locurile publice, al armelor albe cu lama mai mare de 10 cm, fabricate sau confecționate anume pentru tăiere, împungere sau lovire",
+        "Art. 2 pct. 25: Refuzul unei persoane de a se legitima, la cererea polițistului sau a jandarmului, în exercitarea atribuțiilor de serviciu",
+        "Art. 2 pct. 26: Refuzul unei persoane de a da explicații, în scris sau verbal, cu privire la identitatea sa ori de a prezenta acte de identitate, la cererea polițistului sau a jandarmului",
+        "Art. 2 pct. 33: Refuzul unei persoane de a se supune legitimării, controlului corporal, al bagajelor, al vehiculului sau al locuinței, după caz, în caz de flagrant delict"
+      ]
+    },
+    {
+      "id": "24",
+      "punct": "-",
+      "descriere": "Incitarea în public sau prin mass-media la acte de violență, în legătură cu competiția sau jocul sportiv, de către conducătorii de cluburi, oficiali sau sportivi",
+      "articol_prevedere": "Art. 24",
+      "articol_sanctiune": "Art. 24",
+      "amenda_min": 3000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1500,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "incitare",
+        "public",
+        "mass-media",
+        "acte violență",
+        "competiție",
+        "joc sportiv",
+        "conducători cluburi",
+        "oficiali",
+        "sportivi"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancționat": "Conducătorii de cluburi, oficiali sau sportivi"
+    },
+    {
+      "id": "25",
+      "punct": "-",
+      "descriere": "Cumpărarea în scop de revânzare a biletelor sau a oricăror documente de acces la competiții și jocuri sportive, precum și vânzarea acestora la suprapreț",
+      "articol_prevedere": "Art. 25, alin. (1)",
+      "articol_sanctiune": "Art. 25, alin. (1)",
+      "amenda_min": 1000,
+      "amenda_max": 3000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "cumpărare",
+        "revânzare",
+        "bilete",
+        "documente acces",
+        "vânzare",
+        "suprapreț",
+        "speculă",
+        "piată neagră"
+      ],
+      "masuri_complementare": null,
+      "confiscare": "Biletele sau documentele de acces se confiscă și se returnează organizatorului după desfășurarea competiției (Art. 25 alin. 2)",
+      "agravare": null,
+      "repetare": null
+    },
+    {
+      "id": "26_a",
+      "punct": "a)",
+      "descriere": "Nerespectarea de către organizator a obligațiilor prevăzute la art. 10 alin. (1) lit. a) (declararea jocurilor), b) (stabilirea măsurilor în planul de acțiune), j) (accesul jurnaliștilor), l) (distribuirea în pahare de hârtie/plastic), m) (puncte de desfacere la fiecare sector), n) (instalații apă și grupuri sanitare), o) (afișarea regulilor), p) (imprimarea regulilor pe materiale), s) (afișarea mesajelor de ordine), ș) (comunicarea obligațiilor), v) (numerotare locuri), x) (depozitare obiecte reținute) și art. 10 alin. (2) lit. a) (control riguros), c) (reținere obiecte interzise), d) (imprimare sector/rând/loc), h) (prezentare date abonați), i) (acces jandarmi în civil), j) (reglementări acces mass-media), k) (acces minori însoțiți)",
+      "articol_prevedere": "Art. 10, alin. (1) lit. a), b), j), l), m), n), o), p), s), ș), v), x) și alin. (2) lit. a), c), d), h), i), j), k)",
+      "articol_sanctiune": "Art. 26, alin. (1), lit. a)",
+      "amenda_min": 3000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1500,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "organizator",
+        "nerespectare obligații",
+        "declarare jocuri",
+        "plan acțiune",
+        "acces jurnaliști",
+        "pahare hârtie",
+        "puncte desfacere",
+        "instalații apă",
+        "afișare reguli",
+        "numerotare locuri",
+        "depozitare obiecte",
+        "control riguros",
+        "reținere obiecte",
+        "acces minori"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancționat": "Organizatorul de competiții sau jocuri sportive",
+      "obligatii_incalcate_detaliate": [
+        "Art. 10 alin. (1) lit. a): Obligația de a declara jocurile sportive naționale și internaționale cu cel puțin 5 zile înainte",
+        "Art. 10 alin. (1) lit. b): Obligația de a stabili măsurile de ordine în planul de acțiune și de a-l înainta pentru aprobare cu cel puțin 3 zile înainte",
+        "Art. 10 alin. (1) lit. j): Obligația de a stabili prin reglementări proprii accesul jurnaliștilor și de a comunica datele de identificare",
+        "Art. 10 alin. (1) lit. l): Obligația de a asigura distribuirea băuturilor permise numai în pahare din hârtie sau plastic",
+        "Art. 10 alin. (1) lit. m): Obligația de a asigura poziționarea punctelor de desfacere la fiecare sector de tribună și peluză",
+        "Art. 10 alin. (1) lit. n): Obligația de a asigura funcționarea instalațiilor de apă și a grupurilor sanitare",
+        "Art. 10 alin. (1) lit. o): Obligația de a afișa regulile, materialele interzise și sancțiunile la porțile de acces",
+        "Art. 10 alin. (1) lit. p): Obligația de a imprima regulile pe documentele de acces, pliante, programe",
+        "Art. 10 alin. (1) lit. s): Obligația de a aduce la cunoștința spectatorilor obligațiile, principiile fairplay, ordinea și disciplina",
+        "Art. 10 alin. (1) lit. ș): Obligația de a interzice afișarea simbolurilor cu conținut obscen, xenofob, rasist",
+        "Art. 10 alin. (1) lit. v): Obligația de a asigura numerotarea sectoarelor, rândurilor și locurilor",
+        "Art. 10 alin. (1) lit. x): Obligația de a asigura loc special pentru depozitarea obiectelor reținute",
+        "Art. 10 alin. (2) lit. a): Obligația de a efectua control riguros al persoanelor și bagajelor",
+        "Art. 10 alin. (2) lit. c): Obligația de a reține obiectele interzise și de a sesiza forțele de ordine",
+        "Art. 10 alin. (2) lit. d): Obligația de a imprima pe documentele de acces sectorul, rândul și locul",
+        "Art. 10 alin. (2) lit. h): Obligația de a prezenta datele abonaților la solicitarea jandarmeriei",
+        "Art. 10 alin. (2) lit. i): Obligația de a permite accesul jandarmilor în civil în arenă",
+        "Art. 10 alin. (2) lit. j): Obligația de a stabili reglementări pentru accesul mass-media",
+        "Art. 10 alin. (2) lit. k): Obligația de a permite accesul minorilor sub 14 ani doar însoțiți"
+      ]
+    },
+    {
+      "id": "26_b",
+      "punct": "b)",
+      "descriere": "Nerespectarea de către organizator a obligațiilor prevăzute la art. 10 alin. (1) lit. c) (control amănunțit al arenei), d) (sisteme comunicare cu publicul), f) (folosirea doar a gigafoanelor portabile), g) (amenajare punct comandă), h) (înregistrare și supraveghere video), ț) (dispozitive metalice rotative/turnichete) și art. 10 alin. (2) lit. e) (abonamente cu date personale și fotografie), f) (control distribuire bilete la 90% capacitate)",
+      "articol_prevedere": "Art. 10, alin. (1) lit. c), d), f), g), h), ț) și alin. (2) lit. e), f)",
+      "articol_sanctiune": "Art. 26, alin. (1), lit. b)",
+      "amenda_min": 5000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "organizator",
+        "control amănunțit",
+        "sisteme comunicare",
+        "gigafoane portabile",
+        "punct comandă",
+        "supraveghere video",
+        "turnichete",
+        "abonamente personalizate",
+        "distribuire bilete",
+        "capacitate"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancționat": "Organizatorul de competiții sau jocuri sportive",
+      "obligatii_incalcate_detaliate": [
+        "Art. 10 alin. (1) lit. c): Obligația de a efectua control amănunțit al arenei înainte de accesul spectatorilor",
+        "Art. 10 alin. (1) lit. d): Obligația de a asigura sisteme eficiente de comunicare cu publicul",
+        "Art. 10 alin. (1) lit. f): Obligația de a nu permite folosirea altor instalații de sonorizare decât gigafoanele portabile",
+        "Art. 10 alin. (1) lit. g): Obligația de a amenaja și pune la dispoziția forțelor de ordine un punct de comandă",
+        "Art. 10 alin. (1) lit. h): Obligația de a asigura înregistrarea și supravegherea video a comportamentului participanților",
+        "Art. 10 alin. (1) lit. ț): Obligația de a asigura dispozitive metalice rotative/turnichete la punctele de acces",
+        "Art. 10 alin. (2) lit. e): Obligația de a asigura abonamente cu date personale și fotografie",
+        "Art. 10 alin. (2) lit. f): Obligația de a controla distribuirea biletelor fără a depăși 90% din capacitatea arenei"
+      ]
+    },
+    {
+      "id": "26_c",
+      "punct": "c)",
+      "descriere": "Nerespectarea de către organizator a obligațiilor privind interzicerea folosirii sistemelor de comunicare pentru incitare la violență (art. 10 alin. 1 lit. e)), punerea la dispoziție a înregistrărilor video (art. 10 alin. 1 lit. i)), interzicerea vânzării/distribuirii/consumului de alcool (art. 10 alin. 1 lit. k)), interzicerea afișării simbolurilor fasciste/rasiste/xenofobe (art. 10 alin. 1 lit. r)), interzicerea bannerelor care împiedică vizibilitatea sau intervenția (art. 10 alin. 1 lit. s)), asigurarea barierelor și împrejmuirilor (art. 10 alin. 1 lit. t)), respectarea regulilor de deplasare (art. 10 alin. 1 lit. ț)) și nepermiterea accesului persoanelor interzise, în stare de ebrietate sau cu obiecte interzise (art. 10 alin. 2 lit. b) și g))",
+      "articol_prevedere": "Art. 10, alin. (1) lit. e), i), k), r), s), t), ț) și alin. (2) lit. b), g)",
+      "articol_sanctiune": "Art. 26, alin. (1), lit. c)",
+      "amenda_min": 5000,
+      "amenda_max": 50000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "organizator",
+        "incitare violență",
+        "înregistrări video",
+        "interdicție alcool",
+        "simboluri fasciste",
+        "simboluri rasiste",
+        "simboluri xenofobe",
+        "bannere",
+        "bariere",
+        "împrejmuire",
+        "acces interzis",
+        "ebrietate",
+        "obiecte interzise"
+      ],
+      "masuri_complementare": "Suspendarea pe o perioadă de la o lună la 6 luni a dreptului de a organiza competiții sau jocuri sportive pe teren propriu",
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancționat": "Organizatorul de competiții sau jocuri sportive",
+      "dispus_de": "Federația de specialitate, la propunerea organului constatator (Art. 26 alin. 2)",
+      "obligatii_incalcate_detaliate": [
+        "Art. 10 alin. (1) lit. e): Obligația de a nu permite folosirea sistemelor de comunicare pentru incitare la violență",
+        "Art. 10 alin. (1) lit. i): Obligația de a pune la dispoziția forțelor de ordine înregistrările video",
+        "Art. 10 alin. (1) lit. k): Obligația de a interzice vânzarea, distribuirea sau consumul de băuturi alcoolice",
+        "Art. 10 alin. (1) lit. r): Obligația de a interzice afișarea simbolurilor fasciste, rasiste, xenofobe",
+        "Art. 10 alin. (1) lit. s): Obligația de a interzice amplasarea bannerelor care împiedică vizibilitatea sau intervenția",
+        "Art. 10 alin. (1) lit. t): Obligația de a asigura bariere și împrejmuire adecvate",
+        "Art. 10 alin. (1) lit. ț): Obligația de a respecta regulile de deplasare a spectatorilor",
+        "Art. 10 alin. (2) lit. b): Obligația de a nu permite accesul persoanelor interzise, în stare de ebrietate sau cu obiecte interzise",
+        "Art. 10 alin. (2) lit. g): Obligația de a asigura separarea grupurilor de suporteri rivali"
+      ]
+    },
+    {
+      "id": "27",
+      "punct": "-",
+      "descriere": "Nerespectarea de către personalul de ordine și siguranță, în incinta arenelor sportive, a obligațiilor prevăzute în planurile de acțiune",
+      "articol_prevedere": "Art. 27, alin. (1)",
+      "articol_sanctiune": "Art. 27, alin. (1)",
+      "amenda_min": 100,
+      "amenda_max": 500,
+      "permite_jumatate": true,
+      "suma_jumatate": 50,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "personal ordine",
+        "personal siguranță",
+        "nerespectare obligații",
+        "plan acțiune",
+        "arenă sportivă"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancționat": "Personalul de ordine și siguranță",
+      "observatie": "Sunt aplicabile și dispozițiile Legii nr. 333/2003 privind paza obiectivelor (Art. 27 alin. 2)"
+    }
+  ],
+  "dispozitii_generale": {
+    "regim_juridic_contraventii": {
+      "articol": "Art. 30",
+      "dispozitie": "Contravențiilor prevăzute de prezenta lege le sunt aplicabile prevederile Ordonanței Guvernului nr. 2/2001 privind regimul juridic al contravențiilor, aprobată cu modificări și completări prin Legea nr. 180/2002, cu modificările și completările ulterioare"
+    },
+    "plata_jumatate_amenda": {
+      "articol": "Art. 29",
+      "dispozitie": "Contravenientul poate achita, în termen de 48 de ore de la data încheierii procesului-verbal ori, după caz, de la data comunicării acestuia, jumătate din minimul amenzii prevăzute",
+      "termen": "48 de ore",
+      "observatie": "Agentul constatator face mențiune despre această posibilitate în procesul-verbal"
+    },
+    "perioada_prescriptie": {
+      "termen": "6 luni pentru contravenții (conform art. 6 din OUG nr. 2/2001)"
+    },
+    "competenta_constatare": {
+      "articol": "Art. 28",
+      "organe": [
+        "polițiști",
+        "jandarmi"
+      ]
+    },
+    "sancțiuni_complementare_interzicere_acces": {
+      "descriere": "Interzicerea accesului la competițiile și jocurile sportive",
+      "articol_contravențional": "Art. 47",
+      "aplicare": "De către agentul constatator pentru contravențiile de la Art. 22 lit. c), d), e) și Art. 23",
+      "durata": "6 luni, 1 an sau 2 ani, în funcție de gravitatea faptei",
+      "articol_masura_siguranta": "Art. 48-54",
+      "dispus_de": "Instanța de judecată sau procuror (provizoriu) pentru infracțiuni"
+    },
+    "infracțiuni": {
+      "observatie": "Art. 31-45 prevăd infracțiuni (nu contravenții) cu pedepse privative de libertate sau amenzi penale",
+      "exemple": [
+        "Art. 31: Încălcarea interdicției de acces la competiții",
+        "Art. 32: Opunerea cu violență față de personalul de ordine sau forțele de ordine",
+        "Art. 33: Portul sau introducerea de arme albe",
+        "Art. 34: Deținerea sau introducerea de substanțe iritant-lacrimogene",
+        "Art. 35: Folosirea materiilor explozive sau incendiare",
+        "Art. 36: Utilizarea simbolurilor fasciste, rasiste sau xenofobe",
+        "Art. 37: Lovirea sau actele de violență asupra spectatorilor",
+        "Art. 38: Uciderea unei persoane în arena sportivă",
+        "Art. 39: Distrugerea sau degradarea bunurilor din arenă",
+        "Art. 40: Portul de armă fără drept",
+        "Art. 41: Manifestări de dispreț pentru însemnele României",
+        "Art. 42: Acte sau gesturi obscene, profanare",
+        "Art. 43: Participarea la încăierare",
+        "Art. 45: Violențe asupra reprezentanților forțelor de ordine"
+      ]
+    }
+  },
+  "note_legale": {
+    "confiscare": "Art. 25 alin. (2): Biletele sau documentele de acces care fac obiectul contravenției de speculă se confiscă și se returnează organizatorului",
+    "masuri_complementare": "Interzicerea accesului la competiții (6 luni - 2 ani) pentru contravențiile grave și infracțiuni",
+    "agravare": "Nu sunt prevăzute circumstanțe agravante specifice pentru contravenții",
+    "repetare": "Nu sunt prevăzute sancțiuni specifice pentru repetarea contravențiilor",
+    "sancțiuni_alternative": "Prestarea de activități în folosul comunității (50-300 ore) în locul amenzii pentru toate contravențiile din Art. 22",
+    "suspensie_activitate": "Art. 26 alin. (1) lit. c): Suspendarea dreptului de a organiza competiții (1-6 luni) pentru organizatori"
+  }
+}
