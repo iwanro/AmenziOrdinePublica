@@ -9,7 +9,7 @@
     {
       "id": "1",
       "punct": "a)",
-      "descriere": "Nerespectarea prevederilor art. 5 (obligațiile administratorului zonelor special amenajate pentru activitățile de picnic și al zonelor indicate pentru activitățile de picnic)",
+      "descriere": "Nerespectarea de către administrator a obligațiilor privind amenajarea zonelor pentru picnic: respectarea dispozițiilor de urbanism, silvicultură și protecția mediului; amenajare prin intervenții minime asupra mediului natural fără defrișări, modificări ale malurilor/apelor, betonări sau asfaltări; încadrarea și delimitarea zonelor în documentațiile de amenajare a teritoriului/urbanism; delimitarea și marcarea zonelor cu indicarea orarului de funcționare; amenajarea locurilor speciale pentru aprinderea focului; dotarea cu containere pentru colectarea selectivă a deșeurilor și toalete ecologice; marcarea punctelor de colectare și afișarea regulilor de colectare selectivă; nepermiterea defrișărilor sau modificărilor cursurilor de apă; nepermiterea ridicării de construcții cu excepția celor temporare; organizarea serviciului de verificare zilnică a zonelor cu ajutorul poliției locale; asigurarea serviciului de salubritate; delimitarea și marcarea zonei de parcare autovehicule; afișarea planului cu organizarea zonei, regulile, sancțiunile și numerele de telefon utile; realizarea și dotarea pichete de stingere a incendiilor",
       "articol_prevedere": "Art. 5",
       "articol_sanctiune": "Art. 8, alin. (1), lit. a)",
       "amenda_min": 10000,
@@ -42,28 +42,12 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null,
-      "obligatii_incalcate": [
-        "Art. 5 lit. a) - Amenajarea zonei cu respectarea dispozițiilor de urbanism, silvicultură și protecția mediului",
-        "Art. 5 lit. b) - Amenajarea prin intervenții minime asupra mediului natural, fără defrișări, modificări ale malurilor/apelor, betonări sau asfaltări",
-        "Art. 5 lit. c) - Încadrarea și delimitarea zonelor în documentațiile de amenajare a teritoriului/urbanism",
-        "Art. 5 lit. d) - Delimitarea și marcarea zonelor cu indicarea orarului de funcționare",
-        "Art. 5 lit. e) - Amenajarea locurilor speciale pentru aprinderea focului",
-        "Art. 5 lit. f) - Dotarea cu containere pentru colectarea selectivă a deșeurilor și toalete ecologice",
-        "Art. 5 lit. g) - Marcarea punctelor de colectare și afișarea regulilor de colectare selectivă",
-        "Art. 5 lit. h) - Nepermiterea defrișărilor sau modificărilor cursurilor de apă",
-        "Art. 5 lit. i) - Nepermiterea ridicării de construcții cu excepția celor temporare",
-        "Art. 5 lit. j) - Organizarea serviciului de verificare zilnică a zonelor cu ajutorul poliției locale",
-        "Art. 5 lit. k) - Asigurarea serviciului de salubritate",
-        "Art. 5 lit. l) - Delimitarea și marcarea zonei de parcare autovehicule",
-        "Art. 5 lit. m) - Afișarea planului cu organizarea zonei, regulile, sancțiunile și numerele de telefon utile",
-        "Art. 5 lit. n) - Realizarea și dotarea pichete de stingere a incendiilor"
-      ]
+      "repetare": null
     },
     {
       "id": "2",
       "punct": "b)",
-      "descriere": "Nerespectarea prevederilor art. 7 lit. a) (distrugerea, modificarea sau degradarea panourilor informative, marcajelor, indicatoarelor, construcțiilor, împrejmuirilor sau orice alte amenajări)",
+      "descriere": "Distrugerea, modificarea sau degradarea panourilor informative, marcajelor, indicatoarelor, construcțiilor, împrejmuirilor sau orice alte amenajări din zona de picnic",
       "articol_prevedere": "Art. 7, lit. a)",
       "articol_sanctiune": "Art. 8, alin. (1), lit. b)",
       "amenda_min": 100,
@@ -98,7 +82,7 @@
     {
       "id": "3",
       "punct": "c)",
-      "descriere": "Nerespectarea prevederilor art. 7 lit. b) (nerespectarea obligației de a arunca deșeurile doar în locurile special amenajate)",
+      "descriere": "Aruncarea deșeurilor în alte locuri decât cele special amenajate",
       "articol_prevedere": "Art. 7, lit. b)",
       "articol_sanctiune": "Art. 8, alin. (1), lit. c)",
       "amenda_min": 200,
@@ -130,7 +114,7 @@
     {
       "id": "4",
       "punct": "d)",
-      "descriere": "Nerespectarea prevederilor art. 7 lit. c) (nedepunerea selectivă a deșeurilor de ambalaje în containerele inscripționate corespunzător)",
+      "descriere": "Nedepunerea selectivă a deșeurilor de ambalaje în containerele inscripționate corespunzător",
       "articol_prevedere": "Art. 7, lit. c)",
       "articol_sanctiune": "Art. 8, alin. (1), lit. d)",
       "amenda_min": 100,
@@ -161,7 +145,7 @@
     {
       "id": "5",
       "punct": "e)",
-      "descriere": "Nerespectarea prevederilor art. 7 lit. d) (aprinderea focului în alte locuri decât cele special amenajate sau nesupravegherea acestuia)",
+      "descriere": "Aprinderea focului în alte locuri decât cele special amenajate sau nesupravegherea acestuia",
       "articol_prevedere": "Art. 7, lit. d)",
       "articol_sanctiune": "Art. 8, alin. (1), lit. e)",
       "amenda_min": 2000,
@@ -195,7 +179,7 @@
     {
       "id": "6",
       "punct": "f)",
-      "descriere": "Nerespectarea prevederilor art. 7 lit. f), o) și p) (nelăsarea locului curat și nealterat, aruncarea țigărilor/chibriturilor în alte locuri decât cele amenajate, nerespectarea ordinii publice și bunelor moravuri)",
+      "descriere": "Nelăsarea locului curat și nealterat după picnic, aruncarea țigărilor, chibriturilor sau altor obiecte aprinse în alte locuri decât cele special amenajate, nerespectarea ordinii publice și a bunelor moravuri",
       "articol_prevedere": "Art. 7, lit. f), o), p)",
       "articol_sanctiune": "Art. 8, alin. (1), lit. f)",
       "amenda_min": 300,
@@ -225,17 +209,12 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null,
-      "obligatii_incalcate": [
-        "Art. 7 lit. f) - Lăsarea locului curat și nealterat",
-        "Art. 7 lit. o) - Ne aruncarea țigărilor, chibriturilor sau obiectelor aprinse în alte locuri decât cele special amenajate",
-        "Art. 7 lit. p) - Nerespectarea ordinii publice și a bunelor moravuri"
-      ]
+      "repetare": null
     },
     {
       "id": "7",
       "punct": "g)",
-      "descriere": "Nerespectarea prevederilor art. 7 lit. e), g)-j) (nerespectarea orarului, parcarea în alte zone, folosirea altor locuri pentru necesități fiziologice, folosirea produselor de igienă la mai puțin de 30m de ape, spălarea obiectelor în ape, împrăștierea/vărsarea apei uzate)",
+      "descriere": "Nerespectarea orarului de desfășurare a activității de picnic, parcarea autovehiculelor în alte zone decât cele special amenajate, folosirea altor locuri decât cele special amenajate pentru necesități fiziologice, folosirea produselor de igienă personală la mai puțin de 30m de cursurile de apă, spălarea obiectelor în apele din vecinătate, împrăștierea sau vărsarea apei uzate",
       "articol_prevedere": "Art. 7, lit. e), g), h), i), j)",
       "articol_sanctiune": "Art. 8, alin. (1), lit. g)",
       "amenda_min": 100,
@@ -267,19 +246,12 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null,
-      "obligatii_incalcate": [
-        "Art. 7 lit. e) - Nerespectarea orarului de desfășurare a activității de picnic",
-        "Art. 7 lit. g) - Parcarea autovehiculelor în alte zone decât cele special amenajate",
-        "Art. 7 lit. h) - Folosirea altor locuri decât cele special amenajate pentru necesități fiziologice",
-        "Art. 7 lit. i) - Folosirea produselor de igienă personală la mai puțin de 30m de cursurile de apă",
-        "Art. 7 lit. j) - Spălarea obiectelor în apele din vecinătate, împrăștierea sau vărsarea apei uzate"
-      ]
+      "repetare": null
     },
     {
       "id": "8",
       "punct": "h)",
-      "descriere": "Nerespectarea prevederilor art. 7 lit. k)-n) (hrănirea animalelor sălbatice, îndepărtarea/rănirea/distrugerea plantelor, animalelor, rocilor, postarea de semne/mesaje, tulburarea liniștii)",
+      "descriere": "Hrănirea animalelor sălbatice, îndepărtarea, rănirea sau distrugerea plantelor, animalelor, rocilor sau altor elemente ale cadrului natural ori construit, postarea de semne sau mesaje în zona de picnic, nepăstrarea liniștii, deranjarea comunităților locale, a vieții sălbatice sau a altor vizitatori",
       "articol_prevedere": "Art. 7, lit. k), l), m), n)",
       "articol_sanctiune": "Art. 8, alin. (1), lit. h)",
       "amenda_min": 200,
@@ -313,18 +285,12 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null,
-      "obligatii_incalcate": [
-        "Art. 7 lit. k) - Hrănirea animalelor sălbatice",
-        "Art. 7 lit. l) - Îndepărtarea, rănirea sau distrugerea plantelor, animalelor, rocilor sau altor elemente ale cadrului natural/construit",
-        "Art. 7 lit. m) - Postarea de semne sau mesaje",
-        "Art. 7 lit. n) - Nepăstrarea liniștii, deranjarea comunităților locale, vieții sălbatice sau altor vizitatori"
-      ]
+      "repetare": null
     },
     {
       "id": "9",
       "punct": "i)",
-      "descriere": "Nerespectarea prevederilor art. 7 lit. q) (desfășurarea activităților de picnic în afara zonelor special amenajate sau indicate)",
+      "descriere": "Desfășurarea activităților de picnic în afara zonelor special amenajate sau indicate pentru acest scop",
       "articol_prevedere": "Art. 7, lit. q)",
       "articol_sanctiune": "Art. 8, alin. (1), lit. i)",
       "amenda_min": 1000,
