@@ -1,0 +1,738 @@
+{
+  "lege_metadata": {
+    "titlu": "Ordonanță de urgență nr. 92 din 19 august 2021 privind regimul deșeurilor",
+    "emitent": "Guvernul României",
+    "data_publicare": "2021-08-26",
+    "monitorul_oficial": "Monitorul Oficial nr. 820 din 26 august 2021",
+    "data_actualizare": "2024-07-22"
+  },
+  "fapte": [
+    {
+      "id": "fapta_1",
+      "descriere": "Încălcarea dispozițiilor art. 8 alin. (1), (2) și (4) privind clasificarea și codificarea deșeurilor, întocmirea listei deșeurilor și încadrarea deșeurilor nepericuloase.",
+      "articol_prevedere": "Art. 8 alin. (1), (2), (4)",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. a)",
+      "amenda_min": 5000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "codificare deșeuri",
+        "clasificare deșeuri",
+        "listă deșeuri",
+        "deșeuri nepericuloase",
+        "producători deșeuri",
+        "deținători deșeuri"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_2",
+      "descriere": "Încălcarea dispozițiilor art. 12 alin. (11) și (12) privind numirea unui reprezentant autorizat de către producătorii stabiliți în alte state membre care introduc produse pe teritoriul României.",
+      "articol_prevedere": "Art. 12 alin. (11), (12)",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. a)",
+      "amenda_min": 40000,
+      "amenda_max": 60000,
+      "permite_jumatate": true,
+      "suma_jumatate": 20000,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "reprezentant autorizat",
+        "producător extern",
+        "produse pe piață",
+        "răspundere extinsă",
+        "producător"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_3",
+      "descriere": "Încălcarea dispozițiilor art. 13 alin. (3) privind punerea la dispoziția Agenției Europene pentru Produse Chimice a informațiilor despre substanțe chimice conform Regulamentului REACH.",
+      "articol_prevedere": "Art. 13 alin. (3)",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. a)",
+      "amenda_min": 5000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "REACH",
+        "Agenția Europeană pentru Produse Chimice",
+        "substanțe chimice",
+        "informare",
+        "furnizor"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_4",
+      "descriere": "Încălcarea dispozițiilor art. 15 alin. (1), alin. (2) lit. a) și b) și alin. (3) privind obligația producerii și deținătorilor de a asigura valorificarea deșeurilor, precum și obligațiile unităților care valorifică deșeuri.",
+      "articol_prevedere": "Art. 15 alin. (1), (2) lit. a), b), (3)",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. a)",
+      "amenda_min": 5000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "valorificare",
+        "reciclare",
+        "stocare deșeuri",
+        "prevenire poluare",
+        "operator economic"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_5",
+      "descriere": "Încălcarea dispozițiilor art. 16 alin. (1)-(3) și (6) privind colectarea separată a deșeurilor, neamestecarea acestora în timpul transportului și interdicția incinerării deșeurilor colectate separat.",
+      "articol_prevedere": "Art. 16 alin. (1)-(3), (6)",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. a)",
+      "amenda_min": 5000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "colectare separată",
+        "amestecare deșeuri",
+        "transport deșeuri",
+        "incinerare",
+        "reciclare"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_6",
+      "descriere": "Încălcarea dispozițiilor art. 17 alin. (3), (4), (6) și (7) privind colectarea separată a deșeurilor de la producători, planurile de gestionare a deșeurilor din construcții și acoperirea costurilor de gestionare de către producători.",
+      "articol_prevedere": "Art. 17 alin. (3), (4), (6), (7)",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. a)",
+      "amenda_min": 5000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "colectare separată",
+        "deșeuri construcții",
+        "producători",
+        "costuri gestionare",
+        "răspundere extinsă"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_7",
+      "descriere": "Încălcarea dispozițiilor art. 20 alin. (1) și (2) privind eliminarea deșeurilor în condiții de siguranță și obligațiile operatorilor economici autorizați pentru eliminare.",
+      "articol_prevedere": "Art. 20 alin. (1), (2)",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. a)",
+      "amenda_min": 5000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "eliminare deșeuri",
+        "operator autorizat",
+        "siguranță",
+        "depozitare",
+        "instalație eliminare"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_8",
+      "descriere": "Încălcarea dispozițiilor art. 22 alin. (3) și (4) privind suportarea cheltuielilor pentru curățarea și refacerea mediului în cazul deșeurilor abandonate de către unitatea administrativ-teritorială și recuperarea costurilor de la producător.",
+      "articol_prevedere": "Art. 22 alin. (3), (4)",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. a)",
+      "amenda_min": 5000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "deșeuri abandonate",
+        "costuri curățare",
+        "producător deșeuri",
+        "refacere mediu",
+        "unitate administrativ-teritorială"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_9",
+      "descriere": "Încălcarea dispozițiilor art. 23 privind responsabilitatea pentru gestionarea deșeurilor, desemnarea persoanei responsabile și instruirea acesteia.",
+      "articol_prevedere": "Art. 23",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. a)",
+      "amenda_min": 5000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "responsabilitate gestionare",
+        "persoană responsabila",
+        "instruire",
+        "tratare deșeuri",
+        "operator economic"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_10",
+      "descriere": "Încălcarea dispozițiilor art. 24 alin. (1) privind transferul deșeurilor și neexonerarea de responsabilitate a producătorului sau deținătorului în cazul transferului.",
+      "articol_prevedere": "Art. 24 alin. (1)",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. a)",
+      "amenda_min": 5000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "transfer deșeuri",
+        "responsabilitate",
+        "producător",
+        "deținător",
+        "tratare preliminară"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_11",
+      "descriere": "Încălcarea dispozițiilor art. 27 alin. (1) privind controlul deșeurilor periculoase și obligația de colectare, transport și stocare separată a acestora.",
+      "articol_prevedere": "Art. 27 alin. (1)",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. a)",
+      "amenda_min": 5000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "deșeuri periculoase",
+        "colectare separată",
+        "stocare",
+        "transport",
+        "trasabilitate"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_12",
+      "descriere": "Încălcarea dispozițiilor art. 28 alin. (1), (4) și (5) privind interzicerea amestecării deșeurilor periculoase și obligația de separare sau tratare a amestecurilor ilegale.",
+      "articol_prevedere": "Art. 28 alin. (1), (4), (5)",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. a)",
+      "amenda_min": 5000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "amestecare deșeuri",
+        "deșeuri periculoase",
+        "separare",
+        "tratare amestec",
+        "diluare"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_13",
+      "descriere": "Încălcarea dispozițiilor art. 29 privind ambalarea, etichetarea și însoțirea transferului de deșeuri periculoase de documentul de identificare.",
+      "articol_prevedere": "Art. 29",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. a)",
+      "amenda_min": 5000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "ambalare deșeuri",
+        "etichetare",
+        "document de identificare",
+        "deșeuri periculoase",
+        "transfer"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_14",
+      "descriere": "Încălcarea dispozițiilor art. 31 privind colectarea, tratamentul, neamestecarea și predarea uleiurilor uzate către operatori autorizați.",
+      "articol_prevedere": "Art. 31",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. a)",
+      "amenda_min": 5000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "uleiuri uzate",
+        "colectare uleiuri",
+        "regenerare",
+        "predare operator",
+        "stații carburanți"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_15",
+      "descriere": "Încălcarea dispozițiilor art. 34 alin. (1) și (5) privind obligativitatea obținerii autorizației de mediu/integrate de mediu pentru activitățile de colectare, salubritate și tratare a deșeurilor și revizuirea autorizației.",
+      "articol_prevedere": "Art. 34 alin. (1), (5)",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. a)",
+      "amenda_min": 5000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "autorizație de mediu",
+        "autorizație integrată",
+        "operator economic",
+        "tratare deșeuri",
+        "revizuire autorizație"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_16",
+      "descriere": "Încălcarea dispozițiilor art. 36 alin. (2) privind obligația operatorilor economici de a se înscrie în registrul ținut de ANPM.",
+      "articol_prevedere": "Art. 36 alin. (2)",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. a)",
+      "amenda_min": 5000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "înregistrare",
+        "registru ANPM",
+        "transport deșeuri",
+        "broker",
+        "comerciant"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_17",
+      "descriere": "Încălcarea dispozițiilor art. 44 alin. (1) și (3) privind obligația persoanelor juridice de a întocmi și implementa un program de prevenire și reducere a deșeurilor și de a îl transmite agenției județene.",
+      "articol_prevedere": "Art. 44 alin. (1), (3)",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. a)",
+      "amenda_min": 5000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "program prevenire",
+        "reducere deșeuri",
+        "audit deșeuri",
+        "persoană juridică",
+        "raportare"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_18",
+      "descriere": "Încălcarea dispozițiilor art. 48 alin. (1), (2), (5) și (6) privind păstrarea evidenței cronologice a deșeurilor, deținerea buletinelor de analiză și punerea acestora la dispoziția autorităților.",
+      "articol_prevedere": "Art. 48 alin. (1), (2), (5), (6)",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. a)",
+      "amenda_min": 5000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "evidență deșeuri",
+        "buletine analiză",
+        "raportare",
+        "producători",
+        "operatori economici"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_19",
+      "descriere": "Încălcarea dispozițiilor art. 61 alin. (4) privind obligația de a permite accesul pe amplasament reprezentanților autorităților competente pentru efectuarea controalelor.",
+      "articol_prevedere": "Art. 61 alin. (4)",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. a)",
+      "amenda_min": 5000,
+      "amenda_max": 15000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "acces amplasament",
+        "control",
+        "autorități competente",
+        "producători",
+        "operatori"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_20",
+      "descriere": "Încălcarea dispozițiilor art. 11 privind interdicția reclasificării deșeurilor periculoase ca deșeuri nepericuloase prin diluare sau amestecare.",
+      "articol_prevedere": "Art. 11",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. b)",
+      "amenda_min": 30000,
+      "amenda_max": 45000,
+      "permite_jumatate": true,
+      "suma_jumatate": 15000,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "reclasificare",
+        "deșeuri periculoase",
+        "diluare",
+        "amestecare",
+        "ilicit"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_21",
+      "descriere": "Încălcarea dispozițiilor art. 20 alin. (3)-(6) privind interzicerea abandonării, aruncării, ascunderii deșeurilor, a incinerării și a îngropării acestora.",
+      "articol_prevedere": "Art. 20 alin. (3)-(6)",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. b)",
+      "amenda_min": 30000,
+      "amenda_max": 45000,
+      "permite_jumatate": true,
+      "suma_jumatate": 15000,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "abandonare",
+        "aruncare",
+        "incendiere",
+        "îngropare",
+        "deșeuri"
+      ],
+      "masuri_complementare": "Ridicarea deșeurilor depozitate în alte zone decât cele autorizate, curățarea terenului, precum și eliminarea acestora conform legislației în vigoare; Confiscarea vehiculelor, bunurilor și mijloacelor folosite la săvârșirea contravenției; Confiscarea deșeurilor care au valoare în cazul deținerii în afara spațiilor autorizate.",
+      "confiscare": "Confiscarea vehiculelor, bunurilor și mijloacelor folosite la săvârșirea contravenției; Confiscarea deșeurilor care au valoare, deținute în afara spațiilor autorizate.",
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_22",
+      "descriere": "Încălcarea dispozițiilor art. 30 alin. (4) și (5) de către persoanele fizice privind depozarea deșeurilor provenite din gospodărie pe tipuri în sistemul de colectare separată și predarea uleiurilor vegetale folosite.",
+      "articol_prevedere": "Art. 30 alin. (4), (5)",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. c)",
+      "amenda_min": 10000,
+      "amenda_max": 20000,
+      "permite_jumatate": true,
+      "suma_jumatate": 5000,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "persoană fizică",
+        "colectare separată",
+        "gospodărie",
+        "ulei vegetal uzat",
+        "prezare operator"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_23",
+      "descriere": "Neîndeplinirea obligațiilor și responsabilităților ce le revin autorităților administrației publice locale sau asociațiilor de dezvoltare intercomunitară privind organizarea colectării separate, atingerea obiectivelor de reciclare, informarea publicului, raportarea și implementarea instrumentului economic „plătește pentru cât arunci“.",
+      "articol_prevedere": "Art. 17 alin. (5), art. 30 alin. (1), art. 33 alin. (1), art. 49 alin. (14) și art. 60 alin. (1)-(4) și (6)",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. d)",
+      "amenda_min": 20000,
+      "amenda_max": 45000,
+      "permite_jumatate": true,
+      "suma_jumatate": 10000,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "autorități locale",
+        "asociații de dezvoltare",
+        "colectare separată",
+        "obiective reciclare",
+        "raportare",
+        "informare public"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_24",
+      "descriere": "Încălcarea dispozițiilor art. 32 alin. (1) și (2) privind informarea publicului asupra necesității colectării uleiurilor uzate de către producători și importatori și inscripționarea obligatorie pe ambalaj.",
+      "articol_prevedere": "Art. 32 alin. (1), (2)",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. e)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "informare public",
+        "producători uleiuri",
+        "inscripționare ambalaj",
+        "uleiuri uzate",
+        "importatori"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_25",
+      "descriere": "Încălcarea dispozițiilor art. 49 alin. (9), (11), (12) și (15) privind raportarea anuală a datelor privind gestionarea deșeurilor, conformarea cu măsurile adoptate și evidența produselor reutilizate de către producători și deținători.",
+      "articol_prevedere": "Art. 49 alin. (9), (11), (12), (15)",
+      "articol_sanctiune": "Art. 62 alin. (1) lit. e)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Poliția Locală",
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Gărzile forestiere",
+        "Autoritățile administrației publice locale"
+      ],
+      "tags": [
+        "raportare anuală",
+        "producători",
+        "deținători",
+        "date gestionare",
+        "produse reutilizate"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    }
+  ]
+}
