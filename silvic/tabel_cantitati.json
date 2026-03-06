@@ -1,0 +1,354 @@
+{
+  "tabel": "Volumele unitare și valoarea factorului „k“ pentru pagubele înregistrate la arbori, pe specii sau grupe de specii",
+  "note": "*) Factorul „k“ reprezintă coeficientul de multiplicare pentru calculul pagubelor",
+  "date": [
+    {
+      "nr_crt": 1,
+      "categorie_diametre_cm": "2,1-4,0",
+      "rasinoase": {
+        "volum_unitar_mc_bucata": 0.0,
+        "valoare_factor_k": 0.035
+      },
+      "cvercinee_paltin_frasin_cires_sorb": {
+        "volum_unitar_mc_bucata": 0.003,
+        "valoare_factor_k": 0.07
+      },
+      "alte_foioase": {
+        "volum_unitar_mc_bucata": 0.001,
+        "valoare_factor_k": 0.035
+      }
+    },
+    {
+      "nr_crt": 2,
+      "categorie_diametre_cm": "4,1-8,0",
+      "rasinoase": {
+        "volum_unitar_mc_bucata": 0.009,
+        "valoare_factor_k": 0.07
+      },
+      "cvercinee_paltin_frasin_cires_sorb": {
+        "volum_unitar_mc_bucata": 0.01,
+        "valoare_factor_k": 0.105
+      },
+      "alte_foioase": {
+        "volum_unitar_mc_bucata": 0.003,
+        "valoare_factor_k": 0.035
+      }
+    },
+    {
+      "nr_crt": 3,
+      "categorie_diametre_cm": "8,1-12,0",
+      "rasinoase": {
+        "volum_unitar_mc_bucata": 0.04,
+        "valoare_factor_k": 0.105
+      },
+      "cvercinee_paltin_frasin_cires_sorb": {
+        "volum_unitar_mc_bucata": 0.028,
+        "valoare_factor_k": 0.175
+      },
+      "alte_foioase": {
+        "volum_unitar_mc_bucata": 0.049,
+        "valoare_factor_k": 0.035
+      }
+    },
+    {
+      "nr_crt": 4,
+      "categorie_diametre_cm": "12,1-16,0",
+      "rasinoase": {
+        "volum_unitar_mc_bucata": 0.086,
+        "valoare_factor_k": 0.14
+      },
+      "cvercinee_paltin_frasin_cires_sorb": {
+        "volum_unitar_mc_bucata": 0.072,
+        "valoare_factor_k": 0.227
+      },
+      "alte_foioase": {
+        "volum_unitar_mc_bucata": 0.078,
+        "valoare_factor_k": 0.105
+      }
+    },
+    {
+      "nr_crt": 5,
+      "categorie_diametre_cm": "16,1-20,0",
+      "rasinoase": {
+        "volum_unitar_mc_bucata": 0.156,
+        "valoare_factor_k": 0.21
+      },
+      "cvercinee_paltin_frasin_cires_sorb": {
+        "volum_unitar_mc_bucata": 0.15,
+        "valoare_factor_k": 0.297
+      },
+      "alte_foioase": {
+        "volum_unitar_mc_bucata": 0.124,
+        "valoare_factor_k": 0.14
+      }
+    },
+    {
+      "nr_crt": 6,
+      "categorie_diametre_cm": "20,1-24,0",
+      "rasinoase": {
+        "volum_unitar_mc_bucata": 0.245,
+        "valoare_factor_k": 0.227
+      },
+      "cvercinee_paltin_frasin_cires_sorb": {
+        "volum_unitar_mc_bucata": 0.266,
+        "valoare_factor_k": 0.402
+      },
+      "alte_foioase": {
+        "volum_unitar_mc_bucata": 0.217,
+        "valoare_factor_k": 0.175
+      }
+    },
+    {
+      "nr_crt": 7,
+      "categorie_diametre_cm": "24,1-28,0",
+      "rasinoase": {
+        "volum_unitar_mc_bucata": 0.366,
+        "valoare_factor_k": 0.402
+      },
+      "cvercinee_paltin_frasin_cires_sorb": {
+        "volum_unitar_mc_bucata": 0.411,
+        "valoare_factor_k": 0.735
+      },
+      "alte_foioase": {
+        "volum_unitar_mc_bucata": 0.332,
+        "valoare_factor_k": 0.28
+      }
+    },
+    {
+      "nr_crt": 8,
+      "categorie_diametre_cm": "28,1-32,0",
+      "rasinoase": {
+        "volum_unitar_mc_bucata": 0.521,
+        "valoare_factor_k": 0.682
+      },
+      "cvercinee_paltin_frasin_cires_sorb": {
+        "volum_unitar_mc_bucata": 0.617,
+        "valoare_factor_k": 1.015
+      },
+      "alte_foioase": {
+        "volum_unitar_mc_bucata": 0.508,
+        "valoare_factor_k": 0.525
+      }
+    },
+    {
+      "nr_crt": 9,
+      "categorie_diametre_cm": "32,1-36,0",
+      "rasinoase": {
+        "volum_unitar_mc_bucata": 0.713,
+        "valoare_factor_k": 1.015
+      },
+      "cvercinee_paltin_frasin_cires_sorb": {
+        "volum_unitar_mc_bucata": 0.866,
+        "valoare_factor_k": 2.082
+      },
+      "alte_foioase": {
+        "volum_unitar_mc_bucata": 0.72,
+        "valoare_factor_k": 0.892
+      }
+    },
+    {
+      "nr_crt": 10,
+      "categorie_diametre_cm": "36,1-40,0",
+      "rasinoase": {
+        "volum_unitar_mc_bucata": 0.9,
+        "valoare_factor_k": 1.435
+      },
+      "cvercinee_paltin_frasin_cires_sorb": {
+        "volum_unitar_mc_bucata": 1.144,
+        "valoare_factor_k": 3.237
+      },
+      "alte_foioase": {
+        "volum_unitar_mc_bucata": 0.976,
+        "valoare_factor_k": 1.4
+      }
+    },
+    {
+      "nr_crt": 11,
+      "categorie_diametre_cm": "40,1-44,0",
+      "rasinoase": {
+        "volum_unitar_mc_bucata": 1.123,
+        "valoare_factor_k": 1.837
+      },
+      "cvercinee_paltin_frasin_cires_sorb": {
+        "volum_unitar_mc_bucata": 1.45,
+        "valoare_factor_k": 4.322
+      },
+      "alte_foioase": {
+        "volum_unitar_mc_bucata": 1.271,
+        "valoare_factor_k": 1.872
+      }
+    },
+    {
+      "nr_crt": 12,
+      "categorie_diametre_cm": "44,1-48,0",
+      "rasinoase": {
+        "volum_unitar_mc_bucata": 1.364,
+        "valoare_factor_k": 2.362
+      },
+      "cvercinee_paltin_frasin_cires_sorb": {
+        "volum_unitar_mc_bucata": 1.782,
+        "valoare_factor_k": 5.6
+      },
+      "alte_foioase": {
+        "volum_unitar_mc_bucata": 1.602,
+        "valoare_factor_k": 2.397
+      }
+    },
+    {
+      "nr_crt": 13,
+      "categorie_diametre_cm": "48,1-52,0",
+      "rasinoase": {
+        "volum_unitar_mc_bucata": 1.629,
+        "valoare_factor_k": 3.22
+      },
+      "cvercinee_paltin_frasin_cires_sorb": {
+        "volum_unitar_mc_bucata": 2.168,
+        "valoare_factor_k": 7.507
+      },
+      "alte_foioase": {
+        "volum_unitar_mc_bucata": 1.994,
+        "valoare_factor_k": 3.22
+      }
+    },
+    {
+      "nr_crt": 14,
+      "categorie_diametre_cm": "52,1-56,0",
+      "rasinoase": {
+        "volum_unitar_mc_bucata": 1.889,
+        "valoare_factor_k": 3.92
+      },
+      "cvercinee_paltin_frasin_cires_sorb": {
+        "volum_unitar_mc_bucata": 2.549,
+        "valoare_factor_k": 9.38
+      },
+      "alte_foioase": {
+        "volum_unitar_mc_bucata": 2.411,
+        "valoare_factor_k": 4.34
+      }
+    },
+    {
+      "nr_crt": 15,
+      "categorie_diametre_cm": "56,1-60,0",
+      "rasinoase": {
+        "volum_unitar_mc_bucata": 2.162,
+        "valoare_factor_k": 4.655
+      },
+      "cvercinee_paltin_frasin_cires_sorb": {
+        "volum_unitar_mc_bucata": 2.981,
+        "valoare_factor_k": 11.935
+      },
+      "alte_foioase": {
+        "volum_unitar_mc_bucata": 2.892,
+        "valoare_factor_k": 5.775
+      }
+    },
+    {
+      "nr_crt": 16,
+      "categorie_diametre_cm": "60,1-64,0",
+      "rasinoase": {
+        "volum_unitar_mc_bucata": 2.464,
+        "valoare_factor_k": 5.74
+      },
+      "cvercinee_paltin_frasin_cires_sorb": {
+        "volum_unitar_mc_bucata": 3.428,
+        "valoare_factor_k": 15.26
+      },
+      "alte_foioase": {
+        "volum_unitar_mc_bucata": 3.39,
+        "valoare_factor_k": 7.63
+      }
+    },
+    {
+      "nr_crt": 17,
+      "categorie_diametre_cm": "64,1-68,0",
+      "rasinoase": {
+        "volum_unitar_mc_bucata": 2.749,
+        "valoare_factor_k": 6.545
+      },
+      "cvercinee_paltin_frasin_cires_sorb": {
+        "volum_unitar_mc_bucata": 3.883,
+        "valoare_factor_k": 17.745
+      },
+      "alte_foioase": {
+        "volum_unitar_mc_bucata": 3.96,
+        "valoare_factor_k": 9.362
+      }
+    },
+    {
+      "nr_crt": 18,
+      "categorie_diametre_cm": "68,1-72,0",
+      "rasinoase": {
+        "volum_unitar_mc_bucata": 2.989,
+        "valoare_factor_k": 7.227
+      },
+      "cvercinee_paltin_frasin_cires_sorb": {
+        "volum_unitar_mc_bucata": 4.362,
+        "valoare_factor_k": 20.475
+      },
+      "alte_foioase": {
+        "volum_unitar_mc_bucata": 4.552,
+        "valoare_factor_k": 11.2
+      }
+    },
+    {
+      "nr_crt": 19,
+      "categorie_diametre_cm": "72,1-76,0",
+      "rasinoase": {
+        "volum_unitar_mc_bucata": 3.164,
+        "valoare_factor_k": 8.19
+      },
+      "cvercinee_paltin_frasin_cires_sorb": {
+        "volum_unitar_mc_bucata": 4.851,
+        "valoare_factor_k": 24.517
+      },
+      "alte_foioase": {
+        "volum_unitar_mc_bucata": 5.161,
+        "valoare_factor_k": 13.702
+      }
+    },
+    {
+      "nr_crt": 20,
+      "categorie_diametre_cm": "76,1-80,0",
+      "rasinoase": {
+        "volum_unitar_mc_bucata": 3.409,
+        "valoare_factor_k": 8.872
+      },
+      "cvercinee_paltin_frasin_cires_sorb": {
+        "volum_unitar_mc_bucata": 5.379,
+        "valoare_factor_k": 27.877
+      },
+      "alte_foioase": {
+        "volum_unitar_mc_bucata": 5.763,
+        "valoare_factor_k": 15.592
+      }
+    },
+    {
+      "nr_crt": 21,
+      "categorie_diametre_cm": "> 80",
+      "rasinoase": {
+        "volum_unitar_mc_bucata": 3.583,
+        "valoare_factor_k": 9.45
+      },
+      "cvercinee_paltin_frasin_cires_sorb": {
+        "volum_unitar_mc_bucata": 5.934,
+        "valoare_factor_k": 30.975
+      },
+      "alte_foioase": {
+        "volum_unitar_mc_bucata": 6.419,
+        "valoare_factor_k": 17.587
+      }
+    }
+  ],
+  "legenda": {
+    "coloane": {
+      "0": "Nr. crt.",
+      "1": "Categoria de diametre (centimetri)",
+      "2": "Rășinoase - Volum unitar (mc/bucată)",
+      "3": "Rășinoase - Valoarea factorului „k\"",
+      "4": "Cvercinee, paltin, frasin, cireș, sorb - Volum unitar (mc/bucată)",
+      "5": "Cvercinee, paltin, frasin, cireș, sorb - Valoarea factorului „k\"",
+      "6": "Alte foioase - Volum unitar (mc/bucată)",
+      "7": "Alte foioase - Valoarea factorului „k\""
+    }
+  }
+}
