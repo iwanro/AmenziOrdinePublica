@@ -1,0 +1,492 @@
+{
+  "termeni_silvici": [
+    {
+      "termen": "Act de constatare",
+      "definitie": "Actul încheiat între reprezentantul ocolului silvic nominalizat și reprezentantul Gărzii Forestiere competente teritorial, în vederea asigurării pazei și a serviciilor silvice minimale de către ocolul silvic nominalizat pentru suprafețe de FFN de maximum 30 hectare pentru care nu există administrare sau pentru care nu sunt asigurate servicii silvice minimale, al căror proprietar nu se poate identifica ori a cărui succesiune nu a fost dezbătută, precum și pentru suprafețele din FFN de peste 30 hectare pentru care nu este asigurată administrarea sau serviciile silvice"
+    },
+    {
+      "termen": "Administrarea pădurilor",
+      "definitie": "Ansamblu de activități cu caracter tehnic, economic și juridic menite să asigure gestionarea durabilă a terenurilor din FFN, cu respectarea regimului silvic"
+    },
+    {
+      "termen": "Administrație silvică",
+      "definitie": "Ansamblu de entități prin care se realizează gestionarea fondului forestier în condițiile prezentei legi"
+    },
+    {
+      "termen": "Amenajament silvic",
+      "definitie": "Produs al activității de amenajare cu conținut tehnico-organizatoric, fundamentat ecologic, prin care se stabilesc, pentru o perioadă de timp, lucrările necesare a fi executate într-o unitate de producție, în scopul aducerii și, ulterior, al menținerii caracteristicilor structurale ale arboretelor și ale pădurii în ansamblu la valorile aferente modelului structural optim definit în concordanță cu obiectivele de natură ecologică, socială și economică urmărite prin gestionarea durabilă"
+    },
+    {
+      "termen": "Amenajările pădurilor specifice pădurilor-parc",
+      "definitie": "Amenajările permise în pădurile-parc sunt: a) alei realizate din materiale ecologice, cu lățimea de maximum 2 metri sau piste pentru biciclete; b) bănci; c) iluminat; d) puncte de informare cu suprafața de maximum 4 metri pătrați; e) toalete ecologice; f) construcții provizorii din lemn cu suprafața construită de maximum 15 metri pătrați. În pădurile-parc se pot realiza împăduriri cu specii care nu sunt din tipul natural fundamental în locul arborilor extrași. Pădurile-parc se vor constitui la solicitarea proprietarului/administratorului, în baza unor studii de fundamentare, avizate în Comisia tehnică de avizare pentru silvicultură. Suprafața de constituire a unei păduri-parc este de minimum 3 hectare, iar suprafața ocupată cu amenajări permise este de maximum 10% din suprafața încadrată ca pădure-parc."
+    },
+    {
+      "termen": "Amenajarea pădurilor",
+      "definitie": "Activitate de dezvoltare tehnologică, cu caracter permanent și continuu, având drept scop conducerea structurală a pădurilor spre starea de maximă eficacitate funcțională aferentă obiectivelor urmărite de natură ecologică, socială și economică"
+    },
+    {
+      "termen": "Arbore-habitat/Arbore de biodiversitate",
+      "definitie": "Arbore cu atribute ecologice importante care, prin forma și caracteristicile sistemului radicelar, trunchiului, ramurilor și coroanei în ansamblu, constituie habitat pentru alte specii. Sunt incluși aici arbori scorburoși, de regulă bătrâni (arbori veterani), cu cuiburi de păsări, cavități de reproducere, cu lemn mort în coroană, cu coroane mari etc., sau din specii rare."
+    },
+    {
+      "termen": "Arboret",
+      "definitie": "Porțiune omogenă de pădure atât din punctul de vedere al fitocenozei de arbori, cât și al condițiilor staționale, care necesită aceleași lucrări silviculturale"
+    },
+    {
+      "termen": "Arboretum",
+      "definitie": "Suprafața de teren pe care este cultivată, în scop științific sau educațional, o colecție de plante lemnoase, arborescente și arbustive, autohtone și exotice, constituite din exemplare deosebit de valoroase care aparțin unui număr mare de unități sistematice de clasificare"
+    },
+    {
+      "termen": "Beneficiari direcți ai serviciilor ecosistemelor forestiere",
+      "definitie": "Persoane fizice și juridice care beneficiază nemijlocit de contribuțiile ecosistemelor forestiere pentru creșterea calității vieții oamenilor și a societății în ansamblul ei"
+    },
+    {
+      "termen": "Beneficiari indirecți ai serviciilor ecosistemelor forestiere",
+      "definitie": "Persoane fizice sau juridice care nu sunt beneficiare directe, dar care în mod indirect au acces la contribuțiile ecosistemelor forestiere pentru creșterea calității vieții oamenilor și a societății în ansamblul ei"
+    },
+    {
+      "termen": "Cale de colectare a lemnului",
+      "definitie": "O amenajare, construcție sau instalație folosită pentru colectarea lemnului care ocupă și poate să schimbe temporar, pe durata lucrărilor de exploatare, folosința unui spațiu din cadrul șantierului de exploatare a lemnului. Ea cuprinde spațiul folosit efectiv pentru colectarea lemnului, precum și alte amenajări, construcții și instalații necesare funcționării ei. Din punct de vedere teritorial, căile de colectare pot fi situate atât în interiorul, cât și în exteriorul parchetelor, dar se încadrează în șantierul de exploatare a lemnului. Se poate folosi și termenul de instalație pasageră pentru colectarea lemnului."
+    },
+    {
+      "termen": "Catalogul național al ecosistemelor strict protejate",
+      "definitie": "Sistem național informatic de evidență a tuturor arboretelor incluse în categoria ecosistemelor forestiere strict protejate, cu actualizare periodică și cu o secțiune publică care permite vizualizarea amplasării spațiale a respectivelor arborete pe o hartă interactivă"
+    },
+    {
+      "termen": "Centuri verzi",
+      "definitie": "Zone din jurul orașelor constituite din păduri, vegetație forestieră și alte terenuri cu înaltă valoare naturală, socioculturală, recreativă sau ecologică, în care gestionarea pădurilor și a vegetației forestiere se face în conformitate cu normele tehnice speciale elaborate în temeiul art. 166 alin. (3) din prezenta lege, prin aplicarea de măsuri de conservare activă, fără reglementarea recoltării de produse principale"
+    },
+    {
+      "termen": "Circulația materialelor lemnoase",
+      "definitie": "Transportul materialelor lemnoase între două locații, folosindu-se în acest scop orice mijloc de transport, și/sau transmiterea proprietății asupra materialelor lemnoase"
+    },
+    {
+      "termen": "Cioata",
+      "definitie": "Partea din arbore care rămâne după doborâre atât deasupra solului, cât și în sol"
+    },
+    {
+      "termen": "Clasa de regenerare",
+      "definitie": "Totalitatea terenurilor existente în cuprinsul unei unități de producție care, la data elaborării unui amenajament, nu sunt acoperite cu arbori, urmând, în conformitate cu lucrările propuse în amenajament, să fie împădurite"
+    },
+    {
+      "termen": "Comerciant",
+      "definitie": "Orice persoană fizică sau juridică din lanțul de aprovizionare, alta decât operatorul, care, în cursul unei activități comerciale, pune la dispoziție pe piața Uniunii Europene produse de bază și alte produse relevante"
+    },
+    {
+      "termen": "Compensație financiară",
+      "definitie": "Formă de ajutor sau de sprijin financiar acordat de către stat proprietarilor terenurilor din FFN, alții decât statul, pentru gestionarea durabilă a terenurilor din FFN proprietate privată și pentru proprietarii care aplică măsurile cu caracter obligatoriu, necesare pentru conservarea și ameliorarea biodiversității pădurilor"
+    },
+    {
+      "termen": "Compoziție-țel",
+      "definitie": "Asortimentul de specii dintr-un arboret care îmbină, în orice moment al existenței sale, în modul cel mai favorabil, atât prin proporție, cât și prin gruparea lor, exigențele biologice ale pădurii cu cerințele social-economice ori ecologice"
+    },
+    {
+      "termen": "Comunități locale dependente critic de păduri",
+      "definitie": "Comunități reprezentate de locuitorii unor localități ale căror necesități vitale de natură energetică, de realizare a unor produse sau de oferire a unor servicii sunt restricționate prin încadrarea pădurilor ce satisfăceau aceste necesități în zone cu restricții"
+    },
+    {
+      "termen": "Conectivitate ecologică",
+      "definitie": "Structura spațială a ecosistemelor ce permite deplasarea nestingherită a speciilor și asigurarea fluxului proceselor naturale care susțin viața"
+    },
+    {
+      "termen": "Consistență",
+      "definitie": "Caracteristică generală a unui arboret de a fi constituit din arbori apropiați între ei, în așa fel încât raportul spațial al acestora să determine un mediu specific ecosistemelor forestiere, diferit de cel din afară. Se exprimă, în mod indirect, prin indicele de desime, indicele de densitate, indicele de acoperire, indicele de închidere a coronamentului."
+    },
+    {
+      "termen": "Continuitatea pazei FFN",
+      "definitie": "Asigurarea permanentă de către structura de administrare a supravegherii în integralitate a FFN aflat în pază prin diverse mijloace tehnice și organizatorice în funcție de rezultatele evaluării proprii la risc"
+    },
+    {
+      "termen": "Control de fond",
+      "definitie": "Controlul care se realizează prin parcurgerea, conform regulamentului de pază, a unei suprafețe aflate în administrarea ocolului silvic sau pentru care ocolul silvic prestează servicii de pază în scopul verificării integrității fondului forestier și respectării regimului silvic. Controlul parțial vizează aceleași obiective precum controlul de fond, dar se desfășoară doar pe o parte a suprafeței aflate în pază."
+    },
+    {
+      "termen": "Coridor ecologic",
+      "definitie": "Spațiu geografic clar delimitat și desemnat pentru a menține sau pentru a restabili eficient conectivitatea ecologică"
+    },
+    {
+      "termen": "Construcții și amenajări necesare lucrărilor de exploatare a lemnului",
+      "definitie": "Alte construcții și amenajări provizorii necesare lucrărilor de exploatare a lemnului pot fi, nelimitativ, spațiile pe care se depozitează carburanți, lubrifianți și piese de schimb, atunci când acestea nu sunt depozitate pe suprafața platformelor primare, precum și spațiile necesare amenajării facilităților temporare de locuit pentru forța de muncă, atunci când acestea nu sunt amenajate pe suprafața platformelor primare. Aceste construcții provizorii se edifică și deservesc scopului pentru care au fost edificate numai în perioada de valabilitate a autorizației de exploatare."
+    },
+    {
+      "termen": "Cubaj expeditiv",
+      "definitie": "Metodă de stabilire a volumului real al materialelor lemnoase așezate în figuri geometrice, prin utilizarea, după caz, a factorilor de cubaj sau a coeficienților de echivalență specifici sortimentului la volumul aparent al figurilor."
+    },
+    {
+      "termen": "Defrișare",
+      "definitie": "Acțiunea de înlăturare, de pe un teren inclus în FFN, a vegetației forestiere, fără a fi urmată de regenerarea acesteia, cu schimbarea folosinței și/sau a destinației forestiere a terenului"
+    },
+    {
+      "termen": "Degradarea pădurilor",
+      "definitie": "Modificări structurale ale suprafețelor împădurite care constau în transformarea: a) pădurilor primare sau a pădurilor regenerate în mod natural în culturi forestiere intensive; sau b) pădurilor primare în păduri regenerate artificial"
+    },
+    {
+      "termen": "Degradarea terenurilor",
+      "definitie": "Reducerea până la anulare a potențialului productiv al terenurilor, ca urmare a pierderii totale sau parțiale a fertilității potențiale a solului"
+    },
+    {
+      "termen": "Deținător",
+      "definitie": "Proprietarul, administratorul, prestatorul de servicii silvice, transportatorul, depozitarul, custodele, precum și orice altă persoană fizică sau juridică, în temeiul unui titlu legal, de fond forestier sau de materiale lemnoase"
+    },
+    {
+      "termen": "Dispozitiv special de marcat",
+      "definitie": "Instrument cu regim special care se folosește de personalul silvic împuternicit pentru marcarea arborilor destinați recoltării, a arborilor care delimitează parchetele de exploatare și a cioatelor arborilor tăiați ilegal, precum și a arborilor ce permit identificarea locului de unde un arbore a fost extras fără lăsarea de cioată în teren"
+    },
+    {
+      "termen": "Drum forestier",
+      "definitie": "Cale de transport forestier cu caracter permanent, care servește cerințelor proprii de transport auto în activitatea forestieră, precum și altor necesități de transport, fiind construită și menținută în acest scop, în cuprinsul FFN, prin schimbarea categoriei de folosință forestieră"
+    },
+    {
+      "termen": "Ecosistem forestier",
+      "definitie": "Unitatea funcțională a biosferei, constituită din biocenoză, în care rolul predominant îl are populația de arbori, și stațiunea în care se află aceasta"
+    },
+    {
+      "termen": "Ecosistem forestier cu valoare conservativă ridicată",
+      "definitie": "Arboret sau ansamblu de arborete cu caracteristici floristice, faunistice, geologice, geomorfologice, hidrologice, climatice, paleontologice sau de altă natură, care au valoare ecologică, științifică sau culturală deosebită și care sunt strict protejate prin încadrare în tipul I de categorii funcționale"
+    },
+    {
+      "termen": "Evaluarea lemnului",
+      "definitie": "Acțiunea de culegere de informații privind locația, suprafața pe care se găsesc arborii care urmează a fi selectați în vederea exploatării și caracteristicile dendrometrice ale acestora, necesare calculului volumului de lemn pe picior"
+    },
+    {
+      "termen": "Exploatabilitate",
+      "definitie": "Calitatea de a fi exploatabil atribuită unui arbore sau arboret în momentul în care recoltarea lor devine necesară pentru a se putea realiza în mod optim obiectivele urmărite prin gospodărirea pădurii din care face parte"
+    },
+    {
+      "termen": "Exploatare a lemnului",
+      "definitie": "Procesul de producție prin care se extrage lemnul brut din păduri și de pe alte terenuri acoperite cu vegetație forestieră, în condițiile impuse de regimul silvic, de regimul terenurilor acoperite cu vegetație forestieră"
+    },
+    {
+      "termen": "Gestionarea durabilă a pădurilor",
+      "definitie": "Administrarea și utilizarea pădurilor și a terenurilor forestiere într-un mod și într-un ritm care să le mențină biodiversitatea, productivitatea, capacitatea de regenerare, vitalitatea și potențialul lor de a îndeplini, acum și în viitor, funcțiile ecologice, economice și sociale relevante, la nivel local, național și global, și care nu provoacă daune altor ecosisteme"
+    },
+    {
+      "termen": "Guvernanța sectorului silvic",
+      "definitie": "Cadrul instituțional, organizațiile și procesele prin care factorii interesați din sectorul silvic iau și aplică decizii cu privire la managementul, utilizarea și conservarea resurselor forestiere"
+    },
+    {
+      "termen": "Integritatea fondului forestier",
+      "definitie": "Menținerea suprafeței FFN, a stării de sănătate corespunzătoare a arboretelor și a structurii care asigură eficacitatea funcțională cea mai ridicată în raport cu funcțiile atribuite pădurii"
+    },
+    {
+      "termen": "Insulă de îmbătrânire",
+      "definitie": "Grup de arbori exceptați de la exploatarea forestieră pe o suprafață de minimum 0,1 hectare, cu rol în conservarea și ameliorarea biodiversității, pentru a constitui, prin evoluție naturală, habitat sau adăpost temporar pentru speciile de faună care depind de existența arborilor cu vârste mari sau a arborilor morți"
+    },
+    {
+      "termen": "Introducere pe piață",
+      "definitie": "Punere la dispoziție pentru prima oară a unui produs de bază sau a unui alt produs pe piața Uniunii Europene"
+    },
+    {
+      "termen": "Întreprindere legată",
+      "definitie": "Întreprinderea care face parte dintr-un grup, prin controlul direct sau indirect al majorității drepturilor de vot sau al capitalului social, inclusiv prin acorduri, sau, în anumite cazuri, prin intermediul acționarilor, persoane fizice, ori prin posibilitatea de a exercita o influență dominantă asupra unei întreprinderi"
+    },
+    {
+      "termen": "Județ deficitar în păduri",
+      "definitie": "Județul în care suprafața fondului forestier reprezintă mai puțin de 30% din suprafața totală a acestuia"
+    },
+    {
+      "termen": "Lemn",
+      "definitie": "Produsul exploatării lemnului reprezentat de fragmente, părți sau segmente de arbore aduse la forme, dimensiuni și calități corespunzătoare prelucrării industriale sau utilizării directe. Există mai multe criterii de clasificare a lemnului brut, cum sunt: specia, caracteristicile fizico-mecanice, forma în secțiune transversală, stadiul de transformare în cursul procesului de exploatare, modul de livrare și destinația lemnului."
+    },
+    {
+      "termen": "Lăstar",
+      "definitie": "Ramură tânără care se dezvoltă din rădăcina sau tulpina unui arbore"
+    },
+    {
+      "termen": "Materiale lemnoase",
+      "definitie": "Lemnul rotund sau despicat, cu sau fără coajă, și lemnul de foc sub formă de trunchiuri, butuci, crăci, vreascuri sau forme similare; cherestelele tivite și netivite, capetele și flancurile buștenilor; traversele neimpregnate din lemn pentru căi ferate, mangalul, lemnul ecarisat și lemnul cioplit; lemnul sub formă de așchii sau particule, rumegușul, tocătura provenită din lemn, coaja arborilor și resturile de lemn. Puieții forestieri se încadrează în categoria materialelor lemnoase. Materialele lemnoase nu sunt bunuri divizibile."
+    },
+    {
+      "termen": "Material forestier de reproducere",
+      "definitie": "Materialul biologic vegetal prin care se realizează regenerarea arborilor din speciile și hibrizii artificiali, importanți pentru scopuri forestiere"
+    },
+    {
+      "termen": "Ocol silvic",
+      "definitie": "Unitatea silvică înființată în scopul administrării și/sau asigurării serviciilor pentru terenurile din FFN, având suprafața minimă de constituire după cum urmează: a) în regiunea de câmpie - 3.000 hectare fond forestier; b) în regiunea de deal - 5.000 hectare fond forestier; c) în regiunea de munte - 7.000 hectare fond forestier. Ocolul silvic se constituie de către: a) unitățile administrativ-teritoriale, pentru terenuri forestiere proprietate publică sau privată pe care le au în proprietate sau în administrare; b) persoanele fizice și/sau persoanele juridice, pentru terenuri forestiere proprietate privată pe care le au în proprietate; c) persoanele juridice rezultate în urma asocierii persoanelor prevăzute la lit. a) și/sau b) la Registrul asociațiilor și fundațiilor, la Oficiul Național al Registrului Comerțului; d) administratorii fondului forestier proprietate publică a statului, pentru terenurile forestiere proprietate publică a statului și/sau a unităților administrativ-teritoriale pe care le administrează."
+    },
+    {
+      "termen": "Ocupare temporară a unui teren inclus în FFN",
+      "definitie": "Utilizarea temporară a unui teren inclus în FFN, doar în scopuri și perioade stabilite în condițiile prezentei legi"
+    },
+    {
+      "termen": "Ocupații",
+      "definitie": "Terenurile forestiere înscrise în amenajamentele silvice în vigoare la categoria „ocupații și litigii\" - „M\""
+    },
+    {
+      "termen": "Operator",
+      "definitie": "Orice persoană fizică sau juridică ce, în cursul unei activități comerciale, introduce pe piața Uniunii Europene și alte produse relevante sau le exportă de pe piața Uniunii Europene"
+    },
+    {
+      "termen": "Parchet",
+      "definitie": "Suprafața de teren forestier de pe care se recoltează arborii selectați prin lucrări de îngrijire și conducere, prin tratamente silviculturale, prin lucrări de conservare sau prin extragerea produselor accidentale și extraordinare. Parchetul este parte integrantă a șantierului de exploatare a lemnului."
+    },
+    {
+      "termen": "Parc recreativ/tematic/educațional",
+      "definitie": "Amenajările cu caracter permanent sau nepermanent, care se execută în scopul desfășurării activităților recreative, cu sau fără defrișarea vegetației forestiere, de tipul: a) pergole și/sau locuri de joacă pentru copii; b) aventura-parc, instalații pentru cățărare sau inițiere în alpinism; c) terenuri pentru paintball; d) piste pentru biciclete și alte infrastructuri specifice sau favorabile circulației bicicletelor, precum și, după caz, poteci de pământ pentru deplasare pedestră și alergare și, separat, pentru ciclism montan și pentru deplasare ecvestră, piste pentru alergare, piste pentru deplasare pe dispozitive cu role, punți, pasarele și podețe aferente acestor căi de comunicație; e) căi de acces aferente."
+    },
+    {
+      "termen": "Pagubă",
+      "definitie": "Pierderea economică directă rezultată prin modificarea aspectului, a integrității fizice și/sau a caracteristicilor fiziologice ale arborelui/arborilor ori ale arboretului/plantației/regenerării naturale, după caz, rezultată prin tăierea, ruperea, degradarea, distrugerea, scoaterea din rădăcini a arborilor, puieților sau lăstarilor, tăierea crăcilor arborilor în picioare"
+    },
+    {
+      "termen": "Pădure primară",
+      "definitie": "Pădure care prezintă o dinamică naturală a proceselor ecosistemice (cu specii naturale, structură plurienă, regenerare naturală, eliminare naturală nedirijată a arborilor) pe o suprafață a cărei mărime permite menținerea caracteristicilor naturale și în care nu se practică o intervenție umană semnificativă sau în care ultimele intervenții umane semnificative s-au făcut cu mult timp în urmă astfel încât procesele naturale caracteristice s-au restabilit"
+    },
+    {
+      "termen": "Pădure certificată",
+      "definitie": "O suprafață de pădure pentru care există un certificat valid emis de o organizație independentă acreditată internațional care, în urma unui audit, confirmă faptul că suprafața respectivă este gospodărită în conformitate cu un standard de certificare a managementului forestier agreat la nivel internațional"
+    },
+    {
+      "termen": "Pădure virgină",
+      "definitie": "Acea pădure care s-a format și dezvoltat exclusiv sub acțiunea factorilor naturali și în care procesele ecosistemice în dinamica lor se produc fără nicio influență antropică directă sau indirectă"
+    },
+    {
+      "termen": "Pădure cvasivirgină",
+      "definitie": "Pădurea virgină din trecut care, între timp, a suferit modificări antropice observabile, nesemnificative asupra structurii, stațiunii și proceselor ecosistemice"
+    },
+    {
+      "termen": "Păduri urbane și periurbane",
+      "definitie": "Păduri și terenuri forestiere din interiorul și din jurul orașelor care îndeplinesc o funcție ecologică, sanogenă și recreativă pentru locuitorii zonelor urbane, dar care pot furniza în subsidiar și alte bunuri și servicii periurbane cum ar fi lemn, fibre, fructe sau alte produse forestiere nelemnoase, în condițiile aplicării normelor prevăzute la art. 166 alin. (3) din prezenta lege"
+    },
+    {
+      "termen": "Minipăduri urbane",
+      "definitie": "Suprafața de teren compactă, de minimum 100 metri pătrați, situată în intravilanul unei localități urbane (oraș, municipiu) sau în zona periurbană, cu o lățime de cel puțin 2 metri, pe care au fost plantate specii forestiere arborescente, ce oferă societății beneficii psihologice, sociale, estetice, economice și de mediu, în condițiile aplicării normelor prevăzute la art. 166 alin. (3) din prezenta lege"
+    },
+    {
+      "termen": "Păduri cu rol sociocultural",
+      "definitie": "Păduri localizate în jurul, în lungul, în apropierea sau în interiorul unor zone/obiective de interes social sau cultural, fiind destinate să îndeplinească în principal sau în totalitate funcții socioculturale. Aceste zone/obiective pot fi: a) stațiuni balneoclimaterice, climaterice sau sanatorii de importanță națională; b) obiective esențiale pentru păstrarea identității culturale a comunităților locale; c) obiective speciale culturale (cetăți, fortificații, mănăstiri etc.)."
+    },
+    {
+      "termen": "Peisaj forestier mozaicat",
+      "definitie": "Suprafață întinsă cu destinație forestieră, formată din terenuri cu folosințe diverse, dar în care predomină terenurile acoperite cu păduri, în care arboretele se află în diverse stadii de dezvoltare, iar diversele asociații de specii și vârste creează un mozaic cu o dinamică determinată de modul de gospodărire, dar a cărui eterogenitate se menține relativ constantă în timp ca urmare a aplicării măsurilor cu caracter silvicultural"
+    },
+    {
+      "termen": "Precomptare",
+      "definitie": "Acțiunea de înlocuire a volumului de lemn prevăzut a fi recoltat din arboretele incluse în planul decenal de recoltare a produselor principale dintr-o unitate de gospodărire cu volume echivalente rezultate din arboretele incluse în aceasta, afectate integral de factori biotici sau abiotici, ori din arborete cu vârste mai mari de 1/2 din vârsta exploatabilității tehnice afectate parțial de factori biotici sau abiotici ori provenite din defrișări legale și tăieri ilegale"
+    },
+    {
+      "termen": "Prejudiciu",
+      "definitie": "Pierderile rezultate prin alte acțiuni/inacțiuni care nu depind de producerea unei pagube în înțelesul prezentei legi"
+    },
+    {
+      "termen": "Prejudiciul forestier",
+      "definitie": "Suma dintre pagubă și valoarea funcțiilor nerealizate ale pădurii și se calculează numai în cazul vegetației forestiere din FFN"
+    },
+    {
+      "termen": "Prestare a serviciilor silvice",
+      "definitie": "Efectuarea, în baza unui contract, a unei activități cu caracter tehnic de către personalul silvic al ocoalelor silvice sau al altor entități atestate în condițiile prezentei legi"
+    },
+    {
+      "termen": "Prima transformare a lemnului brut",
+      "definitie": "Prelucrare a lemnului brut care modifică substanțial caracteristicile geometrice și definește modul de utilizare ulterioară. Sortarea, cojirea și prelucrarea superficială nu sunt considerate prime transformări ale lemnului brut."
+    },
+    {
+      "termen": "Perdele forestiere de protecție",
+      "definitie": "Formațiunile cu vegetație forestieră, amplasate la o anumită distanță unele față de altele sau față de un obiectiv cu scopul de a-l proteja împotriva efectelor unor factori dăunători și/sau pentru ameliorarea climatică, economică și estetico-sanitară a terenurilor"
+    },
+    {
+      "termen": "Perimetru de ameliorare",
+      "definitie": "Terenurile degradate sau neproductive agricol care pot fi ameliorate prin împădurire, a căror punere în valoare este necesară din punctul de vedere al protecției solului, al regimului apelor, al îmbunătățirii condițiilor de mediu și al diversității biologice"
+    },
+    {
+      "termen": "Plantaj",
+      "definitie": "Cultura forestieră constituită din arbori proveniți din mai multe clone sau familii, identificate, în proporții definite, izolată față de surse de polen străin și care este condusă astfel încât să producă în mod frecvent recolte abundente de semințe, ușor de recoltat"
+    },
+    {
+      "termen": "Platforma primară",
+      "definitie": "Spațiu amenajat în mod special pentru a permite executarea lucrărilor de pregătire și încărcare a lemnului în mijloacele de transport. În mod obișnuit, platformele primare se amenajează lângă căi de transport cu caracter permanent. Platformele primare sunt părți integrante ale șantierului de exploatare a lemnului."
+    },
+    {
+      "termen": "Posibilitate",
+      "definitie": "Volumul de lemn care urmează a fi recoltat ca produse principale dintr-o unitate de gospodărire, în baza amenajamentului silvic, pe perioada de aplicare a acestuia"
+    },
+    {
+      "termen": "Posibilitate anuală",
+      "definitie": "Volumul de lemn care poate fi recoltat anual ca produs principal dintr-o unitate de gospodărire, egal cu raportul dintre posibilitate și numărul anilor de valabilitate a amenajamentului"
+    },
+    {
+      "termen": "Principiul continuității",
+      "definitie": "Principiu fundamental al amenajării pădurilor care reflectă preocuparea permanentă de a asigura prin amenajament condițiile necesare pentru gestionarea durabilă a pădurilor, astfel încât acestea să asigure satisfacerea permanentă a nevoilor de natură ecologică, socială și economică ale generației actuale, fără a compromite posibilitatea generațiilor viitoare de a-și satisface propriile cerințe"
+    },
+    {
+      "termen": "Proces-verbal de inventariere",
+      "definitie": "Actul care face dovada provenienței la locul de recoltare, prin care se calculează volumul lemnului pe picior de până la 20 metri cubi de pe suprafețele de FFN pentru care legea nu obligă la elaborarea amenajamentelor silvice, volumul de până la 20 metri cubi al lemnului pe picior din vegetația forestieră din afara fondului forestier și volumul pe picior sau exploatat din culturile energetice sau din parcurile din intravilan"
+    },
+    {
+      "termen": "Produse accidentale I",
+      "definitie": "Volumul de lemn provenit din arborii dintr-un arboret/dintr-o parte de arboret cu suprafața de minimum 0,5 hectare, afectat în cel mai ridicat grad de vătămare de factori biotici și/sau abiotici, respectiv arborii dintr-un arboret cu vârsta mai mare de 1/2 din vârsta exploatabilității tehnice, afectat parțial de factori biotici și/sau abiotici. Aceste produse se asimilează cu produsele principale și se recoltează integral."
+    },
+    {
+      "termen": "Produse accidentale II",
+      "definitie": "Volumul de lemn provenit din arborii dintr-un arboret cu vârsta mai mică sau egală cu 1/2 din vârsta exploatabilității tehnice, afectat parțial de factori biotici și/sau abiotici. Aceste produse se asimilează cu produsele secundare și se recoltează integral."
+    },
+    {
+      "termen": "Produse extraordinare",
+      "definitie": "Volumul de lemn care se exploatează de pe drumurile și instalațiile de scos-apropiat, de pe suprafața destinată realizării platformelor primare, de pe terenuri din FFN amplasate sub/peste rețelele de transport sau distribuție a petrolului, a gazelor naturale sau a energiei electrice sau cea rezultată din exploatarea arborilor care periclitează circulația pe căile de transport, inclusiv de pe suprafețele pentru care este suspendat serviciul silvic, la solicitarea scrisă a deținătorului sau administratorului rețelei sau căii de transport, din interiorul și/sau proximitatea obiectivelor militare în scopul menținerii în stare de operativitate a acestora, pentru protecția obiectivelor arheologice, culturale sau publice, și cele rezultate din defrișări legal aprobate"
+    },
+    {
+      "termen": "Produse principale",
+      "definitie": "Volumul de lemn rezultat din tăieri de regenerare a pădurilor"
+    },
+    {
+      "termen": "Produse secundare",
+      "definitie": "Volumul de lemn provenit din tăierile de îngrijire și conducere a arboretelor"
+    },
+    {
+      "termen": "Proveniența lemnului",
+      "definitie": "Locul de recoltare a lemnului, pentru care există drept de tăiere, înregistrat în sistemul informațional integrat pentru păduri prin poligonul/punctul identificat cu coordonate geografice certe"
+    },
+    {
+      "termen": "Prețul mediu al unui metru cub de lemn",
+      "definitie": "Prețul mediu de vânzare al unui metru cub de lemn pe picior la nivel național, determinat ca medie a datelor statistice publicate pentru ultimii 3 ani de Institutul Național de Statistică"
+    },
+    {
+      "termen": "Puiet",
+      "definitie": "Plantă lemnoasă tânără calendaristic și stadial provenită din sămânță sau părți de arbori, apărută spontan sau cultivată"
+    },
+    {
+      "termen": "Reconstrucție ecologică",
+      "definitie": "Ansamblul de măsuri, inițiate și derulate de către om, prin care se asigură restabilirea structurii, funcțiilor naturale, diversității și dinamicii naturale în vederea refacerii unui ecosistem degradat în urma intervenției umane. În ceea ce privește reconstrucția ecologică a ecosistemelor forestiere, aceasta cuprinde doar lucrările menite să asigure readucerea lor la tipul natural fundamental de pădure, refacerea structurii acelor ecosisteme, precum și aducerea la nivel optim a funcțiilor lor și refacerea conectivității în ecosistemele fragmentate."
+    },
+    {
+      "termen": "Regenerare",
+      "definitie": "Proces de înnoire a arboretelor/pădurii prin înlocuirea unei generații vechi cu una nouă; se poate realiza pe cale naturală, artificială sau mixtă."
+    },
+    {
+      "termen": "Regenerare artificială",
+      "definitie": "Reînnoirea arboretelor/pădurii pe cale artificială, prin semănături directe sau prin plantație"
+    },
+    {
+      "termen": "Regenerare naturală",
+      "definitie": "Proces de reînnoire a arboretelor/pădurii pe cale naturală, din sămânță (în cazul codrului) sau din lăstari și drajoni (în cazul crângului)"
+    },
+    {
+      "termen": "Regenerare naturală (din sămânță)",
+      "definitie": "Refacere a pădurii prin împrăștierea semințelor pe terenul de împădurit, sub acțiunea forțelor naturii"
+    },
+    {
+      "termen": "Regim",
+      "definitie": "Modul general în care se realizează regenerarea unei păduri: din sămânță, din lăstari sau mixt (din sămânță și lăstari)"
+    },
+    {
+      "termen": "Regimul codrului",
+      "definitie": "Regim în care arboretele se exploatează, de regulă, la vârste înaintate și sunt regenerate pe cale germinativă (din sămânță, inclusiv prin plantații)"
+    },
+    {
+      "termen": "Regimul crângului",
+      "definitie": "Regim în care arboretele se exploatează, de regulă, la vârste reduse și sunt regenerate pe cale vegetativă (din lăstari, drajoni)"
+    },
+    {
+      "termen": "Regim silvic",
+      "definitie": "Ansamblul de norme tehnice și juridice privind administrarea și utilizarea pădurilor și a terenurilor forestiere, în scopul asigurării gestionării durabile"
+    },
+    {
+      "termen": "Reziliență",
+      "definitie": "Capacitatea unui ecosistem de a reveni la starea inițială în urma unei perturbații, menținându-și compoziția taxonomică, structurile, funcțiile și ratele procesului"
+    },
+    {
+      "termen": "Schimbarea categoriei de folosință",
+      "definitie": "Schimbarea folosinței terenului cu menținerea destinației forestiere, în scopul executării de lucrări și realizării de obiective necesare administrării și gestionării durabile a fondului forestier"
+    },
+    {
+      "termen": "Secuire",
+      "definitie": "Îndepărtarea cojii trunchiului arborelui pe circumferența acestuia pentru a-i provoca uscarea"
+    },
+    {
+      "termen": "Set de măsuri minime de conservare",
+      "definitie": "Set de măsuri menite să asigure menținerea stării actuale de conservare a habitatelor și speciilor din ariile naturale protejate fără plan de management, până la elaborarea și aprobarea planurilor de management"
+    },
+    {
+      "termen": "Sezon de vegetație",
+      "definitie": "Perioada din an cuprinsă între momentul intrării în vegetație și cel al intrării în repausul vegetativ al arborilor"
+    },
+    {
+      "termen": "Servicii ecosistemice",
+      "definitie": "Serviciile ecosistemice oferite de pădure sunt contribuțiile ecosistemelor forestiere de care beneficiază proprietarul și societatea în mod direct sau indirect. Serviciile ecosistemice oferite de păduri, definite în sensul prezentei legi, se clasifică în: a) servicii de aprovizionare, reprezentate de produsele lemnoase și nelemnoase; b) servicii de regularizare, identificate prin corespondență cu sistemul de zonare funcțional a pădurilor din grupa I funcțională; c) servicii culturale, identificate prin pădurile cu rol sociocultural, recreativ, sanogen și de protecție ecologică a așezărilor umane."
+    },
+    {
+      "termen": "Silvicultură apropiată de natură",
+      "definitie": "Abordare a gestiunii pădurilor care urmărește să imite și să susțină procesele naturale din pădure, să asigure conservarea biodiversității și să ofere servicii ecosistemice de calitate, în timp ce se asigură și o producție durabilă de lemn"
+    },
+    {
+      "termen": "Specie autohtonă",
+      "definitie": "Speciile de arbori sau arbuști care se regăsesc în mod natural în România și nu ca urmare a introducerii accidentale sau forțate de către om de-a lungul secolelor"
+    },
+    {
+      "termen": "Stare de masiv",
+      "definitie": "Stadiul din care o regenerare se poate dezvolta independent, ca urmare a faptului că exemplarele componente ale acesteia realizează o desime care asigură condiționarea lor reciprocă în creștere și dezvoltare, fără a mai fi necesare lucrări de completări și întrețineri."
+    },
+    {
+      "termen": "Stimulent financiar",
+      "definitie": "Formă de ajutor sau de sprijin financiar acordat de către stat proprietarilor terenurilor din FFN, alții decât statul, care își asumă angajamente voluntare de mediu prin care aplică măsuri de conservare a biodiversității"
+    },
+    {
+      "termen": "Structură de administrare",
+      "definitie": "Unitate silvică sau grupare de unități silvice (direcție silvică, regie autonomă), cu sau fără personalitate juridică, înființată în scopul administrării și/sau asigurării serviciilor pentru terenurile din FFN"
+    },
+    {
+      "termen": "Sortiment de lemn brut",
+      "definitie": "Sortimentele de materiale lemnoase specifice introducerii pe piață a lemnului recoltat din fondul forestier național, și anume: lemnul rotund sau despicat, cu sau fără coajă, și lemnul de foc sub formă de trunchiuri, butuci, lobde, crăci, vreascuri sau forme similare, tocătura provenită din lemn, coaja arborilor și resturile de exploatare"
+    },
+    {
+      "termen": "Șantier de exploatare a lemnului",
+      "definitie": "Spațiul care se organizează pentru desfășurarea lucrărilor de exploatare a lemnului, care cuprinde parchetul sau parchetele, căile de colectare a lemnului, una sau mai multe platforme primare, precum și alte amenajări, construcții și instalații necesare executării lucrărilor de exploatare a lemnului. Șantierul de exploatare a lemnului poate fi organizat pentru două sau mai multe parchete exploatate concomitent sau succesiv. Recoltarea, colectarea și lucrările pe platforma primară se desfășoară în cadrul șantierului de exploatare a lemnului."
+    },
+    {
+      "termen": "Tăiere rasă",
+      "definitie": "Tăiere prin care se înlătură integral și printr-o singură intervenție arboretul matur de pe o anumită suprafață în vederea regenerării"
+    },
+    {
+      "termen": "Tăiere cu drept",
+      "definitie": "Recoltarea arborilor din: a) parchetele autorizate spre exploatare, cu condiția respectării prevederilor legale referitoare la evaluarea lemnului destinat valorificării; b) vegetația din afara FFN, cu respectarea prevederilor legale referitoare la evaluarea lemnului destinat valorificării"
+    },
+    {
+      "termen": "Tăiere fără drept",
+      "definitie": "Tăierea arborilor fără autorizație de exploatare, a celor care nu sunt destinați extragerii conform autorizației de exploatare"
+    },
+    {
+      "termen": "Teren aferent activelor vândute",
+      "definitie": "Suprafața de teren din documentația tehnică aprobată pentru vânzarea unui activ al Romsilva. Suprafața din documentația tehnică nu poate depăși suprafața unității amenajistice pe care este amplasat activul."
+    },
+    {
+      "termen": "Teren neproductiv",
+      "definitie": "Terenul din FFN, în suprafață de cel puțin 0,1 hectare, care nu prezintă condiții staționale care să permită instalarea și dezvoltarea unei vegetații forestiere"
+    },
+    {
+      "termen": "Terenuri degradate din afara fondului forestier național",
+      "definitie": "Terenurile care prin eroziune, poluare sau acțiunea distructivă a unor factori antropici și-au pierdut definitiv capacitatea de producție agricolă, dar pot fi ameliorate prin împădurire, și anume: a) terenurile cu eroziune de suprafață foarte puternică și excesivă; b) terenurile cu eroziune de adâncime - ogașe, ravene, torenți; c) terenurile afectate de alunecări active, prăbușiri, surpări și scurgeri noroioase; d) terenurile nisipoase expuse erodării de către vânt sau apă; e) terenurile cu aglomerări de pietriș, bolovăniș, grohotiș, stâncării și depozite de aluviuni torențiale; f) terenurile cu exces permanent de umiditate; g) terenurile sărăturate sau puternic acide; h) terenurile poluate cu substanțe chimice, petroliere sau noxe; i) terenurile ocupate cu halde miniere, deșeuri industriale sau menajere, gropi de împrumut; j) terenurile neproductive, dacă acestea nu se constituie ca habitate naturale; k) terenurile cu nisipuri mișcătoare, care necesită lucrări de împădurire pentru fixarea acestora; l) terenurile din oricare dintre categoriile menționate la lit. a)-k), care au fost ameliorate prin plantații silvice și de pe care vegetația a fost înlăturat"
+    },
+    {
+      "termen": "Tip funcțional",
+      "definitie": "Totalitatea categoriilor funcționale care necesită același mod de gospodărire"
+    },
+    {
+      "termen": "Trasabilitatea materialelor lemnoase",
+      "definitie": "Urmărirea sistematică a manipulării spațiale și tehnice a materialelor lemnoase de la locul de recoltare până la transformarea în produse semifabricate prin sistemul informațional integrat pentru păduri"
+    },
+    {
+      "termen": "Tratament silvicultural",
+      "definitie": "Modul special în care se face recoltarea materialului lemnos exploatabil și se asigură regenerarea unei păduri în cadrul aceluiași regim, pentru atingerea unui anumit scop"
+    },
+    {
+      "termen": "Țel de gospodărire",
+      "definitie": "Caracteristică a modelului structural al pădurii supuse amenajării, model spre realizarea căruia trebuie să fie orientate toate reglementările și măsurile preconizate prin amenajamentul silvic; țelurile de gospodărire, specifice pentru realizarea diverselor aspecte structurale ale modelului, se stabilesc la nivel de arboret și de unitate de gospodărire."
+    },
+    {
+      "termen": "Unitate de gospodărire",
+      "definitie": "Totalitatea arboretelor dintr-o unitate de producție sau dintr-un ocol silvic destinate realizării unor obiective similare și care formează obiectul unei reglementări distincte a procesului de producție. Pentru unitățile de gospodărire constituite la nivelul unităților de producție se folosește și termenul de „subunitate de producție\", iar pentru cele constituite la nivel de ocol silvic, termenul de „serie de gospodărire\"."
+    },
+    {
+      "termen": "Unitate de producție",
+      "definitie": "Unitate teritorială de bază în cadrul căreia pădurile formează obiect independent de organizare și control și pentru care se elaborează un amenajament silvic distinct"
+    },
+    {
+      "termen": "Vegetație forestieră",
+      "definitie": "Terenuri cu vegetație forestieră având suprafața mai mare de 0,5 hectare, lățimea mai mare de 20 metri și indicele de acoperire (consistența) fie de 5-10% pentru arborii capabili să atingă înălțimea minimă de 5 metri la maturitate în condiții normale de vegetație, fie peste 10% pentru arborii care nu pot atinge 5 metri înălțime la maturitate (arbori pitici) și arbuști"
+    },
+    {
+      "termen": "Volum de lemn pe picior",
+      "definitie": "Volumul tuturor arborilor situați pe o suprafață de teren acoperită de aceștia, în care se includ trunchiul, coaja și crăcile. Pentru speciile de rășinoase, crăcile nu se includ în volumul arborilor."
+    }
+  ]
+}
