@@ -1,0 +1,480 @@
+{
+  "lege_metadata": {
+    "titlu": "Ordonanța de urgență a Guvernului nr. 34 din 23 aprilie 2013 privind organizarea, administrarea și exploatarea pajiștilor permanente și pentru modificarea și completarea Legii fondului funciar nr. 18/1991",
+    "emitent": "Guvernul României",
+    "data_publicare": "13 mai 2013",
+    "monitorul_oficial": "Monitorul Oficial nr. 267 din 13 mai 2013",
+    "data_actualizare": "29 decembrie 2025 (conform Legii nr. 246/2025)"
+  },
+  "fapte": [
+    {
+      "id": "fapta_1",
+      "descriere": "Pășunatul neautorizat sau introducerea animalelor pe pajiști în afara perioadei de pășunat.",
+      "articol_prevedere": "Art. 14 alin. (1) lit. a)",
+      "articol_sanctiune": "Art. 14 alin. (2) lit. b)",
+      "amenda_min": 500,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Persoanele împuternicite de structurile centrale și locale cu atribuții în domeniu, aflate în subordinea Ministerului Agriculturii și Dezvoltării Rurale",
+        "Primarul și persoanele împuternicite de acesta",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "pășunat neautorizat",
+        "pajiști",
+        "animale",
+        "perioadă pășunat",
+        "acces neautorizat",
+        "pășune",
+        "încălcare contract"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_2",
+      "descriere": "Introducerea pe pajiști a unor specii de animale, altele decât cele stabilite prin contract.",
+      "articol_prevedere": "Art. 14 alin. (1) lit. b)",
+      "articol_sanctiune": "Art. 14 alin. (2) lit. c)",
+      "amenda_min": 250,
+      "amenda_max": 500,
+      "permite_jumatate": true,
+      "suma_jumatate": 125,
+      "competenta": [
+        "Persoanele împuternicite de structurile centrale și locale cu atribuții în domeniu, aflate în subordinea Ministerului Agriculturii și Dezvoltării Rurale",
+        "Primarul și persoanele împuternicite de acesta",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "specii animale neconforme",
+        "pajiști",
+        "contract",
+        "încălcare contract",
+        "animale",
+        "specii interzise"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_3",
+      "descriere": "Neîndeplinirea de către deținătorii sau utilizatorii de pajiști a obligațiilor prevăzute în contract.",
+      "articol_prevedere": "Art. 14 alin. (1) lit. c)",
+      "articol_sanctiune": "Art. 14 alin. (2) lit. c)",
+      "amenda_min": 250,
+      "amenda_max": 500,
+      "permite_jumatate": true,
+      "suma_jumatate": 125,
+      "competenta": [
+        "Persoanele împuternicite de structurile centrale și locale cu atribuții în domeniu, aflate în subordinea Ministerului Agriculturii și Dezvoltării Rurale",
+        "Primarul și persoanele împuternicite de acesta",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "neîndeplinire obligații",
+        "contract pajiște",
+        "deținător",
+        "utilizator",
+        "încălcare contract",
+        "pajiști"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_4",
+      "descriere": "Circulația pe pajiști cu orice alte mijloace de transport, inclusiv cu atelaje, altele decât cele folosite pentru activități agricole de către cel care utilizează pajiștea, cu excepția circulației cu orice mijloace de transport în situații de urgență generate de calamități, accidente de orice natură, precum și cu autovehicule, motociclete și ATV-uri sau mopede în vederea organizării de activități sportive, de recreere și turism, cu acordul deținătorului sau al utilizatorului, în condițiile legii.",
+      "articol_prevedere": "Art. 14 alin. (1) lit. d)",
+      "articol_sanctiune": "Art. 14 alin. (2) lit. b)",
+      "amenda_min": 500,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Persoanele împuternicite de structurile centrale și locale cu atribuții în domeniu, aflate în subordinea Ministerului Agriculturii și Dezvoltării Rurale",
+        "Primarul și persoanele împuternicite de acesta",
+        "Polițiștii de frontieră",
+        "Personalul din cadrul Jandarmeriei Române",
+        "Ofițerii și subofițerii din cadrul serviciilor de urgență profesioniste"
+      ],
+      "tags": [
+        "circulație interzisă",
+        "pajiști",
+        "mijloace transport",
+        "atelaje",
+        "ATV",
+        "motociclete",
+        "autovehicule",
+        "distrugere pajiște"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_5",
+      "descriere": "Nerespectarea bunelor condiții agricole și de mediu pe pajiști.",
+      "articol_prevedere": "Art. 14 alin. (1) lit. e)",
+      "articol_sanctiune": "Art. 14 alin. (2) lit. b)",
+      "amenda_min": 500,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Persoanele împuternicite de structurile centrale și locale cu atribuții în domeniu, aflate în subordinea Ministerului Agriculturii și Dezvoltării Rurale",
+        "Primarul și persoanele împuternicite de acesta",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "bune condiții agricole",
+        "mediu",
+        "pajiști",
+        "protecția mediului",
+        "agricultură",
+        "încălcare norme"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_6",
+      "descriere": "Arderea vegetației pajiștilor fără respectarea prevederilor legislației în vigoare.",
+      "articol_prevedere": "Art. 14 alin. (1) lit. f)",
+      "articol_sanctiune": "Art. 14 alin. (2) lit. a)",
+      "amenda_min": 3000,
+      "amenda_max": 6000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1500,
+      "competenta": [
+        "Persoanele împuternicite de structurile centrale și locale cu atribuții în domeniu, aflate în subordinea Ministerului Agriculturii și Dezvoltării Rurale",
+        "Primarul și persoanele împuternicite de acesta",
+        "Polițiștii de frontieră",
+        "Personalul din cadrul Jandarmeriei Române",
+        "Ofițerii și subofițerii din cadrul serviciilor de urgență profesioniste"
+      ],
+      "tags": [
+        "ardere vegetație",
+        "pajiști",
+        "incendiu",
+        "foc",
+        "distrugere vegetație",
+        "mediu",
+        "pericol incendiu"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_7",
+      "descriere": "Concesionarea/închirierea pajiștilor aflate în domeniul public sau privat al comunelor, orașelor, respectiv al municipiilor unor persoane care nu sunt îndreptățite potrivit prevederilor art. 9 alin. (1) și (2).",
+      "articol_prevedere": "Art. 14 alin. (1) lit. g)",
+      "articol_sanctiune": "Art. 14 alin. (2) lit. e)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Persoanele împuternicite de structurile centrale și locale cu atribuții în domeniu, aflate în subordinea Ministerului Agriculturii și Dezvoltării Rurale",
+        "Primarul și persoanele împuternicite de acesta",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "concesionare nelegală",
+        "închiriere nelegală",
+        "pajiști",
+        "domeniu public",
+        "domeniu privat",
+        "primărie",
+        "încălcare procedură"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_8",
+      "descriere": "Amplasarea pe pajiște a altor obiective de investiții decât cele prevăzute la art. 5 alin. (3).",
+      "articol_prevedere": "Art. 14 alin. (1) lit. h)",
+      "articol_sanctiune": "Art. 14 alin. (2) lit. e)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Persoanele împuternicite de structurile centrale și locale cu atribuții în domeniu, aflate în subordinea Ministerului Agriculturii și Dezvoltării Rurale",
+        "Primarul și persoanele împuternicite de acesta",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "construcții ilegale",
+        "pajiști",
+        "investiții",
+        "amplasare obiective",
+        "schimbare destinație",
+        "construcție neautorizată"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_9",
+      "descriere": "Scoaterea din circuitul agricol a terenurilor având categoria de folosință pajiște fără aprobările legale în vigoare.",
+      "articol_prevedere": "Art. 14 alin. (1) lit. i)",
+      "articol_sanctiune": "Art. 14 alin. (2) lit. e)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Persoanele împuternicite de structurile centrale și locale cu atribuții în domeniu, aflate în subordinea Ministerului Agriculturii și Dezvoltării Rurale",
+        "Primarul și persoanele împuternicite de acesta",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "scoatere circuit agricol",
+        "pajiști",
+        "schimbare categorie folosință",
+        "fără aprobare",
+        "teren agricol",
+        "încălcare lege"
+      ],
+      "masuri_complementare": "Desființarea lucrărilor și aducerea terenului în starea inițială pe cheltuiala contravenientului",
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_10",
+      "descriere": "Încălcarea prevederilor art. 9 alin. (7^1) privind stabilirea prețului concesiunii/închirierii ținând cont de echilibrul financiar dintre valoarea producției de iarbă disponibilă și obligațiile care îi sunt impuse utilizatorului pajiștii permanente prin cheltuielile cu implementarea amenajamentului pastoral.",
+      "articol_prevedere": "Art. 14 alin. (1) lit. j)",
+      "articol_sanctiune": "Art. 14 alin. (2) lit. e)",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Persoanele împuternicite de structurile centrale și locale cu atribuții în domeniu, aflate în subordinea Ministerului Agriculturii și Dezvoltării Rurale",
+        "Primarul și persoanele împuternicite de acesta",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "preț concesiune",
+        "preț închiriere",
+        "pajiști",
+        "amenajament pastoral",
+        "echilibru financiar",
+        "încălcare prevederi"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_11",
+      "descriere": "Neinițierea procedurii de concesionare/închiriere a pajiștilor până la data de 1 martie a fiecărui an.",
+      "articol_prevedere": "Art. 14 alin. (1) lit. k)",
+      "articol_sanctiune": "Art. 14 alin. (2) lit. f)",
+      "amenda_min": 4000,
+      "amenda_max": 8000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2000,
+      "competenta": [
+        "Persoanele împuternicite de structurile centrale și locale cu atribuții în domeniu, aflate în subordinea Ministerului Agriculturii și Dezvoltării Rurale",
+        "Primarul și persoanele împuternicite de acesta",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "neinițiere procedură",
+        "concesionare",
+        "închiriere",
+        "pajiști",
+        "termen",
+        "1 martie",
+        "primărie",
+        "consiliu local"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_12",
+      "descriere": "Neverificarea respectării încărcăturii optime de animale/ha/an, în vederea stabilirii disponibilului de pajiști ce pot face obiectul concesionării/închirierii.",
+      "articol_prevedere": "Art. 14 alin. (1) lit. l)",
+      "articol_sanctiune": "Art. 14 alin. (2) lit. f)",
+      "amenda_min": 4000,
+      "amenda_max": 8000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2000,
+      "competenta": [
+        "Persoanele împuternicite de structurile centrale și locale cu atribuții în domeniu, aflate în subordinea Ministerului Agriculturii și Dezvoltării Rurale",
+        "Primarul și persoanele împuternicite de acesta",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "neverificare",
+        "încărcătură animale",
+        "pajiști",
+        "concesionare",
+        "închiriere",
+        "primărie",
+        "control"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_13",
+      "descriere": "Neîndeplinirea atribuțiilor cu privire la elaborarea și realizarea amenajamentelor pastorale ale suprafețelor de pajiști permanente.",
+      "articol_prevedere": "Art. 14 alin. (1) lit. m)",
+      "articol_sanctiune": "Art. 14 alin. (2) lit. f)",
+      "amenda_min": 4000,
+      "amenda_max": 8000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2000,
+      "competenta": [
+        "Persoanele împuternicite de structurile centrale și locale cu atribuții în domeniu, aflate în subordinea Ministerului Agriculturii și Dezvoltării Rurale",
+        "Primarul și persoanele împuternicite de acesta",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "neîndeplinire atribuții",
+        "amenajament pastoral",
+        "pajiști",
+        "elaborare",
+        "realizare",
+        "primărie",
+        "consiliu local"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_14",
+      "descriere": "Neaplicarea amenajamentului pastoral în condițiile prevederilor prezentei ordonanțe de urgență.",
+      "articol_prevedere": "Art. 14 alin. (1) lit. n)",
+      "articol_sanctiune": "Art. 14 alin. (2) lit. b)",
+      "amenda_min": 500,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Persoanele împuternicite de structurile centrale și locale cu atribuții în domeniu, aflate în subordinea Ministerului Agriculturii și Dezvoltării Rurale",
+        "Primarul și persoanele împuternicite de acesta",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "neaplicare",
+        "amenajament pastoral",
+        "pajiști",
+        "încălcare",
+        "utilizator",
+        "deținător"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_15",
+      "descriere": "Refuzul de a prezenta primarului sau persoanelor împuternicite de acesta documentele și evidențele necesare în vederea verificării realității datelor pentru Registrul electronic pentru monitorizarea regimului de organizare, administrare și exploatare a pajiștilor.",
+      "articol_prevedere": "Art. 18 alin. (5) lit. a)",
+      "articol_sanctiune": "Art. 18 alin. (5)",
+      "amenda_min": 100,
+      "amenda_max": 500,
+      "permite_jumatate": true,
+      "suma_jumatate": 50,
+      "competenta": [
+        "Primarul și persoanele împuternicite de acesta"
+      ],
+      "tags": [
+        "refuz prezentare documente",
+        "pajiști",
+        "registru electronic",
+        "primar",
+        "evidențe",
+        "verificare"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_16",
+      "descriere": "Nedeclararea la termenele și în forma stabilitite de prezenta lege sau de procedura și instrucțiunile prevăzute la alin. (2) a datelor necesare completării Registrului electronic pentru monitorizarea regimului de organizare, administrare și exploatare a pajiștilor.",
+      "articol_prevedere": "Art. 18 alin. (5) lit. b)",
+      "articol_sanctiune": "Art. 18 alin. (5)",
+      "amenda_min": 100,
+      "amenda_max": 500,
+      "permite_jumatate": true,
+      "suma_jumatate": 50,
+      "competenta": [
+        "Primarul și persoanele împuternicite de acesta"
+      ],
+      "tags": [
+        "nedeclarare",
+        "termen",
+        "pajiști",
+        "registru electronic",
+        "declarație",
+        "primar"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_17",
+      "descriere": "Schimbarea categoriei de folosință a pajiștilor, așa cum sunt evidențiate la art. 78 alin. (1^1) din Legea fondului funciar nr. 18/1991, fără aprobările legale în vigoare.",
+      "articol_prevedere": "Art. 107^1 din Legea nr. 18/1991 (introdus prin Art. 20 pct. 3 din prezenta OUG)",
+      "articol_sanctiune": "Art. 107^1 din Legea nr. 18/1991",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Persoanele împuternicite de structurile centrale și locale cu atribuții în domeniu, aflate în subordinea Ministerului Agriculturii și Dezvoltării Rurale",
+        "Primarul și persoanele împuternicite de acesta",
+        "Polițiștii de frontieră"
+      ],
+      "tags": [
+        "schimbare categorie folosință",
+        "pajiști",
+        "fără aprobare",
+        "Legea 18/1991",
+        "art. 78",
+        "teren agricol",
+        "circuit agricol"
+      ],
+      "masuri_complementare": "Desființarea lucrărilor și aducerea terenului în starea inițială pe cheltuiala contravenientului",
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    }
+  ]
+}
