@@ -1,0 +1,41 @@
+{
+  "lege_metadata": {
+    "titlu": "Legea nr. 289 din 15 mai 2002 privind perdelele forestiere de protecție (republicată)",
+    "emitent": "Parlamentul României",
+    "data_publicare": "21 mai 2002",
+    "monitorul_oficial": "Monitorul Oficial nr. 338 din 21 mai 2002; republicată în Monitorul Oficial nr. 825 din 22 noiembrie 2011",
+    "data_actualizare": "1 februarie 2014 (conform notei de actualizare)"
+  },
+  "fapte": [
+    {
+      "id": "fapta_1",
+      "descriere": "Împiedicarea sub orice formă de către persoanele fizice şi juridice a realizării perdelelor forestiere de protecţie, dacă forma în care are loc aceasta nu constituie o faptă mai gravă pedepsită de lege ca infracţiune.",
+      "articol_prevedere": "Art. 22",
+      "articol_sanctiune": "Art. 22",
+      "amenda_min": 300,
+      "amenda_max": 1200,
+      "permite_jumatate": true,
+      "suma_jumatate": 150,
+      "competenta": [
+        "Personalul silvic împuternicit",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "împiedicare",
+        "perdele forestiere",
+        "protecție",
+        "realizare perdele",
+        "obstacol",
+        "împădurire",
+        "terenuri agricole",
+        "protecție sol",
+        "factori climatici"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    }
+  ]
+}
