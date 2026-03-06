@@ -1,0 +1,43 @@
+{
+  "lege_metadata": {
+    "titlu": "Ordonanța de Urgență a Guvernului nr. 81 din 21 iulie 2021 privind aprobarea metodelor de intervenție imediată pentru prevenirea și combaterea atacurilor exemplarelor de urs brun asupra persoanelor și bunurilor acestora, în intravilanul localităților, precum și pentru modificarea și completarea unor acte normative",
+    "emitent": "Guvernul României",
+    "data_publicare": "26 iulie 2021",
+    "monitorul_oficial": "Monitorul Oficial nr. 732 din 26 iulie 2021",
+    "data_actualizare": "21 iulie 2021"
+  },
+  "fapte": [
+    {
+      "id": "fapta_1",
+      "descriere": "Împiedicarea prin orice mijloace a intervenției imediate asupra exemplarelor de urs brun în intravilanul localităților, efectuate în scopul prevenirii și combaterii atacurilor asupra persoanelor și bunurilor acestora.",
+      "articol_prevedere": "Art. 15",
+      "articol_sanctiune": "Art. 15",
+      "amenda_min": 7000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 3500,
+      "competenta": [
+        "Jandarmeria Română",
+        "Poliția Română"
+      ],
+      "tags": [
+        "intervenție imediată",
+        "urs brun",
+        "atac urs",
+        "împiedicare",
+        "obstacol",
+        "prevenire intervenție",
+        "siguranță publică",
+        "alungare urs",
+        "tranchilizare",
+        "extragere urs"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null,
+      "observatii": "Dacă fapta a fost săvârșită în astfel de condiții încât, potrivit legii penale, constituie infracțiune, nu se aplică sancțiunea contravențională. Aplicabile dispozițiile Ordonanței Guvernului nr. 2/2001 privind regimul juridic al contravențiilor."
+    }
+  ],
+  "note": "Prevederile privind sancțiunile (Art. 15-17) au intrat în vigoare la 5 august 2021 (10 zile de la data publicării în Monitorul Oficial). OUG nr. 81/2021 conține o singură faptă contravențională explicită. Restul dispozițiilor reglementează proceduri de intervenție, atribuții instituționale și modificări ale altor acte normative."
+}
