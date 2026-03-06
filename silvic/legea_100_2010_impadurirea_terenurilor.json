@@ -1,0 +1,68 @@
+{
+  "lege_metadata": {
+    "titlu": "Legea nr. 100 din 3 iunie 2010 privind împădurirea terenurilor degradate",
+    "emitent": "Parlamentul României",
+    "data_publicare": "7 iunie 2010",
+    "monitorul_oficial": "Monitorul Oficial nr. 376 din 7 iunie 2010",
+    "data_actualizare": "Nu este specificată"
+  },
+  "fapte": [
+    {
+      "id": "fapta_1",
+      "descriere": "Împiedicarea sub orice formă de către persoanele fizice şi juridice a executării lucrărilor de ameliorare prin împădurire a terenurilor degradate.",
+      "articol_prevedere": "Art. 12",
+      "articol_sanctiune": "Art. 12",
+      "amenda_min": 300,
+      "amenda_max": 1200,
+      "permite_jumatate": true,
+      "suma_jumatate": 150,
+      "competenta": [
+        "Personalul silvic împuternicit",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "împiedicare",
+        "lucrări împădurire",
+        "terenuri degradate",
+        "ameliorare",
+        "împădurire",
+        "obstacol",
+        "întrerupere lucrări"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "fapta_2",
+      "descriere": "Păşunatul pe terenurile degradate ameliorate prin împăduriri, fiind interzis prin prevederile art. 13 alin. (1).",
+      "articol_prevedere": "Art. 13 alin. (1) și alin. (2)",
+      "articol_sanctiune": "Art. 13 alin. (2)",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic împuternicit",
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+      ],
+      "tags": [
+        "păşunat",
+        "pășune",
+        "terenuri degradate",
+        "împăduriri",
+        "ameliorare",
+        "animale",
+        "pășunat interzis",
+        "vegetație forestieră"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    }
+  ]
+}
