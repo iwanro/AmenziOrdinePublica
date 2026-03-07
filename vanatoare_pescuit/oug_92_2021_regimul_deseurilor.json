@@ -1,6 +1,3 @@
- Voi analiza textul legii și extrage toate faptele contravenționale conform instrucțiunilor. Voi identifica articolele de prevederi și articolele de sancțiuni, voi corela fiecare faptă cu sancțiunea corespunzătoare și voi genera JSON-ul complet.
-
-Analizând textul, identific următoarele:
 {
   "lege_metadata": {
     "titlu": "Ordonanța de Urgență nr. 92 din 19 august 2021 privind regimul deșeurilor",
