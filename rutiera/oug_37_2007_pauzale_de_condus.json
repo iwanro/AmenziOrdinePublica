@@ -1,0 +1,421 @@
+{
+  "metadata": {
+    "titlu_act_normativ": "Ordonanța nr. 37 din 7 august 2007 privind stabilirea cadrului de aplicare a regulilor privind perioadele de conducere, pauzele și perioadele de odihnă ale conducătorilor auto și utilizarea aparatelor de înregistrare a activității acestora",
+    "data_actualizare": "2025-02-03 (modificată prin OUG nr. 5/2025)",
+    "unitate_sanctiune": "RON"
+  },
+  "contravenții": [
+    {
+      "id": "OG37_2007_ART8_1_A",
+      "descriere_finala": "Depășirea cu 4,5 ore sau mai mult a duratei maxime zilnice de conducere de 9 ore, atunci când nu este permisă extinderea acesteia la 10 ore, conform prevederilor Regulamentului (CE) nr. 561/2006 al Parlamentului European și al Consiliului din 15 martie 2006 privind armonizarea anumitor dispoziții ale legislației sociale în domeniul transporturilor rutiere, de modificare a Regulamentelor (CEE) nr. 3.821/85 și (CE) nr. 2.135/98 ale Consiliului și de abrogare a Regulamentului (CEE) nr. 3.820/85 al Consiliului.",
+      "articol_prevedere": "Art. 8 alin. (1) lit. a)",
+      "articol_sanctiune": "Art. 9 alin. (1) lit. a)",
+      "sanctiune_principala": {
+        "valoare_min": 9000,
+        "valoare_max": 12000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 2,
+        "observatie": "48 de ore de la data încheierii procesului-verbal sau de la data comunicării acestuia"
+      },
+      "masuri_complementare": {
+        "tip_masura": "Imobilizarea vehiculului până la îndeplinirea condițiilor de legalitate pentru continuarea transportului",
+        "descriere_detaliata": "În măsura în care contravențiile referitoare la respectarea timpilor de conducere, odihnă sau pauze sunt constatate în trafic, precum și în toate celelalte situații în care conducătorul auto nu poate dovedi efectuarea pauzelor și/sau perioadelor minime de odihnă prevăzute de legislația în vigoare, suplimentar față de sancțiunea cu amenda se va aplica și sancțiunea imobilizării vehiculului până la îndeplinirea condițiilor de legalitate pentru continuarea transportului. Imobilizarea vehiculului se efectuează în condiții de siguranță și securitate a transportului.",
+        "temei_legal_masura": "Art. 9 alin. (2)",
+        "conditii_aplicare": "Constatare în trafic sau imposibilitatea dovedirii efectuării pauzelor/perioadelor minime de odihnă"
+      },
+      "tags": [
+        "incalcari_deosebit_de_grave",
+        "depasire_durata_conducere_zilnica",
+        "regulament_ce_561_2006",
+        "timp_conducere"
+      ]
+    },
+    {
+      "id": "OG37_2007_ART8_1_B",
+      "descriere_finala": "Depășirea cu 5 ore sau mai mult a duratei maxime zilnice de conducere extinse la 10 ore, conform prevederilor Regulamentului (CE) nr. 561/2006.",
+      "articol_prevedere": "Art. 8 alin. (1) lit. b)",
+      "articol_sanctiune": "Art. 9 alin. (1) lit. a)",
+      "sanctiune_principala": {
+        "valoare_min": 9000,
+        "valoare_max": 12000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 2
+      },
+      "masuri_complementare": {
+        "tip_masura": "Imobilizarea vehiculului",
+        "descriere_detaliata": "Imobilizarea vehiculului până la îndeplinirea condițiilor de legalitate pentru continuarea transportului, în condiții de siguranță și securitate a transportului.",
+        "temei_legal_masura": "Art. 9 alin. (2)"
+      },
+      "tags": [
+        "incalcari_deosebit_de_grave",
+        "depasire_durata_conducere_extinsa",
+        "timp_conducere"
+      ]
+    },
+    {
+      "id": "OG37_2007_ART8_1_E",
+      "descriere_finala": "Utilizarea unui vehicul fără a avea instalat un tahograf omologat sau utilizarea unui vehicul dotat cu o generație și/sau versiune de tahograf care nu corespunde cerințelor legale, conform prevederilor Regulamentului (UE) nr. 165/2014 al Parlamentului European și al Consiliului din 4 februarie 2014 privind tahografele în transportul rutier.",
+      "articol_prevedere": "Art. 8 alin. (1) lit. e)",
+      "articol_sanctiune": "Art. 9 alin. (1) lit. a)",
+      "sanctiune_principala": {
+        "valoare_min": 9000,
+        "valoare_max": 12000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 2
+      },
+      "masuri_complementare": {
+        "tip_masura": "Imobilizarea vehiculului",
+        "descriere_detaliata": "Imobilizarea vehiculului până la îndeplinirea condițiilor de legalitate pentru continuarea transportului.",
+        "temei_legal_masura": "Art. 9 alin. (2)"
+      },
+      "tags": [
+        "incalcari_deosebit_de_grave",
+        "tahograf_nesinstalat",
+        "tahograf_neomologat",
+        "regulament_ue_165_2014"
+      ]
+    },
+    {
+      "id": "OG37_2007_ART8_1_F",
+      "descriere_finala": "Utilizarea altui card de conducător auto decât cel emis conducătorului auto, conform prevederilor Regulamentului (UE) nr. 165/2014.",
+      "articol_prevedere": "Art. 8 alin. (1) lit. f)",
+      "articol_sanctiune": "Art. 9 alin. (1) lit. b)",
+      "sanctiune_principala": {
+        "valoare_min": 9000,
+        "valoare_max": 12000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 2
+      },
+      "tags": [
+        "incalcari_deosebit_de_grave",
+        "card_conducator_auto_alter",
+        "falsificare_identitate"
+      ]
+    },
+    {
+      "id": "OG37_2007_ART8_1_G",
+      "descriere_finala": "Conducerea cu un card de conducător auto care a fost obținut pe baza unor declarații false și/sau a unor documente falsificate, conform prevederilor Regulamentului (UE) nr. 165/2014.",
+      "articol_prevedere": "Art. 8 alin. (1) lit. g)",
+      "articol_sanctiune": "Art. 9 alin. (1) lit. b)",
+      "sanctiune_principala": {
+        "valoare_min": 9000,
+        "valoare_max": 12000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 2
+      },
+      "tags": [
+        "incalcari_deosebit_de_grave",
+        "card_obtinut_fals",
+        "declaratii_false",
+        "documente_falsificate"
+      ]
+    },
+    {
+      "id": "OG37_2007_ART8_1_H",
+      "descriere_finala": "Conducerea cu un card de conducător auto falsificat, conform prevederilor Regulamentului (UE) nr. 165/2014.",
+      "articol_prevedere": "Art. 8 alin. (1) lit. h)",
+      "articol_sanctiune": "Art. 9 alin. (1) lit. b)",
+      "sanctiune_principala": {
+        "valoare_min": 9000,
+        "valoare_max": 12000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 2
+      },
+      "tags": [
+        "incalcari_deosebit_de_grave",
+        "card_falsificat",
+        "falsificare_document"
+      ]
+    },
+    {
+      "id": "OG37_2007_ART8_1_I",
+      "descriere_finala": "Denaturarea, ascunderea, suprimarea sau distrugerea datelor înregistrate pe foile de înregistrare sau stocate pe tahograf și/sau pe cardul conducătorului auto și descărcate de pe acestea sau pe raportul imprimat de tahograf, conform prevederilor Regulamentului (CE) nr. 561/2006 și Regulamentului (UE) nr. 165/2014.",
+      "articol_prevedere": "Art. 8 alin. (1) lit. i)",
+      "articol_sanctiune": "Art. 9 alin. (1) lit. a)",
+      "sanctiune_principala": {
+        "valoare_min": 9000,
+        "valoare_max": 12000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 2
+      },
+      "masuri_complementare": {
+        "tip_masura": "Imobilizarea vehiculului",
+        "descriere_detaliata": "Imobilizarea vehiculului până la îndeplinirea condițiilor de legalitate pentru continuarea transportului.",
+        "temei_legal_masura": "Art. 9 alin. (2)"
+      },
+      "tags": [
+        "incalcari_deosebit_de_grave",
+        "manipulare_date_tahograf",
+        "distrugere_date",
+        "falsificare_inregistrari"
+      ]
+    },
+    {
+      "id": "OG37_2007_ART8_1_J",
+      "descriere_finala": "Existența în vehicul și/sau utilizarea unui echipament fraudulos capabil să modifice înregistrările tahografului, conform prevederilor Regulamentului (CE) nr. 561/2006 și Regulamentului (UE) nr. 165/2014.",
+      "articol_prevedere": "Art. 8 alin. (1) lit. j)",
+      "articol_sanctiune": "Art. 9 alin. (1) lit. a)",
+      "sanctiune_principala": {
+        "valoare_min": 9000,
+        "valoare_max": 12000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 2
+      },
+      "masuri_complementare": {
+        "tip_masura": "Imobilizarea vehiculului și ridicarea plăcuțelor cu numărul de înmatriculare",
+        "descriere_detaliata": "Odată cu aplicarea sancțiunii corespunzătoare contravenției, vehiculul va fi imobilizat de către personalul cu atribuții de control, în condiții de siguranță și securitate a transportului, și se procedează la imobilizarea vehiculului, prin ridicarea plăcuțelor cu numărul de înmatriculare până la îndeplinirea condițiilor legale pentru continuarea transportului/deplasării.",
+        "temei_legal_masura": "Art. 9 alin. (2^1)",
+        "documente_retinute": [
+          "Plăcuțe număr înmatriculare"
+        ]
+      },
+      "tags": [
+        "incalcari_deosebit_de_grave",
+        "echipament_fraudulos",
+        "manipulare_tahograf",
+        "dispozitiv_interferenta"
+      ]
+    },
+    {
+      "id": "OG37_2007_ART8_1_K",
+      "descriere_finala": "Refuzul de a permite, în cursul controlului, verificarea, reținerea sau copierea oricărei înregistrări privind perioadele de conducere, pauzele și perioadele de odihnă ale unui conducător auto, ale echipamentului/aparaturii de înregistrare sau refuzul de a permite efectuarea unui control al activității desfășurate privind instalarea, calibrarea, repararea sau verificarea echipamentului/aparaturii de înregistrare, conform prevederilor Regulamentului (CE) nr. 561/2006 și Regulamentului (UE) nr. 165/2014.",
+      "articol_prevedere": "Art. 8 alin. (1) lit. k)",
+      "articol_sanctiune": "Art. 9 alin. (1) lit. a)",
+      "sanctiune_principala": {
+        "valoare_min": 9000,
+        "valoare_max": 12000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 2
+      },
+      "masuri_complementare": {
+        "tip_masura": "Imobilizarea vehiculului și ridicarea plăcuțelor cu numărul de înmatriculare",
+        "descriere_detaliata": "Odată cu aplicarea sancțiunii, vehiculul va fi imobilizat și se procedează la ridicarea plăcuțelor cu numărul de înmatriculare până la îndeplinirea condițiilor legale pentru continuarea transportului/deplasării.",
+        "temei_legal_masura": "Art. 9 alin. (2^1)",
+        "documente_retinute": [
+          "Plăcuțe număr înmatriculare"
+        ]
+      },
+      "tags": [
+        "incalcari_deosebit_de_grave",
+        "refuz_control",
+        "obstrucționare_control",
+        "refuz_verificare_tahograf"
+      ]
+    },
+    {
+      "id": "OG37_2007_ART8_1_L",
+      "descriere_finala": "Refuzul conducătorului auto de a deplasa vehiculul, la solicitarea inspectorilor din cadrul Inspectoratului de Stat pentru Controlul în Transportul Rutier, către atelierele autorizate pentru instalarea, repararea sau inspecția tahografelor ori a limitatoarelor de viteză, în vederea verificării integrității tahografului.",
+      "articol_prevedere": "Art. 8 alin. (1) lit. l)",
+      "articol_sanctiune": "Art. 9 alin. (1) lit. c)",
+      "sanctiune_principala": {
+        "valoare_min": 9000,
+        "valoare_max": 12000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 2
+      },
+      "masuri_complementare": {
+        "tip_masura": "Imobilizarea vehiculului și ridicarea plăcuțelor cu numărul de înmatriculare",
+        "descriere_detaliata": "Odată cu aplicarea sancțiunii, vehiculul va fi imobilizat și se procedează la ridicarea plăcuțelor cu numărul de înmatriculare până la îndeplinirea condițiilor legale pentru continuarea transportului/deplasării.",
+        "temei_legal_masura": "Art. 9 alin. (2^1)",
+        "documente_retinute": [
+          "Plăcuțe număr înmatriculare"
+        ]
+      },
+      "tags": [
+        "incalcari_deosebit_de_grave",
+        "refuz_deplasare_vehicul",
+        "refuz_verificare_integritate"
+      ]
+    },
+    {
+      "id": "OG37_2007_ART8_1_M",
+      "descriere_finala": "Refuzul atelierului autorizat pentru instalarea, repararea sau inspecția tahografelor ori a limitatoarelor de viteză de a efectua verificarea integrității tahografului, la solicitarea inspectorilor din cadrul Inspectoratului de Stat pentru Controlul în Transportul Rutier.",
+      "articol_prevedere": "Art. 8 alin. (1) lit. m)",
+      "articol_sanctiune": "Art. 9 alin. (1) lit. d)",
+      "sanctiune_principala": {
+        "valoare_min": 9000,
+        "valoare_max": 12000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 2
+      },
+      "tags": [
+        "incalcari_deosebit_de_grave",
+        "atelier_refuz_verificare",
+        "refuz_integritate_tahograf"
+      ]
+    },
+    {
+      "id": "OG37_2007_ART8_2_A",
+      "descriere_finala": "Depășirea cu 2 ore sau mai mult, dar nu cu mai mult de 4,5 ore, a duratei maxime zilnice de conducere de 9 ore, atunci când nu este permisă extinderea acesteia la 10 ore, conform Regulamentului (CE) nr. 561/2006.",
+      "articol_prevedere": "Art. 8 alin. (2) lit. a)",
+      "articol_sanctiune": "Art. 9 alin. (1) lit. f)",
+      "sanctiune_principala": {
+        "valoare_min": 4000,
+        "valoare_max": 6000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 2
+      },
+      "masuri_complementare": {
+        "tip_masura": "Imobilizarea vehiculului",
+        "descriere_detaliata": "În măsura în care contravențiile sunt constatate în trafic sau conducătorul auto nu poate dovedi efectuarea pauzelor și/sau perioadelor minime de odihnă, suplimentar față de amendă se aplică sancțiunea imobilizării vehiculului.",
+        "temei_legal_masura": "Art. 9 alin. (2)"
+      },
+      "tags": [
+        "incalcari_foarte_grave",
+        "depasire_conducere_zilnica_2_4.5_ore",
+        "timp_conducere"
+      ]
+    },
+    {
+      "id": "OG37_2007_ART8_2_R",
+      "descriere_finala": "Nerespectarea de către întreprindere/operatorul de transport rutier a obligației de a organiza activitatea conducătorilor auto în condițiile prevăzute la art. 8 alin. (8a) din Regulamentul (CE) nr. 561/2006 sau la art. 6 alin. (10) din secțiunea 2 partea B din anexa ROAD-1 la Acordul UE-UK, după caz.",
+      "articol_prevedere": "Art. 8 alin. (2) lit. r)",
+      "articol_sanctiune": "Art. 9 alin. (1) lit. e)",
+      "sanctiune_principala": {
+        "valoare_min": 4000,
+        "valoare_max": 6000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 2
+      },
+      "tags": [
+        "incalcari_foarte_grave",
+        "organizare_activitate",
+        "operator_transport",
+        "planificare_conducatori"
+      ]
+    },
+    {
+      "id": "OG37_2007_ART8_2_S",
+      "descriere_finala": "Remunerarea de către întreprindere/operatorul de transport rutier a conducătorilor auto în funcție de distanța parcursă, viteza de livrare și/sau cantitatea de mărfuri transportată, în cazul în care o asemenea remunerare este de natură să pericliteze siguranța rutieră și/sau să încurajeze încălcarea prevederilor Regulamentului (CE) nr. 561/2006, ale Acordului AETR sau ale Acordului UE-UK, după caz.",
+      "articol_prevedere": "Art. 8 alin. (2) lit. s)",
+      "articol_sanctiune": "Art. 9 alin. (1) lit. e)",
+      "sanctiune_principala": {
+        "valoare_min": 4000,
+        "valoare_max": 6000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 2
+      },
+      "tags": [
+        "incalcari_foarte_grave",
+        "remunerare_periculoasa",
+        "plata_la_distanta",
+        "presiune_timp"
+      ]
+    },
+    {
+      "id": "OG37_2007_ART8_2_FF",
+      "descriere_finala": "Nedescărcarea datelor din cardurile de conducător auto și din tahografele digitale, conform prevederilor art. 6 alin. (3) din Ordonanța nr. 37/2007, care stabilește că întreprinderile/operatorii de transport rutier au obligația de a descărca și stoca la sediu, cel mai târziu la fiecare 28 de zile, datele din cartelele tahografice ale conducătorilor auto, iar datele din tahografele digitale ale vehiculelor pe care le utilizează, cel mai târziu la fiecare 90 de zile.",
+      "articol_prevedere": "Art. 8 alin. (2) lit. ff)",
+      "articol_sanctiune": "Art. 9 alin. (1) lit. e)",
+      "sanctiune_principala": {
+        "valoare_min": 4000,
+        "valoare_max": 6000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 2
+      },
+      "tags": [
+        "incalcari_foarte_grave",
+        "nedescarcare_date",
+        "stocare_date",
+        "operator_transport"
+      ]
+    },
+    {
+      "id": "OG37_2007_ART8_3_A",
+      "descriere_finala": "Depășirea cu o oră sau mai mult, dar mai puțin de 2 ore, a duratei maxime zilnice de conducere de 9 ore, atunci când nu este permisă extinderea acesteia la 10 ore, conform Regulamentului (CE) nr. 561/2006.",
+      "articol_prevedere": "Art. 8 alin. (3) lit. a)",
+      "articol_sanctiune": "Art. 9 alin. (1) lit. i)",
+      "sanctiune_principala": {
+        "valoare_min": 600,
+        "valoare_max": 1000,
+        "unitate": "RON",
+        "observatie": "Sancțiunea poate fi avertisment sau amendă"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 2
+      },
+      "masuri_complementare": {
+        "tip_masura": "Imobilizarea vehiculului",
+        "descriere_detaliata": "În măsura în care contravențiile sunt constatate în trafic sau conducătorul auto nu poate dovedi efectuarea pauzelor și/sau perioadelor minime de odihnă, suplimentar față de sancțiune se aplică imobilizarea vehiculului.",
+        "temei_legal_masura": "Art. 9 alin. (2)"
+      },
+      "tags": [
+        "incalcari_grave",
+        "depasire_conducere_1_2_ore",
+        "avertisment_sau_amenda"
+      ]
+    },
+    {
+      "id": "OG37_2007_ART8_4_A",
+      "descriere_finala": "Depășirea cu până la o oră a duratei maxime zilnice de conducere, atunci când nu este permisă extinderea acesteia la 10 ore, conform Regulamentului (CE) nr. 561/2006.",
+      "articol_prevedere": "Art. 8 alin. (4) lit. a)",
+      "articol_sanctiune": "Art. 9 alin. (1) lit. m)",
+      "sanctiune_principala": {
+        "valoare_min": 250,
+        "valoare_max": 500,
+        "unitate": "RON",
+        "observatie": "Sancțiunea poate fi avertisment sau amendă"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 2
+      },
+      "masuri_complementare": {
+        "tip_masura": "Imobilizarea vehiculului",
+        "descriere_detaliata": "În măsura în care contravențiile sunt constatate în trafic sau conducătorul auto nu poate dovedi efectuarea pauzelor și/sau perioadelor minime de odihnă, suplimentar față de sancțiune se aplică imobilizarea vehiculului.",
+        "temei_legal_masura": "Art. 9 alin. (2)"
+      },
+      "tags": [
+        "incalcari_minore",
+        "depasire_conducere_sub_1_ora",
+        "avertisment_sau_amenda"
+      ]
+    }
+  ]
+}
