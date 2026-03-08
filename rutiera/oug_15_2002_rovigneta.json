@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "titlu_act_normativ": "Ordonanța nr. 15 din 24 ianuarie 2002 privind aplicarea tarifului de utilizare și a tarifului de trecere pe rețeaua de drumuri naționale din România",
+    "data_actualizare": "2025-08-29 (modificată prin OUG nr. 23/2025)",
+    "unitate_sanctiune": "RON"
+  },
+  "contravenții": [
+    {
+      "id": "OG15_2002_ART8_1",
+      "descriere_finala": "Fapta de a circula fără rovinietă valabilă. Rovinieta valabilă reprezintă înregistrarea în baza de date a SIEGMCR a informațiilor privind achitarea corespunzătoare a tarifului de utilizare pentru un vehicul, a cărei perioadă de valabilitate cuprinde data și ora pentru care se efectuează verificarea. Tariful de utilizare este o anumită sumă a cărei plată conferă unui vehicul dreptul de a utiliza, pe parcursul unei perioade date, rețeaua de drumuri naționale din România, reprezentând drumurile de interes național prevăzute la art. 6 alin. (1) din Ordonanța Guvernului nr. 43/1997 privind regimul drumurilor, republicată, cu modificările și completările ulterioare, administrate de Compania Națională de Administrare a Infrastructurii Rutiere - S.A., cu excepția sectoarelor de drum național aflate în intravilanul municipiilor între indicatoarele de intrare/ieșire în/din acestea.",
+      "articol_prevedere": "Art. 8 alin. (1)",
+      "articol_sanctiune": "Art. 8 alin. (3^2) în coroborare cu Anexa nr. 2",
+      "sanctiune_principala": {
+        "valoare_min": 500,
+        "valoare_max": 28500,
+        "unitate": "RON",
+        "detaliere_categorii": [
+          {
+            "categorie": "A - Autoturisme",
+            "min": 500,
+            "max": 1000
+          },
+          {
+            "categorie": "B - Vehicule de transport marfă cu MTMA ≤ 3,5 tone",
+            "min": 1140,
+            "max": 2280
+          },
+          {
+            "categorie": "C - Vehicule de transport marfă cu MTMA > 3,5 tone și ≤ 7,5 tone",
+            "min": 3800,
+            "max": 7600
+          },
+          {
+            "categorie": "D - Vehicule de transport marfă cu MTMA > 7,5 tone și < 12,0 tone",
+            "min": 6650,
+            "max": 13300
+          },
+          {
+            "categorie": "E - Vehicule de transport marfă cu MTMA ≥ 12,0 tone, cu maximum 3 axe",
+            "min": 8550,
+            "max": 17100
+          },
+          {
+            "categorie": "F - Vehicule de transport marfă cu MTMA ≥ 12,0 tone, cu minimum 4 axe",
+            "min": 14250,
+            "max": 28500
+          },
+          {
+            "categorie": "G - Vehicule de transport persoane cu > 9 și ≤ 23 locuri pe scaune",
+            "min": 3800,
+            "max": 7600
+          },
+          {
+            "categorie": "H - Vehicule de transport persoane cu > 23 locuri pe scaune",
+            "min": 6650,
+            "max": 13300
+          }
+        ]
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 2,
+        "observatie": "48 de ore de la data încheierii procesului-verbal ori, după caz, de la data comunicării acestuia"
+      },
+      "tags": [
+        "rovinietă",
+        "tarif_utilizare",
+        "contravenție_continuă",
+        "SIEGMCR",
+        "drumuri_naționale"
+      ]
+    },
+    {
+      "id": "OG15_2002_ART8_1_1",
+      "descriere_finala": "Fapta de a circula fără peaj valabil. Peajul valabil reprezintă înregistrarea, în baza de date a SIEGMCR, a informațiilor privind achitarea corespunzătoare a tarifului de trecere pentru un vehicul, a cărui perioadă de valabilitate nu a expirat. Tariful de trecere este o anumită sumă care se plătește pentru un vehicul în funcție de distanța parcursă pe un sector de drum, pod, tunel sau trecătoare de munte, care face parte din rețeaua de drumuri naționale din România, și de tipul vehiculului. Contravenția se consideră săvârșită după expirarea termenului prevăzut la art. 1 alin. (7^3), respectiv până la ora 24,00 a următoarei zile în care a fost efectuată trecerea.",
+      "articol_prevedere": "Art. 8 alin. (1^1) în coroborare cu Art. 1 alin. (7^3)",
+      "articol_sanctiune": "Art. 8 alin. (3^2) în coroborare cu Anexa nr. 4",
+      "sanctiune_principala": {
+        "valoare_min": 190,
+        "valoare_max": 2660,
+        "unitate": "RON",
+        "detaliere_categorii": [
+          {
+            "categorie": "1 - Autoturisme (max. 8+1 locuri) și vehicule cu MTMA ≤ 3,5 tone (exclusiv transport persoane)",
+            "min": 190,
+            "max": 380
+          },
+          {
+            "categorie": "2 - Vehicule transport persoane (> 9 și ≤ 23 locuri) și vehicule cu MTMA > 3,5 tone și < 12,0 tone (exclusiv transport persoane)",
+            "min": 690,
+            "max": 1380
+          },
+          {
+            "categorie": "3 - Vehicule transport persoane (> 23 locuri) și vehicule cu MTMA ≥ 12,0 tone cu max. 3 axe (exclusiv transport persoane)",
+            "min": 940,
+            "max": 1880
+          },
+          {
+            "categorie": "4 - Vehicule cu MTMA ≥ 12,0 tone cu min. 4 axe (exclusiv transport persoane)",
+            "min": 1330,
+            "max": 2660
+          }
+        ]
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 2,
+        "observatie": "48 de ore de la data încheierii procesului-verbal ori, după caz, de la data comunicării acestuia"
+      },
+      "tags": [
+        "peaj",
+        "tarif_trecere",
+        "pod",
+        "tunel",
+        "trecătoare_munte",
+        "SIEGMCR"
+      ]
+    }
+  ]
+}
