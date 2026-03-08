@@ -1,0 +1,172 @@
+{
+  "lege_metadata": {
+    "titlu": "Hotărârea nr. 441 din 30 martie 2022 pentru aprobarea normelor metodologice privind crearea, amenajarea și omologarea traseelor de cicloturism",
+    "emitent": "Guvernul României",
+    "data_publicare": "30 martie 2022",
+    "monitorul_oficial": "MONITORUL OFICIAL nr. 319 din 31 martie 2022",
+    "data_actualizare": "31 martie 2022"
+  },
+  "fapte": [
+    {
+      "id": "1",
+      "descriere": "Împiedicarea sau tulburarea, fără drept, a accesului sau circulației bicicliștilor pe trasee cicloturistice",
+      "articol_prevedere": "Art. 16, alin. (1), lit. a)",
+      "articol_sanctiune": "Art. 16, alin. (2), lit. a)",
+      "amenda_min": 500,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "competenta": [
+        "Poliția Română",
+        "Poliția de Frontieră Română",
+        "Jandarmeria Română",
+        "Poliția Locală"
+      ],
+      "tags": [
+        "acces bicicliști",
+        "circulație traseu",
+        "împiedicare",
+        "tulburare"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "2",
+      "descriere": "Împiedicarea sau tulburarea, fără drept, a activităților de marcare a traseelor cicloturistice omologate, de întreținere și monitorizare a stării marcajelor și a altor amenajări pe trasee cicloturistice",
+      "articol_prevedere": "Art. 16, alin. (1), lit. b)",
+      "articol_sanctiune": "Art. 16, alin. (2), lit. b)",
+      "amenda_min": 300,
+      "amenda_max": 500,
+      "permite_jumatate": true,
+      "suma_jumatate": 150,
+      "competenta": [
+        "Poliția Română",
+        "Poliția de Frontieră Română",
+        "Jandarmeria Română",
+        "Poliția Locală"
+      ],
+      "tags": [
+        "marcare trasee",
+        "întreținere",
+        "monitorizare",
+        "activități omologate"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "3",
+      "descriere": "Deteriorarea, ridicarea sau mutarea, fără drept, a semnelor sau indicatoarelor de orientare cicloturistică",
+      "articol_prevedere": "Art. 16, alin. (1), lit. c)",
+      "articol_sanctiune": "Art. 16, alin. (2), lit. c)",
+      "amenda_min": 400,
+      "amenda_max": 800,
+      "permite_jumatate": true,
+      "suma_jumatate": 200,
+      "competenta": [
+        "Poliția Română",
+        "Poliția de Frontieră Română",
+        "Jandarmeria Română",
+        "Poliția Locală"
+      ],
+      "tags": [
+        "semne orientare",
+        "indicatoare",
+        "deteriorare",
+        "ridicare",
+        "mutare"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "4",
+      "descriere": "Împiedicarea sau tulburarea, fără drept, a accesului sau circulației bicicliștilor pe trasee cicloturistice",
+      "articol_prevedere": "Art. 16, alin. (1), lit. a)",
+      "articol_sanctiune": "Art. 16, alin. (3), lit. a)",
+      "amenda_min": 1000,
+      "amenda_max": 2000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Poliția Română",
+        "Poliția de Frontieră Română",
+        "Jandarmeria Română",
+        "Poliția Locală"
+      ],
+      "tags": [
+        "acces bicicliști",
+        "circulație traseu",
+        "împiedicare",
+        "tulburare",
+        "persoană juridică"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "5",
+      "descriere": "Împiedicarea sau tulburarea, fără drept, a activităților de marcare a traseelor cicloturistice omologate, de întreținere și monitorizare a stării marcajelor și a altor amenajări pe trasee cicloturistice",
+      "articol_prevedere": "Art. 16, alin. (1), lit. b)",
+      "articol_sanctiune": "Art. 16, alin. (3), lit. b)",
+      "amenda_min": 600,
+      "amenda_max": 1000,
+      "permite_jumatate": true,
+      "suma_jumatate": 300,
+      "competenta": [
+        "Poliția Română",
+        "Poliția de Frontieră Română",
+        "Jandarmeria Română",
+        "Poliția Locală"
+      ],
+      "tags": [
+        "marcare trasee",
+        "întreținere",
+        "monitorizare",
+        "activități omologate",
+        "persoană juridică"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": "6",
+      "descriere": "Deteriorarea, ridicarea sau mutarea, fără drept, a semnelor sau indicatoarelor de orientare cicloturistică",
+      "articol_prevedere": "Art. 16, alin. (1), lit. c)",
+      "articol_sanctiune": "Art. 16, alin. (3), lit. c)",
+      "amenda_min": 800,
+      "amenda_max": 1600,
+      "permite_jumatate": true,
+      "suma_jumatate": 400,
+      "competenta": [
+        "Poliția Română",
+        "Poliția de Frontieră Română",
+        "Jandarmeria Română",
+        "Poliția Locală"
+      ],
+      "tags": [
+        "semne orientare",
+        "indicatoare",
+        "deteriorare",
+        "ridicare",
+        "mutare",
+        "persoană juridică"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    }
+  ]
+}
