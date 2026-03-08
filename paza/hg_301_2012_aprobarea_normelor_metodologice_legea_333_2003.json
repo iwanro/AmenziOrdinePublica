@@ -1,0 +1,915 @@
+{
+  "lege_metadata": {
+    "titlu": "Hotărârea nr. 301 din 11 aprilie 2012 pentru aprobarea Normelor metodologice de aplicare a Legii nr. 333/2003 privind paza obiectivelor, bunurilor, valorilor și protecția persoanelor",
+    "emitent": "Guvernul României",
+    "data_publicare": "17 mai 2012",
+    "monitorul_oficial": "Monitorul Oficial al României, Partea I, nr. 335",
+    "data_actualizare": "30 decembrie 2015 (prin HG nr. 1.002/2015)"
+  },
+  "fapte": [
+    {
+      "id": 1,
+      "descriere": "Nerespectarea cerințelor minimale de securitate, pe zone funcționale și categorii de unități, prevăzute în anexa nr. 1.",
+      "articol_prevedere": "Art. 3, pct. 1",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "măsuri minimale securitate",
+        "zone funcționale",
+        "categorii unități",
+        "anexa 1"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 2,
+      "descriere": "Neimplementarea măsurilor stabilite prin analiza de risc la securitate fizică.",
+      "articol_prevedere": "Art. 3, pct. 1^1",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "analiză de risc",
+        "măsuri securitate",
+        "implementare"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 3,
+      "descriere": "Neefectuarea analizei de risc la securitate fizică de către unitate, prin structuri de specialitate sau prin experți abilitați, care dețin competențe profesionale dobândite pentru ocupația de evaluator de risc la securitatea fizică, în vederea adoptării măsurilor de securitate.",
+      "articol_prevedere": "Art. 3, pct. 2",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 10000,
+      "amenda_max": 20000,
+      "permite_jumatate": true,
+      "suma_jumatate": 5000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "analiză de risc",
+        "evaluator risc",
+        "experți abilitați",
+        "competențe profesionale"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 4,
+      "descriere": "Neamenajarea și nefolosirea ghișeelor care să asigure protecția la atacuri manuale asupra casierului sau neinstituirea postului de pază fizică la obiectivele cu program permanent în care pe timpul nopții își desfășoară activitatea un singur angajat.",
+      "articol_prevedere": "Art. 3, pct. 3",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "conducători unități",
+        "ghisee protecție",
+        "pază fizică",
+        "program permanent",
+        "atacuri manuale"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 5,
+      "descriere": "Nedepunerea planului de pază la structura de poliție organizată la nivelul unității administrativ-teritoriale pe raza căreia se află obiectivul, cu cel puțin 24 de ore înainte de instituirea pazei potrivit contractului de prestări de servicii ori deciziei conducerii, în cazul pazei proprii.",
+      "articol_prevedere": "Art. 3, pct. 4",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "plan de pază",
+        "depunere",
+        "poliție competentă",
+        "termen 24 ore"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 6,
+      "descriere": "Neînregistrarea documentelor specifice executării și evidențierii serviciului de pază la prestator și nevizarea acestora spre neschimbare de către beneficiar, sau nepăstrarea acestora pe o durată de minimum 2 ani de către prestator, sau, în cazul pazei proprii, neînregistrarea și nepăstrarea acestora de către unitate.",
+      "articol_prevedere": "Art. 3, pct. 5",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "documente pază",
+        "înregistrare",
+        "păstrare",
+        "termen 2 ani",
+        "vizare"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 7,
+      "descriere": "Adoptarea de însemne, uniforme, legitimații, accesorii de echipament sau denumiri similare ori asemănătoare cu cele ale autorităților publice ale organismelor internaționale la care România este parte.",
+      "articol_prevedere": "Art. 3, pct. 6",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "însemne",
+        "uniforme",
+        "legitimații",
+        "autorități publice",
+        "interdicție"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 8,
+      "descriere": "Neasigurarea desfășurarea activității societăților specializate de pază și protecție în sediile principale sau secundare, înregistrate la oficiul registrului comerțului și notificate organelor de poliție competente teritorial; necomunicarea în termen de 15 zile inspectoratului de poliție județean sau Direcției Generale de Poliție a Municipiului București a oricărei modificări privind schimbarea adresei sediilor principale sau secundare, a datelor de contact sau a altor date legate de organizarea și funcționarea societății; neinformarea semestrial, până la data de 15 iunie, respectiv 15 decembrie, a inspectoratului de poliție județean sau Direcției Generale de Poliție a Municipiului București despre activitățile desfășurate.",
+      "articol_prevedere": "Art. 3, pct. 7",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "conducători societăți pază",
+        "sediile",
+        "notificare",
+        "informare semestrială",
+        "modificări"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 9,
+      "descriere": "Neînființarea registrului special, după modelul prevăzut în anexa nr. 2j), în care să se consemneze în ordine cronologică contractele de prestări de servicii, în termen de 5 zile de la data încheierii acestora.",
+      "articol_prevedere": "Art. 3, pct. 8",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "registru special",
+        "contracte prestări servicii",
+        "înființare",
+        "termen 5 zile"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 10,
+      "descriere": "Neconsemnarea în registrul special, după modelul prevăzut în anexa nr. 2j), a contractelor de prestări de servicii, în ordine cronologică, în termen de 5 zile de la data încheierii acestora.",
+      "articol_prevedere": "Art. 3, pct. 9",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "registru special",
+        "consemnare",
+        "contracte",
+        "termen 5 zile",
+        "ordine cronologică"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 11,
+      "descriere": "Neasigurarea controlului personalului de pază prin personal anume desemnat; necoordonarea pazei obiectivului asigurat cu un dispozitiv format din mai mult de 5 posturi de pază de către un șef de tură pe schimb; nedesemnarea unui șef de obiectiv pentru fiecare obiectiv asigurat cu pază și protecție; neefectuarea zilnică a verificării modului de efectuare a serviciului de pază, cel puțin o dată pe schimb; neexecutarea instruirii agenților de pază cu prevederile consemnelor generale și particulare de către șeful de tură sau de obiectiv.",
+      "articol_prevedere": "Art. 3, pct. 9^1",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "control personal",
+        "șef de tură",
+        "șef de obiectiv",
+        "verificare zilnică",
+        "instruire"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 12,
+      "descriere": "Neasigurarea documentelor necesare specifice prevăzute în anexa nr. 2 pentru evidențierea executării serviciului de pază și neverificarea completării corespunzătoare a acestora de către șeful de obiectiv; neînregistrarea și neanalizarea lunară de către conducerea societății a tuturor evenimentelor produse în obiectivele asigurate.",
+      "articol_prevedere": "Art. 3, pct. 9^2",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "documente specifice",
+        "evidență serviciu",
+        "evenimente",
+        "analiză lunară",
+        "șef de obiectiv"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 13,
+      "descriere": "Neasigurarea pregătirii continue a personalului de execuție până la șeful de tură inclusiv, în limita a cel puțin 20 de ore anual, prin furnizori de formare profesională autorizați, în baza programei de pregătire stabilite anual de Inspectoratul General al Poliției Române.",
+      "articol_prevedere": "Art. 3, pct. 10",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "pregătire continuă",
+        "personal pază",
+        "20 ore anual",
+        "furnizori autorizați"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 14,
+      "descriere": "Nepurtarea ecusonului de identificare în partea superioară a uniformei, la vedere, astfel încât să se asigure vizibilitatea datelor de identificare și fotografia titularului.",
+      "articol_prevedere": "Art. 3, pct. 11",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 100,
+      "amenda_max": 300,
+      "permite_jumatate": true,
+      "suma_jumatate": 50,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "personal pază",
+        "ecuson",
+        "uniformă",
+        "vizibilitate",
+        "identificare"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 15,
+      "descriere": "Dotarea personalului de pază sau gardă de corp cu cagule, măști pentru acoperirea feței sau cătușe metalice, ori folosirea acestora de către personal.",
+      "articol_prevedere": "Art. 3, pct. 12",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 100,
+      "amenda_max": 300,
+      "permite_jumatate": true,
+      "suma_jumatate": 50,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "personal pază",
+        "cagule",
+        "măști",
+        "cătușe",
+        "interdicție"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 16,
+      "descriere": "Montarea sau folosirea de mijloace de semnalizare luminoasă ori acustică pe autovehiculele utilizate de personalul societăților specializate de pază și protecție, contrar prevederilor legale; inscripționarea contrar prevederilor legale a autovehiculelor utilizate de personalul societăților specializate de pază și protecție; dotarea personalului de pază și gardă de corp cu bastoane confecționate din alte materiale decât cauciucul, ori folosirea acestora de către personal.",
+      "articol_prevedere": "Art. 3, pct. 13",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "semnalizare luminoasă",
+        "semnalizare acustică",
+        "inscripții autovehicule",
+        "bastoane",
+        "interdicție"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 17,
+      "descriere": "Neasigurarea transporturilor bunurilor și valorilor în cuantum sau cu o valoare de peste 500.000 euro ori echivalentul în lei cu mijloace de transport blindate și cu jandarmi sau agenți ai unei societăți specializate de pază și protecție, înarmați cu arme de foc letale, în condițiile legii.",
+      "articol_prevedere": "Art. 3, pct. 14",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 20000,
+      "amenda_max": 50000,
+      "permite_jumatate": true,
+      "suma_jumatate": 10000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "transport valori",
+        "500000 euro",
+        "mijloace blindate",
+        "jandarmi",
+        "arme letale"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 18,
+      "descriere": "Neasigurarea transporturilor bunurilor și valorilor în cuantum sau cu o valoare cuprinsă între 150.000 și 500.000 euro ori echivalentul în lei cu mijloace de transport blindate sau semiblindate și cu jandarmi ori agenți ai unei societăți specializate de pază și protecție, înarmați cu arme de foc letale, în condițiile legii.",
+      "articol_prevedere": "Art. 3, pct. 15",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 10000,
+      "amenda_max": 20000,
+      "permite_jumatate": true,
+      "suma_jumatate": 5000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "transport valori",
+        "150000-500000 euro",
+        "mijloace blindate",
+        "semiblindate",
+        "arme letale"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 19,
+      "descriere": "Neasigurarea transporturilor bunurilor și valorilor în cuantum sau cu o valoare cuprinsă între 10.000 și 150.000 euro ori echivalentul în lei cu mijloace de transport blindate, semiblindate sau special amenajate, însoțite cu personal de pază propriu calificat și atestat ori agenți ai unei societăți specializate de pază și protecție, înarmați cu arme de foc, în condițiile legii; nedezținerea poliței de asigurare valabilă pentru acoperirea riscurilor la pierdere, furt sau distrugere a valorilor transportate; nestabilirea și neconsemnarea în documente a adreselor sediilor la/de la care se predau/preiau bunurile sau valorile monetare și a itinerarelor de către responsabilul transportului, sau necomunicarea acestora echipajului la instructajul efectuat înainte de plecarea în cursă.",
+      "articol_prevedere": "Art. 3, pct. 16",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "transport valori",
+        "10000-150000 euro",
+        "asigurare",
+        "itinerare",
+        "consemnare",
+        "instructaj"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 20,
+      "descriere": "Neasigurarea de către conducerea companiei a dotării necesare pentru protecția factorilor poștali aflați în serviciul de distribuire a unor sume de bani, care să prevină sustragerea bancnotelor deținute, prin sisteme de siguranță sau alte măsuri similare pentru descurajarea agresiunilor asupra personalului de serviciu.",
+      "articol_prevedere": "Art. 3, pct. 17",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "factori poștali",
+        "distribuire sume",
+        "dotare",
+        "protecție",
+        "descurajare agresiuni"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 21,
+      "descriere": "Nefolosirea de către conducătorii unităților a mijloacelor de protecție mecanofizică și a echipamentelor componente ale sistemelor de alarmare care sunt certificate conform standardelor europene sau naționale în vigoare de către organisme acreditate din țară ori din statele membre ale Uniunii Europene sau ale Spațiului Economic European; nepăstrarea confidențialității informațiilor referitoare la sistemele instalate sau avute în întreținere de către conducătorii și personalul tehnic al societăților specializate în domeniul sistemelor de alarmare și al mijloacelor de protecție mecanofizice.",
+      "articol_prevedere": "Art. 3, pct. 18",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "mijloace protecție",
+        "certificare",
+        "standarde europene",
+        "confidențialitate",
+        "sisteme alarmare"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 22,
+      "descriere": "Neaafișarea în unitate a unor semne de avertizare cu privire la existența sistemelor de supraveghere de către deținătorul acestora.",
+      "articol_prevedere": "Art. 3, pct. 19",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 100,
+      "amenda_max": 300,
+      "permite_jumatate": true,
+      "suma_jumatate": 50,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "sisteme supraveghere",
+        "semne avertizare",
+        "afișare",
+        "obligație"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 23,
+      "descriere": "Nepunerea la dispoziția organelor judiciare, la solicitarea scrisă a acestora, a înregistrărilor video și/sau audio în care este surprinsă săvârșirea unor fapte de natură penală de către beneficiarul subsistemului de televiziune cu circuit închis.",
+      "articol_prevedere": "Art. 3, pct. 20",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "televiziune circuit închis",
+        "înregistrări",
+        "organe judiciare",
+        "fapte penale",
+        "punere la dispoziție"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 24,
+      "descriere": "Elaborarea proiectelor sistemelor de alarmare de către personalul tehnic al societăților specializate în domeniul sistemelor de alarmare împotriva efracției fără competențe profesionale specifice, fără respectarea cerințelor din normele metodologice și a normativelor tehnice specifice; prevăderea la întocmirea proiectului de componente ale sistemelor de alarmare care nu sunt certificate în conformitate cu standardele naționale sau europene de profil și în concordanță cu gradul de siguranță impus de caracteristicile obiectivului protejat; neconsultarea proiectantului sistemului de securitate la orice modificare în faza de instalare a sistemului, sau, ulterior punerii în funcțiune, neconsultarea unui proiectant autorizat.",
+      "articol_prevedere": "Art. 3, pct. 21",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "proiectare sisteme alarmare",
+        "modificare",
+        "certificare",
+        "proiectant autorizat",
+        "competențe profesionale"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 25,
+      "descriere": "Nenotificarea Inspectoratului General al Poliției Române la semnarea contractului cu derulare în totalitate sau în parte pe teritoriul României de către societățile comerciale licențiate sau autorizate să desfășoare activități în domeniul sistemelor electronice de securitate într-un stat membru al Uniunii Europene sau al Spațiului Economic European, sau începerea execuției înainte de obținerea acordului autorității.",
+      "articol_prevedere": "Art. 3, pct. 21^1",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "societăți comerciale",
+        "sisteme electronice securitate",
+        "notificare",
+        "IGPR",
+        "acord autoritate"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 26,
+      "descriere": "Neconsemnarea în registrul special a contractelor încheiate, în termen de 5 zile de la încheierea acestora, în ordine cronologică de către conducătorii societăților specializate în sisteme de alarmare; neasigurarea respectării regulamentului de organizare și funcționare aprobat, a controlului execuției lucrărilor și respectării proiectelor de instalare sau a normativelor tehnice aplicabile, sau a primirii și remedierii cu celeritate a defecțiunilor semnalate de către conducătorul societății specializate în sisteme de alarmare; neînființarea și neasigurarea documentelor specifice prevăzute în anexa nr. 2 de către conducătorul societății specializate în sisteme de alarmare; neinformarea semestrial, până la data de 15 iunie, respectiv 15 decembrie, a inspectoratului de poliție județean sau Direcției Generale de Poliție a Municipiului București despre activitățile desfășurate de către conducerea societății specializate în sisteme de alarmare.",
+      "articol_prevedere": "Art. 3, pct. 21^2",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "conducător societate alarmare",
+        "registru contracte",
+        "documente specifice",
+        "informare semestrială",
+        "control lucrări"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 27,
+      "descriere": "Intervenția în sistemele executate de societate sau divulgarea informațiilor referitoare la sistemele instalate sau avute în întreținere de către personalul de conducere și cel tehnic din cadrul societăților specializate care a încetat raporturile de serviciu.",
+      "articol_prevedere": "Art. 3, pct. 22",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "personal fost",
+        "sisteme alarmare",
+        "interdicție intervenție",
+        "divulgare informații",
+        "confidențialitate"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 28,
+      "descriere": "Nepredarea în termen de 15 zile a tuturor codurilor valabile, a software-ului și a documentației aferente, pe bază de proces-verbal, de către conducerea societății instalatoare a sistemului de alarmare împotriva efracției sau care a asigurat mentenanța acestuia, la solicitarea beneficiarului, după îndeplinirea clauzelor contractuale.",
+      "articol_prevedere": "Art. 3, pct. 23",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "societăți alarmare",
+        "predare coduri",
+        "software",
+        "documentație",
+        "termen 15 zile",
+        "proces-verbal"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 29,
+      "descriere": "Înființarea de dispecerate de zonă pentru prestarea serviciilor de monitorizare și intervenție de către societățile specializate de pază și protecție sau cele din domeniul sistemelor de alarmare împotriva efracției, fără respectarea prevederilor art. 36 alin. (2) din Lege; organizarea de dispecerate pentru monitorizarea unităților proprii de către unități, fără asigurarea programării sistemelor locale și a intervențiilor prin societățile specializate în sisteme de alarmare, respectiv pază și protecție, sau fără respectarea prevederilor art. 36 alin. (2) din Lege.",
+      "articol_prevedere": "Art. 3, pct. 24",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "dispecerate",
+        "monitorizare",
+        "intervenție",
+        "societăți pază",
+        "societăți alarmare",
+        "respectare lege"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 30,
+      "descriere": "Neasigurarea de către dispeceratele de monitorizare a preluării directe și verificării semnalelor de la sistemele conectate, sau neîndeplinirea măsurilor necesare în vederea alertării echipajelor de intervenție astfel încât să fie respectați timpii maximali stabiliți prin normele metodologice.",
+      "articol_prevedere": "Art. 3, pct. 25",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 5000,
+      "amenda_max": 10000,
+      "permite_jumatate": true,
+      "suma_jumatate": 2500,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "dispecerate monitorizare",
+        "preluare semnale",
+        "verificare",
+        "alertare echipaje",
+        "timpi intervenție"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 31,
+      "descriere": "Neasigurarea procedurilor de lucru asumate prin regulamentul de organizare și funcționare al dispeceratului de către conducător sau de către personalul societății care asigură servicii de monitorizare și intervenție.",
+      "articol_prevedere": "Art. 3, pct. 25^1",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "dispecerat monitorizare",
+        "regulament organizare",
+        "proceduri lucru",
+        "conducător",
+        "personal"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 32,
+      "descriere": "Neluarea măsurilor pentru preîntâmpinarea sesizării în mod eronat a autorităților pentru intervenția la obiectivele monitorizate; nesesizarea efracției sau a stării de pericol ori sesizarea tardivă, din motive imputabile societății prestatoare sau beneficiarului; declanșarea de alarme false repetate datorată neasigurării condițiilor de exploatare și mentenanță corespunzătoare a sistemelor de alarmă de către societatea care asigură serviciile de monitorizare și beneficiar.",
+      "articol_prevedere": "Art. 3, pct. 26",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "societate monitorizare",
+        "beneficiar",
+        "măsuri preîntâmpinare",
+        "alarme false",
+        "sesizare eronată"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 33,
+      "descriere": "Netransmiterea semestrial, până la data de 15 iunie, respectiv 15 decembrie, a unor informări cu privire la activitățile desfășurate către unitatea de poliție competentă teritorial, conform modelului difuzat de poliție, de către prestatorii serviciilor de monitorizare și operatorii economici care au organizat dispecerat de monitorizare a sistemelor de alarmare împotriva efracției.",
+      "articol_prevedere": "Art. 3, pct. 26^1",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "prestatori monitorizare",
+        "rapoarte activitate",
+        "depunere semestrială",
+        "15 iunie",
+        "15 decembrie"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 34,
+      "descriere": "Neasigurarea intervenției fără a depăși 15 minute în localități urbane, respectiv 30 de minute în localități rurale, sau neluarea primelor măsuri necesare conservării urmelor infracțiunii și a mijloacelor materiale de probă până la intervenția organelor judiciare de către prestatorii serviciilor de monitorizare și operatorii economici.",
+      "articol_prevedere": "Art. 3, pct. 27",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "timp intervenție",
+        "15 minute urban",
+        "30 minute rural",
+        "conservare urme",
+        "mijloace probă"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    },
+    {
+      "id": 35,
+      "descriere": "Nesoluționarea în termen a măsurilor stabilite în procesul-verbal de constatare de către conducătorii unităților.",
+      "articol_prevedere": "Art. 3, pct. 28",
+      "articol_sanctiune": "Art. 4",
+      "amenda_min": 2000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 1000,
+      "competenta": [
+        "Polițiști",
+        "Jandarmi",
+        "Primari sau împuterniciți ai acestora"
+      ],
+      "tags": [
+        "conducători unități",
+        "proces-verbal",
+        "măsuri",
+        "termen soluționare"
+      ],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": null
+    }
+  ]
+}
