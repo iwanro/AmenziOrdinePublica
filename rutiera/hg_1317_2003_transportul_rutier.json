@@ -1,0 +1,290 @@
+{
+  "metadata": {
+    "titlu_act_normativ": "Hotărârea nr. 1.317 din 21 decembrie 2023 privind stabilirea încălcărilor cu caracter contravențional ale prevederilor Regulamentului (CE) nr. 1.071/2009, Regulamentului (CE) nr. 1.072/2009, Regulamentului (CE) nr. 1.073/2009, ale Ordonanței Guvernului nr. 27/2011 și ale normelor de aplicare a acesteia, precum și a sancțiunilor contravenționale și a altor măsuri aferente aplicabile în cazul constatării încălcărilor",
+    "data_actualizare": "2025-08-22 (modificată prin Hotărârea nr. 642/2025)",
+    "unitate_sanctiune": "RON"
+  },
+  "contravenții": [
+    {
+      "id": "HG1317_2023_ART3_P1",
+      "descriere_finala": "Efectuarea transportului rutier sau a activităților conexe transportului rutier fără a deține licență comunitară valabilă, certificat de transport în cont propriu valabil, autorizație pentru transportul rutier național contra cost valabilă, licență pentru activități conexe transportului rutier valabilă sau documentul de transport valabil, specific tipului de transport efectuat, astfel cum este stabilit prin reglementările specifice în vigoare, după caz.",
+      "articol_prevedere": "Art. 3 pct. 1",
+      "articol_sanctiune": "Art. 7 alin. (1), (2), (4), (8), (9), (10)",
+      "sanctiune_principala": {
+        "valoare_min": 10000,
+        "valoare_max": 15000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 15
+      },
+      "masuri_complementare": {
+        "tip_masura": "Suspendarea dreptului de utilizare a autovehiculului prin reținerea plăcuțelor de înmatriculare și a certificatului de înmatriculare",
+        "descriere_detaliata": "Pe lângă aplicarea amenzii corespunzătoare, inspectorii/polițiștii rutieri aplică și măsura administrativă a suspendării dreptului de utilizare a autovehiculului prin reținerea plăcuțelor de înmatriculare și a certificatului de înmatriculare, denumită în continuare măsura de suspendare. Măsura de suspendare se aplică pentru o perioadă de 6 luni și se realizează prin reținerea plăcuțelor de înmatriculare și a certificatului de înmatriculare. Măsura de suspendare încetează înainte de expirarea termenului de 6 luni, iar plăcuțele cu numărul de înmatriculare și certificatul de înmatriculare se restituie, la cerere, dacă sunt îndeplinite cumulativ următoarele condiții: a) au trecut cel puțin 30 de zile de la data înmânării, respectiv comunicării procesului-verbal de reținere; b) se depune dovada achitării amenzii contravenționale. Dacă până la expirarea termenului de 6 luni contravenientul nu depune dovada achitării amenzii contravenționale, măsura de suspendare se prelungește pentru o nouă perioadă de 6 luni. În cazul prelungirii măsurii de suspendare, aceasta încetează, iar plăcuțele cu numărul de înmatriculare și certificatul de înmatriculare se restituie, la cerere, la data depunerii dovezii achitării amenzii contravenționale. Contravenientul nu beneficiază de reducerea termenului de suspendare în cazul în care, în ultimele 12 luni i s-a mai aplicat măsura suspendării dreptului de utilizare a aceluiași autovehicul. Măsura de suspendare se consideră aplicată și în situația în care s-au reținut doar plăcuțele cu numărul de înmatriculare.",
+        "temei_legal_masura": "Art. 19 alin. (1) și Art. 20",
+        "documente_retinute": [
+          "Plăcuțe număr înmatriculare",
+          "Certificat de înmatriculare"
+        ],
+        "dovada_administrativa": {
+          "descriere": "Proces-verbal de reținere a plăcuțelor cu numărul de înmatriculare și a certificatului de înmatriculare",
+          "valabilitate": "până la îndeplinirea condițiilor de restituire",
+          "temei_legal": "Art. 19 alin. (3)-(4)"
+        }
+      },
+      "tags": [
+        "cele_mai_grave",
+        "licenta_comunitara",
+        "certificat_transport_cont_propriu",
+        "autorizatie_transport_national",
+        "licenta_activitati_conexe",
+        "document_transport"
+      ]
+    },
+    {
+      "id": "HG1317_2023_ART3_P2",
+      "descriere_finala": "Sustragerea de la controlul în trafic sau obstrucționarea controlului în trafic prin: a) refuzul de a supune autovehiculul/ansamblul de vehicule rutiere verificărilor necesare conform reglementărilor în vigoare, inclusiv verificării prin cântărire și/sau măsurare a dimensiunilor sau refuzul de a însoți vehiculul personalului cu atribuții de control în vederea cântăririi și/sau măsurării dimensiunilor; b) refuzul de a însoți vehiculul personalului cu atribuții de inspecție și control într-un loc de parcare corespunzător realizării verificărilor necesare, într-o stație de inspecție tehnică periodică autorizată sau într-o reprezentanță R.A.R. pentru efectuarea unui control tehnic detaliat; c) refuzul de a prezenta personalului cu atribuții de control, la solicitarea acestuia, documentele care trebuie deținute la bordul vehiculelor rutiere conform reglementărilor în vigoare; d) neoprirea în trafic a autovehiculului la semnalul regulamentar al inspectorilor; e) refuzul de a permite personalului cu atribuții de control efectuarea controlului atât în cabina vehiculului, în compartimentul destinat transportului pasagerilor, în spațiul destinat transportului mărfurilor, precum și în oricare altă parte a vehiculului, în vederea îndeplinirii corespunzătoare a atribuțiilor de control.",
+      "articol_prevedere": "Art. 3 pct. 2",
+      "articol_sanctiune": "Art. 7 alin. (3)",
+      "sanctiune_principala": {
+        "valoare_min": 10000,
+        "valoare_max": 15000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 15
+      },
+      "masuri_complementare": {
+        "tip_masura": "Imobilizarea vehiculului și reținerea plăcuțelor cu numărul de înmatriculare",
+        "descriere_detaliata": "În toate cazurile când se constată fapte care contravin prevederilor legale în vigoare ce impun imobilizarea vehiculului, pe lângă aplicarea amenzii, se procedează la imobilizarea acestuia, iar permisiunea privind reluarea efectuării transportului se acordă numai după îndeplinirea condițiilor legale pentru efectuarea acestuia. Imobilizarea vehiculelor în trafic se efectuează în condiții de siguranță și securitate a transportului, până la îndeplinirea condițiilor legale pentru continuarea efectuării transportului. Măsura de imobilizare a unui vehicul în trafic se aplică de către inspectori sau, după caz, de către polițiștii rutieri. În cazul imobilizării vehiculelor, dacă respectivul contravenient nu înlătură deficiențele constatate astfel încât să fie îndeplinite condițiile legale pentru continuarea transportului/deplasării în perioada aferentă activității de control în trafic, conform programului de control din ziua respectivă, inspectorii/polițiștii rutieri procedează la ridicarea plăcuțelor cu numărul de înmatriculare până la momentul în care contravenientul face dovada îndeplinirii condițiilor legale pentru continuarea transportului/deplasării. Plăcuțele cu numărul de înmatriculare se rețin în baza unui proces-verbal întocmit în două exemplare, pe care le semnează agentul constatator și conducătorul auto.",
+        "temei_legal_masura": "Art. 13, Art. 14 alin. (1) lit. b), Art. 15",
+        "documente_retinute": [
+          "Plăcuțe număr înmatriculare"
+        ],
+        "dovada_administrativa": {
+          "descriere": "Proces-verbal de reținere a plăcuțelor cu numărul de înmatriculare",
+          "valabilitate": "până la îndeplinirea condițiilor legale pentru continuarea transportului",
+          "temei_legal": "Art. 15 alin. (3)"
+        }
+      },
+      "tags": [
+        "cele_mai_grave",
+        "sustragere_control",
+        "obstrucționare_control",
+        "refuz_verificare",
+        "refuz_prezentare_documente"
+      ]
+    },
+    {
+      "id": "HG1317_2023_ART3_P5",
+      "descriere_finala": "Efectuarea transportului rutier cu un vehicul rutier pentru care s-a dispus măsura imobilizării conform prevederilor legale în vigoare.",
+      "articol_prevedere": "Art. 3 pct. 5",
+      "articol_sanctiune": "Art. 7 alin. (1), (2), (3), (8), (9), (10)",
+      "sanctiune_principala": {
+        "valoare_min": 10000,
+        "valoare_max": 15000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 15
+      },
+      "tags": [
+        "cele_mai_grave",
+        "vehicul_imobilizat",
+        "transport_cu_vehicul_imobilizat"
+      ]
+    },
+    {
+      "id": "HG1317_2023_ART3_P6",
+      "descriere_finala": "Utilizarea la efectuarea transportului rutier a unui autovehicul care nu are limitator de viteze montat conform reglementărilor în vigoare.",
+      "articol_prevedere": "Art. 3 pct. 6",
+      "articol_sanctiune": "Art. 7 alin. (1), (2), (8), (9), (10)",
+      "sanctiune_principala": {
+        "valoare_min": 10000,
+        "valoare_max": 15000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 15
+      },
+      "masuri_complementare": {
+        "tip_masura": "Suspendarea copiei conforme a licenței comunitare/certificatului de transport în cont propriu",
+        "descriere_detaliata": "I.S.C.T.R. suspendă copia conformă a licenței comunitare sau a certificatului de transport în cont propriu, pentru o perioadă de 30 de zile. Licența comunitară/certificatul de transport în cont propriu suspendat și copia conformă a acestuia suspendată se reacordă, la expirarea termenului de suspendare și/sau după remedierea cauzelor care au dus la aplicarea acestei sancțiuni, după caz, și după prezentarea documentului de plată a tarifului aferent pentru eliberare.",
+        "temei_legal_masura": "Art. 22 alin. (1) lit. a) și Art. 29 / Art. 30 alin. (1) lit. a) și Art. 37",
+        "durata_suspensie": "30 zile"
+      },
+      "tags": [
+        "cele_mai_grave",
+        "limitator_viteza",
+        "lipsa_limitator_viteza"
+      ]
+    },
+    {
+      "id": "HG1317_2023_ART3_P7",
+      "descriere_finala": "Utilizarea unui echipament fraudulos capabil să falsifice datele dispozitivului limitator de viteză sau utilizarea unui limitator de viteză fraudulos.",
+      "articol_prevedere": "Art. 3 pct. 7",
+      "articol_sanctiune": "Art. 7 alin. (3)",
+      "sanctiune_principala": {
+        "valoare_min": 10000,
+        "valoare_max": 15000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 15
+      },
+      "masuri_complementare": {
+        "tip_masura": "Retragerea atestatului/certificatului care atestă competența/calificarea profesională a conducătorului auto",
+        "descriere_detaliata": "I.S.C.T.R. retrage atestatul/certificatul care atestă competența/calificarea profesională a conducătorului auto, corespunzător transportului rutier de marfă și/sau de persoane. I.S.C.T.R. întocmește și comunică decizia motivată de retragere a atestatului/certificatului către autoritatea emitentă, angajatorul conducătorului auto în cauză și titularul atestatului/certificatului retras.",
+        "temei_legal_masura": "Art. 56 alin. (2) lit. c)",
+        "interdictie": "Titularul documentului retras nu mai poate solicita eliberarea unui nou document de același tip pentru o perioadă de 1 an de la data retragerii (conform Art. 64 alin. (3))"
+      },
+      "tags": [
+        "cele_mai_grave",
+        "echipament_fraudulos",
+        "falsificare_limitator_viteza",
+        "limitator_viteza_fraudulos"
+      ]
+    },
+    {
+      "id": "HG1317_2023_ART3_P8",
+      "descriere_finala": "Utilizarea la efectuarea transportului rutier a vehiculelor rutiere care prezintă defecțiuni tehnice periculoase, astfel cum sunt stabilite prin reglementările specifice în vigoare.",
+      "articol_prevedere": "Art. 3 pct. 8",
+      "articol_sanctiune": "Art. 7 alin. (1), (2), (8), (9), (10)",
+      "sanctiune_principala": {
+        "valoare_min": 10000,
+        "valoare_max": 15000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 15
+      },
+      "masuri_complementare": {
+        "tip_masura": "Imobilizarea vehiculului, anularea inspecției tehnice periodice și reținerea plăcuțelor cu numărul de înmatriculare",
+        "descriere_detaliata": "Măsura de imobilizare a unui vehicul în trafic se aplică de către inspectori sau polițiștii rutieri. Suplimentar față de măsura imobilizării, inspectorii aplică și măsura anulării inspecției tehnice periodice a vehiculului în cauză, dacă vehiculul este înmatriculat în România. Măsura anulării inspecției tehnice periodice se comunică de către structura din care face parte agentul constatator, în toate cazurile, Regiei Autonome Registrul Auto Român, în vederea actualizării bazei naționale de date cu inspecțiile tehnice periodice. În cazul imobilizării vehiculelor înmatriculate în alte state, se ridică plăcuțele cu numărul de înmatriculare până la îndeplinirea condițiilor legale pentru continuarea transportului.",
+        "temei_legal_masura": "Art. 14 alin. (1) lit. e), Art. 14 alin. (4)-(5), Art. 16",
+        "documente_retinute": [
+          "Plăcuțe număr înmatriculare (pentru vehicule străine)"
+        ],
+        "anulare_document": "Inspecția tehnică periodică (pentru vehicule românești)"
+      },
+      "tags": [
+        "cele_mai_grave",
+        "defectiuni_tehnice_periculoase",
+        "imobilizare_vehicul",
+        "anulare_ITP"
+      ]
+    },
+    {
+      "id": "HG1317_2023_ART3_P9",
+      "descriere_finala": "Utilizarea la efectuarea transportului rutier a vehiculelor rutiere fără inspecție tehnică periodică valabilă, efectuată în conformitate cu reglementările în vigoare.",
+      "articol_prevedere": "Art. 3 pct. 9",
+      "articol_sanctiune": "Art. 7 alin. (1), (2), (8), (9), (10)",
+      "sanctiune_principala": {
+        "valoare_min": 10000,
+        "valoare_max": 15000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 15
+      },
+      "masuri_complementare": {
+        "tip_masura": "Suspendarea copiei conforme a licenței comunitare/certificatului de transport în cont propriu/autorizației pentru transportul rutier național contra cost",
+        "descriere_detaliata": "I.S.C.T.R. suspendă copia conformă a licenței comunitare, a certificatului de transport în cont propriu sau a autorizației pentru transportul rutier național contra cost, pentru o perioadă de 30 de zile, după caz. Documentele suspendate se reacordă la expirarea termenului de suspendare și/sau după remedierea cauzelor care au dus la aplicarea acestei sancțiuni, după caz, și după prezentarea documentului de plată a tarifului aferent pentru eliberare.",
+        "temei_legal_masura": "Art. 22 alin. (1) lit. a), Art. 30 alin. (1) lit. a), Art. 57",
+        "durata_suspensie": "30 zile"
+      },
+      "tags": [
+        "cele_mai_grave",
+        "lipsa_ITP_valabila",
+        "suspendare_licenta"
+      ]
+    },
+    {
+      "id": "HG1317_2023_ART4_P11",
+      "descriere_finala": "Efectuarea transportului rutier de mărfuri cu depășirea cu cel puțin 20% a masei totale maxim autorizate pentru vehiculele cu o masă totală maximă autorizată care depășește 12 tone sau cu cel puțin 25% a masei totale maxim autorizate pentru vehicule cu o masă totală maximă autorizată care nu depășește 12 tone sau efectuarea transportului rutier de mărfuri cu depășirea cu cel puțin 20% a masei maxime autorizate pe axe.",
+      "articol_prevedere": "Art. 4 pct. 11",
+      "articol_sanctiune": "Art. 8 alin. (1), (2), (9), (10)",
+      "sanctiune_principala": {
+        "valoare_min": 6000,
+        "valoare_max": 8000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 15
+      },
+      "masuri_complementare": {
+        "tip_masura": "Imobilizarea vehiculului și reținerea plăcuțelor cu numărul de înmatriculare",
+        "descriere_detaliata": "Măsura de imobilizare a unui vehicul în trafic se aplică de către inspectori sau polițiștii rutieri în cazul încălcării prevăzute la art. 4 pct. 11 și/sau în cazul nerespectării dimensiunilor maxime autorizate. În cazul imobilizării vehiculelor înmatriculate în alte state, se ridică plăcuțele cu numărul de înmatriculare până la îndeplinirea condițiilor legale pentru continuarea transportului.",
+        "temei_legal_masura": "Art. 14 alin. (1) lit. b), Art. 16",
+        "documente_retinute": [
+          "Plăcuțe număr înmatriculare (pentru vehicule străine)"
+        ]
+      },
+      "tags": [
+        "incalcari_foarte_grave",
+        "depasire_masa_maxima_autorizata",
+        "depasire_20_25_la_suta",
+        "depasire_masa_pe_axe"
+      ]
+    },
+    {
+      "id": "HG1317_2023_ART5_P9",
+      "descriere_finala": "Efectuarea transportului rutier de mărfuri cu depășirea între 5% și 20% a masei totale maxime autorizate pentru vehicule cu o masă totală maximă autorizată care depășește 12 tone sau între 5% și 25% a masei totale maxime autorizate pentru vehicule cu o masă totală maximă autorizată care nu depășește 12 tone sau efectuarea transportului rutier de mărfuri cu depășirea între 5% și 20% a masei maxime autorizate pe axe.",
+      "articol_prevedere": "Art. 5 pct. 9",
+      "articol_sanctiune": "Art. 9 alin. (1), (2), (10), (11)",
+      "sanctiune_principala": {
+        "valoare_min": 2000,
+        "valoare_max": 4000,
+        "unitate": "RON"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 15
+      },
+      "masuri_complementare": {
+        "tip_masura": "Imobilizarea vehiculului, anularea inspecției tehnice periodice și reținerea plăcuțelor cu numărul de înmatriculare",
+        "descriere_detaliata": "Măsura de imobilizare a unui vehicul în trafic se aplică de către inspectori sau polițiștii rutieri în cazul încălcării prevăzute la art. 5 pct. 9 și/sau în cazul nerespectării dimensiunilor maxime autorizate. Suplimentar față de măsura imobilizării, inspectorii aplică și măsura anulării inspecției tehnice periodice a vehiculului în cauză, dacă vehiculul este înmatriculat în România. Măsura anulării inspecției tehnice periodice se aplică și în cazul constatării încălcării prevăzute la art. 5 pct. 18 (utilizarea vehiculelor cu defecțiuni tehnice majore) și se comunică Regiei Autonome Registrul Auto Român. În cazul vehiculelor înmatriculate în alte state, se ridică plăcuțele cu numărul de înmatriculare.",
+        "temei_legal_masura": "Art. 14 alin. (1) lit. b), Art. 14 alin. (4)-(5), Art. 16",
+        "documente_retinute": [
+          "Plăcuțe număr înmatriculare (pentru vehicule străine)"
+        ],
+        "anulare_document": "Inspecția tehnică periodică (pentru vehicule românești, conform Art. 5 pct. 18)"
+      },
+      "tags": [
+        "incalcari_grave",
+        "depasire_masa_5_20_la_suta",
+        "depasire_masa_5_25_la_suta",
+        "anulare_ITP"
+      ]
+    },
+    {
+      "id": "HG1317_2023_ART6_P2",
+      "descriere_finala": "Efectuarea transportului rutier de mărfuri cu depășirea cu până la 5%, dar mai mult de 750 kg, a masei totale maxime autorizate și/sau a masei maxime autorizate pe axe pentru vehicule cu o masă totală maximă autorizată care depășește 12 tone sau cu până la 5%, dar mai mult de 500 kg, a masei totale maxime autorizate și/sau a masei maxime autorizate pe axe pentru vehicule cu o masă totală maximă autorizată care nu depășește 12 tone.",
+      "articol_prevedere": "Art. 6 pct. 2",
+      "articol_sanctiune": "Art. 10 alin. (1), (2), (10), (11)",
+      "sanctiune_principala": {
+        "valoare_min": 250,
+        "valoare_max": 500,
+        "unitate": "RON",
+        "observatie": "Sancțiunea poate fi avertisment sau amendă"
+      },
+      "beneficiu_plata_jumatate": {
+        "permis": true,
+        "termen_zile": 15
+      },
+      "tags": [
+        "incalcari_minore",
+        "depasire_masa_sub_5_la_suta",
+        "avertisment_sau_amenda"
+      ]
+    }
+  ]
+}
