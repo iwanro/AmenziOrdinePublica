@@ -1,0 +1,75 @@
+{
+  "lege_metadata": {
+    "titlu": "LEGE nr. 38 din 7 aprilie 2014 pentru modificarea și completarea Ordonanței de urgență a Guvernului nr. 31/2011 privind interzicerea achiziționării de la persoane fizice a metalelor feroase și neferoase și a aliajelor acestora utilizate în activitatea feroviară",
+    "emitent": "PARLAMENTUL",
+    "data_publicare": "10 aprilie 2014",
+    "monitorul_oficial": "MONITORUL OFICIAL nr. 262 din 10 aprilie 2014",
+    "data_actualizare": "08 martie 2026"
+  },
+  "fapte": [
+    {
+      "id": 1,
+      "descriere": "achiziționarea de la persoane fizice a metalelor feroase și neferoase și a aliajelor acestora utilizate în activitatea feroviară, rutieră, aeriană, maritimă și fluvială, de transport cu metroul, de transport public și electric de suprafață, de irigații și desecări, în infrastructura pentru furnizarea utilităților de energie electrică, apă-canal, gaze și termoficare, în infrastructura aferentă operațiunilor de extracție, prelucrare, distribuție, transport și comercializare a gazelor naturale, a petrolului și a produselor petroliere, precum și în semnalizarea și dirijarea circulației pe drumurile publice, de tipul șinelor, pieselor aparatelor de cale, materialului mărunt de cale, contrașinelor, ecliselor, părților componente ale instalațiilor de siguranța circulației, cablurilor de semnalizare și telecomunicații, componentelor instalațiilor de electrificare, componentelor materialului rulant, instalațiilor de semnalizare și dirijare a circulației, semnelor de circulație, semafoarelor, capacelor căminelor de vizitare sau părților componente și altele asemenea, parazăpezilor sau părților componente ale unor construcții metalice destinate pentru protecția împotriva viscolului, avalanșelor, inundațiilor sau altor calamități, a căror lipsă produce ori poate produce evenimente sau accidente cu victime omenești",
+      "articol_prevedere": "Art. 1 alin. (2) lit. a) coroborat cu Art. 1 alin. (1)",
+      "articol_sanctiune": "Art. 1 alin. (2^1)",
+      "amenda_min": 100000,
+      "amenda_max": 150000,
+      "permite_jumatate": true,
+      "suma_jumatate": 50000,
+      "competenta": ["Poliția Română", "Jandarmeria Română", "Poliția de Frontieră Română"],
+      "tags": ["metale feroase", "metale neferoase", "infrastructură critică", "achiziție ilegală"],
+      "masuri_complementare": "Anularea autorizației de colectare (dacă este operator economic care realizează activități de colectare a deșeurilor industriale reciclabile).",
+      "confiscare": "Metalele feroase și neferoase și aliajele acestora se confiscă și se valorifică; sumele obținute se fac venit la bugetul de stat dacă nu se identifică partea prejudiciată.",
+      "agravare_fapta": null,
+      "repetare_fapta": "Dacă fapta a fost săvârșită de cel puțin două ori, limitele minime și maxime ale amenzilor se majorează cu 50%."
+    },
+    {
+      "id": 2,
+      "descriere": "achiziționarea de la persoane fizice a metalelor feroase și neferoase și aliajelor acestora, altele decât cele prevăzute la alin. (1), încadrate ca deșeuri conform prevederilor Hotărârii Guvernului nr. 856/2002, care nu provin din gospodăriile proprii ale vânzătorilor",
+      "articol_prevedere": "Art. 1 alin. (2) lit. b) coroborat cu Art. 1 alin. (1^1)",
+      "articol_sanctiune": "Art. 1 alin. (2^1)",
+      "amenda_min": 100000,
+      "amenda_max": 150000,
+      "permite_jumatate": true,
+      "suma_jumatate": 50000,
+      "competenta": ["Poliția Română", "Jandarmeria Română", "Poliția de Frontieră Română", "Garda Națională de Mediu"],
+      "tags": ["deșeuri metalice", "gospodărie proprie", "achiziție ilegală"],
+      "masuri_complementare": "Anularea autorizației de colectare (dacă este operator economic care realizează activități de colectare a deșeurilor industriale reciclabile).",
+      "confiscare": "Metalele feroase și neferoase și aliajele acestora se confiscă și se valorifică; sumele obținute se fac venit la bugetul de stat dacă nu se identifică partea prejudiciată.",
+      "agravare_fapta": null,
+      "repetare_fapta": "Dacă fapta a fost săvârșită de cel puțin două ori, limitele minime și maxime ale amenzilor se majorează cu 50%."
+    },
+    {
+      "id": 3,
+      "descriere": "neefectuarea plății contravalorii bunurilor achiziționate în condițiile alin. (1^1) prin virament bancar, în contul specificat de vânzător, sau cu numerar, cu respectarea dispozițiilor legale în materie fiscală",
+      "articol_prevedere": "Art. 1 alin. (2) lit. c) coroborat cu Art. 1 alin. (1^2) lit. a)",
+      "articol_sanctiune": "Art. 1 alin. (2^2)",
+      "amenda_min": 30000,
+      "amenda_max": 50000,
+      "permite_jumatate": true,
+      "suma_jumatate": 15000,
+      "competenta": ["Poliția Română", "Jandarmeria Română", "Poliția de Frontieră Română", "ANAF"],
+      "tags": ["plată", "virament bancar", "numerar", "obligații financiare"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": "Dacă fapta a fost săvârșită de cel puțin două ori, limitele minime și maxime ale amenzilor se majorează cu 50%."
+    },
+    {
+      "id": 4,
+      "descriere": "necompletarea borderoului de achiziție de deșeuri metalice feroase și neferoase și a aliajelor acestora, conform anexei, care trebuie să cuprindă: datele de identificare ale operatorului economic, datele de identificare ale persoanei fizice, codul deșeurilor, cantitatea predată, valoarea de cumpărare, contul bancar al vânzătorului, numărul chitanței de plată (dacă e cazul) și declarația pe propria răspundere a deținătorului că deșeurile provin din gospodăria proprie",
+      "articol_prevedere": "Art. 1 alin. (2) lit. d) coroborat cu Art. 1 alin. (1^2) lit. b)",
+      "articol_sanctiune": "Art. 1 alin. (2^3)",
+      "amenda_min": 10000,
+      "amenda_max": 30000,
+      "permite_jumatate": true,
+      "suma_jumatate": 5000,
+      "competenta": ["Poliția Română", "Jandarmeria Română", "Poliția de Frontieră Română", "Garda Națională de Mediu", "ANAF"],
+      "tags": ["borderou achiziție", "evidență", "declarație", "date identificare"],
+      "masuri_complementare": null,
+      "confiscare": null,
+      "agravare_fapta": null,
+      "repetare_fapta": "Dacă fapta a fost săvârșită de cel puțin două ori, limitele minime și maxime ale amenzilor se majorează cu 50%."
+    }
+  ]
+}
