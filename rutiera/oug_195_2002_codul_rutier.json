@@ -1,0 +1,1372 @@
+[
+  {
+    "id": "OG195_1",
+    "descriere_mot_a_mot": "conducerea unui autovehicul în mod nejustificat cu o viteză cu cel puțin 10 km/h sub limita minimă obligatorie stabilită pe tronsonul de drum respectiv",
+    "articol_prevedere": "Art. 99 alin. (1) pct. 1",
+    "articol_sanctiune": "Art. 99",
+    "puncte_amenda_min": 2,
+    "puncte_amenda_max": 3,
+    "permite_jumatate": true,
+    "tags": ["viteza", "clasa_I"],
+    "puncte_penalizare": 2
+  },
+  {
+    "id": "OG195_2",
+    "descriere_mot_a_mot": "nerespectarea obligației de semnalizare a manevrei de schimbare a direcției de mers",
+    "articol_prevedere": "Art. 99 alin. (1) pct. 2",
+    "articol_sanctiune": "Art. 99",
+    "puncte_amenda_min": 2,
+    "puncte_amenda_max": 3,
+    "permite_jumatate": true,
+    "tags": ["semnalizare", "clasa_I"],
+    "puncte_penalizare": 2
+  },
+  {
+    "id": "OG195_3",
+    "descriere_mot_a_mot": "nerespectarea de către pietoni a normelor privind circulația pe drumurile publice",
+    "articol_prevedere": "Art. 99 alin. (1) pct. 3",
+    "articol_sanctiune": "Art. 99",
+    "puncte_amenda_min": 2,
+    "puncte_amenda_max": 3,
+    "permite_jumatate": true,
+    "tags": ["pietoni", "clasa_I"]
+  },
+  {
+    "id": "OG195_4",
+    "descriere_mot_a_mot": "neîndeplinirea obligației proprietarului sau a utilizatorului de autovehicul și tractor agricol sau forestier de a solicita documentul de constatare a avariilor produse acestuia în alte împrejurări decât în urma unui accident de circulație",
+    "articol_prevedere": "Art. 99 alin. (1) pct. 4",
+    "articol_sanctiune": "Art. 99",
+    "puncte_amenda_min": 2,
+    "puncte_amenda_max": 3,
+    "permite_jumatate": true,
+    "tags": ["documente", "avarie", "clasa_I"]
+  },
+  {
+    "id": "OG195_5",
+    "descriere_mot_a_mot": "nerespectarea normelor privind circulația pe drumurile publice de către conducătorii coloanelor militare, ai grupurilor organizate autorizate și cortegiilor",
+    "articol_prevedere": "Art. 99 alin. (1) pct. 5",
+    "articol_sanctiune": "Art. 99",
+    "puncte_amenda_min": 2,
+    "puncte_amenda_max": 3,
+    "permite_jumatate": true,
+    "tags": ["coloane", "clasa_I"]
+  },
+  {
+    "id": "OG195_6",
+    "descriere_mot_a_mot": "nerespectarea semnificației semnalului luminos intermediar de forma uneia sau a unor săgeți de culoare galbenă ori alba cu vârful orientat în jos spre dreapta, care anunță schimbarea semnalului de culoare verde în cazul benzilor cu circulație reversibilă",
+    "articol_prevedere": "Art. 99 alin. (1) pct. 6",
+    "articol_sanctiune": "Art. 99",
+    "puncte_amenda_min": 2,
+    "puncte_amenda_max": 3,
+    "permite_jumatate": true,
+    "tags": ["semafor", "benzi_reversibile", "clasa_I"],
+    "puncte_penalizare": 2
+  },
+  {
+    "id": "OG195_7",
+    "descriere_mot_a_mot": "conducerea unui vehicul avariat peste termenul de 30 de zile de la data eliberării documentului de constatare a avariei",
+    "articol_prevedere": "Art. 99 alin. (1) pct. 7",
+    "articol_sanctiune": "Art. 99",
+    "puncte_amenda_min": 2,
+    "puncte_amenda_max": 3,
+    "permite_jumatate": true,
+    "tags": ["vehicul_avariat", "clasa_I"]
+  },
+  {
+    "id": "OG195_8",
+    "descriere_mot_a_mot": "nerespectarea obligației pasagerilor aflați într-un autovehicul și tractor agricol sau forestier de a purta, în timpul deplasării pe drumurile publice, centura sau dispozitivele de siguranță omologate",
+    "articol_prevedere": "Art. 99 alin. (1) pct. 8",
+    "articol_sanctiune": "Art. 99",
+    "puncte_amenda_min": 2,
+    "puncte_amenda_max": 3,
+    "permite_jumatate": true,
+    "tags": ["centura", "pasageri", "clasa_I"],
+    "puncte_penalizare": 2
+  },
+  {
+    "id": "OG195_9",
+    "descriere_mot_a_mot": "nerespectarea obligației de către persoana transportată pe motocicletă sau pe moped de a purta, în timpul deplasării pe drumurile publice, casca de protecție omologată",
+    "articol_prevedere": "Art. 99 alin. (1) pct. 9",
+    "articol_sanctiune": "Art. 99",
+    "puncte_amenda_min": 2,
+    "puncte_amenda_max": 3,
+    "permite_jumatate": true,
+    "tags": ["casca", "motocicleta", "moped", "clasa_I"],
+    "puncte_penalizare": 2
+  },
+  {
+    "id": "OG195_10",
+    "descriere_mot_a_mot": "Nerespectarea obligației conducătorului de vehicul, cu excepția conducătorului de autovehicul destinat transportului public de persoane prin servicii regulate, de a lăsa liber tramvaiul la apropierea acestuia, când drumul are o singură bandă.",
+    "articol_prevedere": "Art. 99 alin. (1) pct. 10",
+    "articol_sanctiune": "Art. 99",
+    "puncte_amenda_min": 2,
+    "puncte_amenda_max": 3,
+    "permite_jumatate": true,
+    "tags": ["tramvai", "prioritate", "clasa_I"]
+  },
+  {
+    "id": "OG195_11",
+    "descriere_mot_a_mot": "nerespectarea regulilor de circulație de către conducătorii de animale",
+    "articol_prevedere": "Art. 99 alin. (1) pct. 11",
+    "articol_sanctiune": "Art. 99",
+    "puncte_amenda_min": 2,
+    "puncte_amenda_max": 3,
+    "permite_jumatate": true,
+    "tags": ["animale", "clasa_I"]
+  },
+  {
+    "id": "OG195_12",
+    "descriere_mot_a_mot": "nerespectarea obligației de a aplica semnul distinctiv pe autovehicule și tractoare agricole sau forestiere conduse de persoane care au mai puțin de un an vechime de la dobândirea permisului de conducere",
+    "articol_prevedere": "Art. 99 alin. (1) pct. 12",
+    "articol_sanctiune": "Art. 99",
+    "puncte_amenda_min": 2,
+    "puncte_amenda_max": 3,
+    "permite_jumatate": true,
+    "tags": ["semn_distinctiv", "beginner", "clasa_I"]
+  },
+  {
+    "id": "OG195_13",
+    "descriere_mot_a_mot": "lăsarea liberă în timpul conducerii a volanului, ghidonului sau a manetei de comanda a vehiculului",
+    "articol_prevedere": "Art. 99 alin. (1) pct. 13",
+    "articol_sanctiune": "Art. 99",
+    "puncte_amenda_min": 2,
+    "puncte_amenda_max": 3,
+    "permite_jumatate": true,
+    "tags": ["conducere", "clasa_I"],
+    "puncte_penalizare": 2
+  },
+  {
+    "id": "OG195_14",
+    "descriere_mot_a_mot": "nerespectarea de către pasageri sau călători a obligațiilor ce le revin atunci când se află în vehicule",
+    "articol_prevedere": "Art. 99 alin. (1) pct. 14",
+    "articol_sanctiune": "Art. 99",
+    "puncte_amenda_min": 2,
+    "puncte_amenda_max": 3,
+    "permite_jumatate": true,
+    "tags": ["pasageri", "clasa_I"]
+  },
+  {
+    "id": "OG195_15",
+    "descriere_mot_a_mot": "nerespectarea semnificației culorii galbene a semaforului",
+    "articol_prevedere": "Art. 99 alin. (1) pct. 15",
+    "articol_sanctiune": "Art. 99",
+    "puncte_amenda_min": 2,
+    "puncte_amenda_max": 3,
+    "permite_jumatate": true,
+    "tags": ["semafor", "clasa_I"],
+    "puncte_penalizare": 2
+  },
+  {
+    "id": "OG195_16",
+    "descriere_mot_a_mot": "conducerea unui vehicul ale cărui plăcuțe cu numărul de înmatriculare sau de înregistrare sunt deteriorate, murdare ori acoperite cu gheata sau zăpada de natura a împiedica identificarea numărului de înmatriculare sau de înregistrare",
+    "articol_prevedere": "Art. 99 alin. (1) pct. 16",
+    "articol_sanctiune": "Art. 99",
+    "puncte_amenda_min": 2,
+    "puncte_amenda_max": 3,
+    "permite_jumatate": true,
+    "tags": ["placute", "clasa_I"]
+  },
+  {
+    "id": "OG195_17",
+    "descriere_mot_a_mot": "conducerea unui vehicul pe ale cărui plăcuțe cu numărul de înmatriculare sau de înregistrare sunt aplicate folii sau alte dispozitive care nu permit citirea numărului de înmatriculare ori plăcuțele nu corespund standardelor în vigoare",
+    "articol_prevedere": "Art. 99 alin. (1) pct. 17",
+    "articol_sanctiune": "Art. 99",
+    "puncte_amenda_min": 2,
+    "puncte_amenda_max": 3,
+    "permite_jumatate": true,
+    "tags": ["placute", "folii", "clasa_I"]
+  },
+  {
+    "id": "OG195_18",
+    "descriere_mot_a_mot": "conducerea pe drumurile publice a unui vehicul cu deficiențe majore, altele decât cele prevăzute la art. 101 alin. (1) pct. 11.",
+    "articol_prevedere": "Art. 99 alin. (1) pct. 18",
+    "articol_sanctiune": "Art. 99",
+    "puncte_amenda_min": 2,
+    "puncte_amenda_max": 3,
+    "permite_jumatate": true,
+    "tags": ["deficiente_majore", "clasa_I"]
+  },
+  {
+    "id": "OG195_19",
+    "descriere_mot_a_mot": "nerespectarea semnalelor polițiștilor de frontieră în punctele de trecere a frontierei de stat a României, ale îndrumătorilor de circulație ai Ministerului Apărării Naționale, ale personalului echipelor mobile din cadrul Autorității Vamale Române, precum și ale organelor fiscale din cadrul Agenției Naționale de Administrare Fiscală, ale agenților de cale ferată, ale persoanelor desemnate pentru dirijarea circulației, pe sectoarele de drum pe care se execută lucrări de reabilitare a acestora, precum și cele ale patrulelor școlare de circulație și ale nevăzătorilor",
+    "articol_prevedere": "Art. 100 alin. (1) pct. 1",
+    "articol_sanctiune": "Art. 100",
+    "puncte_amenda_min": 4,
+    "puncte_amenda_max": 5,
+    "permite_jumatate": true,
+    "tags": ["semnale", "autoritati", "clasa_II"]
+  },
+  {
+    "id": "OG195_20",
+    "descriere_mot_a_mot": "nerespectarea regulilor de utilizare a mijloacelor de avertizare sonoră de către conducătorii de vehicule, cu excepția celor care conduc autovehicule prevăzute la art. 32 alin. (2) lit. a) și b)",
+    "articol_prevedere": "Art. 100 alin. (1) pct. 2",
+    "articol_sanctiune": "Art. 100",
+    "puncte_amenda_min": 4,
+    "puncte_amenda_max": 5,
+    "permite_jumatate": true,
+    "tags": ["avertizare_sonora", "clasa_II"]
+  },
+  {
+    "id": "OG195_21",
+    "descriere_mot_a_mot": "nerespectarea semnificației indicatoarelor și marcajelor de obligare",
+    "articol_prevedere": "Art. 100 alin. (1) pct. 3",
+    "articol_sanctiune": "Art. 100",
+    "puncte_amenda_min": 4,
+    "puncte_amenda_max": 5,
+    "permite_jumatate": true,
+    "tags": ["indicatoare", "marcaje", "clasa_II"],
+    "puncte_penalizare": 3
+  },
+  {
+    "id": "OG195_22",
+    "descriere_mot_a_mot": "neîndeplinirea obligației de a solicita autorității competente, în termenul prevăzut de lege, eliberarea unui nou permis de conducere sau certificat de înmatriculare ori de înregistrare, în cazul în care acestea au fost declarate furate, pierdute, deteriorate sau nu mai corespund din punctul de vedere al formei și conținutului celor în vigoare",
+    "articol_prevedere": "Art. 100 alin. (1) pct. 4",
+    "articol_sanctiune": "Art. 100",
+    "puncte_amenda_min": 4,
+    "puncte_amenda_max": 5,
+    "permite_jumatate": true,
+    "tags": ["documente", "clasa_II"]
+  },
+  {
+    "id": "OG195_23",
+    "descriere_mot_a_mot": "lipsa dotărilor specifice la autovehiculele și tractoarele agricole sau forestiere destinate învățării conducerii auto, prevăzute în reglementările în vigoare",
+    "articol_prevedere": "Art. 100 alin. (1) pct. 5",
+    "articol_sanctiune": "Art. 100",
+    "puncte_amenda_min": 4,
+    "puncte_amenda_max": 5,
+    "permite_jumatate": true,
+    "tags": ["scoala_soferi", "dotari", "clasa_II"]
+  },
+  {
+    "id": "OG195_24",
+    "descriere_mot_a_mot": "conducerea unui autovehicul și tractor agricol sau forestier care are montate anvelope cu alte dimensiuni sau caracteristici decât cele pentru care au fost omologate ori sunt uzate peste limita admisă",
+    "articol_prevedere": "Art. 100 alin. (1) pct. 6",
+    "articol_sanctiune": "Art. 100",
+    "puncte_amenda_min": 4,
+    "puncte_amenda_max": 5,
+    "permite_jumatate": true,
+    "tags": ["anvelope", "clasa_II"]
+  },
+  {
+    "id": "OG195_25",
+    "descriere_mot_a_mot": "conducerea unui autovehicul și tractor agricol sau forestier care, în mers sau staționare, poluează fonic sau emană noxe peste limita legal admisă",
+    "articol_prevedere": "Art. 100 alin. (1) pct. 7",
+    "articol_sanctiune": "Art. 100",
+    "puncte_amenda_min": 4,
+    "puncte_amenda_max": 5,
+    "permite_jumatate": true,
+    "tags": ["poluare", "nox", "clasa_II"]
+  },
+  {
+    "id": "OG195_26",
+    "descriere_mot_a_mot": "nerespectarea traseelor stabilite de poliția rutieră pentru pregătirea practică sau susținerea examenului pentru obținerea permisului de conducere",
+    "articol_prevedere": "Art. 100 alin. (1) pct. 8",
+    "articol_sanctiune": "Art. 100",
+    "puncte_amenda_min": 4,
+    "puncte_amenda_max": 5,
+    "permite_jumatate": true,
+    "tags": ["trasee", "examen", "clasa_II"]
+  },
+  {
+    "id": "OG195_27",
+    "descriere_mot_a_mot": "nerespectarea obligației de către conducătorul vehiculului, cu excepția conducătorului de autovehicul destinat transportului public de persoane prin servicii regulate, de a circula pe un singur șir, indiferent de direcția de deplasare, întro intersecție în care circulă și tramvaie și de a lăsa liber traseul tramvaiului atunci când spațiul dintre șina din dreapta și trotuar nu permite circulația pe două șiruri",
+    "articol_prevedere": "Art. 100 alin. (1) pct. 9",
+    "articol_sanctiune": "Art. 100",
+    "puncte_amenda_min": 4,
+    "puncte_amenda_max": 5,
+    "permite_jumatate": true,
+    "tags": ["tramvai", "intersectie", "clasa_II"]
+  },
+  {
+    "id": "OG195_28",
+    "descriere_mot_a_mot": "efectuarea de către conducătorul unui vehicul a unor activități de natura a-i distrage atenția de la conducere ori folosirea instalațiilor de sonorizare la un nivel de zgomot care afectează deplasarea în siguranță a lui și a celorlalți participanți la trafic",
+    "articol_prevedere": "Art. 100 alin. (1) pct. 10",
+    "articol_sanctiune": "Art. 100",
+    "puncte_amenda_min": 4,
+    "puncte_amenda_max": 5,
+    "permite_jumatate": true,
+    "tags": ["distragere_atentie", "sonorizare", "clasa_II"]
+  },
+  {
+    "id": "OG195_29",
+    "descriere_mot_a_mot": "nerespectarea obligației ce revine conducătorului de motocicletă sau moped de a avea în funcțiune, în timpul zilei, luminile de întâlnire în circulația pe drumurile publice",
+    "articol_prevedere": "Art. 100 alin. (1) pct. 11",
+    "articol_sanctiune": "Art. 100",
+    "puncte_amenda_min": 4,
+    "puncte_amenda_max": 5,
+    "permite_jumatate": true,
+    "tags": ["lumini", "motocicleta", "moped", "clasa_II"]
+  },
+  {
+    "id": "OG195_30",
+    "descriere_mot_a_mot": "neutilizarea echipamentului de protecție-avertizare fluorescent-reflectorizant de către persoana care execută lucrări în zona drumului public sau de către agentul de cale ferată care asigură trecerea la nivel",
+    "articol_prevedere": "Art. 100 alin. (1) pct. 12",
+    "articol_sanctiune": "Art. 100",
+    "puncte_amenda_min": 4,
+    "puncte_amenda_max": 5,
+    "permite_jumatate": true,
+    "tags": ["echipament_protectie", "clasa_II"]
+  },
+  {
+    "id": "OG195_31",
+    "descriere_mot_a_mot": "conducerea unui autovehicul, tractor agricol sau forestier ori tramvai care nu este dotat cu trusă medicală, două triunghiuri reflectorizante și stingător pentru incendii, omologate",
+    "articol_prevedere": "Art. 100 alin. (1) pct. 13",
+    "articol_sanctiune": "Art. 100",
+    "puncte_amenda_min": 4,
+    "puncte_amenda_max": 5,
+    "permite_jumatate": true,
+    "tags": ["dotari", "trusa_medicala", "clasa_II"]
+  },
+  {
+    "id": "OG195_32",
+    "descriere_mot_a_mot": "nerespectarea normelor privind circulația bicicletelor sau a trotinetelor electrice, cu excepția cazurilor prevăzute la art. 101 alin. (1) pct. 8.",
+    "articol_prevedere": "Art. 100 alin. (1) pct. 14",
+    "articol_sanctiune": "Art. 100",
+    "puncte_amenda_min": 4,
+    "puncte_amenda_max": 5,
+    "permite_jumatate": true,
+    "tags": ["biciclete", "trotinete", "clasa_II"]
+  },
+  {
+    "id": "OG195_33",
+    "descriere_mot_a_mot": "depășirea coloanelor de vehicule oprite la culoarea roșie a semaforului sau la trecerile la nivel cu calea ferată",
+    "articol_prevedere": "Art. 100 alin. (3) lit. a)",
+    "articol_sanctiune": "Art. 100",
+    "puncte_amenda_min": 4,
+    "puncte_amenda_max": 5,
+    "permite_jumatate": true,
+    "tags": ["depasire", "semafor_rosu", "cale_ferata", "clasa_II", "suspendare"],
+    "puncte_penalizare": 3,
+    "suspendare_permis": {
+      "durata_zile": 30,
+      "articol_temei": "Art. 100 alin. (3)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  },
+  {
+    "id": "OG195_34",
+    "descriere_mot_a_mot": "nerespectarea semnificației culorii roșii a semaforului",
+    "articol_prevedere": "Art. 100 alin. (3) lit. d)",
+    "articol_sanctiune": "Art. 100",
+    "puncte_amenda_min": 4,
+    "puncte_amenda_max": 5,
+    "permite_jumatate": true,
+    "tags": ["semafor_rosu", "clasa_II", "suspendare"],
+    "puncte_penalizare": 3,
+    "suspendare_permis": {
+      "durata_zile": 30,
+      "articol_temei": "Art. 100 alin. (3)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  },
+  {
+    "id": "OG195_35",
+    "descriere_mot_a_mot": "nerespectarea semnalelor, indicațiilor și dispozițiilor polițistului rutier aflat în exercitarea atribuțiilor de serviciu",
+    "articol_prevedere": "Art. 100 alin. (3) lit. f)",
+    "articol_sanctiune": "Art. 100",
+    "puncte_amenda_min": 4,
+    "puncte_amenda_max": 5,
+    "permite_jumatate": true,
+    "tags": ["politist", "semnale", "clasa_II", "suspendare"],
+    "puncte_penalizare": 3,
+    "suspendare_permis": {
+      "durata_zile": 30,
+      "articol_temei": "Art. 100 alin. (3)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  },
+  {
+    "id": "OG195_36",
+    "descriere_mot_a_mot": "neprezentarea la unitatea de poliție competentă pe raza căreia s-a produs un accident de circulație din care au rezultat numai pagube materiale, cu excepția cazurilor prevăzute la art. 79 alin. (2).",
+    "articol_prevedere": "Art. 100 alin. (3) lit. g)",
+    "articol_sanctiune": "Art. 100",
+    "puncte_amenda_min": 4,
+    "puncte_amenda_max": 5,
+    "permite_jumatate": true,
+    "tags": ["accident", "pagube_materiale", "clasa_II", "suspendare"],
+    "puncte_penalizare": 3,
+    "suspendare_permis": {
+      "durata_zile": 30,
+      "articol_temei": "Art. 100 alin. (3)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  },
+  {
+    "id": "OG195_37",
+    "descriere_mot_a_mot": "folosirea telefoanelor mobile atunci când conducătorii de vehicule se află în timpul deplasării pe drumurile publice, cu excepția celor prevăzute cu dispozitive tip «mâini libere», concomitent cu încălcarea unei reguli pentru circulația vehiculelor.",
+    "articol_prevedere": "Art. 100 alin. (3) lit. h)",
+    "articol_sanctiune": "Art. 100",
+    "puncte_amenda_min": 4,
+    "puncte_amenda_max": 5,
+    "permite_jumatate": true,
+    "tags": ["telefon", "maini_libere", "clasa_II", "suspendare"],
+    "puncte_penalizare": 3,
+    "suspendare_permis": {
+      "durata_zile": 30,
+      "articol_temei": "Art. 100 alin. (3)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  },
+  {
+    "id": "OG195_38",
+    "descriere_mot_a_mot": "adoptarea unui comportament agresiv în conducerea vehiculelor pe drumurile publice.",
+    "articol_prevedere": "Art. 100 alin. (3) lit. i)",
+    "articol_sanctiune": "Art. 100",
+    "puncte_amenda_min": 4,
+    "puncte_amenda_max": 5,
+    "permite_jumatate": true,
+    "tags": ["comportament_agresiv", "clasa_II", "suspendare"],
+    "puncte_penalizare": 3,
+    "suspendare_permis": {
+      "durata_zile": 30,
+      "articol_temei": "Art. 100 alin. (3)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  },
+  {
+    "id": "OG195_39",
+    "descriere_mot_a_mot": "conducerea unui autovehicul și tractor agricol sau forestier cu permis de conducere a cărui valabilitate a expirat",
+    "articol_prevedere": "Art. 101 alin. (1) pct. 1",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["permis_expirat", "clasa_III"],
+    "puncte_penalizare": 4,
+    "retinere_documente": ["Permis"],
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  },
+  {
+    "id": "OG195_40",
+    "descriere_mot_a_mot": "neîndeplinirea obligațiilor de preschimbare a certificatului de înmatriculare sau de înregistrare a autovehiculului și tractorului agricol sau forestier ori remorcii în cazurile prevăzute de lege",
+    "articol_prevedere": "Art. 101 alin. (1) pct. 4",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["certificat_inmatriculare", "clasa_III"]
+  },
+  {
+    "id": "OG195_41",
+    "descriere_mot_a_mot": "nepăstrarea distantei laterale suficiente față de vehiculul care circulă din sens opus",
+    "articol_prevedere": "Art. 101 alin. (1) pct. 5",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["distanta", "sens_opus", "clasa_III"]
+  },
+  {
+    "id": "OG195_42",
+    "descriere_mot_a_mot": "nerespectarea de către conducătorul de vehicul a semnificației indicatoarelor și marcajelor de interzicere sau restricție ori a celor temporare, cu excepția celor care interzic accesul sau depășirea care se încadrează în altă clasă de sancțiuni",
+    "articol_prevedere": "Art. 101 alin. (1) pct. 6",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["indicatoare", "interzicere", "clasa_III"],
+    "puncte_penalizare": 4
+  },
+  {
+    "id": "OG195_43",
+    "descriere_mot_a_mot": "nerespectarea obligației de a permite părăsirea intersecției conducătorului vehiculului rămas în interiorul acesteia",
+    "articol_prevedere": "Art. 101 alin. (1) pct. 7",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["intersectie", "blocare", "clasa_III"]
+  },
+  {
+    "id": "OG195_44",
+    "descriere_mot_a_mot": "conducerea unei biciclete sau a unei trotinete electrice pe drumurile publice fără mijloace de iluminare și dispozitive reflectorizant-fluorescente în stare de funcționare pe timp de noapte ori fără îndeplinirea condițiilor tehnice minime stabilite prin regulament, conducerea unei biciclete sau a unei trotinete electrice pe autostradă, nerespectarea de către conducătorul unei biciclete sau trotinete electrice a interdicției de trecere la culoarea roșie a semaforului, a semnalelor agentului de cale ferată, la trecerea la nivel cu o cale ferată industrială, semnalizată corespunzător ori a semnalelor, indicațiilor ori dispozițiilor polițistului rutier, nerespectarea de către conducătorul unei biciclete sau trotinete electrice a interdicției privind circulația sub influența alcoolului, a produselor ori substanțelor stupefiante ori a medicamentelor cu efecte similare acestora, a interdicției privind interacțiunea motrică directă cu un alt vehicul aflat în mers ori cu persoane aflate în acesta ori a interdicției privind circulația în interiorul sau în afara localităților fără a purta îmbrăcăminte cu elemente fluorescent-reflectorizante, stabilite prin regulament, sau nerespectarea de către conducătorul unei biciclete sau trotinete electrice a obligației de a circula cu viteză redusă, a obligației de a se asigura că nu se apropie un vehicul feroviar sau a obligației de a opri la trecerea la nivel cu calea ferată, stabilite prin regulament",
+    "articol_prevedere": "Art. 101 alin. (1) pct. 8",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["bicicleta", "trotineta", "iluminare", "clasa_III"]
+  },
+  {
+    "id": "OG195_45",
+    "descriere_mot_a_mot": "nereducerea vitezei în cazurile prevăzute de regulament",
+    "articol_prevedere": "Art. 101 alin. (1) pct. 9",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["viteza", "clasa_III"]
+  },
+  {
+    "id": "OG195_46",
+    "descriere_mot_a_mot": "montarea la autovehicul și tractor agricol sau forestier, remorcă sau tramvai a luminilor de altă culoare sau intensitate, a altor lumini ori dispozitive de avertizare sonoră sau accesorii ori modificări neomologate",
+    "articol_prevedere": "Art. 101 alin. (1) pct. 10",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["lumini", "modificari", "clasa_III"]
+  },
+  {
+    "id": "OG195_47",
+    "descriere_mot_a_mot": "conducerea unui autovehicul, tractor agricol sau forestier, remorcă sau tramvai cu deficiențe majore la sistemul de frânare sau mecanismul de direcție, la sistemul de iluminare sau de avertizare sonoră ori când acestea lipsesc",
+    "articol_prevedere": "Art. 101 alin. (1) pct. 11",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["deficiente_majore", "franare", "directie", "clasa_III"],
+    "retinere_documente": ["Certificat"],
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 112 alin. (2)"
+    }
+  },
+  {
+    "id": "OG195_48",
+    "descriere_mot_a_mot": "nerespectarea regulilor în cazul imobilizării involuntare în pasaje subterane și tuneluri",
+    "articol_prevedere": "Art. 101 alin. (1) pct. 12",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["tunel", "pasaj", "clasa_III"]
+  },
+  {
+    "id": "OG195_49",
+    "descriere_mot_a_mot": "nerespectarea regulilor privind transportul persoanelor și al obiectelor în sau pe vehicule",
+    "articol_prevedere": "Art. 101 alin. (1) pct. 13",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["transport", "clasa_III"]
+  },
+  {
+    "id": "OG195_50",
+    "descriere_mot_a_mot": "pornirea de pe loc a autovehiculului sau tramvaiului cu ușile deschise, circulația cu ușile deschise ori deschiderea acestora în timpul mersului; deschiderea ușilor autovehiculului atunci când acesta este oprit sau staționat, fără asigurarea că nu se pune în pericol siguranța deplasării celorlalți participanți la trafic",
+    "articol_prevedere": "Art. 101 alin. (1) pct. 14",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["usi", "clasa_III"]
+  },
+  {
+    "id": "OG195_51",
+    "descriere_mot_a_mot": "oprirea autovehiculelor destinate transportului public de persoane în alte locuri decât în stațiile semnalizate ca atare",
+    "articol_prevedere": "Art. 101 alin. (1) pct. 15",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["transport_public", "oprire", "clasa_III"]
+  },
+  {
+    "id": "OG195_52",
+    "descriere_mot_a_mot": "nerespectarea regulilor privind circulația pe benzi",
+    "articol_prevedere": "Art. 101 alin. (1) pct. 16",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["benzi", "clasa_III"],
+    "puncte_penalizare": 4
+  },
+  {
+    "id": "OG195_53",
+    "descriere_mot_a_mot": "conducerea pe drumurile publice a vehiculelor cu două roți, fără a se asigura contactul cu partea carosabilă pe ambele roți.",
+    "articol_prevedere": "Art. 101 alin. (1) pct. 17",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["doua_roti", "clasa_III"]
+  },
+  {
+    "id": "OG195_54",
+    "descriere_mot_a_mot": "nerespectarea obligației conducătorului de vehicul de a avea asupra să documentele prevăzute la art. 35 alin. (2).",
+    "articol_prevedere": "Art. 101 alin. (1) pct. 18",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["documente", "clasa_III"],
+    "puncte_penalizare": 4
+  },
+  {
+    "id": "OG195_55",
+    "descriere_mot_a_mot": "folosirea telefoanelor mobile atunci când conducătorii de vehicule se află în timpul deplasării pe drumurile publice, cu excepția celor prevăzute cu dispozitive tip «mâini libere»",
+    "articol_prevedere": "Art. 101 alin. (1) pct. 19",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["telefon", "maini_libere", "clasa_III"],
+    "puncte_penalizare": 4
+  },
+  {
+    "id": "OG195_56",
+    "descriere_mot_a_mot": "conducerea pe drumurile publice a altor vehicule decât cele care trebuie înmatriculate sau înregistrate, vehiculele trase sau împinse cu mâna, bicicletele și trotinetele electrice.",
+    "articol_prevedere": "Art. 101 alin. (1) pct. 20",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["vehicul_neinmatriculat", "clasa_III"]
+  },
+  {
+    "id": "OG195_57",
+    "descriere_mot_a_mot": "nerespectarea obligației de a menține permanent curate parbrizul, luneta și geamurile laterale ale autovehiculului, tractorului agricol sau forestier, dacă prin aceasta se restrânge sau se estompează vizibilitatea în timpul mersului.",
+    "articol_prevedere": "Art. 101 alin. (1) pct. 21",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["vizibilitate", "clasa_III"]
+  },
+  {
+    "id": "OG195_58",
+    "descriere_mot_a_mot": "nerespectarea regulilor privind trecerea la culoarea roșie a semaforului, dacă prin aceasta s-a produs un accident de circulație din care a/au rezultat numai avarierea unui vehicul sau alte pagube materiale",
+    "articol_prevedere": "Art. 101 alin. (3) lit. a)",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["semafor_rosu", "accident", "clasa_III", "suspendare"],
+    "puncte_penalizare": 4,
+    "suspendare_permis": {
+      "durata_zile": 60,
+      "articol_temei": "Art. 101 alin. (3)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  },
+  {
+    "id": "OG195_59",
+    "descriere_mot_a_mot": "nerespectarea interdicției temporare de circulație instituite pe un anumit segment de drum public",
+    "articol_prevedere": "Art. 101 alin. (3) lit. b)",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["interdictie_temporara", "clasa_III", "suspendare"],
+    "puncte_penalizare": 4,
+    "suspendare_permis": {
+      "durata_zile": 60,
+      "articol_temei": "Art. 101 alin. (3)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  },
+  {
+    "id": "OG195_60",
+    "descriere_mot_a_mot": "nerespectarea regulilor de circulație la trecerea unei coloane oficiale sau intercalarea într-o astfel de coloana",
+    "articol_prevedere": "Art. 101 alin. (3) lit. c)",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["coloana_oficiala", "clasa_III", "suspendare"],
+    "puncte_penalizare": 4,
+    "suspendare_permis": {
+      "durata_zile": 60,
+      "articol_temei": "Art. 101 alin. (3)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  },
+  {
+    "id": "OG195_61",
+    "descriere_mot_a_mot": "circulația pe sens opus, cu excepția cazurilor în care se efectuează regulamentar manevra de depășire.",
+    "articol_prevedere": "Art. 101 alin. (3) lit. d)",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["sens_opus", "clasa_III", "suspendare"],
+    "puncte_penalizare": 4,
+    "suspendare_permis": {
+      "durata_zile": 60,
+      "articol_temei": "Art. 101 alin. (3)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  },
+  {
+    "id": "OG195_62",
+    "descriere_mot_a_mot": "neacordarea priorității de trecere pietonilor angajați în traversarea regulamentară a drumului public prin locurile special amenajate și semnalizate, aflați pe sensul de deplasare a autovehiculului, tractorului agricol sau forestier ori tramvaiului",
+    "articol_prevedere": "Art. 101 alin. (3) lit. e)",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["prioritate", "pietoni", "clasa_III", "suspendare"],
+    "puncte_penalizare": 4,
+    "suspendare_permis": {
+      "durata_zile": 60,
+      "articol_temei": "Art. 101 alin. (3)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  },
+  {
+    "id": "OG195_63",
+    "descriere_mot_a_mot": "neacordarea priorității de trecere vehiculelor care au acest drept",
+    "articol_prevedere": "Art. 101 alin. (3) lit. f)",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["prioritate", "vehicule", "clasa_III", "suspendare"],
+    "puncte_penalizare": 4,
+    "suspendare_permis": {
+      "durata_zile": 60,
+      "articol_temei": "Art. 101 alin. (3)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  },
+  {
+    "id": "OG195_64",
+    "descriere_mot_a_mot": "nerespectarea regulilor privind depășirea",
+    "articol_prevedere": "Art. 101 alin. (3) lit. g)",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["depasire", "clasa_III", "suspendare"],
+    "puncte_penalizare": 4,
+    "suspendare_permis": {
+      "durata_zile": 60,
+      "articol_temei": "Art. 101 alin. (3)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  },
+  {
+    "id": "OG195_65",
+    "descriere_mot_a_mot": "adoptarea unui comportament agresiv în conducerea vehiculelor pe drumurile publice, dacă prin aceasta s-a produs un accident de circulație din care au rezultat avarierea unui vehicul sau alte pagube materiale.",
+    "articol_prevedere": "Art. 101 alin. (3) lit. h)",
+    "articol_sanctiune": "Art. 101",
+    "puncte_amenda_min": 6,
+    "puncte_amenda_max": 8,
+    "permite_jumatate": true,
+    "tags": ["comportament_agresiv", "accident", "clasa_III", "suspendare"],
+    "puncte_penalizare": 4,
+    "suspendare_permis": {
+      "durata_zile": 60,
+      "articol_temei": "Art. 101 alin. (3)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  },
+  {
+    "id": "OG195_66",
+    "descriere_mot_a_mot": "conducerea pe drumurile publice a unui vehicul care prezintă deficiențe periculoase sau al cărui termen de valabilitate a inspecției tehnice periodice a expirat",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 1",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["deficiente_periculoase", "itp_expirat", "clasa_IV"],
+    "puncte_penalizare": 6,
+    "retinere_documente": ["Certificat"],
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 112 alin. (2)"
+    }
+  },
+  {
+    "id": "OG195_67",
+    "descriere_mot_a_mot": "conducerea unui vehicul cu tracțiune animală neînregistrat",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 3",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["tractiune_animala", "neinregistrat", "clasa_IV"]
+  },
+  {
+    "id": "OG195_68",
+    "descriere_mot_a_mot": "neefectuarea radierii vehiculelor din evidenta, în cazurile și termenele prevăzute de lege",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 4",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["radiere", "clasa_IV"]
+  },
+  {
+    "id": "OG195_69",
+    "descriere_mot_a_mot": "conducerea unui autovehicul destinat transportului public de persoane sau de mărfuri fără a deține atestatul profesional",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 5",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["atestat_profesional", "clasa_IV"],
+    "puncte_penalizare": 6
+  },
+  {
+    "id": "OG195_70",
+    "descriere_mot_a_mot": "neefectuarea verificării medicale periodice",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 6",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["verificare_medicala", "clasa_IV"]
+  },
+  {
+    "id": "OG195_71",
+    "descriere_mot_a_mot": "deținerea simultană a două permise de conducere naționale, dintre care unul eliberat de o autoritate competentă străină",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 8",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["permise_multiple", "clasa_IV"]
+  },
+  {
+    "id": "OG195_72",
+    "descriere_mot_a_mot": "lipirea de afișe, inscripții sau înscrisuri pe indicatoarele sau dispozitivele ce servesc la semnalizarea rutieră, inclusiv pe suporturile acestora",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 9",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["afise", "semnalizare", "clasa_IV"]
+  },
+  {
+    "id": "OG195_73",
+    "descriere_mot_a_mot": "deținerea, montarea sau folosirea în circulația pe drumurile publice a dispozitivelor care perturbă funcționarea normală a dispozitivelor de măsurare a vitezei",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 11",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["radar_detector", "clasa_IV"],
+    "confiscare": "dispozitivele care perturbă funcționarea mijloacelor tehnice de supraveghere a traficului"
+  },
+  {
+    "id": "OG195_74",
+    "descriere_mot_a_mot": "folosirea nejustificată a mijloacelor speciale de avertizare luminoase sau sonore de către conducătorii autovehiculelor care au regim de circulație prioritară",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 12",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["avertizare_speciala", "clasa_IV"]
+  },
+  {
+    "id": "OG195_75",
+    "descriere_mot_a_mot": "nerespectarea de către proprietarul sau deținătorul mandatat al unui vehicul a obligației de a comunica, în termenul indicat în cuprinsul solicitării poliției rutiere sau poliției locale, după caz, datele de identificare ale persoanei căreia i-a încredințat vehiculul pentru a-l conduce pe drumurile publice, prevăzute la art. 39",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 14",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["date_identificare", "clasa_IV"]
+  },
+  {
+    "id": "OG195_76",
+    "descriere_mot_a_mot": "neîndeplinirea obligațiilor ce îi revin conducătorului de vehicule care efectuează transport public de persoane sau de mărfuri",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 15",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["transport_public", "clasa_IV"]
+  },
+  {
+    "id": "OG195_77",
+    "descriere_mot_a_mot": "nerespectarea obligațiilor ce revin conducătorilor de vehicule cu tracțiune animala",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 16",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["tractiune_animala", "clasa_IV"]
+  },
+  {
+    "id": "OG195_78",
+    "descriere_mot_a_mot": "nerespectarea dispozițiilor art. 74 privind circulația pe autostrăzi",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 17",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["autostrada", "clasa_IV"],
+    "puncte_penalizare": 6
+  },
+  {
+    "id": "OG195_79",
+    "descriere_mot_a_mot": "efectuarea transportului de mărfuri sau persoane cu autovehicule și tractoare agricole sau forestiere și remorci care circulă în baza autorizației pentru probe",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 19",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["autorizatie_probe", "clasa_IV"]
+  },
+  {
+    "id": "OG195_80",
+    "descriere_mot_a_mot": "conducerea, punerea în circulație sau tractarea unui vehicul supus înmatriculării, în baza autorizației pentru probe eliberate în condițiile art. 13 alin. (7), în afara județului sau a municipiului București în raza căruia își are sediul titularul autorizației",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 20",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["autorizatie_probe", "clasa_IV"]
+  },
+  {
+    "id": "OG195_81",
+    "descriere_mot_a_mot": "nerespectarea semnificației luminii roșii a dispozitivelor instalate pentru semnalizarea benzilor cu circulație reversibilă",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 21",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["benzi_reversibile", "clasa_IV"]
+  },
+  {
+    "id": "OG195_82",
+    "descriere_mot_a_mot": "săvârșirea de către conducătorii de vehicule sau pasagerii acestora de gesturi obscene, proferarea de injurii, adresarea de expresii jignitoare sau vulgare participanților la trafic",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 22",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["gesturi_obscene", "clasa_IV"]
+  },
+  {
+    "id": "OG195_83",
+    "descriere_mot_a_mot": "aruncarea, lăsarea ori abandonarea pe drumul public de obiecte, materiale, substanțe sau vehicule, după caz",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 23",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["abandon", "clasa_IV"]
+  },
+  {
+    "id": "OG195_84",
+    "descriere_mot_a_mot": "nerespectarea regulilor privind remorcarea vehiculelor",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 24",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["remorcare", "clasa_IV"]
+  },
+  {
+    "id": "OG195_85",
+    "descriere_mot_a_mot": "neprezentarea, în mod nejustificat, în termenul stabilit la unitatea de poliție rutieră la care au fost invitate pentru soluționarea oricărei probleme legate de calitatea de participant la trafic sau de proprietar ori utilizator de vehicul",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 25",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["neprezentare_politie", "clasa_IV"]
+  },
+  {
+    "id": "OG195_86",
+    "descriere_mot_a_mot": "pătrunderea pe drumurile publice modernizate cu un vehicul care are pe roți sau pe caroserie noroi ce se depune pe partea carosabilă ori din care cad sau se scurg produse, substanțe sau materiale ce pun în pericol siguranța circulației",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 26",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["noroi", "materiale_periculoase", "clasa_IV"]
+  },
+  {
+    "id": "OG195_87",
+    "descriere_mot_a_mot": "transportul animalelor pe locurile din față ale vehiculelor",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 27",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["transport_animale", "clasa_IV"]
+  },
+  {
+    "id": "OG195_88",
+    "descriere_mot_a_mot": "conducerea autovehiculului pe drumurile publice acoperite cu zăpadă, gheață sau polei, fără ca acesta să fie dotat cu anvelope de iarnă, iar în cazul autovehiculului de transport marfă cu o masă totală maximă autorizată mai mare de 3,5 tone și al autovehiculului de transport persoane cu mai mult de 9 locuri pe scaune, inclusiv cel al conducătorului auto, fără ca acestea să fie echipate cu anvelope de iarnă pe roțile axei/axelor de tracțiune sau fără a avea montate pe aceste roți lanțuri sau alte echipamente antiderapante certificate",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 28",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["anvelope_iarna", "clasa_IV"],
+    "retinere_documente": ["Certificat"],
+    "detalii_dovada": {
+      "drept_circulatie": "NU",
+      "valabilitate_zile": 0,
+      "temei_legal": "Art. 112 alin. (2)"
+    }
+  },
+  {
+    "id": "OG195_89",
+    "descriere_mot_a_mot": "neaplicarea, în partea din spate a unui autovehicul și tractor agricol sau forestier înmatriculat într-un stat care nu este semnatar al Convenției asupra circulației rutiere, a semnului distinctiv al statului care a efectuat înmatricularea",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 29",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["semn_distinctiv", "clasa_IV"]
+  },
+  {
+    "id": "OG195_90",
+    "descriere_mot_a_mot": "lovirea, deteriorarea sau ocolirea porților de gabarit instalate înaintea trecerii la nivel cu calea ferată",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 31",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["porti_gabarit", "clasa_IV"]
+  },
+  {
+    "id": "OG195_91",
+    "descriere_mot_a_mot": "lovirea și/sau deteriorarea pasajelor superioare de pe drumurile publice, prin nerespectarea gabaritului de liberă trecere semnalizat corespunzător",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 32",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["pasaje_superioare", "gabarit", "clasa_IV"]
+  },
+  {
+    "id": "OG195_92",
+    "descriere_mot_a_mot": "montarea pe autovehicul a unui sistem antifurt sonor a cărui durată a semnalului depășește mai mult de un minut consecutiv, iar intensitatea semnalului depășește pragul fonic prevăzut de lege",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 33",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["antifurt", "zgomot", "clasa_IV"]
+  },
+  {
+    "id": "OG195_93",
+    "descriere_mot_a_mot": "neaplicarea, în partea din spate a vehiculului care efectuează transport public de persoane sau de mărfuri, a indicatorului cu limitele de viteză admise pentru categoria din care face parte vehiculul condus",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 34",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["indicator_viteza", "clasa_IV"]
+  },
+  {
+    "id": "OG195_94",
+    "descriere_mot_a_mot": "aplicarea tratamentelor chimice sau a foliilor pe parbriz, luneta sau pe geamurile laterale, cu excepția celor omologate și/sau certificate de către autoritatea competentă și care sunt marcate corespunzător",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 35",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["folii", "parbriz", "clasa_IV"],
+    "retinere_documente": ["Certificat"],
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 112 alin. (2)"
+    }
+  },
+  {
+    "id": "OG195_95",
+    "descriere_mot_a_mot": "aplicarea de afișe, reclame publicitare, înscrisuri sau accesorii pe parbriz, lunetă sau geamurile laterale care restrâng sau estompează vizibilitatea sub limita legal admisă ori împiedică sau diminuează eficacitatea dispozitivelor de iluminare și semnalizare luminoasă ori citirea numărului de înmatriculare",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 36",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["afișe", "vizibilitate", "clasa_IV"],
+    "retinere_documente": ["Certificat"],
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 112 alin. (2)"
+    }
+  },
+  {
+    "id": "OG195_96",
+    "descriere_mot_a_mot": "încălcarea obligațiilor referitoare la circulația pe drumurile publice a vehiculelor care transportă produse sau mărfuri periculoase ori a vehiculelor cu masa și/sau gabaritul depășit.",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 37",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["marfuri_periculoase", "gabarit_depășit", "clasa_IV"],
+    "imobilizare_vehicul": {
+      "temei_legal": "Art. 117 alin. (1) lit. c)"
+    }
+  },
+  {
+    "id": "OG195_97",
+    "descriere_mot_a_mot": "nerespectarea obligației de comunicare prevăzute la art. 80^1 și la art. 81 alin. (3) sau comunicarea de date inexacte ori incomplete.",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 38",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["comunicare", "date_incomplete", "clasa_IV"]
+  },
+  {
+    "id": "OG195_98",
+    "descriere_mot_a_mot": "conducerea unui vehicul a cărui înmatriculare este suspendată.",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 39",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["inmatriculare_suspendata", "clasa_IV"]
+  },
+  {
+    "id": "OG195_99",
+    "descriere_mot_a_mot": "neîndeplinirea de către medic a obligației prevăzute la art. 22 alin. (6) și alin. (6^2).",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 40",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["medic", "obligatii", "clasa_IV"]
+  },
+  {
+    "id": "OG195_100",
+    "descriere_mot_a_mot": "conducerea sub influenta băuturilor alcoolice, dacă fapta nu constituie, potrivit legii, infracțiune",
+    "articol_prevedere": "Art. 102 alin. (3) lit. a)",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["alcool", "clasa_IV", "suspendare"],
+    "puncte_penalizare": 6,
+    "suspendare_permis": {
+      "durata_zile": 90,
+      "articol_temei": "Art. 102 alin. (3)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "NU",
+      "valabilitate_zile": 0,
+      "temei_legal": "Art. 111 alin. (3)"
+    }
+  },
+  {
+    "id": "OG195_101",
+    "descriere_mot_a_mot": "conducerea vehiculului cu deficiențe periculoase la sistemul de frânare sau la mecanismul de direcție",
+    "articol_prevedere": "Art. 102 alin. (3) lit. b)",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["deficiente_periculoase", "franare", "directie", "clasa_IV", "suspendare"],
+    "puncte_penalizare": 6,
+    "suspendare_permis": {
+      "durata_zile": 90,
+      "articol_temei": "Art. 102 alin. (3)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "NU",
+      "valabilitate_zile": 0,
+      "temei_legal": "Art. 111 alin. (3)"
+    },
+    "imobilizare_vehicul": {
+      "temei_legal": "Art. 117 alin. (1) lit. b)"
+    }
+  },
+  {
+    "id": "OG195_102",
+    "descriere_mot_a_mot": "depășirea cu mai mult de 50 km/h a vitezei maxime admise pe sectorul de drum respectiv și pentru categoria din care face parte autovehiculul condus, constatată, potrivit legii, cu mijloace tehnice omologate și verificate metrologic.",
+    "articol_prevedere": "Art. 102 alin. (3) lit. e)",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["viteza", "exces_50", "clasa_IV", "suspendare"],
+    "puncte_penalizare": 6,
+    "suspendare_permis": {
+      "durata_zile": 90,
+      "articol_temei": "Art. 102 alin. (3)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  },
+  {
+    "id": "OG195_103",
+    "descriere_mot_a_mot": "deținerea, montarea sau folosirea în circulația pe drumurile publice a mijloacelor speciale de avertizare sonoră sau luminoasă pe vehiculele care nu au acest drept.",
+    "articol_prevedere": "Art. 102 alin. (3) lit. f)",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["avertizare_speciala", "clasa_IV", "suspendare"],
+    "puncte_penalizare": 6,
+    "suspendare_permis": {
+      "durata_zile": 90,
+      "articol_temei": "Art. 102 alin. (3)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    },
+    "confiscare": "mijloacele speciale de avertizare luminoase și sonore deținute, montate și folosite pe alte autovehicule decât cele prevăzute la art. 32 alin. (2) și (3)"
+  },
+  {
+    "id": "OG195_104",
+    "descriere_mot_a_mot": "nerespectarea regulilor privind prioritatea de trecere sau depășirea, dacă prin aceasta s-a produs un accident de circulație din care au rezultat numai avarierea unui vehicul sau alte pagube materiale",
+    "articol_prevedere": "Art. 102 alin. (3) lit. g)",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["prioritate", "depasire", "accident", "clasa_IV", "suspendare"],
+    "puncte_penalizare": 6,
+    "suspendare_permis": {
+      "durata_zile": 90,
+      "articol_temei": "Art. 102 alin. (3)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  },
+  {
+    "id": "OG195_105",
+    "descriere_mot_a_mot": "circulația nejustificată a autovehiculelor pe banda de urgență a autostrăzilor.",
+    "articol_prevedere": "Art. 102 alin. (3) lit. h)",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["banda_urgenta", "autostrada", "clasa_IV", "suspendare"],
+    "puncte_penalizare": 6,
+    "suspendare_permis": {
+      "durata_zile": 90,
+      "articol_temei": "Art. 102 alin. (3)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  },
+  {
+    "id": "OG195_106",
+    "descriere_mot_a_mot": "depășirea cu mai mult de 70 km/h a vitezei maxime admise pe sectorul de drum respectiv și pentru categoria din care face parte autovehiculul condus, constatată, potrivit legii, cu mijloace tehnice omologate și verificate metrologic",
+    "articol_prevedere": "Art. 102 alin. (4) lit. a)",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["viteza", "exces_70", "clasa_IV", "suspendare"],
+    "puncte_penalizare": 6,
+    "suspendare_permis": {
+      "durata_zile": 120,
+      "articol_temei": "Art. 102 alin. (4)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  },
+  {
+    "id": "OG195_107",
+    "descriere_mot_a_mot": "neoprirea la trecerea la nivel cu calea ferată când barierele sau semibarierele sunt coborâte ori în curs de coborâre sau când semnalele cu lumini roșii și/sau sonore sunt în funcțiune",
+    "articol_prevedere": "Art. 102 alin. (4) lit. b)",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["cale_ferata", "bariere", "clasa_IV", "suspendare"],
+    "puncte_penalizare": 6,
+    "suspendare_permis": {
+      "durata_zile": 120,
+      "articol_temei": "Art. 102 alin. (4)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  },
+  {
+    "id": "OG195_108",
+    "descriere_mot_a_mot": "efectuarea, de către conducătorul de autovehicul, pe autostradă sau pe drumul expres, a manevrei de întoarcere sau de mers înapoi, a circulației în sens contrar sensului de circulație, a circulației sau traversării de pe un sens de circulație pe celălalt prin zonele interzise, respectiv prin zona mediană sau racordurile dintre cele două părți carosabile.",
+    "articol_prevedere": "Art. 102 alin. (4) lit. c)",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": ["autostrada", "mers_inapoi", "sens_opus", "clasa_IV", "suspendare"],
+    "puncte_penalizare": 6,
+    "suspendare_permis": {
+      "durata_zile": 120,
+      "articol_temei": "Art. 102 alin. (4)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  }
+]
