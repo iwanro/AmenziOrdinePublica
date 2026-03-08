@@ -1,7 +1,7 @@
 [
   {
     "id": "TRANS-019",
-    "descriere_integrala": "Nerespectarea de către transportatorul autorizat a prevederilor art. 49...",
+    "descriere_integrala": "Nerespectarea de către transportatorul autorizat a prevederilor art. 49 (Regulile privind stabilirea prețurilor și tarifelor în regim de taxi): obligația respectării tarifelor de distanță și orare, a raportului limită de 10 km/h (viteza de comutare), limitarea tarifului de noapte, necondiționarea prețului de numărul persoanelor/bunurilor (în limita capacității), respectarea tarifelor maximale locale și procedura de aplicare a tarifului unic în cazul transportului de bunuri cu aplicarea dublă a tarifului.",
     "articol_prevedere": "Art. 49",
     "articol_sanctiune": "Art. 55 pct. 4 lit. a)",
     "amenda_min": 5000,
@@ -12,7 +12,7 @@
   },
   {
     "id": "TRANS-020",
-    "descriere_integrala": "Utilizarea de către transportatorul autorizat de aparate de taxat nefiscalizate sau care funcționează cu încălcarea prevederilor prezentei legi",
+    "descriere_integrala": "Utilizarea de către transportatorul autorizat a aparatelor de taxat (compuse din taximetru și aparat de marcat electronic fiscal) care nu sunt fiscalizate sau care funcționează cu încălcarea prevederilor legale (neîndeplinirea funcțiilor metrologice, neemiterea bonului client, lipsa vizibilității pentru client sau a sigiliilor obligatorii).",
     "articol_prevedere": "Art. 30 alin. (1) lit. a), Art. 38, Art. 39, Art. 40, Art. 41, Art. 43",
     "articol_sanctiune": "Art. 55 pct. 4 lit. a)",
     "amenda_min": 5000,
@@ -23,7 +23,7 @@
   },
   {
     "id": "DISP-005",
-    "descriere_integrala": "Nerespectarea de către dispeceratele taxi a prevederilor art. 52 alin. (5) lit. a) - dispeceratul trebuie să țină un registru special de evidență a elementelor de identificare a tuturor stațiilor radio de emisie-recepție, aflate în dotarea taxiurilor deservite, numerelor de apel, denumirii transportatorului autorizat deservit, numărului și duratei de valabilitate ale autorizației taxi",
+    "descriere_integrala": "Nerespectarea de către dispeceratele taxi a obligației de a ține registrul special de evidență care să conțină: elementele de identificare a stațiilor radio emisie-recepție, numerele de apel, denumirea transportatorului autorizat deservit, numărul și durata de valabilitate a autorizației taxi.",
     "articol_prevedere": "Art. 52 alin. (5) lit. a)",
     "articol_sanctiune": "Art. 55 pct. 4 lit. b)",
     "amenda_min": 5000,
@@ -34,7 +34,7 @@
   },
   {
     "id": "DISP-006",
-    "descriere_integrala": "Nerespectarea de către dispeceratele taxi a prevederilor art. 52 alin. (5) lit. c) - să nu deservească taxiuri dotate cu stații radio de emisie-recepție deținute ilicit sau autovehicule care execută transport în regim de închiriere",
+    "descriere_integrala": "Nerespectarea de către dispeceratele taxi a interdicției de a deservi autovehicule dotate cu stații radio deținute ilicit sau care execută transport în regim de închiriere (acestea din urmă neavând dreptul la dispecerizare specifică taxi).",
     "articol_prevedere": "Art. 52 alin. (5) lit. c)",
     "articol_sanctiune": "Art. 55 pct. 4 lit. b)",
     "amenda_min": 5000,
@@ -45,7 +45,7 @@
   },
   {
     "id": "DISP-007",
-    "descriere_integrala": "Nerespectarea de către dispeceratele taxi a prevederilor art. 52 alin. (5) lit. f) - să nu aplice practici discriminatorii privind deservirea transportatorilor autorizați",
+    "descriere_integrala": "Nerespectarea de către dispeceratele taxi a obligației de a nu aplica practici discriminatorii față de transportatorii autorizați în procesul de preluare și transmitere a comenzilor.",
     "articol_prevedere": "Art. 52 alin. (5) lit. f)",
     "articol_sanctiune": "Art. 55 pct. 4 lit. b)",
     "amenda_min": 5000,
@@ -56,7 +56,7 @@
   },
   {
     "id": "DISP-008",
-    "descriere_integrala": "Nerespectarea de către dispeceratele taxi a prevederilor art. 52 alin. (5) lit. g) - să nu aplice practici prin care să dețină controlul asupra pieței taximetriei, să provoace distorsiuni ale concurenței sau să elimine concurența, precum și practici monopoliste",
+    "descriere_integrala": "Nerespectarea de către dispeceratele taxi a interdicției de a exercita controlul asupra pieței, de a provoca distorsiuni ale concurenței sau de a aplica practici monopoliste care să elimine concurența în sectorul taximetriei.",
     "articol_prevedere": "Art. 52 alin. (5) lit. g)",
     "articol_sanctiune": "Art. 55 pct. 4 lit. b)",
     "amenda_min": 5000,
@@ -67,7 +67,7 @@
   },
   {
     "id": "DISP-009",
-    "descriere_integrala": "Nerespectarea de către dispeceratele taxi a prevederilor art. 52 alin. (5) lit. h) - să dispecerizeze numai transportatorii autorizați care desfășoară serviciul de transport în regim de taxi în aceeași localitate de autorizare",
+    "descriere_integrala": "Nerespectarea de către dispeceratele taxi a obligației de a dispeceriza exclusiv transportatori autorizați care își desfășoară activitatea de transport în regim de taxi în aceeași localitate de autorizare.",
     "articol_prevedere": "Art. 52 alin. (5) lit. h)",
     "articol_sanctiune": "Art. 55 pct. 4 lit. b)",
     "amenda_min": 5000,
@@ -78,7 +78,7 @@
   },
   {
     "id": "TRANS-021",
-    "descriere_integrala": "Nerespectarea de către transportatori a prevederilor art. 7 - Transportul în regim de taxi sau transportul în regim de închiriere se execută numai de către transportatori autorizați...",
+    "descriere_integrala": "Executarea transportului în regim de taxi sau închiriere de către transportatori care nu dețin autorizații taxi valabile, respectiv copii conforme valabile pentru fiecare autovehicul utilizat, eliberate conform legii.",
     "articol_prevedere": "Art. 7 alin. (1)",
     "articol_sanctiune": "Art. 55 pct. 5 lit. a)",
     "amenda_min": 25000,
@@ -89,7 +89,7 @@
   },
   {
     "id": "TRANS-022",
-    "descriere_integrala": "Nerespectarea de către transportatori a prevederilor art. 8 - Autorizația de transport se eliberează de către autoritatea de autorizare pe durată nedeterminată...",
+    "descriere_integrala": "Nerespectarea obligației de a viza autorizația de transport la fiecare 5 ani, perioadă în care autoritatea de autorizare verifică îndeplinirea condițiilor de capacitate și onorabilitate care au stat la baza emiterii autorizației.",
     "articol_prevedere": "Art. 8",
     "articol_sanctiune": "Art. 55 pct. 5 lit. a)",
     "amenda_min": 25000,
@@ -100,7 +100,7 @@
   },
   {
     "id": "DISP-010",
-    "descriere_integrala": "Funcționarea de către dispeceratele taxi fără autorizație de dispecerat taxi valabilă - Activitatea de dispecerat taxi poate fi executată numai pe raza localității de autorizare...",
+    "descriere_integrala": "Funcționarea dispeceratelor taxi fără autorizație de dispecerat valabilă. Activitatea poate fi executată doar de persoane juridice autorizate de autoritatea de autorizare pentru o perioadă de 5 ani (cu posibilitate de prelungire), valabilă exclusiv pe raza unității administrativ-teritoriale de autorizare.",
     "articol_prevedere": "Art. 15 alin. (1) și (3)",
     "articol_sanctiune": "Art. 55 pct. 5 lit. b)",
     "amenda_min": 25000,
