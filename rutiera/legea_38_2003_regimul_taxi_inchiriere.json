@@ -1,0 +1,112 @@
+    {
+      "id": "TRANS-019",
+      "descriere_integrala": "Nerespectarea de către transportatorul autorizat a prevederilor art. 49 - Regulile generale privind modul de stabilire a prețurilor prestației și a tarifelor sunt următoarele: a) tariful de distanță, lei/km, se stabilește în funcție de caracteristicile tehnice și de capacitatea de transport maximă autorizată ale autovehiculelor respective. În cazul taxiurilor pentru transportul persoanelor se va ține seama și de nivelul confortului oferit; b) tariful de distanță, lei/km, poate fi stabilit pentru timp de zi și pentru timp de noapte, prevăzute la art. 41 lit. e). Tariful de noapte nu va fi mai mare decât cu până la 50% din tariful de zi; c) prețul transportului nu este condiționat de numărul persoanelor sau de cantitatea de bunuri transportate, atâta timp cât acestea nu depășesc capacitatea de transport autorizată a taxiului; d) în cazul transportului de persoane în regim de taxi, nivelul tarifelor de distanță nu poate depăși tarifele maximale de distanță stabilite prin hotărâri ale autorității administrației publice locale sau a municipiului București, după caz. Nivelul maxim al tarifelor de distanță se stabilește pe baza metodologiei realizate de A.N.R.S.C. și a datelor furnizate la cererea autorității cu ocazia consultării filialelor locale ale asociațiilor definite la art. 54; e) la stabilirea tarifului orar pentru fiecare taxi se va ține cont de raportul dintre tariful orar, exprimat în lei/oră, și tariful de distanță, exprimat în lei/km, care trebuie să fie egal cu 10, care este valoarea limită a vitezei de comutare, exprimată în km/oră; f) în cazul aplicării duble a tarifului în cadrul transportului de bunuri în regim de taxi, prețul prestației crește simultan pe baza distanței parcurse și a timpului consumat, tariful aplicat fiind tarif unic pe întreaga cursă, din momentul trecerii taximetrului din poziția de operare «Liber» în poziția «Ocupat» și până în momentul revenirii în poziția inițială «Liber». Aplicarea dublă a tarifului se poate efectua în cadrul transportului de mărfuri sau de bunuri în regim de taxi, pentru autovehicule cu sarcină utilă maximă autorizată care depășește o tonă, la care timpul de staționare la dispoziția clientului este cel puțin de două ori mai mare decât timpul de circulație; g) tariful de pornire va fi egal cu tariful de distanță (lei/km) aplicat; h) tariful pentru încărcare/descărcare poate fi compus din tariful pentru operațiunile de încărcare/descărcare, mecanice sau manuale, și operațiunile de manipulare a bunurilor de către taximetriști sau de către manipulanți, angajați ai transportatorului autorizat. Lucrările mecanizate de încărcare/descărcare trebuie să aibă un tarif prestabilit pe operațiune, iar tariful pentru operațiunile manuale se convine înainte de executare cu clientul, pe baza unui tarif orar prestabilit. Întregul preț al încărcării/descărcării și manipulării bunurilor, dacă acestea sunt executate de către angajații operatorului de transport, se regăsește în bonul client pe care acesta îl plătește la închiderea prestației; i) procedura de stabilire a tarifelor pentru prestarea transportului în regim de taxi sau a transportului în regim de închiriere se precizează în contractele de atribuire a gestiunii delegate și trebuie să țină seama de următoarele reguli: 1. tarifele încasate de transportatorul autorizat în urma prestării serviciilor de transport trebuie să acopere cel puțin sumele investite și cheltuielile curente realizate pentru prestarea serviciului; 2. tarifele se modifică sau se actualizează periodic prin indexare cu indicele de creștere a prețurilor de consum, prin hotărâre a consiliului local sau a Consiliului General al Municipiului București, după caz; j) respectarea nivelului tarifelor maximale pentru transportul persoanelor în regim de taxi constituie unul dintre criteriile de atribuire a gestiunii delegate a serviciului",
+      "articol_prevedere": "Art. 49",
+      "articol_sanctiune": "Art. 55 pct. 4 lit. a)",
+      "amenda_min": 5000,
+      "amenda_max": 25000,
+      "suma_jumatate": 15000,
+      "permite_jumatate": true,
+      "tags": ["transportator", "tarife", "calcul", "stabilire", "reguli"]
+    },
+    {
+      "id": "TRANS-020",
+      "descriere_integrala": "Utilizarea de către transportatorul autorizat de aparate de taxat nefiscalizate sau care funcționează cu încălcarea prevederilor prezentei legi",
+      "articol_prevedere": "Art. 30 alin. (1) lit. a), Art. 38, Art. 39, Art. 40, Art. 41, Art. 43",
+      "articol_sanctiune": "Art. 55 pct. 4 lit. a)",
+      "amenda_min": 5000,
+      "amenda_max": 25000,
+      "suma_jumatate": 15000,
+      "permite_jumatate": true,
+      "tags": ["transportator", "aparat_taxat", "nefiscalizat", "functionare", "incalcare"]
+    },
+    {
+      "id": "DISP-005",
+      "descriere_integrala": "Nerespectarea de către dispeceratele taxi a prevederilor art. 52 alin. (5) lit. a) - dispeceratul trebuie să țină un registru special de evidență a elementelor de identificare a tuturor stațiilor radio de emisie-recepție, aflate în dotarea taxiurilor deservite, numerelor de apel, denumirii transportatorului autorizat deservit, numărului și duratei de valabilitate ale autorizației taxi",
+      "articol_prevedere": "Art. 52 alin. (5) lit. a)",
+      "articol_sanctiune": "Art. 55 pct. 4 lit. b)",
+      "amenda_min": 5000,
+      "amenda_max": 25000,
+      "suma_jumatate": 15000,
+      "permite_jumatate": true,
+      "tags": ["dispecerat", "registru", "evidenta", "statii_radio", "obligativitate"]
+    },
+    {
+      "id": "DISP-006",
+      "descriere_integrala": "Nerespectarea de către dispeceratele taxi a prevederilor art. 52 alin. (5) lit. c) - să nu deservească taxiuri dotate cu stații radio de emisie-recepție deținute ilicit sau autovehicule care execută transport în regim de închiriere",
+      "articol_prevedere": "Art. 52 alin. (5) lit. c)",
+      "articol_sanctiune": "Art. 55 pct. 4 lit. b)",
+      "amenda_min": 5000,
+      "amenda_max": 25000,
+      "suma_jumatate": 15000,
+      "permite_jumatate": true,
+      "tags": ["dispecerat", "statii_radio", "ilicite", "inchiriere", "interzis"]
+    },
+    {
+      "id": "DISP-007",
+      "descriere_integrala": "Nerespectarea de către dispeceratele taxi a prevederilor art. 52 alin. (5) lit. f) - să nu aplice practici discriminatorii privind deservirea transportatorilor autorizați",
+      "articol_prevedere": "Art. 52 alin. (5) lit. f)",
+      "articol_sanctiune": "Art. 55 pct. 4 lit. b)",
+      "amenda_min": 5000,
+      "amenda_max": 25000,
+      "suma_jumatate": 15000,
+      "permite_jumatate": true,
+      "tags": ["dispecerat", "practici_discriminatorii", "deservire", "interzis"]
+    },
+    {
+      "id": "DISP-008",
+      "descriere_integrala": "Nerespectarea de către dispeceratele taxi a prevederilor art. 52 alin. (5) lit. g) - să nu aplice practici prin care să dețină controlul asupra pieței taximetriei, să provoace distorsiuni ale concurenței sau să elimine concurența, precum și practici monopoliste",
+      "articol_prevedere": "Art. 52 alin. (5) lit. g)",
+      "articol_sanctiune": "Art. 55 pct. 4 lit. b)",
+      "amenda_min": 5000,
+      "amenda_max": 25000,
+      "suma_jumatate": 15000,
+      "permite_jumatate": true,
+      "tags": ["dispecerat", "control_piata", "distorsiuni", "concurenta", "monopol", "interzis"]
+    },
+    {
+      "id": "DISP-009",
+      "descriere_integrala": "Nerespectarea de către dispeceratele taxi a prevederilor art. 52 alin. (5) lit. h) - să dispecerizeze numai transportatorii autorizați care desfășoară serviciul de transport în regim de taxi în aceeași localitate de autorizare",
+      "articol_prevedere": "Art. 52 alin. (5) lit. h)",
+      "articol_sanctiune": "Art. 55 pct. 4 lit. b)",
+      "amenda_min": 5000,
+      "amenda_max": 25000,
+      "suma_jumatate": 15000,
+      "permite_jumatate": true,
+      "tags": ["dispecerat", "dispecerizare", "localitate_autorizare", "limitare"]
+    },
+    {
+      "id": "TRANS-021",
+      "descriere_integrala": "Nerespectarea de către transportatori a prevederilor art. 7 - Transportul în regim de taxi sau transportul în regim de închiriere se execută numai de către transportatori autorizați, care dețin autorizații taxi valabile, în cazul transportului în regim de taxi, sau copii conforme valabile, în cazul transportului în regim de închiriere, eliberate în condițiile prezentei legi, pentru fiecare autovehicul utilizat",
+      "articol_prevedere": "Art. 7 alin. (1)",
+      "articol_sanctiune": "Art. 55 pct. 5 lit. a)",
+      "amenda_min": 25000,
+      "amenda_max": 50000,
+      "suma_jumatate": 37500,
+      "permite_jumatate": true,
+      "tags": ["transportator", "autorizare", "autorizatie_taxi", "copie_conforma", "obligativitate"]
+    },
+    {
+      "id": "TRANS-022",
+      "descriere_integrala": "Nerespectarea de către transportatori a prevederilor art. 8 - Autorizația de transport se eliberează de către autoritatea de autorizare pe durată nedeterminată și este valabilă cu condiția vizării acesteia la fiecare 5 ani de către aceasta, odată cu verificarea îndeplinirii condițiilor care stau la baza emiterii unei astfel de autorizații",
+      "articol_prevedere": "Art. 8",
+      "articol_sanctiune": "Art. 55 pct. 5 lit. a)",
+      "amenda_min": 25000,
+      "amenda_max": 50000,
+      "suma_jumatate": 37500,
+      "permite_jumatate": true,
+      "tags": ["transportator", "autorizatie_transport", "vizare", "valabilitate", "termen"]
+    },
+    {
+      "id": "DISP-010",
+      "descriere_integrala": "Funcționarea de către dispeceratele taxi fără autorizație de dispecerat taxi valabilă - Activitatea de dispecerat taxi poate fi executată numai pe raza localității de autorizare de către orice persoană juridică, denumită în continuare dispecerat, autorizată de autoritatea de autorizare, în condițiile prezentei legi. Autorizația de dispecerat taxi se eliberează pentru o perioadă de 5 ani, cu posibilitatea prelungirii la cerere pe perioade de 5 ani în aceleași condiții ca la emitere, și este valabilă numai pe raza administrativ-teritorială a autorității de autorizare",
+      "articol_prevedere": "Art. 15 alin. (1) și (3)",
+      "articol_sanctiune": "Art. 55 pct. 5 lit. b)",
+      "amenda_min": 25000,
+      "amenda_max": 50000,
+      "suma_jumatate": 37500,
+      "permite_jumatate": true,
+      "tags": ["dispecerat", "autorizatie", "valabilitate", "functionare", "obligativitate"]
+    }
+  ]
+}
