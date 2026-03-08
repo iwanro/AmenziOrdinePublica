@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "titlu_lege": "Ordonanța de Urgență nr. 49 din 25 iunie 2019 privind activitățile de transport alternativ cu autoturism și conducător auto",
+    "moneda_sau_unitate": "RON"
+  },
+  "contravenții": [
+    {
+      "id": "OUG49_2019_ART30_1",
+      "descriere_finala": "Constituie contravenție, dacă potrivit legii penale fapta nu constituie infracțiune, și se sancționează cu amendă de la 5.000 lei la 15.000 lei nerespectarea de către operatorul platformei digitale a obligațiilor prevăzute la art. 25 lit. f) - să admită pe platforma digitală doar pasagerii care și-au înregistrat în mod corespunzător datele cu caracter personal solicitate prin platforma digitală și doar operatorii de transport alternativ și conducătorii auto care respectă dispozițiile prezentei ordonanțe de urgență. Operatorii de transport alternativ/Conducătorii auto care nu pot fi identificați în mod corespunzător în baza informațiilor furnizate la înregistrare nu vor primi drept de acces la platforma digitală și, implicit, nu vor putea presta activități de transport alternativ, k) - să solicite operatorului de transport alternativ, la fiecare 12 luni de la data acceptării pe platforma digitală, documente privind modul de îndeplinire în continuare a condițiilor legale pentru efectuarea activității de transport alternativ de către conducătorii auto și autoturismele utilizate, sau l) - să elimine de pe platforma digitală operatorii de transport alternativ, conducătorii auto și autoturismele care nu mai îndeplinesc condițiile legale pentru efectuarea transportului alternativ",
+      "articol_prevedere": "Art. 25 lit. f), k), l)",
+      "articol_sanctiune": "Art. 30 alin. (1)",
+      "amenda_min": 5000,
+      "amenda_max": 15000,
+      "suma_jumatate": 2500,
+      "permite_jumatate": true,
+      "tags": ["operator platforma digitala", "obligatii", "admitere utilizatori", "verificare documente", "eliminare utilizatori"]
+    },
+    {
+      "id": "OUG49_2019_ART30_2",
+      "descriere_finala": "Constituie contravenție, dacă potrivit legii penale fapta nu constituie infracțiune, și se sancționează cu amendă de la 10.000 lei la 30.000 lei intermedierea transportului alternativ de către operatorul platformei digitale prin acceptarea și acordarea accesului la platforma digitală al unui autoturism pentru care nu s-a eliberat copie conformă a autorizației de transport alternativ sau aceasta are valabilitatea depășită",
+      "articol_prevedere": "Art. 11, Art. 13",
+      "articol_sanctiune": "Art. 30 alin. (2)",
+      "amenda_min": 10000,
+      "amenda_max": 30000,
+      "suma_jumatate": 5000,
+      "permite_jumatate": true,
+      "tags": ["operator platforma digitala", "intermediere", "autoturism neautorizat", "copie conforma", "valabilitate depasita"]
+    },
+    {
+      "id": "OUG49_2019_ART31",
+      "descriere_finala": "Intermedierea transportului alternativ de către o persoană fizică sau juridică printr-o platformă digitală neavizată tehnic de către Ministerul Comunicațiilor și Societății Informaționale constituie contravenție, dacă potrivit legii penale fapta nu constituie infracțiune, se sancționează cu amendă de la 50.000 lei la 100.000 lei, precum și cu interzicerea desfășurării de activități economice de orice fel pe teritoriul României, prin intermediul unor programe software de sine stătătoare, pentru o perioadă de 2 ani de la data aplicării sancțiunii",
+      "articol_prevedere": "Art. 4, Art. 9",
+      "articol_sanctiune": "Art. 31",
+      "amenda_min": 50000,
+      "amenda_max": 100000,
+      "suma_jumatate": 25000,
+      "permite_jumatate": true,
+      "masuri_complementare": {
+        "descriere_masura": "Interzicerea desfășurării de activități economice de orice fel pe teritoriul României, prin intermediul unor programe software de sine stătătoare, pentru o perioadă de 2 ani de la data aplicării sancțiunii",
+        "detalii_dovada": {
+          "drept_circulatie": "NU",
+          "valabilitate": "730"
+        }
+      },
+      "tags": ["platforma digitala", "aviz tehnic", "intermediere neavizata", "interzicere activitate", "software"]
+    },
+    {
+      "id": "OUG49_2019_ART32_1",
+      "descriere_finala": "Constituie contravenție, dacă potrivit legii penale fapta nu constituie infracțiune, și se sancționează cu amendă de la 3.000 lei la 9.000 lei nerespectarea de către operatorul de transport alternativ a cel puțin uneia dintre obligațiile prevăzute la art. 27 lit. a) - să utilizeze la efectuarea transportului alternativ autoturisme pentru care au fost emise în prealabil copii conforme ale autorizației de transport alternativ, b) - să utilizeze la efectuarea transportului alternativ numai autoturisme înscrise pe platforma digitală, c) - să utilizeze la efectuarea transportului alternativ doar autoturisme care respectă prevederile art. 22 alin. (1) - În trafic, pe durata efectuării curselor de transport alternativ, autoturismele înregistrate pe platforma digitală vor avea afișat la vedere, în partea din față și din spate a autoturismului, un ecuson pentru transport alternativ cu dimensiunea de 10 cm x 10 cm, ce va conține următoarele elemente: a) numărul de înmatriculare al autoturismului; b) denumirea platformei digitale pe care este înregistrat autoturismul; c) elemente de siguranță care să ateste autenticitatea ecusonului, d) - să utilizeze la efectuarea transportului alternativ conducători auto care îndeplinesc condițiile prevăzute la art. 23 - a) să aibă vârsta de cel puțin 21 de ani; b) să dețină un certificat de atestare a pregătirii profesionale pentru transportul de persoane în regim de închiriere eliberat de Autoritatea Rutieră Română - A.R.R.; c) să dețină permis de conducere categoria B cu o vechime de cel puțin 2 ani; d) din certificatul de cazier judiciar al persoanei trebuie să rezulte că aceasta nu a fost condamnată pentru infracțiuni contra siguranței pe drumurile publice, infracțiuni privind traficul și consumul de droguri, infracțiuni contra vieții, sănătății și integrității corporale, traficul și exploatarea persoanelor vulnerabile, infracțiuni contra libertății și integrității sexuale sau infracțiuni contra patrimoniului; e) să dețină avizul medical și avizul psihologic prin care este declarat apt pentru desfășurarea activității de transport persoane; f) să nu aibă suspendată exercitarea dreptului de a conduce în ultimul an pentru conducerea sub influența băuturilor alcoolice sau a substanțelor psihoactive sau să nu fi fost implicat în accidente rutiere soldate, din culpa sa, cu decesul sau vătămarea gravă a uneia sau mai multor persoane, e) - să nu transmită copia conformă a autorizației de transport alternativ către alt operator de transport alternativ sau oricărei alte persoane, pentru a fi utilizată în scopul efectuării transportului alternativ, sau g) - să raporteze operatorului platformei digitale orice modificare a informațiilor și datelor furnizate acestuia în maximum 48 de ore de la apariția oricărei astfel de modificări",
+      "articol_prevedere": "Art. 27 lit. a)-e), g), Art. 22 alin. (1), Art. 23",
+      "articol_sanctiune": "Art. 32 alin. (1)",
+      "amenda_min": 3000,
+      "amenda_max": 9000,
+      "suma_jumatate": 1500,
+      "permite_jumatate": true,
+      "tags": ["operator transport alternativ", "obligatii", "autoturisme autorizate", "platforma digitala", "ecuson", "conducatori auto", "raportare modificari"]
+    },
+    {
+      "id": "OUG49_2019_ART32_2",
+      "descriere_finala": "Constituie contravenție, dacă potrivit legii penale fapta nu constituie infracțiune, și se sancționează cu amendă de la 10.000 lei la 30.000 lei efectuarea transportului alternativ prin intermediul unei platforme digitale neavizate tehnic de către Ministerul Comunicațiilor și Societății Informaționale",
+      "articol_prevedere": "Art. 4, Art. 9",
+      "articol_sanctiune": "Art. 32 alin. (2)",
+      "amenda_min": 10000,
+      "amenda_max": 30000,
+      "suma_jumatate": 5000,
+      "permite_jumatate": true,
+      "tags": ["operator transport alternativ", "platforma digitala", "aviz tehnic", "transport neavizat"]
+    },
+    {
+      "id": "OUG49_2019_ART34_A",
+      "descriere_finala": "Constituie contravenție, dacă potrivit legii penale fapta nu constituie infracțiune, și se sancționează cu amendă de la 1.000 lei la 5.000 lei efectuarea unei curse fără deținerea unui certificat de atestare profesională prevăzut la art. 12 alin. (1) lit. c) - certificat de atestare a pregătirii profesionale a conducătorilor auto",
+      "articol_prevedere": "Art. 12 alin. (1) lit. c), Art. 23 lit. b)",
+      "articol_sanctiune": "Art. 34 lit. a)",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "suma_jumatate": 500,
+      "permite_jumatate": true,
+      "tags": ["conducator auto", "certificat atestare profesionala", "lipsa document", "pregatire profesionala"]
+    },
+    {
+      "id": "OUG49_2019_ART34_B",
+      "descriere_finala": "Constituie contravenție, dacă potrivit legii penale fapta nu constituie infracțiune, și se sancționează cu amendă de la 1.000 lei la 5.000 lei efectuarea unei curse fără respectarea prevederilor art. 13 alin. (4) - Operatorul de transport alternativ are dreptul să efectueze transport alternativ cu autoturismul pentru care s-a emis copia conformă a autorizației pentru transportul alternativ: a) permanent, în interiorul localității unde își are sediul sau domiciliul sau în regiunea de dezvoltare București-Ilfov, după caz; b) ocazional, cu plecare din localitatea unde își are sediul sau domiciliul sau din regiunea de dezvoltare București-Ilfov, după caz, spre alte localități. Odată cu aplicarea sancțiunii contravenționale se suspendă dreptul de utilizare a autoturismului respectiv pentru o perioadă de 6 luni. Suspendarea dreptului de utilizare a autoturismului se realizează prin reținerea certificatului de înmatriculare și a plăcuțelor cu numărul de înmatriculare de către ofițerii și/sau agenții de poliție din cadrul Poliției Române care au calitatea de polițiști rutieri. Plăcuțele cu numărul de înmatriculare împreună cu certificatul de înmatriculare și o copie a proceselor-verbale de constatare a contravenției și de reținere a plăcuțelor cu numărul de înmatriculare și a certificatului de înmatriculare se predau, în termen de maximum 3 zile, inspectoratului județean de poliție, respectiv Direcției Generale de Poliție a Municipiului București, care notifică deținătorului autoturismului faptul că suspendarea dreptului de utilizare a acestuia încetează la 6 luni de la data procesului-verbal de reținere a acestora. Suspendarea notificată a dreptului de utilizare a autoturismului încetează, iar plăcuțele cu numărul de înmatriculare și certificatul de înmatriculare se restituie anticipat, la cerere, dacă sunt îndeplinite cumulativ următoarele condiții: a) au trecut cel puțin 30 de zile de la data procesului-verbal de reținere; b) se depune dovada achitării amenzii contravenționale prevăzute la art. 34 lit. b). După epuizarea unui termen notificat de suspendare a dreptului de utilizare a autoturismului, dacă nu se face dovada achitării amenzii contravenționale, se notifică deținătorului prelungirea suspendării pentru încă 6 luni, cu respectarea prevederilor art. 215 din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare. Dacă în decurs de cel mult 12 luni de la încetarea ultimei suspendări a dreptului de utilizare a autoturismului se aplică o nouă suspendare, nu se mai poate beneficia de reducerea termenului prevăzut la art. 33 alin. (4) lit. a). Pe perioada suspendării dreptului de utilizare a autoturismului acesta nu poate fi reînmatriculat",
+      "articol_prevedere": "Art. 13 alin. (4), Art. 33",
+      "articol_sanctiune": "Art. 34 lit. b)",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "suma_jumatate": 500,
+      "permite_jumatate": true,
+      "masuri_complementare": {
+        "descriere_masura": "Suspendarea dreptului de utilizare a autoturismului respectiv pentru o perioadă de 6 luni, realizată prin reținerea certificatului de înmatriculare și a plăcuțelor cu numărul de înmatriculare de către ofițerii și/sau agenții de poliție din cadrul Poliției Române care au calitatea de polițiști rutieri. Plăcuțele cu numărul de înmatriculare împreună cu certificatul de înmatriculare și o copie a proceselor-verbale de constatare a contravenției și de reținere a plăcuțelor cu numărul de înmatriculare și a certificatului de înmatriculare se predau, în termen de maximum 3 zile, inspectoratului județean de poliție, respectiv Direcției Generale de Poliție a Municipiului București, care notifică deținătorului autoturismului faptul că suspendarea dreptului de utilizare a acestuia încetează la 6 luni de la data procesului-verbal de reținere a acestora. Suspendarea notificată a dreptului de utilizare a autoturismului încetează, iar plăcuțele cu numărul de înmatriculare și certificatul de înmatriculare se restituie anticipat, la cerere, dacă sunt îndeplinite cumulativ următoarele condiții: a) au trecut cel puțin 30 de zile de la data procesului-verbal de reținere; b) se depune dovada achitării amenzii contravenționale. După epuizarea unui termen notificat de suspendare a dreptului de utilizare a autoturismului, dacă nu se face dovada achitării amenzii contravenționale, se notifică deținătorului prelungirea suspendării pentru încă 6 luni. Dacă în decurs de cel mult 12 luni de la încetarea ultimei suspendări a dreptului de utilizare a autoturismului se aplică o nouă suspendare, nu se mai poate beneficia de reducerea termenului prevăzut la art. 33 alin. (4) lit. a). Pe perioada suspendării dreptului de utilizare a autoturismului acesta nu poate fi reînmatriculat.",
+        "detalii_dovada": {
+          "drept_circulatie": "DA",
+          "valabilitate": "180"
+        }
+      },
+      "tags": ["conducator auto", "depasire zona autorizata", "transport alternativ", "sediu domiciliu", "regiune bucuresti-ilfov", "suspendare autoturism", "retinerere placi numar"]
+    },
+    {
+      "id": "OUG49_2019_ART34_C",
+      "descriere_finala": "Constituie contravenție, dacă potrivit legii penale fapta nu constituie infracțiune, și se sancționează cu amendă de la 1.000 lei la 5.000 lei lipsa de la bordul autoturismului, în timpul efectuării transportului alternativ, a ecusoanelor pentru transportul alternativ prevăzute la art. 22 alin. (1) - În trafic, pe durata efectuării curselor de transport alternativ, autoturismele înregistrate pe platforma digitală vor avea afișat la vedere, în partea din față și din spate a autoturismului, un ecuson pentru transport alternativ cu dimensiunea de 10 cm x 10 cm, ce va conține următoarele elemente: a) numărul de înmatriculare al autoturismului; b) denumirea platformei digitale pe care este înregistrat autoturismul; c) elemente de siguranță care să ateste autenticitatea ecusonului",
+      "articol_prevedere": "Art. 22 alin. (1)",
+      "articol_sanctiune": "Art. 34 lit. c)",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "suma_jumatate": 500,
+      "permite_jumatate": true,
+      "tags": ["conducator auto", "ecuson transport alternativ", "lipsa ecuson", "dimensiuni", "elemente siguranta"]
+    },
+    {
+      "id": "OUG49_2019_ART34_D",
+      "descriere_finala": "Constituie contravenție, dacă potrivit legii penale fapta nu constituie infracțiune, și se sancționează cu amendă de la 1.000 lei la 5.000 lei lipsa de la bordul autoturismului, în timpul efectuării transportului alternativ, a documentelor prevăzute la art. 24 - a) asigurarea de răspundere civilă auto; b) asigurarea pentru persoane și bunurile acestora; c) ecusonul de transport alternativ; d) copia conformă a autorizației pentru transport alternativ",
+      "articol_prevedere": "Art. 24",
+      "articol_sanctiune": "Art. 34 lit. d)",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "suma_jumatate": 500,
+      "permite_jumatate": true,
+      "tags": ["conducator auto", "lipsa documente", "asigurare raspundere civila", "asigurare persoane", "ecuson", "copie conforma"]
+    },
+    {
+      "id": "OUG49_2019_ART34_E",
+      "descriere_finala": "Constituie contravenție, dacă potrivit legii penale fapta nu constituie infracțiune, și se sancționează cu amendă de la 1.000 lei la 5.000 lei nerespectarea obligației prevăzute la art. 28 lit. c) - să nu solicite plata de către pasager a unei alte sume de bani în schimbul activității de transport efectuate, g) - să informeze în termen de 24 de ore operatorul de transport alternativ cu privire la modificarea oricăror informații referitoare la persoana sa, comunicate acestuia în scopul admiterii sale pe platforma digitală, sau h) - să efectueze cursa doar cu un autoturism înscris pe platforma digitală",
+      "articol_prevedere": "Art. 28 lit. c), g), h)",
+      "articol_sanctiune": "Art. 34 lit. e)",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "suma_jumatate": 500,
+      "permite_jumatate": true,
+      "tags": ["conducator auto", "obligatii", "solicitare sume suplimentare", "informare modificari", "autoturism inscris"]
+    },
+    {
+      "id": "OUG49_2019_ART34_F",
+      "descriere_finala": "Constituie contravenție, dacă potrivit legii penale fapta nu constituie infracțiune, și se sancționează cu amendă de la 1.000 lei la 5.000 lei efectuarea transportului alternativ prin intermediul unei platforme digitale neavizate tehnic de către Ministerul Comunicațiilor și Societății Informaționale. Odată cu aplicarea sancțiunii contravenționale se suspendă dreptul de utilizare a autoturismului respectiv pentru o perioadă de 6 luni. Suspendarea dreptului de utilizare a autoturismului se realizează prin reținerea certificatului de înmatriculare și a plăcuțelor cu numărul de înmatriculare de către ofițerii și/sau agenții de poliție din cadrul Poliției Române care au calitatea de polițiști rutieri. Plăcuțele cu numărul de înmatriculare împreună cu certificatul de înmatriculare și o copie a proceselor-verbale de constatare a contravenției și de reținere a plăcuțelor cu numărul de înmatriculare și a certificatului de înmatriculare se predau, în termen de maximum 3 zile, inspectoratului județean de poliție, respectiv Direcției Generale de Poliție a Municipiului București, care notifică deținătorului autoturismului faptul că suspendarea dreptului de utilizare a acestuia încetează la 6 luni de la data procesului-verbal de reținere a acestora. Suspendarea notificată a dreptului de utilizare a autoturismului încetează, iar plăcuțele cu numărul de înmatriculare și certificatul de înmatriculare se restituie anticipat, la cerere, dacă sunt îndeplinite cumulativ următoarele condiții: a) au trecut cel puțin 30 de zile de la data procesului-verbal de reținere; b) se depune dovada achitării amenzii contravenționale prevăzute la art. 34 lit. f). După epuizarea unui termen notificat de suspendare a dreptului de utilizare a autoturismului, dacă nu se face dovada achitării amenzii contravenționale, se notifică deținătorului prelungirea suspendării pentru încă 6 luni, cu respectarea prevederilor art. 215 din Legea nr. 207/2015 privind Codul de procedură fiscală, cu modificările și completările ulterioare. Dacă în decurs de cel mult 12 luni de la încetarea ultimei suspendări a dreptului de utilizare a autoturismului se aplică o nouă suspendare, nu se mai poate beneficia de reducerea termenului prevăzut la art. 33 alin. (4) lit. a). Pe perioada suspendării dreptului de utilizare a autoturismului acesta nu poate fi reînmatriculat",
+      "articol_prevedere": "Art. 4, Art. 9, Art. 17, Art. 33",
+      "articol_sanctiune": "Art. 34 lit. f)",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "suma_jumatate": 500,
+      "permite_jumatate": true,
+      "masuri_complementare": {
+        "descriere_masura": "Suspendarea dreptului de utilizare a autoturismului respectiv pentru o perioadă de 6 luni, realizată prin reținerea certificatului de înmatriculare și a plăcuțelor cu numărul de înmatriculare de către ofițerii și/sau agenții de poliție din cadrul Poliției Române care au calitatea de polițiști rutieri. Plăcuțele cu numărul de înmatriculare împreună cu certificatul de înmatriculare și o copie a proceselor-verbale de constatare a contravenției și de reținere a plăcuțelor cu numărul de înmatriculare și a certificatului de înmatriculare se predau, în termen de maximum 3 zile, inspectoratului județean de poliție, respectiv Direcției Generale de Poliție a Municipiului București, care notifică deținătorului autoturismului faptul că suspendarea dreptului de utilizare a acestuia încetează la 6 luni de la data procesului-verbal de reținere a acestora. Suspendarea notificată a dreptului de utilizare a autoturismului încetează, iar plăcuțele cu numărul de înmatriculare și certificatul de înmatriculare se restituie anticipat, la cerere, dacă sunt îndeplinite cumulativ următoarele condiții: a) au trecut cel puțin 30 de zile de la data procesului-verbal de reținere; b) se depune dovada achitării amenzii contravenționale. După epuizarea unui termen notificat de suspendare a dreptului de utilizare a autoturismului, dacă nu se face dovada achitării amenzii contravenționale, se notifică deținătorului prelungirea suspendării pentru încă 6 luni. Dacă în decurs de cel mult 12 luni de la încetarea ultimei suspendări a dreptului de utilizare a autoturismului se aplică o nouă suspendare, nu se mai poate beneficia de reducerea termenului prevăzut la art. 33 alin. (4) lit. a). Pe perioada suspendării dreptului de utilizare a autoturismului acesta nu poate fi reînmatriculat.",
+        "detalii_dovada": {
+          "drept_circulatie": "DA",
+          "valabilitate": "180"
+        }
+      },
+      "tags": ["conducator auto", "platforma digitala", "aviz tehnic", "transport neavizat", "suspendare autoturism", "retinerere placi numar"]
+    }
+  ]
+}
