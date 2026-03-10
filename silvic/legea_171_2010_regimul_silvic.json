@@ -3603,7 +3603,8 @@
       "masuri_complementare": "",
       "confiscare": "",
       "agravare_fapta": "",
-      "repetare_fapta": ""
+      "repetare_fapta": "",
+      "alternativa_sanctiune": "Se poate aplica avertisment sau amendă conform lit. b), c) sau d) în funcție de gradul depășirii"
     },
     {
       "id": "fapta_140",
@@ -3627,34 +3628,8 @@
       "masuri_complementare": "",
       "confiscare": "",
       "agravare_fapta": "",
-      "repetare_fapta": ""
-    },
-    {
-      "id": "fapta_141",
-      "descriere": "Efectuarea de fotografii ale mijlocului de transport încărcat cu materiale lemnoase, din care nu se poate distinge încărcătura, sau transportul fără fotografii, atunci când normele instituie această obligație (sancțiune minimă).",
-      "articol_prevedere": "Art. 19 alin. (2^2)",
-      "articol_sanctiune": "Art. 19 alin. (2^2)",
-      "amenda_min": 0,
-      "amenda_max": 0,
-      "permite_jumatate": false,
-      "suma_jumatate": 0,
-      "competenta": [
-        "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
-      ],
-      "tags": [
-        "avertisment",
-        "fotografii transport",
-        "SUMAL 2.0",
-        "transportator",
-        "monitorizare"
-      ],
-      "masuri_complementare": "",
-      "confiscare": "",
-      "agravare_fapta": "",
-      "repetare_fapta": ""
+      "repetare_fapta": "",
+      "alternativa_sanctiune": "Se poate aplica avertisment sau amendă conform lit. b), c) sau d) în funcție de gradul depășirii"
     }
   ]
 }
