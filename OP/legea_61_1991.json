@@ -3,7 +3,7 @@
     "titlu": "Legea nr. 61 din 27 septembrie 1991 pentru sancționarea faptelor de încălcare a unor norme de conviețuire socială, a ordinii și liniștii publice",
     "data_republicare": "18 februarie 2020",
     "monitorul_oficial": "Monitorul Oficial nr. 125 din 18 februarie 2020",
-    "ultima_modificare": "Legea nr. 233/2024 (MO nr. 713 din 22 iulie 2024)"
+    "ultima_modificare": "Legea nr. 92/2026 (MO nr. 482 din 10 iunie 2026), OUG nr. 7/2026 (MO nr. 146 din 25 februarie 2026)"
   },
   "fapte": [
     {
@@ -16,8 +16,23 @@
       "amenda_max": 1000,
       "permite_jumatate": true,
       "suma_jumatate": 100,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["obscenitate", "injurii", "vulgaritate", "amenințări", "violenta", "ordine publică", "demnitate", "onoare"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "obscenitate",
+        "injurii",
+        "vulgaritate",
+        "amenințări",
+        "violenta",
+        "ordine publică",
+        "demnitate",
+        "onoare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": {
@@ -29,8 +44,8 @@
       "repetare": {
         "interval": "24 de ore",
         "articol": "Art. 5, lit. a)",
-        "amenda_min": 500,
-        "amenda_max": 1500,
+        "amenda_min": 1000,
+        "amenda_max": 3000,
         "alternativa": "Prestarea a 50-100 ore de activități în folosul comunității"
       }
     },
@@ -44,8 +59,20 @@
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["grup", "persoane", "acțiuni ilicite", "dezordine socială", "incitare"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "grup",
+        "persoane",
+        "acțiuni ilicite",
+        "dezordine socială",
+        "incitare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": {
@@ -66,8 +93,22 @@
       "amenda_max": 30000,
       "permite_jumatate": true,
       "suma_jumatate": 5000,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["băuturi alcoolice", "băuturi energizante", "tutun", "minor", "vârstă", "act identitate", "verificare"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "băuturi alcoolice",
+        "băuturi energizante",
+        "tutun",
+        "minor",
+        "vârstă",
+        "act identitate",
+        "verificare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -83,8 +124,19 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["cerșetorie", "milă publică", "apt de muncă", "determinare"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "cerșetorie",
+        "milă publică",
+        "apt de muncă",
+        "determinare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -100,8 +152,22 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["aruncare", "obiecte", "substanțe inflamante", "lacrimogene", "corosive", "murdărire", "transport"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "aruncare",
+        "obiecte",
+        "substanțe inflamante",
+        "lacrimogene",
+        "corosive",
+        "murdărire",
+        "transport"
+      ],
       "masuri_complementare": null,
       "confiscare": {
         "articol": "Art. 4, alin. (1)",
@@ -125,8 +191,20 @@
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["jocuri de noroc", "noroc", "autorizare", "bune moravuri", "organizare"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "jocuri de noroc",
+        "noroc",
+        "autorizare",
+        "bune moravuri",
+        "organizare"
+      ],
       "masuri_complementare": null,
       "confiscare": {
         "articol": "Art. 4, alin. (1)",
@@ -145,8 +223,21 @@
       "amenda_max": 1500,
       "permite_jumatate": false,
       "suma_jumatate": 250,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["prostituate", "raporturi sexuale", "foloase materiale", "îndemn", "determinare", "localuri publice"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "prostituate",
+        "raporturi sexuale",
+        "foloase materiale",
+        "îndemn",
+        "determinare",
+        "localuri publice"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -163,8 +254,26 @@
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["prostituate", "tolerare", "hotel", "motel", "bar", "restaurant", "club", "pensiune", "discotecă", "patron", "administrator"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "prostituate",
+        "tolerare",
+        "hotel",
+        "motel",
+        "bar",
+        "restaurant",
+        "club",
+        "pensiune",
+        "discotecă",
+        "patron",
+        "administrator"
+      ],
       "masuri_complementare": {
         "articol": "Art. 3, alin. (3)",
         "descriere": "Suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
@@ -183,8 +292,25 @@
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["arme", "aer comprimat", "gaze comprimate", "arbaletă", "arc", "tir", "pescuit", "vânătoare", "comercializare", "magazine autorizate"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "arme",
+        "aer comprimat",
+        "gaze comprimate",
+        "arbaletă",
+        "arc",
+        "tir",
+        "pescuit",
+        "vânătoare",
+        "comercializare",
+        "magazine autorizate"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -200,8 +326,23 @@
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["arme", "vânzare", "minor", "18 ani", "cazier judiciar", "violenta", "boli neuropsihice", "certificat sănătate"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "arme",
+        "vânzare",
+        "minor",
+        "18 ani",
+        "cazier judiciar",
+        "violenta",
+        "boli neuropsihice",
+        "certificat sănătate"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -217,8 +358,23 @@
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["arme", "evidență", "registru", "magazine autorizate", "cumpărător", "date personale", "cazier", "certificat sănătate"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "arme",
+        "evidență",
+        "registru",
+        "magazine autorizate",
+        "cumpărător",
+        "date personale",
+        "cazier",
+        "certificat sănătate"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -234,8 +390,22 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["alarmare", "alarmă falsă", "semnale pericol", "intervenție", "pompieri", "poliție", "fără motiv"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "alarmare",
+        "alarmă falsă",
+        "semnale pericol",
+        "intervenție",
+        "pompieri",
+        "poliție",
+        "fără motiv"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -251,8 +421,22 @@
       "amenda_max": 1000,
       "permite_jumatate": true,
       "suma_jumatate": 100,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["curent electric", "întrerupere", "lămpi", "iluminat public", "stradă", "parc", "sală spectacol"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "curent electric",
+        "întrerupere",
+        "lămpi",
+        "iluminat public",
+        "stradă",
+        "parc",
+        "sală spectacol"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -268,8 +452,24 @@
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["pătrundere", "acces ilegal", "instituții publice", "ambasadă", "autorități", "învățământ", "partide politice", "ONG", "ocupare teren"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "pătrundere",
+        "acces ilegal",
+        "instituții publice",
+        "ambasadă",
+        "autorități",
+        "învățământ",
+        "partide politice",
+        "ONG",
+        "ocupare teren"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -285,8 +485,24 @@
       "amenda_max": 6000,
       "permite_jumatate": true,
       "suma_jumatate": 1500,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["graffiti", "însemne", "desene", "scrieri", "pereți", "garduri", "deteriorare", "murdărire", "spațiu public"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "graffiti",
+        "însemne",
+        "desene",
+        "scrieri",
+        "pereți",
+        "garduri",
+        "deteriorare",
+        "murdărire",
+        "spațiu public"
+      ],
       "masuri_complementare": {
         "articol": "Art. 3, alin. (6^1)",
         "descriere": "Obligarea contravenientului la înlăturarea înscrierilor, însemnelor sau desenelor, cu redarea stării inițiale a bunului scris, pictat, desenat sau deteriorat ori cu refacerea acestuia, în termen de cel mult 15 zile calendaristice",
@@ -310,8 +526,21 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["reclame", "afișe", "anunțuri", "dezlipire", "distrugere", "spațiu public"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "reclame",
+        "afișe",
+        "anunțuri",
+        "dezlipire",
+        "distrugere",
+        "spațiu public"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -327,8 +556,20 @@
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["manifestări culturale", "manifestări sportive", "ordine", "reguli", "evenimente"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "manifestări culturale",
+        "manifestări sportive",
+        "ordine",
+        "reguli",
+        "evenimente"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -344,8 +585,22 @@
       "amenda_max": 1000,
       "permite_jumatate": true,
       "suma_jumatate": 100,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["indicatoare", "semne rutiere", "orientare turistică", "deteriorare", "mutare", "pericol", "viață"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "indicatoare",
+        "semne rutiere",
+        "orientare turistică",
+        "deteriorare",
+        "mutare",
+        "pericol",
+        "viață"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -361,8 +616,21 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["animale", "câini", "pericol", "libertate", "fără supraveghere", "animale periculoase"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "animale",
+        "câini",
+        "pericol",
+        "libertate",
+        "fără supraveghere",
+        "animale periculoase"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -378,8 +646,20 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["local public", "băuturi alcoolice", "refuz părăsire", "ora închidere", "consumator"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "local public",
+        "băuturi alcoolice",
+        "refuz părăsire",
+        "ora închidere",
+        "consumator"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -395,8 +675,21 @@
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["băuturi alcoolice", "servire", "ora închidere", "program", "autorizație funcționare", "interdicție"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "băuturi alcoolice",
+        "servire",
+        "ora închidere",
+        "program",
+        "autorizație funcționare",
+        "interdicție"
+      ],
       "masuri_complementare": {
         "articol": "Art. 3, alin. (4)",
         "descriere": "În cazul repetării: suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
@@ -419,8 +712,21 @@
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["băuturi alcoolice", "adunare publică", "greva", "manifestare sportivă", "revelion", "evenimente"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "băuturi alcoolice",
+        "adunare publică",
+        "greva",
+        "manifestare sportivă",
+        "revelion",
+        "evenimente"
+      ],
       "masuri_complementare": {
         "articol": "Art. 3, alin. (3)",
         "descriere": "Suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
@@ -439,8 +745,25 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["băuturi alcoolice", "spital", "unitate sanitară", "centru plasament", "minor", "școală", "învățământ", "lăcaș cult", "religie", "trotuar"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "băuturi alcoolice",
+        "spital",
+        "unitate sanitară",
+        "centru plasament",
+        "minor",
+        "școală",
+        "învățământ",
+        "lăcaș cult",
+        "religie",
+        "trotuar"
+      ],
       "masuri_complementare": {
         "articol": "Art. 3, alin. (4)",
         "descriere": "În cazul repetării: suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
@@ -463,8 +786,22 @@
       "amenda_max": 20000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["băuturi alcoolice", "servire", "ebrietate", "beat", "minor", "18 ani", "local public"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "băuturi alcoolice",
+        "servire",
+        "ebrietate",
+        "beat",
+        "minor",
+        "18 ani",
+        "local public"
+      ],
       "masuri_complementare": {
         "articol": "Art. 3, alin. (3) și (4)",
         "descriere": "Suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile (atât la săvârșire cât și la repetare)"
@@ -492,8 +829,26 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["băuturi alcoolice", "consum", "drum public", "parc", "stadion", "transport în comun", "autogară", "gară", "aeroport", "minor", "18 ani"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "băuturi alcoolice",
+        "consum",
+        "drum public",
+        "parc",
+        "stadion",
+        "transport în comun",
+        "autogară",
+        "gară",
+        "aeroport",
+        "minor",
+        "18 ani"
+      ],
       "masuri_complementare": {
         "articol": "Art. 3, alin. (3)",
         "descriere": "Suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile (doar pentru operatorii economici care nu respectă delimitarea spațiilor)"
@@ -512,8 +867,22 @@
       "amenda_max": 20000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră", "Organe de ocrotire socială"],
-      "tags": ["băuturi alcoolice", "comercializare", "minor", "18 ani", "ofertare gratuită", "unități autorizate"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră",
+        "Organe de ocrotire socială"
+      ],
+      "tags": [
+        "băuturi alcoolice",
+        "comercializare",
+        "minor",
+        "18 ani",
+        "ofertare gratuită",
+        "unități autorizate"
+      ],
       "masuri_complementare": {
         "articol": "Art. 3, alin. (3) și (4)",
         "descriere": "Suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile (atât la săvârșire cât și la repetare)"
@@ -541,8 +910,24 @@
       "amenda_max": 20000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră", "Organe de ocrotire socială"],
-      "tags": ["băuturi energizante", "energizante", "comercializare", "minor", "automat comercial", "cofeină", "taurină", "guarana"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră",
+        "Organe de ocrotire socială"
+      ],
+      "tags": [
+        "băuturi energizante",
+        "energizante",
+        "comercializare",
+        "minor",
+        "automat comercial",
+        "cofeină",
+        "taurină",
+        "guarana"
+      ],
       "masuri_complementare": {
         "articol": "Art. 3, alin. (4)",
         "descriere": "În cazul repetării: suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
@@ -570,8 +955,21 @@
       "amenda_max": 1000,
       "permite_jumatate": true,
       "suma_jumatate": 100,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["scandal", "altercație", "loc public", "local public", "participare", "provocare"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "scandal",
+        "altercație",
+        "loc public",
+        "local public",
+        "participare",
+        "provocare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": {
@@ -592,16 +990,30 @@
       "amenda_max": 1000,
       "permite_jumatate": true,
       "suma_jumatate": 100,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["zgomot", "larmă", "strigăte", "tulburare liniște", "vecini", "aparat", "liniște publică"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "zgomot",
+        "larmă",
+        "strigăte",
+        "tulburare liniște",
+        "vecini",
+        "aparat",
+        "liniște publică"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
       "repetare": {
         "interval": "24 de ore",
         "articol": "Art. 5, lit. a)",
-        "amenda_min": 500,
-        "amenda_max": 1500,
+        "amenda_min": 1000,
+        "amenda_max": 3000,
         "alternativa": "Prestarea a 50-100 ore de activități în folosul comunității"
       }
     },
@@ -610,13 +1022,31 @@
       "punct": "26",
       "descriere": "Tulburarea liniștii locatarilor între orele 22,00-8,00 și 13,00-14,00 de către orice persoană prin producerea de zgomote, larmă sau prin folosirea oricărui aparat, obiect ori instrument muzical la intensitate mare în localurile sau în sediile persoanelor juridice, în locuințele persoanelor fizice sau în oricare alt loc din imobile cu destinația de locuințe ori situat în imediata vecinătate a acestora",
       "articol_prevedere": "Art. 2, pct. 26",
-      "articol_sanctiune": "Art. 3, alin. (1), lit. c)",
-      "amenda_min": 500,
-      "amenda_max": 1500,
+      "articol_sanctiune": "Art. 3, alin. (1), lit. c^1)",
+      "amenda_min": 1000,
+      "amenda_max": 2000,
       "permite_jumatate": true,
-      "suma_jumatate": 250,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["zgomot", "tulburare liniște", "program liniște", "22:00", "8:00", "13:00", "14:00", "vecini", "aparat muzical", "intensitate mare", "locuință"],
+      "suma_jumatate": 500,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "zgomot",
+        "tulburare liniște",
+        "program liniște",
+        "22:00",
+        "8:00",
+        "13:00",
+        "14:00",
+        "vecini",
+        "aparat muzical",
+        "intensitate mare",
+        "locuință"
+      ],
       "masuri_complementare": {
         "articol": "Art. 3, alin. (4)",
         "descriere": "În cazul repetării: suspendarea activității localului public pe o perioadă cuprinsă între 10 și 30 de zile"
@@ -626,8 +1056,8 @@
       "repetare": {
         "interval": "24 de ore",
         "articol": "Art. 5, lit. b)",
-        "amenda_min": 2000,
-        "amenda_max": 3000,
+        "amenda_min": 4000,
+        "amenda_max": 6000,
         "alternativa": "Prestarea a 70-120 ore de activități în folosul comunității",
         "masuri_suplimentare": "Suspendarea activității localului public 10-30 zile (Art. 3, alin. 4)"
       }
@@ -638,23 +1068,37 @@
       "descriere": "Organizarea de petreceri cu caracter privat și utilizarea de aparatură muzicală la intensitate de natură a tulbura liniștea locuitorilor, în corturi, alte amenajări sau în spațiu neacoperit, situate în perimetrul apropiat imobilelor cu destinația de locuințe sau cu caracter social (NOTĂ: Sintagma „în mediul urban\" a fost declarată neconstituțională prin Decizia CCR nr. 368/2022 și și-a încetat efectele juridice la 13 ianuarie 2023)",
       "articol_prevedere": "Art. 2, pct. 27",
       "articol_sanctiune": "Art. 3, alin. (1), lit. d)",
-      "amenda_min": 2000,
-      "amenda_max": 3000,
+      "amenda_min": 4000,
+      "amenda_max": 6000,
       "permite_jumatate": true,
-      "suma_jumatate": 1000,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["petrecere", "zgomot", "muzică", "cort", "spațiu neacoperit", "vecini", "imobile locuințe", "intensitate"],
+      "suma_jumatate": 2000,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "petrecere",
+        "zgomot",
+        "muzică",
+        "cort",
+        "spațiu neacoperit",
+        "vecini",
+        "imobile locuințe",
+        "intensitate"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
       "repetare": {
         "interval": "24 de ore",
         "articol": "Art. 5, lit. c)",
-        "amenda_min": 3000,
-        "amenda_max": 6000,
+        "amenda_min": 6000,
+        "amenda_max": 12000,
         "alternativa": "Prestarea a 100-150 ore de activități în folosul comunității"
-      },
-      "observatie_constitutionala": "Prin Decizia CCR nr. 368/2022, sintagma „în mediul urban\" a fost declarată neconstituțională. Efectele juridice au încetat la 13 ianuarie 2023."
+      }
     },
     {
       "id": "28",
@@ -666,8 +1110,23 @@
       "amenda_max": 1000,
       "permite_jumatate": true,
       "suma_jumatate": 100,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["alungare", "locuință comună", "soț", "soție", "copii", "întreținere", "familie", "violenta domestică"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "alungare",
+        "locuință comună",
+        "soț",
+        "soție",
+        "copii",
+        "întreținere",
+        "familie",
+        "violenta domestică"
+      ],
       "masuri_complementare": {
         "articol": "Art. 4, alin. (2)",
         "descriere": "Organele constatatoare sunt abilitate să restabilească situația anterioară"
@@ -690,8 +1149,22 @@
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["calamitate", "dezastru natural", "pericol public", "măsuri ordine", "inundație", "cutremur", "incendiu"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "calamitate",
+        "dezastru natural",
+        "pericol public",
+        "măsuri ordine",
+        "inundație",
+        "cutremur",
+        "incendiu"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -703,12 +1176,24 @@
       "descriere": "Nerespectarea măsurii de suspendare, dispusă conform dispozițiilor art. 3 alin. (3) și (4)",
       "articol_prevedere": "Art. 2, pct. 30",
       "articol_sanctiune": "Art. 3, alin. (1), lit. d)",
-      "amenda_min": 2000,
-      "amenda_max": 3000,
+      "amenda_min": 4000,
+      "amenda_max": 6000,
       "permite_jumatate": true,
-      "suma_jumatate": 1000,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["suspendare", "nerespectare", "activitate", "local public", "măsură preventivă"],
+      "suma_jumatate": 2000,
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "suspendare",
+        "nerespectare",
+        "activitate",
+        "local public",
+        "măsură preventivă"
+      ],
       "masuri_complementare": {
         "articol": "Art. 3, alin. (5)",
         "descriere": "Retragerea autorizației de funcționare a localului public"
@@ -727,8 +1212,21 @@
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["refuz", "identificare", "date personale", "poliție", "urmărire penală", "prezentare sediu"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "refuz",
+        "identificare",
+        "date personale",
+        "poliție",
+        "urmărire penală",
+        "prezentare sediu"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -744,8 +1242,21 @@
       "amenda_max": 1500,
       "permite_jumatate": true,
       "suma_jumatate": 250,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră", "Organe de ocrotire socială"],
-      "tags": ["îndemn", "minor", "contravenție", "incitare", "corupere minor"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră",
+        "Organe de ocrotire socială"
+      ],
+      "tags": [
+        "îndemn",
+        "minor",
+        "contravenție",
+        "incitare",
+        "corupere minor"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -761,8 +1272,26 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră", "Organe de ocrotire socială"],
-      "tags": ["părinți", "minor", "16 ani", "vagabondaj", "cerșetorie", "prostituate", "îngrijire", "educație", "alienat", "debil mintal"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră",
+        "Organe de ocrotire socială"
+      ],
+      "tags": [
+        "părinți",
+        "minor",
+        "16 ani",
+        "vagabondaj",
+        "cerșetorie",
+        "prostituate",
+        "îngrijire",
+        "educație",
+        "alienat",
+        "debil mintal"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -778,8 +1307,24 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră", "Organe de ocrotire socială"],
-      "tags": ["bolnav mintal", "periculos", "supraveghere", "pază", "scăpare", "anunțare", "poliție", "sanitar"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră",
+        "Organe de ocrotire socială"
+      ],
+      "tags": [
+        "bolnav mintal",
+        "periculos",
+        "supraveghere",
+        "pază",
+        "scăpare",
+        "anunțare",
+        "poliție",
+        "sanitar"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -795,8 +1340,25 @@
       "amenda_max": 6000,
       "permite_jumatate": true,
       "suma_jumatate": 1500,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["ordine publică", "local public", "hotel", "motel", "club", "pensiune", "discotecă", "patron", "responsabil", "sprijin poliție"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "ordine publică",
+        "local public",
+        "hotel",
+        "motel",
+        "club",
+        "pensiune",
+        "discotecă",
+        "patron",
+        "responsabil",
+        "sprijin poliție"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -812,8 +1374,22 @@
       "amenda_max": 6000,
       "permite_jumatate": true,
       "suma_jumatate": 1500,
-      "competenta": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră"],
-      "tags": ["împiedicare", "poliție", "jandarmerie", "ordine publică", "legitimare", "conducere sediu", "obligații serviciu"],
+      "competenta": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră"
+      ],
+      "tags": [
+        "împiedicare",
+        "poliție",
+        "jandarmerie",
+        "ordine publică",
+        "legitimare",
+        "conducere sediu",
+        "obligații serviciu"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -833,7 +1409,13 @@
     },
     "competenta_constatare": {
       "articol": "Art. 6",
-      "organe": ["Primar", "Împuterniciții primarului", "Ofițeri sau agenți de poliție", "Ofițeri, maiștri militari și subofițeri din jandarmerie", "Polițiști de frontieră (pentru faptele din zona specifică de competență)"]
+      "organe": [
+        "Primar",
+        "Împuterniciții primarului",
+        "Ofițeri sau agenți de poliție",
+        "Ofițeri, maiștri militari și subofițeri din jandarmerie",
+        "Polițiști de frontieră (pentru faptele din zona specifică de competență)"
+      ]
     },
     "sesizare_ocrotire_sociala": {
       "articol": "Art. 3, alin. (7)",
