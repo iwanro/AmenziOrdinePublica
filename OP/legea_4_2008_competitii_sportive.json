@@ -1,9 +1,9 @@
 {
   "lege_metadata": {
-    "titlu": "Legea nr. 4 din 9 ianuarie 2008 privind prevenirea și combaterea violenței cu ocazia competițiilor și a jocurilor sportive",
+    "titlu": "Legea nr. 4 din 9 ianuarie 2008 privind buna organizare și desfășurare a competițiilor și a jocurilor sportive",
     "data_publicare": "11 ianuarie 2008",
     "monitorul_oficial": "Monitorul Oficial nr. 24 din 11 ianuarie 2008",
-    "data_actualizare": "2021 (modificări prin OUG)",
+    "data_actualizare": "2021 (modificări prin OUG) și 2026-07-20 (Legea nr. 154/2026)",
     "nota": "Abrogă OG nr. 11/2006"
   },
   "fapte": [
@@ -683,15 +683,15 @@
     {
       "id": "22_l",
       "punct": "l)",
-      "descriere": "Pătrunderea pe suprafața de joc, cu excepția cazurilor de forță majoră",
+      "descriere": "Săvârșirea de fapte, acte sau gesturi obscene, proferea ori scandarea de injurii, cuvinte sau expresii jignitoare ori vulgare, precum și amenințări cu acte de violență împotriva celorlalți spectatori, oficiali, jucători sau a bunurilor acestora",
       "articol_prevedere": "Art. 20, lit. l)",
-      "articol_sanctiune": "Art. 22, lit. e)",
-      "amenda_min": 1000,
-      "amenda_max": 3000,
+      "articol_sanctiune": "Art. 22, lit. d)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
       "permite_jumatate": true,
-      "suma_jumatate": 500,
-      "ore_comunitate_min": 150,
-      "ore_comunitate_max": 300,
+      "suma_jumatate": 250,
+      "ore_comunitate_min": 120,
+      "ore_comunitate_max": 200,
       "competenta": [
         "polițiști",
         "jandarmi"
@@ -703,11 +703,40 @@
         "forță majoră",
         "intrare interzisă"
       ],
-      "masuri_complementare": "Interzicerea accesului la competițiile și jocurile sportive de genul celor la care s-a săvârșit fapta pe o perioadă de 2 ani",
+      "masuri_complementare": "Interzicerea accesului la competițiile și jocurile sportive de genul celor la care s-a săvârșit fapta pe o perioadă de 1 an",
       "confiscare": null,
       "agravare": null,
       "repetare": null,
-      "sancțiune_alternativă": "Prestarea a 150-300 ore de activități în folosul comunității"
+      "sancțiune_alternativă": "Prestarea a 120-200 ore de activități în folosul comunității"
+    },
+    {
+      "id": "22_x",
+      "punct": "x)",
+      "descriere": "Pătrunderea sau încercarea de pătrundere fără drept, prin orice mijloace, pe suprafața de joc",
+      "articol_prevedere": "Art. 20, lit. x)",
+      "articol_sanctiune": "Art. 22, lit. d)",
+      "amenda_min": 500,
+      "amenda_max": 1500,
+      "permite_jumatate": true,
+      "suma_jumatate": 250,
+      "ore_comunitate_min": 120,
+      "ore_comunitate_max": 200,
+      "competenta": [
+        "polițiști",
+        "jandarmi"
+      ],
+      "tags": [
+        "pătrundere",
+        "suprafață joc",
+        "teren",
+        "intrare interzisă",
+        "fără drept"
+      ],
+      "masuri_complementare": "Interzicerea accesului la competițiile și jocurile sportive de genul celor la care s-a săvârșit fapta pe o perioadă de 1 an",
+      "confiscare": null,
+      "agravare": null,
+      "repetare": null,
+      "sancțiune_alternativă": "Prestarea a 120-200 ore de activități în folosul comunității"
     },
     {
       "id": "23",
@@ -1034,6 +1063,7 @@
     "agravare": "Nu sunt prevăzute circumstanțe agravante specifice pentru contravenții",
     "repetare": "Nu sunt prevăzute sancțiuni specifice pentru repetarea contravențiilor",
     "sancțiuni_alternative": "Prestarea de activități în folosul comunității (50-300 ore) în locul amenzii pentru toate contravențiile din Art. 22",
-    "suspensie_activitate": "Art. 26 alin. (1) lit. c): Suspendarea dreptului de a organiza competiții (1-6 luni) pentru organizatori"
+    "suspensie_activitate": "Art. 26 alin. (1) lit. c): Suspendarea dreptului de a organiza competiții (1-6 luni) pentru organizatori",
+    "legea_154_2026": "Legea nr. 154/2026 (20 iulie 2026) modifică art. 5, 10, 11, 14, 15, 19, 20, 47 - întărire obligații organizatori, reguli alcool, turnicheți, zone safe standing, spectacole pirotehnice"
   }
 }
