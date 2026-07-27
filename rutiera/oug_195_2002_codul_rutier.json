@@ -7,7 +7,10 @@
     "puncte_amenda_min": 2,
     "puncte_amenda_max": 3,
     "permite_jumatate": true,
-    "tags": ["viteza", "clasa_I"],
+    "tags": [
+      "viteza",
+      "clasa_I"
+    ],
     "puncte_penalizare": 2
   },
   {
@@ -18,7 +21,10 @@
     "puncte_amenda_min": 2,
     "puncte_amenda_max": 3,
     "permite_jumatate": true,
-    "tags": ["semnalizare", "clasa_I"],
+    "tags": [
+      "semnalizare",
+      "clasa_I"
+    ],
     "puncte_penalizare": 2
   },
   {
@@ -29,7 +35,10 @@
     "puncte_amenda_min": 2,
     "puncte_amenda_max": 3,
     "permite_jumatate": true,
-    "tags": ["pietoni", "clasa_I"]
+    "tags": [
+      "pietoni",
+      "clasa_I"
+    ]
   },
   {
     "id": "OG195_4",
@@ -39,7 +48,11 @@
     "puncte_amenda_min": 2,
     "puncte_amenda_max": 3,
     "permite_jumatate": true,
-    "tags": ["documente", "avarie", "clasa_I"]
+    "tags": [
+      "documente",
+      "avarie",
+      "clasa_I"
+    ]
   },
   {
     "id": "OG195_5",
@@ -49,7 +62,10 @@
     "puncte_amenda_min": 2,
     "puncte_amenda_max": 3,
     "permite_jumatate": true,
-    "tags": ["coloane", "clasa_I"]
+    "tags": [
+      "coloane",
+      "clasa_I"
+    ]
   },
   {
     "id": "OG195_6",
@@ -59,7 +75,11 @@
     "puncte_amenda_min": 2,
     "puncte_amenda_max": 3,
     "permite_jumatate": true,
-    "tags": ["semafor", "benzi_reversibile", "clasa_I"],
+    "tags": [
+      "semafor",
+      "benzi_reversibile",
+      "clasa_I"
+    ],
     "puncte_penalizare": 2
   },
   {
@@ -70,7 +90,10 @@
     "puncte_amenda_min": 2,
     "puncte_amenda_max": 3,
     "permite_jumatate": true,
-    "tags": ["vehicul_avariat", "clasa_I"]
+    "tags": [
+      "vehicul_avariat",
+      "clasa_I"
+    ]
   },
   {
     "id": "OG195_8",
@@ -80,7 +103,11 @@
     "puncte_amenda_min": 2,
     "puncte_amenda_max": 3,
     "permite_jumatate": true,
-    "tags": ["centura", "pasageri", "clasa_I"],
+    "tags": [
+      "centura",
+      "pasageri",
+      "clasa_I"
+    ],
     "puncte_penalizare": 2
   },
   {
@@ -91,7 +118,12 @@
     "puncte_amenda_min": 2,
     "puncte_amenda_max": 3,
     "permite_jumatate": true,
-    "tags": ["casca", "motocicleta", "moped", "clasa_I"],
+    "tags": [
+      "casca",
+      "motocicleta",
+      "moped",
+      "clasa_I"
+    ],
     "puncte_penalizare": 2
   },
   {
@@ -102,7 +134,11 @@
     "puncte_amenda_min": 2,
     "puncte_amenda_max": 3,
     "permite_jumatate": true,
-    "tags": ["tramvai", "prioritate", "clasa_I"]
+    "tags": [
+      "tramvai",
+      "prioritate",
+      "clasa_I"
+    ]
   },
   {
     "id": "OG195_11",
@@ -112,7 +148,10 @@
     "puncte_amenda_min": 2,
     "puncte_amenda_max": 3,
     "permite_jumatate": true,
-    "tags": ["animale", "clasa_I"]
+    "tags": [
+      "animale",
+      "clasa_I"
+    ]
   },
   {
     "id": "OG195_12",
@@ -122,7 +161,11 @@
     "puncte_amenda_min": 2,
     "puncte_amenda_max": 3,
     "permite_jumatate": true,
-    "tags": ["semn_distinctiv", "beginner", "clasa_I"]
+    "tags": [
+      "semn_distinctiv",
+      "beginner",
+      "clasa_I"
+    ]
   },
   {
     "id": "OG195_13",
@@ -132,7 +175,10 @@
     "puncte_amenda_min": 2,
     "puncte_amenda_max": 3,
     "permite_jumatate": true,
-    "tags": ["conducere", "clasa_I"],
+    "tags": [
+      "conducere",
+      "clasa_I"
+    ],
     "puncte_penalizare": 2
   },
   {
@@ -143,7 +189,10 @@
     "puncte_amenda_min": 2,
     "puncte_amenda_max": 3,
     "permite_jumatate": true,
-    "tags": ["pasageri", "clasa_I"]
+    "tags": [
+      "pasageri",
+      "clasa_I"
+    ]
   },
   {
     "id": "OG195_15",
@@ -153,7 +202,10 @@
     "puncte_amenda_min": 2,
     "puncte_amenda_max": 3,
     "permite_jumatate": true,
-    "tags": ["semafor", "clasa_I"],
+    "tags": [
+      "semafor",
+      "clasa_I"
+    ],
     "puncte_penalizare": 2
   },
   {
@@ -164,7 +216,10 @@
     "puncte_amenda_min": 2,
     "puncte_amenda_max": 3,
     "permite_jumatate": true,
-    "tags": ["placute", "clasa_I"]
+    "tags": [
+      "placute",
+      "clasa_I"
+    ]
   },
   {
     "id": "OG195_17",
@@ -174,7 +229,11 @@
     "puncte_amenda_min": 2,
     "puncte_amenda_max": 3,
     "permite_jumatate": true,
-    "tags": ["placute", "folii", "clasa_I"]
+    "tags": [
+      "placute",
+      "folii",
+      "clasa_I"
+    ]
   },
   {
     "id": "OG195_18",
@@ -184,7 +243,10 @@
     "puncte_amenda_min": 2,
     "puncte_amenda_max": 3,
     "permite_jumatate": true,
-    "tags": ["deficiente_majore", "clasa_I"]
+    "tags": [
+      "deficiente_majore",
+      "clasa_I"
+    ]
   },
   {
     "id": "OG195_19",
@@ -194,7 +256,11 @@
     "puncte_amenda_min": 4,
     "puncte_amenda_max": 5,
     "permite_jumatate": true,
-    "tags": ["semnale", "autoritati", "clasa_II"]
+    "tags": [
+      "semnale",
+      "autoritati",
+      "clasa_II"
+    ]
   },
   {
     "id": "OG195_20",
@@ -204,7 +270,10 @@
     "puncte_amenda_min": 4,
     "puncte_amenda_max": 5,
     "permite_jumatate": true,
-    "tags": ["avertizare_sonora", "clasa_II"]
+    "tags": [
+      "avertizare_sonora",
+      "clasa_II"
+    ]
   },
   {
     "id": "OG195_21",
@@ -214,7 +283,11 @@
     "puncte_amenda_min": 4,
     "puncte_amenda_max": 5,
     "permite_jumatate": true,
-    "tags": ["indicatoare", "marcaje", "clasa_II"],
+    "tags": [
+      "indicatoare",
+      "marcaje",
+      "clasa_II"
+    ],
     "puncte_penalizare": 3
   },
   {
@@ -225,7 +298,10 @@
     "puncte_amenda_min": 4,
     "puncte_amenda_max": 5,
     "permite_jumatate": true,
-    "tags": ["documente", "clasa_II"]
+    "tags": [
+      "documente",
+      "clasa_II"
+    ]
   },
   {
     "id": "OG195_23",
@@ -235,7 +311,11 @@
     "puncte_amenda_min": 4,
     "puncte_amenda_max": 5,
     "permite_jumatate": true,
-    "tags": ["scoala_soferi", "dotari", "clasa_II"]
+    "tags": [
+      "scoala_soferi",
+      "dotari",
+      "clasa_II"
+    ]
   },
   {
     "id": "OG195_24",
@@ -245,7 +325,10 @@
     "puncte_amenda_min": 4,
     "puncte_amenda_max": 5,
     "permite_jumatate": true,
-    "tags": ["anvelope", "clasa_II"]
+    "tags": [
+      "anvelope",
+      "clasa_II"
+    ]
   },
   {
     "id": "OG195_25",
@@ -255,7 +338,11 @@
     "puncte_amenda_min": 4,
     "puncte_amenda_max": 5,
     "permite_jumatate": true,
-    "tags": ["poluare", "nox", "clasa_II"]
+    "tags": [
+      "poluare",
+      "nox",
+      "clasa_II"
+    ]
   },
   {
     "id": "OG195_26",
@@ -265,7 +352,11 @@
     "puncte_amenda_min": 4,
     "puncte_amenda_max": 5,
     "permite_jumatate": true,
-    "tags": ["trasee", "examen", "clasa_II"]
+    "tags": [
+      "trasee",
+      "examen",
+      "clasa_II"
+    ]
   },
   {
     "id": "OG195_27",
@@ -275,7 +366,11 @@
     "puncte_amenda_min": 4,
     "puncte_amenda_max": 5,
     "permite_jumatate": true,
-    "tags": ["tramvai", "intersectie", "clasa_II"]
+    "tags": [
+      "tramvai",
+      "intersectie",
+      "clasa_II"
+    ]
   },
   {
     "id": "OG195_28",
@@ -285,7 +380,11 @@
     "puncte_amenda_min": 4,
     "puncte_amenda_max": 5,
     "permite_jumatate": true,
-    "tags": ["distragere_atentie", "sonorizare", "clasa_II"]
+    "tags": [
+      "distragere_atentie",
+      "sonorizare",
+      "clasa_II"
+    ]
   },
   {
     "id": "OG195_29",
@@ -295,7 +394,12 @@
     "puncte_amenda_min": 4,
     "puncte_amenda_max": 5,
     "permite_jumatate": true,
-    "tags": ["lumini", "motocicleta", "moped", "clasa_II"]
+    "tags": [
+      "lumini",
+      "motocicleta",
+      "moped",
+      "clasa_II"
+    ]
   },
   {
     "id": "OG195_30",
@@ -305,7 +409,10 @@
     "puncte_amenda_min": 4,
     "puncte_amenda_max": 5,
     "permite_jumatate": true,
-    "tags": ["echipament_protectie", "clasa_II"]
+    "tags": [
+      "echipament_protectie",
+      "clasa_II"
+    ]
   },
   {
     "id": "OG195_31",
@@ -315,7 +422,11 @@
     "puncte_amenda_min": 4,
     "puncte_amenda_max": 5,
     "permite_jumatate": true,
-    "tags": ["dotari", "trusa_medicala", "clasa_II"]
+    "tags": [
+      "dotari",
+      "trusa_medicala",
+      "clasa_II"
+    ]
   },
   {
     "id": "OG195_32",
@@ -325,7 +436,11 @@
     "puncte_amenda_min": 4,
     "puncte_amenda_max": 5,
     "permite_jumatate": true,
-    "tags": ["biciclete", "trotinete", "clasa_II"]
+    "tags": [
+      "biciclete",
+      "trotinete",
+      "clasa_II"
+    ]
   },
   {
     "id": "OG195_33",
@@ -335,7 +450,13 @@
     "puncte_amenda_min": 4,
     "puncte_amenda_max": 5,
     "permite_jumatate": true,
-    "tags": ["depasire", "semafor_rosu", "cale_ferata", "clasa_II", "suspendare"],
+    "tags": [
+      "depasire",
+      "semafor_rosu",
+      "cale_ferata",
+      "clasa_II",
+      "suspendare"
+    ],
     "puncte_penalizare": 3,
     "suspendare_permis": {
       "durata_zile": 30,
@@ -355,7 +476,11 @@
     "puncte_amenda_min": 4,
     "puncte_amenda_max": 5,
     "permite_jumatate": true,
-    "tags": ["semafor_rosu", "clasa_II", "suspendare"],
+    "tags": [
+      "semafor_rosu",
+      "clasa_II",
+      "suspendare"
+    ],
     "puncte_penalizare": 3,
     "suspendare_permis": {
       "durata_zile": 30,
@@ -375,7 +500,12 @@
     "puncte_amenda_min": 4,
     "puncte_amenda_max": 5,
     "permite_jumatate": true,
-    "tags": ["politist", "semnale", "clasa_II", "suspendare"],
+    "tags": [
+      "politist",
+      "semnale",
+      "clasa_II",
+      "suspendare"
+    ],
     "puncte_penalizare": 3,
     "suspendare_permis": {
       "durata_zile": 30,
@@ -395,7 +525,12 @@
     "puncte_amenda_min": 4,
     "puncte_amenda_max": 5,
     "permite_jumatate": true,
-    "tags": ["accident", "pagube_materiale", "clasa_II", "suspendare"],
+    "tags": [
+      "accident",
+      "pagube_materiale",
+      "clasa_II",
+      "suspendare"
+    ],
     "puncte_penalizare": 3,
     "suspendare_permis": {
       "durata_zile": 30,
@@ -415,7 +550,12 @@
     "puncte_amenda_min": 4,
     "puncte_amenda_max": 5,
     "permite_jumatate": true,
-    "tags": ["telefon", "maini_libere", "clasa_II", "suspendare"],
+    "tags": [
+      "telefon",
+      "maini_libere",
+      "clasa_II",
+      "suspendare"
+    ],
     "puncte_penalizare": 3,
     "suspendare_permis": {
       "durata_zile": 30,
@@ -435,7 +575,11 @@
     "puncte_amenda_min": 4,
     "puncte_amenda_max": 5,
     "permite_jumatate": true,
-    "tags": ["comportament_agresiv", "clasa_II", "suspendare"],
+    "tags": [
+      "comportament_agresiv",
+      "clasa_II",
+      "suspendare"
+    ],
     "puncte_penalizare": 3,
     "suspendare_permis": {
       "durata_zile": 30,
@@ -455,9 +599,14 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["permis_expirat", "clasa_III"],
+    "tags": [
+      "permis_expirat",
+      "clasa_III"
+    ],
     "puncte_penalizare": 4,
-    "retinere_documente": ["Permis"],
+    "retinere_documente": [
+      "Permis"
+    ],
     "detalii_dovada": {
       "drept_circulatie": "DA",
       "valabilitate_zile": 15,
@@ -472,7 +621,10 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["certificat_inmatriculare", "clasa_III"]
+    "tags": [
+      "certificat_inmatriculare",
+      "clasa_III"
+    ]
   },
   {
     "id": "OG195_41",
@@ -482,7 +634,11 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["distanta", "sens_opus", "clasa_III"]
+    "tags": [
+      "distanta",
+      "sens_opus",
+      "clasa_III"
+    ]
   },
   {
     "id": "OG195_42",
@@ -492,7 +648,11 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["indicatoare", "interzicere", "clasa_III"],
+    "tags": [
+      "indicatoare",
+      "interzicere",
+      "clasa_III"
+    ],
     "puncte_penalizare": 4
   },
   {
@@ -503,17 +663,26 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["intersectie", "blocare", "clasa_III"]
+    "tags": [
+      "intersectie",
+      "blocare",
+      "clasa_III"
+    ]
   },
   {
     "id": "OG195_44",
-    "descriere_mot_a_mot": "conducerea unei biciclete sau a unei trotinete electrice pe drumurile publice fără mijloace de iluminare și dispozitive reflectorizant-fluorescente în stare de funcționare pe timp de noapte ori fără îndeplinirea condițiilor tehnice minime stabilite prin regulament, conducerea unei biciclete sau a unei trotinete electrice pe autostradă, nerespectarea de către conducătorul unei biciclete sau trotinete electrice a interdicției de trecere la culoarea roșie a semaforului, a semnalelor agentului de cale ferată, la trecerea la nivel cu o cale ferată industrială, semnalizată corespunzător ori a semnalelor, indicațiilor ori dispozițiilor polițistului rutier, nerespectarea de către conducătorul unei biciclete sau trotinete electrice a interdicției privind circulația sub influența alcoolului, a produselor ori substanțelor stupefiante ori a medicamentelor cu efecte similare acestora, a interdicției privind interacțiunea motrică directă cu un alt vehicul aflat în mers ori cu persoane aflate în acesta ori a interdicției privind circulația în interiorul sau în afara localităților fără a purta îmbrăcăminte cu elemente fluorescent-reflectorizante, stabilite prin regulament, sau nerespectarea de către conducătorul unei biciclete sau trotinete electrice a obligației de a circula cu viteză redusă, a obligației de a se asigura că nu se apropie un vehicul feroviar sau a obligației de a opri la trecerea la nivel cu calea ferată, stabilite prin regulament",
+    "descriere_mot_a_mot": "conducerea unei biciclete sau a unei trotinete electrice pe drumurile publice fără mijloace de iluminare și dispozitive reflectorizant-fluorescente în stare de funcționare pe timp de noapte ori fără îndeplinirea condițiilor tehnice minime stabilite prin regulament, conducerea unei biciclete sau a unei trotinete electrice pe autostradă, nerespectarea de către conducătorul unei biciclete sau trotinete electrice a interdicției de trecere la culoarea roșie a semaforului, a semnalelor agentului de cale ferată, la trecerea la nivel cu o cale ferată industrială, semnalizată corespunzător ori a semnalelor, indicațiilor ori dispozițiilor polițistului rutier, nerespectarea de către conducătorul unei biciclete sau trotinete electrice a interdicției privind circulația sub influența alcoolului, a substanțelor psihoactive, a interdicției privind interacțiunea motrică directă cu un alt vehicul aflat în mers ori cu persoane aflate în acesta ori a interdicției privind circulația în interiorul sau în afara localităților fără a purta îmbrăcăminte cu elemente fluorescent-reflectorizante, stabilite prin regulament, sau nerespectarea de către conducătorul unei biciclete sau trotinete electrice a obligației de a circula cu viteză redusă, a obligației de a se asigura că nu se apropie un vehicul feroviar sau a obligației de a opri la trecerea la nivel cu calea ferată, stabilite prin regulament",
     "articol_prevedere": "Art. 101 alin. (1) pct. 8",
     "articol_sanctiune": "Art. 101",
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["bicicleta", "trotineta", "iluminare", "clasa_III"]
+    "tags": [
+      "bicicleta",
+      "trotineta",
+      "iluminare",
+      "clasa_III"
+    ]
   },
   {
     "id": "OG195_45",
@@ -523,7 +692,10 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["viteza", "clasa_III"]
+    "tags": [
+      "viteza",
+      "clasa_III"
+    ]
   },
   {
     "id": "OG195_46",
@@ -533,7 +705,11 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["lumini", "modificari", "clasa_III"]
+    "tags": [
+      "lumini",
+      "modificari",
+      "clasa_III"
+    ]
   },
   {
     "id": "OG195_47",
@@ -543,8 +719,15 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["deficiente_majore", "franare", "directie", "clasa_III"],
-    "retinere_documente": ["Certificat"],
+    "tags": [
+      "deficiente_majore",
+      "franare",
+      "directie",
+      "clasa_III"
+    ],
+    "retinere_documente": [
+      "Certificat"
+    ],
     "detalii_dovada": {
       "drept_circulatie": "DA",
       "valabilitate_zile": 15,
@@ -559,7 +742,11 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["tunel", "pasaj", "clasa_III"]
+    "tags": [
+      "tunel",
+      "pasaj",
+      "clasa_III"
+    ]
   },
   {
     "id": "OG195_49",
@@ -569,7 +756,10 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["transport", "clasa_III"]
+    "tags": [
+      "transport",
+      "clasa_III"
+    ]
   },
   {
     "id": "OG195_50",
@@ -579,7 +769,10 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["usi", "clasa_III"]
+    "tags": [
+      "usi",
+      "clasa_III"
+    ]
   },
   {
     "id": "OG195_51",
@@ -589,7 +782,11 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["transport_public", "oprire", "clasa_III"]
+    "tags": [
+      "transport_public",
+      "oprire",
+      "clasa_III"
+    ]
   },
   {
     "id": "OG195_52",
@@ -599,7 +796,10 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["benzi", "clasa_III"],
+    "tags": [
+      "benzi",
+      "clasa_III"
+    ],
     "puncte_penalizare": 4
   },
   {
@@ -610,7 +810,10 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["doua_roti", "clasa_III"]
+    "tags": [
+      "doua_roti",
+      "clasa_III"
+    ]
   },
   {
     "id": "OG195_54",
@@ -620,7 +823,10 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["documente", "clasa_III"],
+    "tags": [
+      "documente",
+      "clasa_III"
+    ],
     "puncte_penalizare": 4
   },
   {
@@ -631,7 +837,11 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["telefon", "maini_libere", "clasa_III"],
+    "tags": [
+      "telefon",
+      "maini_libere",
+      "clasa_III"
+    ],
     "puncte_penalizare": 4
   },
   {
@@ -642,7 +852,10 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["vehicul_neinmatriculat", "clasa_III"]
+    "tags": [
+      "vehicul_neinmatriculat",
+      "clasa_III"
+    ]
   },
   {
     "id": "OG195_57",
@@ -652,7 +865,10 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["vizibilitate", "clasa_III"]
+    "tags": [
+      "vizibilitate",
+      "clasa_III"
+    ]
   },
   {
     "id": "OG195_58",
@@ -662,7 +878,12 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["semafor_rosu", "accident", "clasa_III", "suspendare"],
+    "tags": [
+      "semafor_rosu",
+      "accident",
+      "clasa_III",
+      "suspendare"
+    ],
     "puncte_penalizare": 4,
     "suspendare_permis": {
       "durata_zile": 60,
@@ -682,7 +903,11 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["interdictie_temporara", "clasa_III", "suspendare"],
+    "tags": [
+      "interdictie_temporara",
+      "clasa_III",
+      "suspendare"
+    ],
     "puncte_penalizare": 4,
     "suspendare_permis": {
       "durata_zile": 60,
@@ -702,7 +927,11 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["coloana_oficiala", "clasa_III", "suspendare"],
+    "tags": [
+      "coloana_oficiala",
+      "clasa_III",
+      "suspendare"
+    ],
     "puncte_penalizare": 4,
     "suspendare_permis": {
       "durata_zile": 60,
@@ -722,7 +951,11 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["sens_opus", "clasa_III", "suspendare"],
+    "tags": [
+      "sens_opus",
+      "clasa_III",
+      "suspendare"
+    ],
     "puncte_penalizare": 4,
     "suspendare_permis": {
       "durata_zile": 60,
@@ -742,7 +975,12 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["prioritate", "pietoni", "clasa_III", "suspendare"],
+    "tags": [
+      "prioritate",
+      "pietoni",
+      "clasa_III",
+      "suspendare"
+    ],
     "puncte_penalizare": 4,
     "suspendare_permis": {
       "durata_zile": 60,
@@ -762,7 +1000,12 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["prioritate", "vehicule", "clasa_III", "suspendare"],
+    "tags": [
+      "prioritate",
+      "vehicule",
+      "clasa_III",
+      "suspendare"
+    ],
     "puncte_penalizare": 4,
     "suspendare_permis": {
       "durata_zile": 60,
@@ -782,7 +1025,11 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["depasire", "clasa_III", "suspendare"],
+    "tags": [
+      "depasire",
+      "clasa_III",
+      "suspendare"
+    ],
     "puncte_penalizare": 4,
     "suspendare_permis": {
       "durata_zile": 60,
@@ -802,7 +1049,12 @@
     "puncte_amenda_min": 6,
     "puncte_amenda_max": 8,
     "permite_jumatate": true,
-    "tags": ["comportament_agresiv", "accident", "clasa_III", "suspendare"],
+    "tags": [
+      "comportament_agresiv",
+      "accident",
+      "clasa_III",
+      "suspendare"
+    ],
     "puncte_penalizare": 4,
     "suspendare_permis": {
       "durata_zile": 60,
@@ -822,9 +1074,15 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["deficiente_periculoase", "itp_expirat", "clasa_IV"],
+    "tags": [
+      "deficiente_periculoase",
+      "itp_expirat",
+      "clasa_IV"
+    ],
     "puncte_penalizare": 6,
-    "retinere_documente": ["Certificat"],
+    "retinere_documente": [
+      "Certificat"
+    ],
     "detalii_dovada": {
       "drept_circulatie": "DA",
       "valabilitate_zile": 15,
@@ -839,7 +1097,11 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["tractiune_animala", "neinregistrat", "clasa_IV"]
+    "tags": [
+      "tractiune_animala",
+      "neinregistrat",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_68",
@@ -849,7 +1111,10 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["radiere", "clasa_IV"]
+    "tags": [
+      "radiere",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_69",
@@ -859,7 +1124,10 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["atestat_profesional", "clasa_IV"],
+    "tags": [
+      "atestat_profesional",
+      "clasa_IV"
+    ],
     "puncte_penalizare": 6
   },
   {
@@ -870,7 +1138,10 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["verificare_medicala", "clasa_IV"]
+    "tags": [
+      "verificare_medicala",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_71",
@@ -880,7 +1151,10 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["permise_multiple", "clasa_IV"]
+    "tags": [
+      "permise_multiple",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_72",
@@ -890,7 +1164,11 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["afise", "semnalizare", "clasa_IV"]
+    "tags": [
+      "afise",
+      "semnalizare",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_73",
@@ -900,7 +1178,10 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["radar_detector", "clasa_IV"],
+    "tags": [
+      "radar_detector",
+      "clasa_IV"
+    ],
     "confiscare": "dispozitivele care perturbă funcționarea mijloacelor tehnice de supraveghere a traficului"
   },
   {
@@ -911,7 +1192,10 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["avertizare_speciala", "clasa_IV"]
+    "tags": [
+      "avertizare_speciala",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_75",
@@ -921,7 +1205,10 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["date_identificare", "clasa_IV"]
+    "tags": [
+      "date_identificare",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_76",
@@ -931,7 +1218,10 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["transport_public", "clasa_IV"]
+    "tags": [
+      "transport_public",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_77",
@@ -941,7 +1231,10 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["tractiune_animala", "clasa_IV"]
+    "tags": [
+      "tractiune_animala",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_78",
@@ -951,7 +1244,10 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["autostrada", "clasa_IV"],
+    "tags": [
+      "autostrada",
+      "clasa_IV"
+    ],
     "puncte_penalizare": 6
   },
   {
@@ -962,7 +1258,10 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["autorizatie_probe", "clasa_IV"]
+    "tags": [
+      "autorizatie_probe",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_80",
@@ -972,7 +1271,10 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["autorizatie_probe", "clasa_IV"]
+    "tags": [
+      "autorizatie_probe",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_81",
@@ -982,7 +1284,10 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["benzi_reversibile", "clasa_IV"]
+    "tags": [
+      "benzi_reversibile",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_82",
@@ -992,7 +1297,10 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["gesturi_obscene", "clasa_IV"]
+    "tags": [
+      "gesturi_obscene",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_83",
@@ -1002,7 +1310,10 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["abandon", "clasa_IV"]
+    "tags": [
+      "abandon",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_84",
@@ -1012,7 +1323,10 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["remorcare", "clasa_IV"]
+    "tags": [
+      "remorcare",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_85",
@@ -1022,7 +1336,10 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["neprezentare_politie", "clasa_IV"]
+    "tags": [
+      "neprezentare_politie",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_86",
@@ -1032,7 +1349,11 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["noroi", "materiale_periculoase", "clasa_IV"]
+    "tags": [
+      "noroi",
+      "materiale_periculoase",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_87",
@@ -1042,7 +1363,10 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["transport_animale", "clasa_IV"]
+    "tags": [
+      "transport_animale",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_88",
@@ -1052,8 +1376,13 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["anvelope_iarna", "clasa_IV"],
-    "retinere_documente": ["Certificat"],
+    "tags": [
+      "anvelope_iarna",
+      "clasa_IV"
+    ],
+    "retinere_documente": [
+      "Certificat"
+    ],
     "detalii_dovada": {
       "drept_circulatie": "NU",
       "valabilitate_zile": 0,
@@ -1068,7 +1397,10 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["semn_distinctiv", "clasa_IV"]
+    "tags": [
+      "semn_distinctiv",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_90",
@@ -1078,7 +1410,10 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["porti_gabarit", "clasa_IV"]
+    "tags": [
+      "porti_gabarit",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_91",
@@ -1088,7 +1423,11 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["pasaje_superioare", "gabarit", "clasa_IV"]
+    "tags": [
+      "pasaje_superioare",
+      "gabarit",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_92",
@@ -1098,7 +1437,11 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["antifurt", "zgomot", "clasa_IV"]
+    "tags": [
+      "antifurt",
+      "zgomot",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_93",
@@ -1108,7 +1451,10 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["indicator_viteza", "clasa_IV"]
+    "tags": [
+      "indicator_viteza",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_94",
@@ -1118,8 +1464,14 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["folii", "parbriz", "clasa_IV"],
-    "retinere_documente": ["Certificat"],
+    "tags": [
+      "folii",
+      "parbriz",
+      "clasa_IV"
+    ],
+    "retinere_documente": [
+      "Certificat"
+    ],
     "detalii_dovada": {
       "drept_circulatie": "DA",
       "valabilitate_zile": 15,
@@ -1134,8 +1486,14 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["afișe", "vizibilitate", "clasa_IV"],
-    "retinere_documente": ["Certificat"],
+    "tags": [
+      "afișe",
+      "vizibilitate",
+      "clasa_IV"
+    ],
+    "retinere_documente": [
+      "Certificat"
+    ],
     "detalii_dovada": {
       "drept_circulatie": "DA",
       "valabilitate_zile": 15,
@@ -1150,7 +1508,11 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["marfuri_periculoase", "gabarit_depășit", "clasa_IV"],
+    "tags": [
+      "marfuri_periculoase",
+      "gabarit_depășit",
+      "clasa_IV"
+    ],
     "imobilizare_vehicul": {
       "temei_legal": "Art. 117 alin. (1) lit. c)"
     }
@@ -1163,7 +1525,11 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["comunicare", "date_incomplete", "clasa_IV"]
+    "tags": [
+      "comunicare",
+      "date_incomplete",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_98",
@@ -1173,27 +1539,53 @@
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["inmatriculare_suspendata", "clasa_IV"]
+    "tags": [
+      "inmatriculare_suspendata",
+      "clasa_IV"
+    ]
   },
   {
     "id": "OG195_99",
-    "descriere_mot_a_mot": "neîndeplinirea de către medic a obligației prevăzute la art. 22 alin. (6) și alin. (6^2).",
+    "descriere_mot_a_mot": "neîndeplinirea de către medic a obligației prevăzute la art. 22 alin. (6), (6^3), (8^1) sau (8^5)",
     "articol_prevedere": "Art. 102 alin. (1) pct. 40",
     "articol_sanctiune": "Art. 102",
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["medic", "obligatii", "clasa_IV"]
+    "tags": [
+      "medic",
+      "obligatii",
+      "clasa_IV"
+    ]
   },
   {
-    "id": "OG195_100",
+    "id": "OG195_109",
+    "descriere_mot_a_mot": "neîndeplinirea de către psiholog a obligației prevăzute la art. 22 alin. (8^3)",
+    "articol_prevedere": "Art. 102 alin. (1) pct. 41",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": [
+      "psiholog",
+      "evaluare_psihologica",
+      "clasa_IV"
+    ],
+    "puncte_penalizare": 6
+  },
+  {
+    "id": "OG195_101",
     "descriere_mot_a_mot": "conducerea sub influenta băuturilor alcoolice, dacă fapta nu constituie, potrivit legii, infracțiune",
     "articol_prevedere": "Art. 102 alin. (3) lit. a)",
     "articol_sanctiune": "Art. 102",
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["alcool", "clasa_IV", "suspendare"],
+    "tags": [
+      "alcool",
+      "clasa_IV",
+      "suspendare"
+    ],
     "puncte_penalizare": 6,
     "suspendare_permis": {
       "durata_zile": 90,
@@ -1206,14 +1598,20 @@
     }
   },
   {
-    "id": "OG195_101",
+    "id": "OG195_102",
     "descriere_mot_a_mot": "conducerea vehiculului cu deficiențe periculoase la sistemul de frânare sau la mecanismul de direcție",
     "articol_prevedere": "Art. 102 alin. (3) lit. b)",
     "articol_sanctiune": "Art. 102",
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["deficiente_periculoase", "franare", "directie", "clasa_IV", "suspendare"],
+    "tags": [
+      "deficiente_periculoase",
+      "franare",
+      "directie",
+      "clasa_IV",
+      "suspendare"
+    ],
     "puncte_penalizare": 6,
     "suspendare_permis": {
       "durata_zile": 90,
@@ -1229,14 +1627,19 @@
     }
   },
   {
-    "id": "OG195_102",
+    "id": "OG195_103",
     "descriere_mot_a_mot": "depășirea cu mai mult de 50 km/h a vitezei maxime admise pe sectorul de drum respectiv și pentru categoria din care face parte autovehiculul condus, constatată, potrivit legii, cu mijloace tehnice omologate și verificate metrologic.",
     "articol_prevedere": "Art. 102 alin. (3) lit. e)",
     "articol_sanctiune": "Art. 102",
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["viteza", "exces_50", "clasa_IV", "suspendare"],
+    "tags": [
+      "viteza",
+      "exces_50",
+      "clasa_IV",
+      "suspendare"
+    ],
     "puncte_penalizare": 6,
     "suspendare_permis": {
       "durata_zile": 90,
@@ -1249,14 +1652,18 @@
     }
   },
   {
-    "id": "OG195_103",
+    "id": "OG195_104",
     "descriere_mot_a_mot": "deținerea, montarea sau folosirea în circulația pe drumurile publice a mijloacelor speciale de avertizare sonoră sau luminoasă pe vehiculele care nu au acest drept.",
     "articol_prevedere": "Art. 102 alin. (3) lit. f)",
     "articol_sanctiune": "Art. 102",
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["avertizare_speciala", "clasa_IV", "suspendare"],
+    "tags": [
+      "avertizare_speciala",
+      "clasa_IV",
+      "suspendare"
+    ],
     "puncte_penalizare": 6,
     "suspendare_permis": {
       "durata_zile": 90,
@@ -1270,34 +1677,20 @@
     "confiscare": "mijloacele speciale de avertizare luminoase și sonore deținute, montate și folosite pe alte autovehicule decât cele prevăzute la art. 32 alin. (2) și (3)"
   },
   {
-    "id": "OG195_104",
+    "id": "OG195_105",
     "descriere_mot_a_mot": "nerespectarea regulilor privind prioritatea de trecere sau depășirea, dacă prin aceasta s-a produs un accident de circulație din care au rezultat numai avarierea unui vehicul sau alte pagube materiale",
     "articol_prevedere": "Art. 102 alin. (3) lit. g)",
     "articol_sanctiune": "Art. 102",
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["prioritate", "depasire", "accident", "clasa_IV", "suspendare"],
-    "puncte_penalizare": 6,
-    "suspendare_permis": {
-      "durata_zile": 90,
-      "articol_temei": "Art. 102 alin. (3)"
-    },
-    "detalii_dovada": {
-      "drept_circulatie": "DA",
-      "valabilitate_zile": 15,
-      "temei_legal": "Art. 111 alin. (5)"
-    }
-  },
-  {
-    "id": "OG195_105",
-    "descriere_mot_a_mot": "circulația nejustificată a autovehiculelor pe banda de urgență a autostrăzilor.",
-    "articol_prevedere": "Art. 102 alin. (3) lit. h)",
-    "articol_sanctiune": "Art. 102",
-    "puncte_amenda_min": 9,
-    "puncte_amenda_max": 20,
-    "permite_jumatate": true,
-    "tags": ["banda_urgenta", "autostrada", "clasa_IV", "suspendare"],
+    "tags": [
+      "prioritate",
+      "depasire",
+      "accident",
+      "clasa_IV",
+      "suspendare"
+    ],
     "puncte_penalizare": 6,
     "suspendare_permis": {
       "durata_zile": 90,
@@ -1311,17 +1704,22 @@
   },
   {
     "id": "OG195_106",
-    "descriere_mot_a_mot": "depășirea cu mai mult de 70 km/h a vitezei maxime admise pe sectorul de drum respectiv și pentru categoria din care face parte autovehiculul condus, constatată, potrivit legii, cu mijloace tehnice omologate și verificate metrologic",
-    "articol_prevedere": "Art. 102 alin. (4) lit. a)",
+    "descriere_mot_a_mot": "circulația nejustificată a autovehiculelor pe banda de urgență a autostrăzilor.",
+    "articol_prevedere": "Art. 102 alin. (3) lit. h)",
     "articol_sanctiune": "Art. 102",
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["viteza", "exces_70", "clasa_IV", "suspendare"],
+    "tags": [
+      "banda_urgenta",
+      "autostrada",
+      "clasa_IV",
+      "suspendare"
+    ],
     "puncte_penalizare": 6,
     "suspendare_permis": {
-      "durata_zile": 120,
-      "articol_temei": "Art. 102 alin. (4)"
+      "durata_zile": 90,
+      "articol_temei": "Art. 102 alin. (3)"
     },
     "detalii_dovada": {
       "drept_circulatie": "DA",
@@ -1331,13 +1729,18 @@
   },
   {
     "id": "OG195_107",
-    "descriere_mot_a_mot": "neoprirea la trecerea la nivel cu calea ferată când barierele sau semibarierele sunt coborâte ori în curs de coborâre sau când semnalele cu lumini roșii și/sau sonore sunt în funcțiune",
-    "articol_prevedere": "Art. 102 alin. (4) lit. b)",
+    "descriere_mot_a_mot": "depășirea cu mai mult de 70 km/h a vitezei maxime admise pe sectorul de drum respectiv și pentru categoria din care face parte autovehiculul condus, constatată, potrivit legii, cu mijloace tehnice omologate și verificate metrologic",
+    "articol_prevedere": "Art. 102 alin. (4) lit. a)",
     "articol_sanctiune": "Art. 102",
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["cale_ferata", "bariere", "clasa_IV", "suspendare"],
+    "tags": [
+      "viteza",
+      "exces_70",
+      "clasa_IV",
+      "suspendare"
+    ],
     "puncte_penalizare": 6,
     "suspendare_permis": {
       "durata_zile": 120,
@@ -1351,13 +1754,44 @@
   },
   {
     "id": "OG195_108",
+    "descriere_mot_a_mot": "neoprirea la trecerea la nivel cu calea ferată când barierele sau semibarierele sunt coborâte ori în curs de coborâre sau când semnalele cu lumini roșii și/sau sonore sunt în funcțiune",
+    "articol_prevedere": "Art. 102 alin. (4) lit. b)",
+    "articol_sanctiune": "Art. 102",
+    "puncte_amenda_min": 9,
+    "puncte_amenda_max": 20,
+    "permite_jumatate": true,
+    "tags": [
+      "cale_ferata",
+      "bariere",
+      "clasa_IV",
+      "suspendare"
+    ],
+    "puncte_penalizare": 6,
+    "suspendare_permis": {
+      "durata_zile": 120,
+      "articol_temei": "Art. 102 alin. (4)"
+    },
+    "detalii_dovada": {
+      "drept_circulatie": "DA",
+      "valabilitate_zile": 15,
+      "temei_legal": "Art. 111 alin. (5)"
+    }
+  },
+  {
+    "id": "OG195_109",
     "descriere_mot_a_mot": "efectuarea, de către conducătorul de autovehicul, pe autostradă sau pe drumul expres, a manevrei de întoarcere sau de mers înapoi, a circulației în sens contrar sensului de circulație, a circulației sau traversării de pe un sens de circulație pe celălalt prin zonele interzise, respectiv prin zona mediană sau racordurile dintre cele două părți carosabile.",
     "articol_prevedere": "Art. 102 alin. (4) lit. c)",
     "articol_sanctiune": "Art. 102",
     "puncte_amenda_min": 9,
     "puncte_amenda_max": 20,
     "permite_jumatate": true,
-    "tags": ["autostrada", "mers_inapoi", "sens_opus", "clasa_IV", "suspendare"],
+    "tags": [
+      "autostrada",
+      "mers_inapoi",
+      "sens_opus",
+      "clasa_IV",
+      "suspendare"
+    ],
     "puncte_penalizare": 6,
     "suspendare_permis": {
       "durata_zile": 120,
