@@ -42,7 +42,7 @@
         "amenda_max": 3000
       },
       "repetare": {
-        "interval": "24 de ore",
+        "interval": "72 de ore",
         "articol": "Art. 5, lit. a)",
         "amenda_min": 1000,
         "amenda_max": 3000,
@@ -1010,7 +1010,7 @@
       "confiscare": null,
       "agravare": null,
       "repetare": {
-        "interval": "24 de ore",
+        "interval": "72 de ore",
         "articol": "Art. 5, lit. a)",
         "amenda_min": 1000,
         "amenda_max": 3000,
@@ -1054,7 +1054,7 @@
       "confiscare": null,
       "agravare": null,
       "repetare": {
-        "interval": "24 de ore",
+        "interval": "72 de ore",
         "articol": "Art. 5, lit. b)",
         "amenda_min": 4000,
         "amenda_max": 6000,
@@ -1093,7 +1093,7 @@
       "confiscare": null,
       "agravare": null,
       "repetare": {
-        "interval": "24 de ore",
+        "interval": "72 de ore",
         "articol": "Art. 5, lit. c)",
         "amenda_min": 6000,
         "amenda_max": 12000,
