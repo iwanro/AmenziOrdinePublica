@@ -4,7 +4,8 @@
     "emitent": "Guvernul României",
     "data_publicare": "13 mai 2013",
     "monitorul_oficial": "Monitorul Oficial nr. 267 din 13 mai 2013",
-    "data_actualizare": "29 decembrie 2025 (conform Legii nr. 246/2025)"
+    "data_actualizare": "01.01.2026 (Legea 246/23.12.2025 MO 1204/29.12.2025 + Legea 32/2025) - anterior 29.12.2025",
+    "patch_notes": "Diferențiere PF/PJ art.14 alin.2: a) lit.f 3000-6000 PF /10000-20000 PJ, b) lit.a,d,e,n 500-1000 PF /4000-8000 PJ, c) lit.b,c 250-500 PF /2000-4000 PJ. Făcute diferențieri."
   },
   "fapte": [
     {
@@ -33,7 +34,12 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 500,
+      "amenda_max_PF": 1000,
+      "amenda_min_PJ": 4000,
+      "amenda_max_PJ": 8000,
+      "notă": "PF 500-1000 / PJ 4000-8000 Art.14 alin.2 lit.b"
     },
     {
       "id": "fapta_2",
@@ -175,7 +181,12 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 3000,
+      "amenda_max_PF": 6000,
+      "amenda_min_PJ": 10000,
+      "amenda_max_PJ": 20000,
+      "notă": "PF 3000-6000 / PJ 10000-20000 Art.14 alin.2 lit.a"
     },
     {
       "id": "fapta_7",

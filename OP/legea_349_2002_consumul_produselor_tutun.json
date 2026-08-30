@@ -4,7 +4,7 @@
     "emitent": "PARLAMENTUL",
     "data_publicare": "21 iunie 2002",
     "monitorul_oficial": "nr. 435 din 21 iunie 2002",
-    "data_actualizare": "11 noiembrie 2024"
+    "data_actualizare": "11.11.2024 (OUG 128/2024) + 31.03.2024 (Legea 64/2024) - barem pj cu trepte 5000/10000/15000/20000 + complementare ne-modelat"
   },
   "fapte": [
     {
@@ -16,8 +16,18 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["fumat", "spațiu public închis", "interdicție", "fumat interzis"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "fumat",
+        "spațiu public închis",
+        "interdicție",
+        "fumat interzis"
+      ]
     },
     {
       "id": "fapta_2",
@@ -28,8 +38,18 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["fumat", "loc de muncă", "spațiu închis", "interdicție"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "fumat",
+        "loc de muncă",
+        "spațiu închis",
+        "interdicție"
+      ]
     },
     {
       "id": "fapta_3",
@@ -40,8 +60,19 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["fumat", "transport în comun", "autobuz", "tren", "interdicție"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "fumat",
+        "transport în comun",
+        "autobuz",
+        "tren",
+        "interdicție"
+      ]
     },
     {
       "id": "fapta_4",
@@ -52,8 +83,18 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["fumat", "loc de joacă", "copii", "interdicție"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "fumat",
+        "loc de joacă",
+        "copii",
+        "interdicție"
+      ]
     },
     {
       "id": "fapta_5",
@@ -64,8 +105,19 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["fumat", "unitate sanitară", "spital", "clinică", "interdicție"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "fumat",
+        "unitate sanitară",
+        "spital",
+        "clinică",
+        "interdicție"
+      ]
     },
     {
       "id": "fapta_6",
@@ -76,8 +128,18 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["fumat", "școală", "unitate de învățământ", "interdicție"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "fumat",
+        "școală",
+        "unitate de învățământ",
+        "interdicție"
+      ]
     },
     {
       "id": "fapta_7",
@@ -88,8 +150,18 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["fumat", "protecția copilului", "asistență socială", "interdicție"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "fumat",
+        "protecția copilului",
+        "asistență socială",
+        "interdicție"
+      ]
     },
     {
       "id": "fapta_8",
@@ -100,8 +172,18 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["țigară electronică", "vaping", "transport în comun", "interdicție"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "țigară electronică",
+        "vaping",
+        "transport în comun",
+        "interdicție"
+      ]
     },
     {
       "id": "fapta_9",
@@ -112,8 +194,19 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["elev", "fumat", "școală", "interdicție", "minor"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "elev",
+        "fumat",
+        "școală",
+        "interdicție",
+        "minor"
+      ]
     },
     {
       "id": "fapta_10",
@@ -124,8 +217,18 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["elev", "produse tutun", "școală", "interdicție"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "elev",
+        "produse tutun",
+        "școală",
+        "interdicție"
+      ]
     },
     {
       "id": "fapta_11",
@@ -136,8 +239,19 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["elev", "țigară electronică", "vaping", "școală", "interdicție"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "elev",
+        "țigară electronică",
+        "vaping",
+        "școală",
+        "interdicție"
+      ]
     },
     {
       "id": "fapta_12",
@@ -148,8 +262,19 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["elev", "flacon reumplere", "țigară electronică", "școală", "interdicție"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "elev",
+        "flacon reumplere",
+        "țigară electronică",
+        "școală",
+        "interdicție"
+      ]
     },
     {
       "id": "fapta_13",
@@ -160,8 +285,19 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["elev", "dispozitiv încălzire tutun", "heated tobacco", "școală", "interdicție"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "elev",
+        "dispozitiv încălzire tutun",
+        "heated tobacco",
+        "școală",
+        "interdicție"
+      ]
     },
     {
       "id": "fapta_14",
@@ -172,8 +308,19 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["elev", "inhalare fără ardere", "înlocuitor tutun", "școală", "interdicție"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "elev",
+        "inhalare fără ardere",
+        "înlocuitor tutun",
+        "școală",
+        "interdicție"
+      ]
     },
     {
       "id": "fapta_15",
@@ -184,8 +331,20 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["elev", "pliculeț nicotină", "pouch", "nicotină orală", "școală", "interdicție"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "elev",
+        "pliculeț nicotină",
+        "pouch",
+        "nicotină orală",
+        "școală",
+        "interdicție"
+      ]
     },
     {
       "id": "fapta_16",
@@ -196,8 +355,19 @@
       "amenda_max": 5000,
       "permite_jumatate": false,
       "suma_jumatate": 2500,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["vânzare", "țigaretă", "la bucată", "comerț", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "vânzare",
+        "țigaretă",
+        "la bucată",
+        "comerț",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 5.000 lei. La a doua abatere: amendă 10.000 lei și suspendarea activității până la remediere. La a treia abatere: amendă 15.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -210,8 +380,19 @@
       "amenda_max": 5000,
       "permite_jumatate": false,
       "suma_jumatate": 2500,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["vânzare", "țigară de foi", "la bucată", "comerț", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "vânzare",
+        "țigară de foi",
+        "la bucată",
+        "comerț",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 5.000 lei. La a doua abatere: amendă 10.000 lei și suspendarea activității până la remediere. La a treia abatere: amendă 15.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -224,8 +405,19 @@
       "amenda_max": 5000,
       "permite_jumatate": false,
       "suma_jumatate": 2500,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["vânzare", "cigarillo", "la bucată", "comerț", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "vânzare",
+        "cigarillo",
+        "la bucată",
+        "comerț",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 5.000 lei. La a doua abatere: amendă 10.000 lei și suspendarea activității până la remediere. La a treia abatere: amendă 15.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -238,8 +430,18 @@
       "amenda_max": 5000,
       "permite_jumatate": false,
       "suma_jumatate": 2500,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["comercializare", "pachet țigări", "sub 20 bucăți", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "comercializare",
+        "pachet țigări",
+        "sub 20 bucăți",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 5.000 lei. La a doua abatere: amendă 10.000 lei și suspendarea activității până la remediere. La a treia abatere: amendă 15.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii. Retragerea de pe piață a produsului în cauză în vederea distrugerii."
     },
@@ -252,8 +454,18 @@
       "amenda_max": 5000,
       "permite_jumatate": false,
       "suma_jumatate": 2500,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["comercializare", "automat", "produse tutun", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "comercializare",
+        "automat",
+        "produse tutun",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 5.000 lei. La a doua abatere: amendă 10.000 lei și suspendarea activității până la remediere. La a treia abatere: amendă 15.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii. Se pot aplica sancțiuni și deținătorilor spațiilor pe care sunt amplasate automatele.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -266,8 +478,19 @@
       "amenda_max": 5000,
       "permite_jumatate": false,
       "suma_jumatate": 2500,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["comercializare", "automat", "țigară electronică", "vaping", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "comercializare",
+        "automat",
+        "țigară electronică",
+        "vaping",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 5.000 lei. La a doua abatere: amendă 10.000 lei și suspendarea activității până la remediere. La a treia abatere: amendă 15.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii. Se pot aplica sancțiuni și deținătorilor spațiilor pe care sunt amplasate automatele.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -280,8 +503,19 @@
       "amenda_max": 5000,
       "permite_jumatate": false,
       "suma_jumatate": 2500,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["comercializare", "automat", "flacon reumplere", "țigară electronică", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "comercializare",
+        "automat",
+        "flacon reumplere",
+        "țigară electronică",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 5.000 lei. La a doua abatere: amendă 10.000 lei și suspendarea activității până la remediere. La a treia abatere: amendă 15.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii. Se pot aplica sancțiuni și deținătorilor spațiilor pe care sunt amplasate automatele.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -294,8 +528,19 @@
       "amenda_max": 5000,
       "permite_jumatate": false,
       "suma_jumatate": 2500,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["comercializare", "automat", "dispozitiv încălzire tutun", "heated tobacco", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "comercializare",
+        "automat",
+        "dispozitiv încălzire tutun",
+        "heated tobacco",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 5.000 lei. La a doua abatere: amendă 10.000 lei și suspendarea activității până la remediere. La a treia abatere: amendă 15.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii. Se pot aplica sancțiuni și deținătorilor spațiilor pe care sunt amplasate automatele.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -308,8 +553,19 @@
       "amenda_max": 5000,
       "permite_jumatate": false,
       "suma_jumatate": 2500,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["comercializare", "automat", "inhalare fără ardere", "înlocuitor tutun", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "comercializare",
+        "automat",
+        "inhalare fără ardere",
+        "înlocuitor tutun",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 5.000 lei. La a doua abatere: amendă 10.000 lei și suspendarea activității până la remediere. La a treia abatere: amendă 15.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii. Se pot aplica sancțiuni și deținătorilor spațiilor pe care sunt amplasate automatele.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -322,8 +578,20 @@
       "amenda_max": 5000,
       "permite_jumatate": false,
       "suma_jumatate": 2500,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["comercializare", "automat", "pliculeț nicotină", "pouch", "nicotină orală", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "comercializare",
+        "automat",
+        "pliculeț nicotină",
+        "pouch",
+        "nicotină orală",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 5.000 lei. La a doua abatere: amendă 10.000 lei și suspendarea activității până la remediere. La a treia abatere: amendă 15.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii. Se pot aplica sancțiuni și deținătorilor spațiilor pe care sunt amplasate automatele.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -336,8 +604,19 @@
       "amenda_max": 10000,
       "permite_jumatate": false,
       "suma_jumatate": 5000,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["vânzare", "minor", "sub 18 ani", "produse tutun", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "vânzare",
+        "minor",
+        "sub 18 ani",
+        "produse tutun",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 10.000 lei și suspendarea activității pe 30 de zile. La a doua abatere: amendă 20.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -350,8 +629,20 @@
       "amenda_max": 10000,
       "permite_jumatate": false,
       "suma_jumatate": 5000,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["vânzare", "minor", "sub 18 ani", "țigară electronică", "vaping", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "vânzare",
+        "minor",
+        "sub 18 ani",
+        "țigară electronică",
+        "vaping",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 10.000 lei și suspendarea activității pe 30 de zile. La a doua abatere: amendă 20.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -364,8 +655,20 @@
       "amenda_max": 10000,
       "permite_jumatate": false,
       "suma_jumatate": 5000,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["vânzare", "minor", "sub 18 ani", "flacon reumplere", "țigară electronică", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "vânzare",
+        "minor",
+        "sub 18 ani",
+        "flacon reumplere",
+        "țigară electronică",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 10.000 lei și suspendarea activității pe 30 de zile. La a doua abatere: amendă 20.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -378,8 +681,20 @@
       "amenda_max": 10000,
       "permite_jumatate": false,
       "suma_jumatate": 5000,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["vânzare", "minor", "sub 18 ani", "dispozitiv încălzire tutun", "heated tobacco", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "vânzare",
+        "minor",
+        "sub 18 ani",
+        "dispozitiv încălzire tutun",
+        "heated tobacco",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 10.000 lei și suspendarea activității pe 30 de zile. La a doua abatere: amendă 20.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -392,8 +707,20 @@
       "amenda_max": 10000,
       "permite_jumatate": false,
       "suma_jumatate": 5000,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["vânzare", "minor", "sub 18 ani", "inhalare fără ardere", "înlocuitor tutun", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "vânzare",
+        "minor",
+        "sub 18 ani",
+        "inhalare fără ardere",
+        "înlocuitor tutun",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 10.000 lei și suspendarea activității pe 30 de zile. La a doua abatere: amendă 20.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -406,8 +733,21 @@
       "amenda_max": 10000,
       "permite_jumatate": false,
       "suma_jumatate": 5000,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["vânzare", "minor", "sub 18 ani", "pliculeț nicotină", "pouch", "nicotină orală", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "vânzare",
+        "minor",
+        "sub 18 ani",
+        "pliculeț nicotină",
+        "pouch",
+        "nicotină orală",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 10.000 lei și suspendarea activității pe 30 de zile. La a doua abatere: amendă 20.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -420,8 +760,19 @@
       "amenda_max": 10000,
       "permite_jumatate": false,
       "suma_jumatate": 5000,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["vânzare", "easybox", "locker", "produse tutun", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "vânzare",
+        "easybox",
+        "locker",
+        "produse tutun",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 10.000 lei și suspendarea activității pe 30 de zile. La a doua abatere: amendă 20.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -434,8 +785,20 @@
       "amenda_max": 10000,
       "permite_jumatate": false,
       "suma_jumatate": 5000,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["vânzare", "easybox", "locker", "țigară electronică", "vaping", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "vânzare",
+        "easybox",
+        "locker",
+        "țigară electronică",
+        "vaping",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 10.000 lei și suspendarea activității pe 30 de zile. La a doua abatere: amendă 20.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -448,8 +811,20 @@
       "amenda_max": 10000,
       "permite_jumatate": false,
       "suma_jumatate": 5000,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["vânzare", "easybox", "locker", "flacon reumplere", "țigară electronică", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "vânzare",
+        "easybox",
+        "locker",
+        "flacon reumplere",
+        "țigară electronică",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 10.000 lei și suspendarea activității pe 30 de zile. La a doua abatere: amendă 20.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -462,8 +837,20 @@
       "amenda_max": 10000,
       "permite_jumatate": false,
       "suma_jumatate": 5000,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["vânzare", "easybox", "locker", "dispozitiv încălzire tutun", "heated tobacco", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "vânzare",
+        "easybox",
+        "locker",
+        "dispozitiv încălzire tutun",
+        "heated tobacco",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 10.000 lei și suspendarea activității pe 30 de zile. La a doua abatere: amendă 20.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -476,8 +863,20 @@
       "amenda_max": 10000,
       "permite_jumatate": false,
       "suma_jumatate": 5000,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["vânzare", "easybox", "locker", "inhalare fără ardere", "înlocuitor tutun", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "vânzare",
+        "easybox",
+        "locker",
+        "inhalare fără ardere",
+        "înlocuitor tutun",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 10.000 lei și suspendarea activității pe 30 de zile. La a doua abatere: amendă 20.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -490,8 +889,20 @@
       "amenda_max": 10000,
       "permite_jumatate": false,
       "suma_jumatate": 5000,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["vânzare", "easybox", "locker", "recipient nicotină", "nicotină orală", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "vânzare",
+        "easybox",
+        "locker",
+        "recipient nicotină",
+        "nicotină orală",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 10.000 lei și suspendarea activității pe 30 de zile. La a doua abatere: amendă 20.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -504,8 +915,20 @@
       "amenda_max": 10000,
       "permite_jumatate": false,
       "suma_jumatate": 5000,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["vânzare", "easybox", "locker", "inhalare fără ardere", "înlocuitor tutun", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "vânzare",
+        "easybox",
+        "locker",
+        "inhalare fără ardere",
+        "înlocuitor tutun",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 10.000 lei și suspendarea activității pe 30 de zile. La a doua abatere: amendă 20.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -518,8 +941,19 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["curierat", "etichetare", "produse tutun", "mesaj avertizare", "interdicție"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "curierat",
+        "etichetare",
+        "produse tutun",
+        "mesaj avertizare",
+        "interdicție"
+      ]
     },
     {
       "id": "fapta_40",
@@ -530,8 +964,19 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["curierat", "etichetare", "țigară electronică", "mesaj avertizare", "interdicție"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "curierat",
+        "etichetare",
+        "țigară electronică",
+        "mesaj avertizare",
+        "interdicție"
+      ]
     },
     {
       "id": "fapta_41",
@@ -542,8 +987,19 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["curierat", "etichetare", "flacon reumplere", "mesaj avertizare", "interdicție"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "curierat",
+        "etichetare",
+        "flacon reumplere",
+        "mesaj avertizare",
+        "interdicție"
+      ]
     },
     {
       "id": "fapta_42",
@@ -554,8 +1010,19 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["curierat", "etichetare", "dispozitiv încălzire tutun", "mesaj avertizare", "interdicție"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "curierat",
+        "etichetare",
+        "dispozitiv încălzire tutun",
+        "mesaj avertizare",
+        "interdicție"
+      ]
     },
     {
       "id": "fapta_43",
@@ -566,8 +1033,19 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["curierat", "etichetare", "inhalare fără ardere", "mesaj avertizare", "interdicție"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "curierat",
+        "etichetare",
+        "inhalare fără ardere",
+        "mesaj avertizare",
+        "interdicție"
+      ]
     },
     {
       "id": "fapta_44",
@@ -578,8 +1056,20 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["curierat", "etichetare", "pliculeț nicotină", "pouch", "mesaj avertizare", "interdicție"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "curierat",
+        "etichetare",
+        "pliculeț nicotină",
+        "pouch",
+        "mesaj avertizare",
+        "interdicție"
+      ]
     },
     {
       "id": "fapta_45",
@@ -590,8 +1080,19 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["curierat", "etichetare", "inhalare fără ardere", "mesaj avertizare", "interdicție"]
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "curierat",
+        "etichetare",
+        "inhalare fără ardere",
+        "mesaj avertizare",
+        "interdicție"
+      ]
     },
     {
       "id": "fapta_46",
@@ -602,8 +1103,19 @@
       "amenda_max": 5000,
       "permite_jumatate": false,
       "suma_jumatate": 2500,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["comercializare", "unitate sanitară", "spital", "produse tutun", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "comercializare",
+        "unitate sanitară",
+        "spital",
+        "produse tutun",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 5.000 lei. La a doua abatere: amendă 10.000 lei și suspendarea activității până la remediere. La a treia abatere: amendă 15.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -616,8 +1128,19 @@
       "amenda_max": 5000,
       "permite_jumatate": false,
       "suma_jumatate": 2500,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["comercializare", "școală", "unitate de învățământ", "produse tutun", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "comercializare",
+        "școală",
+        "unitate de învățământ",
+        "produse tutun",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 5.000 lei. La a doua abatere: amendă 10.000 lei și suspendarea activității până la remediere. La a treia abatere: amendă 15.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     },
@@ -630,8 +1153,19 @@
       "amenda_max": 5000,
       "permite_jumatate": false,
       "suma_jumatate": 2500,
-      "competenta": ["Ministerul Sănătății", "Autoritatea Națională pentru Protecția Consumatorilor", "Poliția locală", "Ministerul Afacerilor Interne"],
-      "tags": ["publicitate", "emblemă", "marcă tutun", "promovare", "interdicție"],
+      "competenta": [
+        "Ministerul Sănătății",
+        "Autoritatea Națională pentru Protecția Consumatorilor",
+        "Poliția locală",
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "publicitate",
+        "emblemă",
+        "marcă tutun",
+        "promovare",
+        "interdicție"
+      ],
       "masuri_complementare": "La prima abatere: amendă 5.000 lei. La a doua abatere: amendă 10.000 lei și suspendarea activității până la remediere. La a treia abatere: amendă 15.000 lei și închiderea unității. Sancțiunile se materializează prin aplicarea de sigilii.",
       "confiscare": "Tutunul și produsele din tutun rezultate din contravenție se confiscă în vederea distrugerii."
     }

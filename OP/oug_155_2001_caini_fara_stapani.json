@@ -4,7 +4,8 @@
     "emitent": "Guvernul României",
     "data_publicare": "13 decembrie 2001",
     "monitorul_oficial": "Monitorul Oficial nr. 794 din 13 decembrie 2001",
-    "data_actualizare": "8 decembrie 2023 (Legea nr. 368/2023)"
+    "data_actualizare": "11.12.2023 (Legea 368/2023 MO 1106)",
+    "patch_notes": "Extindere la consilii județene Art.2 alin.1,4 + Art.2^1 subvenționare sterilizare"
   },
   "fapte": [
     {
@@ -16,8 +17,18 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": 1000,
-      "competenta": ["Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor", "Ministerul Afacerilor Interne", "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"],
-      "tags": ["notificare proprietar", "câine fără stăpân", "revendicare", "adăpost", "identificare proprietar"]
+      "competenta": [
+        "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor",
+        "Ministerul Afacerilor Interne",
+        "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"
+      ],
+      "tags": [
+        "notificare proprietar",
+        "câine fără stăpân",
+        "revendicare",
+        "adăpost",
+        "identificare proprietar"
+      ]
     },
     {
       "id": "fapta_2",
@@ -28,8 +39,18 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": 1000,
-      "competenta": ["Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor", "Ministerul Afacerilor Interne", "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"],
-      "tags": ["registru evidență", "microcipare", "identificare câine", "carnet sănătate", "pașaport câine"]
+      "competenta": [
+        "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor",
+        "Ministerul Afacerilor Interne",
+        "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"
+      ],
+      "tags": [
+        "registru evidență",
+        "microcipare",
+        "identificare câine",
+        "carnet sănătate",
+        "pașaport câine"
+      ]
     },
     {
       "id": "fapta_3",
@@ -40,8 +61,19 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor", "Ministerul Afacerilor Interne", "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"],
-      "tags": ["servicii specializate", "gestionare câini", "bază de date", "registru evidență", "consilii locale", "consilii județene"]
+      "competenta": [
+        "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor",
+        "Ministerul Afacerilor Interne",
+        "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"
+      ],
+      "tags": [
+        "servicii specializate",
+        "gestionare câini",
+        "bază de date",
+        "registru evidență",
+        "consilii locale",
+        "consilii județene"
+      ]
     },
     {
       "id": "fapta_4",
@@ -52,8 +84,19 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor", "Ministerul Afacerilor Interne", "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"],
-      "tags": ["adăpost asociații", "asistență veterinară", "cazare câini", "revendicare", "adopție", "protecția animalelor"]
+      "competenta": [
+        "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor",
+        "Ministerul Afacerilor Interne",
+        "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"
+      ],
+      "tags": [
+        "adăpost asociații",
+        "asistență veterinară",
+        "cazare câini",
+        "revendicare",
+        "adopție",
+        "protecția animalelor"
+      ]
     },
     {
       "id": "fapta_5",
@@ -64,8 +107,19 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor", "Ministerul Afacerilor Interne", "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"],
-      "tags": ["cazare câini", "adăpost public", "informare publică", "revendicare", "adopție", "condiții adăpost"]
+      "competenta": [
+        "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor",
+        "Ministerul Afacerilor Interne",
+        "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"
+      ],
+      "tags": [
+        "cazare câini",
+        "adăpost public",
+        "informare publică",
+        "revendicare",
+        "adopție",
+        "condiții adăpost"
+      ]
     },
     {
       "id": "fapta_6",
@@ -76,8 +130,18 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor", "Ministerul Afacerilor Interne", "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"],
-      "tags": ["eutanasiere", "medic veterinar", "metode eutanasiere", "protecția animalelor", "ucidere câini"],
+      "competenta": [
+        "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor",
+        "Ministerul Afacerilor Interne",
+        "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"
+      ],
+      "tags": [
+        "eutanasiere",
+        "medic veterinar",
+        "metode eutanasiere",
+        "protecția animalelor",
+        "ucidere câini"
+      ],
       "observatii": "Art. 14 alin. (2) lit. a) prevede că uciderea câinilor de către alte persoane decât cele prevăzute sau prin alte metode decât eutanasierea constituie infracțiune cu închisoare de la 6 luni la 3 ani sau amendă penală și confiscarea câinilor"
     },
     {
@@ -89,8 +153,18 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor", "Ministerul Afacerilor Interne", "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"],
-      "tags": ["cheltuieli", "buget local", "finanțare", "gestionare câini", "adăposturi"]
+      "competenta": [
+        "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor",
+        "Ministerul Afacerilor Interne",
+        "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"
+      ],
+      "tags": [
+        "cheltuieli",
+        "buget local",
+        "finanțare",
+        "gestionare câini",
+        "adăposturi"
+      ]
     },
     {
       "id": "fapta_8",
@@ -101,8 +175,20 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor", "Ministerul Afacerilor Interne", "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"],
-      "tags": ["revendicare", "adopție", "sterilizare", "vaccinare", "microcipare", "identificare", "condiții adopție"]
+      "competenta": [
+        "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor",
+        "Ministerul Afacerilor Interne",
+        "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"
+      ],
+      "tags": [
+        "revendicare",
+        "adopție",
+        "sterilizare",
+        "vaccinare",
+        "microcipare",
+        "identificare",
+        "condiții adopție"
+      ]
     },
     {
       "id": "fapta_9",
@@ -113,8 +199,18 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor", "Ministerul Afacerilor Interne", "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"],
-      "tags": ["responsabilitate legală", "persoane juridice", "adăpost provizoriu", "legislație sanitar-veterinară", "protecția animalelor"]
+      "competenta": [
+        "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor",
+        "Ministerul Afacerilor Interne",
+        "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"
+      ],
+      "tags": [
+        "responsabilitate legală",
+        "persoane juridice",
+        "adăpost provizoriu",
+        "legislație sanitar-veterinară",
+        "protecția animalelor"
+      ]
     },
     {
       "id": "fapta_10",
@@ -125,8 +221,18 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor", "Ministerul Afacerilor Interne", "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"],
-      "tags": ["sterilizare obligatorie", "câini rasă comună", "metiși", "control reproducere", "regim special"]
+      "competenta": [
+        "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor",
+        "Ministerul Afacerilor Interne",
+        "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"
+      ],
+      "tags": [
+        "sterilizare obligatorie",
+        "câini rasă comună",
+        "metiși",
+        "control reproducere",
+        "regim special"
+      ]
     },
     {
       "id": "fapta_11",
@@ -137,8 +243,18 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor", "Ministerul Afacerilor Interne", "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"],
-      "tags": ["vaccinare antirabică", "rabie", "regulament UE", "sănătate publică", "prevenire boli"]
+      "competenta": [
+        "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor",
+        "Ministerul Afacerilor Interne",
+        "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"
+      ],
+      "tags": [
+        "vaccinare antirabică",
+        "rabie",
+        "regulament UE",
+        "sănătate publică",
+        "prevenire boli"
+      ]
     },
     {
       "id": "fapta_12",
@@ -149,8 +265,18 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor", "Ministerul Afacerilor Interne", "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"],
-      "tags": ["recuperare câini", "exemplare sănătoase", "exemplare neagresive", "regim special", "adăpost"]
+      "competenta": [
+        "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor",
+        "Ministerul Afacerilor Interne",
+        "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"
+      ],
+      "tags": [
+        "recuperare câini",
+        "exemplare sănătoase",
+        "exemplare neagresive",
+        "regim special",
+        "adăpost"
+      ]
     },
     {
       "id": "fapta_13",
@@ -161,8 +287,18 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor", "Ministerul Afacerilor Interne", "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"],
-      "tags": ["igienă publică", "spații publice", "dejecții câini", "curățenie", "proprietari câini"]
+      "competenta": [
+        "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor",
+        "Ministerul Afacerilor Interne",
+        "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"
+      ],
+      "tags": [
+        "igienă publică",
+        "spații publice",
+        "dejecții câini",
+        "curățenie",
+        "proprietari câini"
+      ]
     },
     {
       "id": "fapta_14",
@@ -173,8 +309,18 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor", "Ministerul Afacerilor Interne", "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"],
-      "tags": ["declarație angajament", "revendicare", "adopție", "obligații adoptator", "monitorizare"]
+      "competenta": [
+        "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor",
+        "Ministerul Afacerilor Interne",
+        "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"
+      ],
+      "tags": [
+        "declarație angajament",
+        "revendicare",
+        "adopție",
+        "obligații adoptator",
+        "monitorizare"
+      ]
     },
     {
       "id": "fapta_15",
@@ -185,8 +331,19 @@
       "amenda_max": 20000,
       "permite_jumatate": true,
       "suma_jumatate": 5000,
-      "competenta": ["Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor", "Ministerul Afacerilor Interne", "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"],
-      "tags": ["amenajare adăposturi", "fonduri proprii", "tehnician veterinar", "consilii locale", "consilii județene", "personal specializat"]
+      "competenta": [
+        "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor",
+        "Ministerul Afacerilor Interne",
+        "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"
+      ],
+      "tags": [
+        "amenajare adăposturi",
+        "fonduri proprii",
+        "tehnician veterinar",
+        "consilii locale",
+        "consilii județene",
+        "personal specializat"
+      ]
     },
     {
       "id": "fapta_16",
@@ -197,8 +354,20 @@
       "amenda_max": 20000,
       "permite_jumatate": true,
       "suma_jumatate": 5000,
-      "competenta": ["Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor", "Ministerul Afacerilor Interne", "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"],
-      "tags": ["registre speciale", "evidență câini", "medic veterinar", "transparență", "monitorizare", "adăposturi publice", "adăposturi private"]
+      "competenta": [
+        "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor",
+        "Ministerul Afacerilor Interne",
+        "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"
+      ],
+      "tags": [
+        "registre speciale",
+        "evidență câini",
+        "medic veterinar",
+        "transparență",
+        "monitorizare",
+        "adăposturi publice",
+        "adăposturi private"
+      ]
     },
     {
       "id": "fapta_17",
@@ -209,8 +378,19 @@
       "amenda_max": 20000,
       "permite_jumatate": true,
       "suma_jumatate": 5000,
-      "competenta": ["Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor", "Ministerul Afacerilor Interne", "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"],
-      "tags": ["asociații protecția animalelor", "fundații", "participare", "transparență", "monitorizare", "acces adăposturi"]
+      "competenta": [
+        "Autoritatea Națională Sanitară Veterinară și pentru Siguranța Alimentelor",
+        "Ministerul Afacerilor Interne",
+        "Inspectorii serviciilor specializate pentru gestionarea câinilor fără stăpân"
+      ],
+      "tags": [
+        "asociații protecția animalelor",
+        "fundații",
+        "participare",
+        "transparență",
+        "monitorizare",
+        "acces adăposturi"
+      ]
     }
   ]
 }

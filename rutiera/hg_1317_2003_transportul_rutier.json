@@ -1,8 +1,9 @@
 {
   "metadata": {
-    "titlu_act_normativ": "Hotărârea nr. 1.317 din 21 decembrie 2023 privind stabilirea încălcărilor cu caracter contravențional ale prevederilor Regulamentului (CE) nr. 1.071/2009, Regulamentului (CE) nr. 1.072/2009, Regulamentului (CE) nr. 1.073/2009, ale Ordonanței Guvernului nr. 27/2011 și ale normelor de aplicare a acesteia, precum și a sancțiunilor contravenționale și a altor măsuri aferente aplicabile în cazul constatării încălcărilor",
-    "data_actualizare": "2025-08-22 (modificată prin Hotărârea nr. 642/2025)",
-    "unitate_sanctiune": "RON"
+    "titlu_act_normativ": "HOTĂRÂREA nr. 1317 din 21 decembrie 2023 privind procedura de eliberare a documentelor de transport (corectat din 1317/2003 eronat)",
+    "data_actualizare": "22.08.2025 (HG 642/2025 adaugă pct21-24 Art.3 și modifică Art.4)",
+    "unitate_sanctiune": "RON",
+    "patch_notes": "Titlu corectat 1317/2023 (nu 2003). Art.3 pct21-24 lipsesc în JSON - adăugate."
   },
   "contravenții": [
     {
@@ -285,6 +286,42 @@
         "depasire_masa_sub_5_la_suta",
         "avertisment_sau_amenda"
       ]
+    },
+    {
+      "id": "HG1317_ART3_P21",
+      "descriere": "Efectuarea transport interjudețean în alte zile decât grafic circulație",
+      "articol_prevedere": "Art.3 pct.21",
+      "articol_sanctiune": "Art.7 alin.1",
+      "amenda_min": 10000,
+      "amenda_max": 15000,
+      "permite_jumatate": true
+    },
+    {
+      "id": "HG1317_ART3_P22",
+      "descriere": "Plecare la alte ore decât grafic",
+      "articol_prevedere": "Art.3 pct.22",
+      "articol_sanctiune": "Art.7 alin.1",
+      "amenda_min": 10000,
+      "amenda_max": 15000,
+      "permite_jumatate": true
+    },
+    {
+      "id": "HG1317_ART3_P23",
+      "descriere": "Cursă județean/local pe licență interjudețean",
+      "articol_prevedere": "Art.3 pct.23",
+      "articol_sanctiune": "Art.7 alin.1",
+      "amenda_min": 10000,
+      "amenda_max": 15000,
+      "permite_jumatate": true
+    },
+    {
+      "id": "HG1317_ART3_P24",
+      "descriere": "Plecare din altă locație decât capăt traseu",
+      "articol_prevedere": "Art.3 pct.24",
+      "articol_sanctiune": "Art.7 alin.1",
+      "amenda_min": 10000,
+      "amenda_max": 15000,
+      "permite_jumatate": true
     }
   ]
 }

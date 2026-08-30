@@ -19,8 +19,7 @@
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
         "Personalul silvic din cadrul administratorilor fondului forestier proprietate publică a statului",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "contract administrare",
@@ -46,8 +45,7 @@
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
         "Personalul silvic din cadrul administratorilor fondului forestier proprietate publică a statului",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "administrare obligatorie",
@@ -73,8 +71,7 @@
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
         "Personalul silvic din cadrul administratorilor fondului forestier proprietate publică a statului",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "delimitare proprietate",
@@ -100,8 +97,7 @@
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
         "Personalul silvic din cadrul administratorilor fondului forestier proprietate publică a statului",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "drum forestier",
@@ -127,8 +123,7 @@
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
         "Personalul silvic din cadrul administratorilor fondului forestier proprietate publică a statului",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "ocol silvic",
@@ -154,8 +149,7 @@
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
         "Personalul silvic din cadrul administratorilor fondului forestier proprietate publică a statului",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "depasire posibilitate",
@@ -181,8 +175,7 @@
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
         "Personalul silvic din cadrul administratorilor fondului forestier proprietate publică a statului",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "depasire posibilitate",
@@ -208,8 +201,7 @@
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
         "Personalul silvic din cadrul administratorilor fondului forestier proprietate publică a statului",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "depasire posibilitate",
@@ -525,7 +517,8 @@
       "suma_jumatate": 500,
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
-        "Ofițerii și agenții de poliție"
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
       ],
       "tags": [
         "semne amenajistice",
@@ -574,8 +567,7 @@
       "suma_jumatate": 2500,
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "schimbare folosinta",
@@ -600,8 +592,7 @@
       "suma_jumatate": 2500,
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "teren forestier",
@@ -626,8 +617,7 @@
       "suma_jumatate": 2500,
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "padure",
@@ -652,8 +642,7 @@
       "suma_jumatate": 2500,
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "teren forestier",
@@ -1135,7 +1124,6 @@
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
         "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române",
         "Ofițerii și subofițerii din cadrul serviciilor profesioniste pentru situații de urgență"
       ],
       "tags": [
@@ -1749,8 +1737,7 @@
       "suma_jumatate": 2500,
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "autorizare exploatare",
@@ -1775,8 +1762,7 @@
       "suma_jumatate": 2500,
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "taiere rasa",
@@ -1801,8 +1787,7 @@
       "suma_jumatate": 2500,
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "transparenta comercializare",
@@ -1899,8 +1884,7 @@
       "suma_jumatate": 5000,
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "prelucrare lemn",
@@ -1925,8 +1909,7 @@
       "suma_jumatate": 3000,
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "exploatare masa lemnoasa",
@@ -1951,8 +1934,7 @@
       "suma_jumatate": 3000,
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "exploatare parchet",
@@ -2001,8 +1983,7 @@
       "suma_jumatate": 3000,
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "exploatare persoane fizice",
@@ -2027,8 +2008,7 @@
       "suma_jumatate": 3000,
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "cesionare contract",
@@ -2149,8 +2129,7 @@
       "suma_jumatate": 1000,
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "tehnologii scos apropiat",
@@ -2175,8 +2154,7 @@
       "suma_jumatate": 1000,
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "cioate",
@@ -2228,8 +2206,7 @@
       "suma_jumatate": 1000,
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "drum tractor",
@@ -2254,8 +2231,7 @@
       "suma_jumatate": 1000,
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "lucrari curatare",
@@ -2280,8 +2256,7 @@
       "suma_jumatate": 500,
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "cojire cioate",
@@ -2306,8 +2281,7 @@
       "suma_jumatate": 500,
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "lemn infestat",
@@ -2332,8 +2306,7 @@
       "suma_jumatate": 500,
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
-        "Ofițerii și agenții de poliție",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție"
       ],
       "tags": [
         "panou informative",
@@ -3007,8 +2980,7 @@
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
         "Ofițerii și agenții de poliție",
-        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române"
       ],
       "tags": [
         "conexiune date mobile",
@@ -3034,8 +3006,7 @@
       "competenta": [
         "Personalul silvic din cadrul autorității publice centrale care răspunde de silvicultură și al structurilor sale teritoriale",
         "Ofițerii și agenții de poliție",
-        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
-        "Ofițerii și subofițerii din cadrul Jandarmeriei Române"
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române"
       ],
       "tags": [
         "receptor GPS",

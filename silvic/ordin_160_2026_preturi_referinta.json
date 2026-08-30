@@ -1,0 +1,101 @@
+{
+  "lege_metadata": {
+    "titlu": "Ordinul MMAP nr. 160/2026 pentru aprobarea Listei prețurilor de referință pe specii și sortimente pentru anul 2026",
+    "emitent": "Ministerul Mediului, Apelor și Pădurilor",
+    "data_publicare": "21 ianuarie 2026",
+    "monitorul_oficial": "Monitorul Oficial nr. 44 din 21 ianuarie 2026",
+    "sourceUrl": "https://legislatie.just.ro/Public/DetaliiDocument/306531",
+    "temei_legal": "art.152 alin.1 și 6 Legea 331/2024 + art.22 alin.7 Legea 171/2010",
+    "valabilitate": "Anul 2026 - se actualizează anual prin ordin MMAP",
+    "emitent_ordin": "Ministrul Diana-Anda Buzoianu, Referat DGPSS/152.825 din 23.12.2025"
+  },
+  "notă": "Prețuri fără TVA, utilizate pentru valorificarea materialelor lemnoase confiscate/confiscabile care nu se găsesc sau nu pot fi identificate, despăgubiri, taxe. Distinct de prețul mediu pe picior (272 lei/mc).",
+  "preturi_referinta_2026": [
+    {
+      "specia": "Rășinoase",
+      "sortiment": "Bușteni furnir estetic",
+      "um": "mc",
+      "pret_lei": 941
+    },
+    {
+      "specia": "Rășinoase",
+      "sortiment": "Bușteni furnir tehnic",
+      "um": "mc",
+      "pret_lei": 607
+    },
+    {
+      "specia": "Rășinoase",
+      "sortiment": "Bușteni gater",
+      "um": "mc",
+      "pret_lei": 526
+    },
+    {
+      "specia": "Rășinoase",
+      "sortiment": "Lemn celuloză",
+      "um": "mc",
+      "pret_lei": 334
+    },
+    {
+      "specia": "Rășinoase",
+      "sortiment": "Lemn foc",
+      "um": "mc",
+      "pret_lei": 180
+    },
+    {
+      "specia": "Rășinoase",
+      "sortiment": "Cherestea A,B",
+      "um": "mc",
+      "pret_lei": 720
+    },
+    {
+      "specia": "Fag",
+      "sortiment": "Bușteni furnir estetic",
+      "um": "mc",
+      "pret_lei": 658
+    },
+    {
+      "specia": "Fag",
+      "sortiment": "Bușteni gater",
+      "um": "mc",
+      "pret_lei": 464
+    },
+    {
+      "specia": "Fag",
+      "sortiment": "Cherestea A,B",
+      "um": "mc",
+      "pret_lei": 935
+    },
+    {
+      "specia": "Stejar/gorun",
+      "sortiment": "Bușteni furnir estetic",
+      "um": "mc",
+      "pret_lei": 3340
+    },
+    {
+      "specia": "Stejar/gorun",
+      "sortiment": "Bușteni gater",
+      "um": "mc",
+      "pret_lei": 716
+    },
+    {
+      "specia": "Stejar/gorun",
+      "sortiment": "Cherestea",
+      "um": "mc",
+      "pret_lei": 1853
+    },
+    {
+      "specia": "Diverse tari",
+      "sortiment": "Lemn foc",
+      "um": "mc",
+      "pret_lei": 279
+    },
+    {
+      "specia": "Diverse moi",
+      "sortiment": "Lemn foc",
+      "um": "mc",
+      "pret_lei": 166
+    }
+  ],
+  "tabel_complet": "Vezi Monitorul Oficial nr.44/21.01.2026 pentru tabelul complet pe 22 poziții (Rășinoase, Fag, Stejar, Cer, Salcâm, Cireș, Paltin, Frasin, Tei, Plop, Carpen, Jugastru, Mesteacăn, Ulm, Anin, Salcie, Diverse). Extras complet disponibil la https://legeaz.net/monitorul-oficial-44-2026/ordin-mmap-160-2026",
+  "fapte": []
+}

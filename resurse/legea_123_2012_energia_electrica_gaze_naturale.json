@@ -4,7 +4,8 @@
     "emitent": "PARLAMENTUL",
     "data_publicare": "10 iulie 2012",
     "monitorul_oficial": "Actualizat la data de 1 ianuarie 2016 (conform textului furnizat)",
-    "data_actualizare": "08 martie 2026"
+    "data_actualizare": "27.02.2026 (forma consolidată) - Legea 167/2018 rescris Art.93",
+    "patch_notes": "Art.93 alin.2 PJ 5000-100000, pct.24 20000-400000 (nu 200000), abrogat alin.6 jumătate, completat 48 pct."
   },
   "fapte": [
     {
@@ -19,12 +20,21 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": 500,
       "suma_jumatate_pj": null,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["instalaţii electrice", "atestat", "autorizaţie", "proiectare", "execuţie"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "instalaţii electrice",
+        "atestat",
+        "autorizaţie",
+        "proiectare",
+        "execuţie"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 2,
@@ -38,12 +48,19 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": 1000,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["norme tehnice", "ANRE", "nereguli"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "norme tehnice",
+        "ANRE",
+        "nereguli"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 3,
@@ -57,12 +74,20 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": null,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["licenţe", "atestate", "autorizaţii", "valabilitate"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "licenţe",
+        "atestate",
+        "autorizaţii",
+        "valabilitate"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 4,
@@ -76,12 +101,19 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": null,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["piaţa energiei", "reglementări", "ANRE"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "piaţa energiei",
+        "reglementări",
+        "ANRE"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 5,
@@ -95,12 +127,19 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": 1000,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["control ANRE", "refuz", "obstrucţionare"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "control ANRE",
+        "refuz",
+        "obstrucţionare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 6,
@@ -114,12 +153,20 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": 1000,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["date", "documente", "informaţii", "termene"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "date",
+        "documente",
+        "informaţii",
+        "termene"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 7,
@@ -133,12 +180,19 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": 2000,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["acces reţea", "refuz", "reţele publice"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "acces reţea",
+        "refuz",
+        "reţele publice"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 8,
@@ -152,12 +206,19 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": 1000,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["informaţii eronate", "operator distribuţie", "operator transport"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "informaţii eronate",
+        "operator distribuţie",
+        "operator transport"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 9,
@@ -171,12 +232,19 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": null,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["discriminare", "utilizatori reţea", "operatori"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "discriminare",
+        "utilizatori reţea",
+        "operatori"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 10,
@@ -190,12 +258,20 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": 500,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["racordare", "alimentare", "întârziere", "soluţii optime"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "racordare",
+        "alimentare",
+        "întârziere",
+        "soluţii optime"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 11,
@@ -209,12 +285,19 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": 1000,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["punere sub tensiune", "contract furnizare", "grup măsurare"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "punere sub tensiune",
+        "contract furnizare",
+        "grup măsurare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 12,
@@ -228,12 +311,19 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": 500,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["ofertă furnizare", "comunicare", "solicitanţi"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "ofertă furnizare",
+        "comunicare",
+        "solicitanţi"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 13,
@@ -247,12 +337,19 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": 1000,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["sistare alimentare", "clienţi", "nejustificat"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "sistare alimentare",
+        "clienţi",
+        "nejustificat"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 14,
@@ -266,12 +363,19 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": null,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["standarde performanţă", "servicii publice", "serviciu universal"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "standarde performanţă",
+        "servicii publice",
+        "serviciu universal"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 15,
@@ -285,12 +389,19 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": null,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["contracte-cadru", "clauze obligatorii", "ANRE"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "contracte-cadru",
+        "clauze obligatorii",
+        "ANRE"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 16,
@@ -304,12 +415,18 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": null,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["schimbare furnizor", "legalitate"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "schimbare furnizor",
+        "legalitate"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 17,
@@ -323,12 +440,19 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": 2000,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["informaţii sensibile", "divulgare", "secret comercial"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "informaţii sensibile",
+        "divulgare",
+        "secret comercial"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 18,
@@ -344,8 +468,14 @@
       "permite_jumatate": false,
       "suma_jumatate_pf": null,
       "suma_jumatate_pj": null,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["independenţă operator", "control", "conflict interese"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "independenţă operator",
+        "control",
+        "conflict interese"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -363,12 +493,18 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": null,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["furnizor ultimă instanţă", "serviciu universal"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "furnizor ultimă instanţă",
+        "serviciu universal"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 20,
@@ -382,12 +518,18 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": 1000,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["producători", "obligaţii legale"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "producători",
+        "obligaţii legale"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 21,
@@ -401,12 +543,19 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": null,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["operator transport", "ordine merit", "dispecerizare"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "operator transport",
+        "ordine merit",
+        "dispecerizare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 22,
@@ -420,12 +569,19 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": null,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["plan dezvoltare", "termene", "operator transport"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "plan dezvoltare",
+        "termene",
+        "operator transport"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 23,
@@ -439,12 +595,19 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": 1000,
       "suma_jumatate_pj": 100000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["preţuri neaprobate", "tarife", "activităţi reglementate"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "preţuri neaprobate",
+        "tarife",
+        "activităţi reglementate"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 24,
@@ -458,12 +621,19 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": 1000,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["preţuri", "tarife", "reglementări ANRE"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "preţuri",
+        "tarife",
+        "reglementări ANRE"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 25,
@@ -477,12 +647,18 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": 500,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["separare contabilă", "operatori licenţiaţi"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "separare contabilă",
+        "operatori licenţiaţi"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 26,
@@ -496,12 +672,19 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": null,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"],
-      "tags": ["transparenţă", "date web", "publicare"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai autorităţii competente (ANRE)"
+      ],
+      "tags": [
+        "transparenţă",
+        "date web",
+        "publicare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 27,
@@ -515,12 +698,19 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": 500,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Poliţişti, jandarmi sau poliţişti locali, împreună cu reprezentanţii împuterniciţi ai operatorilor de reţea"],
-      "tags": ["acces grupuri măsurare", "refuz", "instalaţii"],
+      "competenta": [
+        "Poliţişti, jandarmi sau poliţişti locali, împreună cu reprezentanţii împuterniciţi ai operatorilor de reţea"
+      ],
+      "tags": [
+        "acces grupuri măsurare",
+        "refuz",
+        "instalaţii"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 28,
@@ -534,12 +724,20 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": 500,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai consiliilor locale", "Poliţişti, jandarmi sau poliţişti locali, împreună cu reprezentanţii împuterniciţi ai operatorilor de reţea"],
-      "tags": ["săpături", "zone protecţie", "consimţământ"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai consiliilor locale",
+        "Poliţişti, jandarmi sau poliţişti locali, împreună cu reprezentanţii împuterniciţi ai operatorilor de reţea"
+      ],
+      "tags": [
+        "săpături",
+        "zone protecţie",
+        "consimţământ"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 29,
@@ -553,12 +751,20 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": 500,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai consiliilor locale", "Poliţişti, jandarmi sau poliţişti locali, împreună cu reprezentanţii împuterniciţi ai operatorilor de reţea"],
-      "tags": ["drepturi acces", "servitute", "împiedicare lucrări"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai consiliilor locale",
+        "Poliţişti, jandarmi sau poliţişti locali, împreună cu reprezentanţii împuterniciţi ai operatorilor de reţea"
+      ],
+      "tags": [
+        "drepturi acces",
+        "servitute",
+        "împiedicare lucrări"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     },
     {
       "id": 30,
@@ -572,12 +778,20 @@
       "permite_jumatate": true,
       "suma_jumatate_pf": 500,
       "suma_jumatate_pj": 4000,
-      "competenta": ["Reprezentanţii împuterniciţi ai consiliilor locale", "Poliţişti, jandarmi sau poliţişti locali, împreună cu reprezentanţii împuterniciţi ai operatorilor de reţea"],
-      "tags": ["utilizare neautorizată", "reţele electrice", "contract"],
+      "competenta": [
+        "Reprezentanţii împuterniciţi ai consiliilor locale",
+        "Poliţişti, jandarmi sau poliţişti locali, împreună cu reprezentanţii împuterniciţi ai operatorilor de reţea"
+      ],
+      "tags": [
+        "utilizare neautorizată",
+        "reţele electrice",
+        "contract"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri."
+      "repetare_fapta": "Pentru contravenţiile săvârşite în mod repetat de către persoanele juridice, amendă între 1%-5% din cifra de afaceri.",
+      "notă_permite": "Art.93 alin.6 abrogat 2018 - jumătate nu se aplică pentru PJ, doar PF art.93 specific"
     }
   ]
 }

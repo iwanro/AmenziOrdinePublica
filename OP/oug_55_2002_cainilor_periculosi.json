@@ -1,13 +1,14 @@
 {
   "lege_metadata": {
     "titlu": "ORDONANȚĂ DE URGENȚĂ nr. 55 din 30 aprilie 2002 (*republicată*) privind regimul de deținere al câinilor periculoși sau agresivi",
-    "data_actualizare": "27 februarie 2014",
+    "data_actualizare": "27.02.2014 republicare + Decizia CCR 678/2019 MO 126/18.02.2020 suspendă Art.6 alin.4",
     "monitor_oficial": "MONITORUL OFICIAL nr. 146 din 27 februarie 2014",
     "forma_republicata": "M.Of. nr. 146/2014",
     "acte_modificatoare": [
       "Legea nr. 60/2003 (M.Of. nr. 183/2003)",
       "Legea nr. 187/2012 (M.Of. nr. 757/2012)"
-    ]
+    ],
+    "patch_notes": "Adăugat CCR 678/2019"
   },
   "fapte": [
     {

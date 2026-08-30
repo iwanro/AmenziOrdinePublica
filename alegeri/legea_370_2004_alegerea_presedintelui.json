@@ -4,7 +4,7 @@
     "emitent": "PARLAMENTUL",
     "data_publicare": "12 septembrie 2011 (Republicată)",
     "monitorul_oficial": "MONITORUL OFICIAL nr. 650 din 12 septembrie 2011",
-    "data_actualizare": "08 martie 2026"
+    "data_actualizare": "10.05.2024 (Legea 125/2024)"
   },
   "fapte": [
     {
@@ -16,8 +16,14 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2250,
-      "competenta": ["Împuterniciții președintelui Autorității Electorale Permanente"],
-      "tags": ["liste electorale", "fraudă", "persoane fictive"],
+      "competenta": [
+        "Împuterniciții președintelui Autorității Electorale Permanente"
+      ],
+      "tags": [
+        "liste electorale",
+        "fraudă",
+        "persoane fictive"
+      ],
       "masuri_complementare": null,
       "confiscare": "Bunurile destinate sau folosite la săvârșirea contravențiilor ori rezultate din comiterea acestora se confiscă.",
       "agravare_fapta": null,
@@ -32,8 +38,14 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": 500,
-      "competenta": ["Împuterniciții președintelui Autorității Electorale Permanente"],
-      "tags": ["liste electorale", "păstrare", "neglijență"],
+      "competenta": [
+        "Împuterniciții președintelui Autorității Electorale Permanente"
+      ],
+      "tags": [
+        "liste electorale",
+        "păstrare",
+        "neglijență"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -48,8 +60,14 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": 500,
-      "competenta": ["Împuterniciții președintelui Autorității Electorale Permanente"],
-      "tags": ["comunicări", "termene", "liste electorale"],
+      "competenta": [
+        "Împuterniciții președintelui Autorității Electorale Permanente"
+      ],
+      "tags": [
+        "comunicări",
+        "termene",
+        "liste electorale"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -64,8 +82,14 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": 500,
-      "competenta": ["Împuterniciții președintelui Autorității Electorale Permanente"],
-      "tags": ["operațiuni neautorizate", "liste electorale", "acces"],
+      "competenta": [
+        "Împuterniciții președintelui Autorității Electorale Permanente"
+      ],
+      "tags": [
+        "operațiuni neautorizate",
+        "liste electorale",
+        "acces"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -80,8 +104,14 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": 500,
-      "competenta": ["Împuterniciții președintelui Autorității Electorale Permanente"],
-      "tags": ["comunicare AEP", "modificări liste", "liste electorale"],
+      "competenta": [
+        "Împuterniciții președintelui Autorității Electorale Permanente"
+      ],
+      "tags": [
+        "comunicare AEP",
+        "modificări liste",
+        "liste electorale"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -96,8 +126,14 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Președintele Biroului Electoral Central"],
-      "tags": ["candidaturi", "susținători", "listă susținători"],
+      "competenta": [
+        "Președintele Biroului Electoral Central"
+      ],
+      "tags": [
+        "candidaturi",
+        "susținători",
+        "listă susținători"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -112,8 +148,14 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": 500,
-      "competenta": ["Președintele Biroului Electoral Central"],
-      "tags": ["afișare candidați", "propagandă", "candidaturi"],
+      "competenta": [
+        "Președintele Biroului Electoral Central"
+      ],
+      "tags": [
+        "afișare candidați",
+        "propagandă",
+        "candidaturi"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -128,8 +170,14 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Președintele Biroului Electoral Central"],
-      "tags": ["semn electoral", "simboluri", "candidat"],
+      "competenta": [
+        "Președintele Biroului Electoral Central"
+      ],
+      "tags": [
+        "semn electoral",
+        "simboluri",
+        "candidat"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -144,8 +192,14 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2250,
-      "competenta": ["Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"],
-      "tags": ["adunări electorale", "alcool", "ordine publică"],
+      "competenta": [
+        "Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"
+      ],
+      "tags": [
+        "adunări electorale",
+        "alcool",
+        "ordine publică"
+      ],
       "masuri_complementare": null,
       "confiscare": "Bunurile destinate sau folosite la săvârșirea contravențiilor ori rezultate din comiterea acestora se confiscă.",
       "agravare_fapta": null,
@@ -160,8 +214,14 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": 500,
-      "competenta": ["Președintele biroului electoral județean, biroului electoral al sectorului municipiului București sau al biroului electoral pentru secțiile de votare din străinătate"],
-      "tags": ["distrugere liste", "afișe", "propagandă"],
+      "competenta": [
+        "Președintele biroului electoral județean, biroului electoral al sectorului municipiului București sau al biroului electoral pentru secțiile de votare din străinătate"
+      ],
+      "tags": [
+        "distrugere liste",
+        "afișe",
+        "propagandă"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -176,8 +236,14 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": 500,
-      "competenta": ["Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"],
-      "tags": ["campanie electorală", "sondaje", "spații publice"],
+      "competenta": [
+        "Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"
+      ],
+      "tags": [
+        "campanie electorală",
+        "sondaje",
+        "spații publice"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -192,8 +258,14 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": 500,
-      "competenta": ["Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"],
-      "tags": ["afișaj ilegal", "propagandă", "liste electorale"],
+      "competenta": [
+        "Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"
+      ],
+      "tags": [
+        "afișaj ilegal",
+        "propagandă",
+        "liste electorale"
+      ],
       "masuri_complementare": null,
       "confiscare": "Bunurile destinate sau folosite la săvârșirea contravențiilor ori rezultate din comiterea acestora se confiscă.",
       "agravare_fapta": null,
@@ -208,8 +280,18 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": 500,
-      "competenta": ["Împuterniciții președintelui Autorității Electorale Permanente", "Președintele biroului electoral", "Președintele biroului electoral ierarhic superior", "Polițiști"],
-      "tags": ["neexecutare hotărâri", "BEC", "AEP", "CCR"],
+      "competenta": [
+        "Împuterniciții președintelui Autorității Electorale Permanente",
+        "Președintele biroului electoral",
+        "Președintele biroului electoral ierarhic superior",
+        "Polițiști"
+      ],
+      "tags": [
+        "neexecutare hotărâri",
+        "BEC",
+        "AEP",
+        "CCR"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -224,8 +306,16 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2250,
-      "competenta": ["Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali", "Președintele biroului electoral", "Președintele biroului electoral ierarhic superior"],
-      "tags": ["buletine de vot", "tipărire ilegală", "fals"],
+      "competenta": [
+        "Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali",
+        "Președintele biroului electoral",
+        "Președintele biroului electoral ierarhic superior"
+      ],
+      "tags": [
+        "buletine de vot",
+        "tipărire ilegală",
+        "fals"
+      ],
       "masuri_complementare": null,
       "confiscare": "Bunurile destinate sau folosite la săvârșirea contravențiilor ori rezultate din comiterea acestora se confiscă.",
       "agravare_fapta": null,
@@ -240,8 +330,14 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": 500,
-      "competenta": ["Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"],
-      "tags": ["acres observatori", "secție de votare", "mass-media"],
+      "competenta": [
+        "Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"
+      ],
+      "tags": [
+        "acres observatori",
+        "secție de votare",
+        "mass-media"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -256,8 +352,14 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": 500,
-      "competenta": ["Președintele biroului electoral județean, biroului electoral al sectorului municipiului București sau al biroului electoral pentru secțiile de votare din străinătate"],
-      "tags": ["refuz sesizare", "contestații", "înregistrare"],
+      "competenta": [
+        "Președintele biroului electoral județean, biroului electoral al sectorului municipiului București sau al biroului electoral pentru secțiile de votare din străinătate"
+      ],
+      "tags": [
+        "refuz sesizare",
+        "contestații",
+        "înregistrare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -272,8 +374,14 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"],
-      "tags": ["ordine publică", "președinte secție", "refuz"],
+      "competenta": [
+        "Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"
+      ],
+      "tags": [
+        "ordine publică",
+        "președinte secție",
+        "refuz"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -288,8 +396,14 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2250,
-      "competenta": ["Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"],
-      "tags": ["buletin de vot", "act identitate", "votare ilegală"],
+      "competenta": [
+        "Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"
+      ],
+      "tags": [
+        "buletin de vot",
+        "act identitate",
+        "votare ilegală"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -304,8 +418,14 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2250,
-      "competenta": ["Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"],
-      "tags": ["cabina de vot", "secretul votului", "prezență neautorizată"],
+      "competenta": [
+        "Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"
+      ],
+      "tags": [
+        "cabina de vot",
+        "secretul votului",
+        "prezență neautorizată"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -320,8 +440,15 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2250,
-      "competenta": ["Președintele biroului electoral", "Președintele biroului electoral ierarhic superior"],
-      "tags": ["ștampilă VOTAT", "act identitate", "procedură vot"],
+      "competenta": [
+        "Președintele biroului electoral",
+        "Președintele biroului electoral ierarhic superior"
+      ],
+      "tags": [
+        "ștampilă VOTAT",
+        "act identitate",
+        "procedură vot"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -336,8 +463,14 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": 500,
-      "competenta": ["Președintele biroului electoral județean, biroului electoral al sectorului municipiului București sau al biroului electoral pentru secțiile de votare din străinătate"],
-      "tags": ["proces-verbal", "numărare voturi", "citire buletine"],
+      "competenta": [
+        "Președintele biroului electoral județean, biroului electoral al sectorului municipiului București sau al biroului electoral pentru secțiile de votare din străinătate"
+      ],
+      "tags": [
+        "proces-verbal",
+        "numărare voturi",
+        "citire buletine"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -352,8 +485,14 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"],
-      "tags": ["propagandă ilegală", "ziua votării", "campanie electorală"],
+      "competenta": [
+        "Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"
+      ],
+      "tags": [
+        "propagandă ilegală",
+        "ziua votării",
+        "campanie electorală"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -368,8 +507,15 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": 500,
-      "competenta": ["Președintele biroului electoral", "Președintele biroului electoral ierarhic superior"],
-      "tags": ["însemne propagandă", "votare", "neutralitate"],
+      "competenta": [
+        "Președintele biroului electoral",
+        "Președintele biroului electoral ierarhic superior"
+      ],
+      "tags": [
+        "însemne propagandă",
+        "votare",
+        "neutralitate"
+      ],
       "masuri_complementare": null,
       "confiscare": "Bunurile destinate sau folosite la săvârșirea contravențiilor ori rezultate din comiterea acestora se confiscă.",
       "agravare_fapta": null,
@@ -384,8 +530,15 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": 500,
-      "competenta": ["Președintele biroului electoral", "Președintele biroului electoral ierarhic superior"],
-      "tags": ["absență", "membri birou", "obligații"],
+      "competenta": [
+        "Președintele biroului electoral",
+        "Președintele biroului electoral ierarhic superior"
+      ],
+      "tags": [
+        "absență",
+        "membri birou",
+        "obligații"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -400,8 +553,15 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": 500,
-      "competenta": ["Președintele biroului electoral", "Președintele biroului electoral ierarhic superior"],
-      "tags": ["copie proces-verbal", "refuz", "transparență"],
+      "competenta": [
+        "Președintele biroului electoral",
+        "Președintele biroului electoral ierarhic superior"
+      ],
+      "tags": [
+        "copie proces-verbal",
+        "refuz",
+        "transparență"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -416,8 +576,14 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"],
-      "tags": ["acreditare", "observatori", "sondaje"],
+      "competenta": [
+        "Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"
+      ],
+      "tags": [
+        "acreditare",
+        "observatori",
+        "sondaje"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -432,8 +598,14 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Împuterniciții președintelui Autorității Electorale Permanente"],
-      "tags": ["secții de votare", "delimitare", "organizare"],
+      "competenta": [
+        "Împuterniciții președintelui Autorității Electorale Permanente"
+      ],
+      "tags": [
+        "secții de votare",
+        "delimitare",
+        "organizare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -448,8 +620,15 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2250,
-      "competenta": ["Consiliul Național al Audiovizualului", "Împuterniciții președintelui Autorității Electorale Permanente"],
-      "tags": ["sondaje opinie", "mass-media", "campanie"],
+      "competenta": [
+        "Consiliul Național al Audiovizualului",
+        "Împuterniciții președintelui Autorității Electorale Permanente"
+      ],
+      "tags": [
+        "sondaje opinie",
+        "mass-media",
+        "campanie"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -464,8 +643,14 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": 500,
-      "competenta": ["Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"],
-      "tags": ["afișaj electoral", "panouri", "propagandă"],
+      "competenta": [
+        "Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"
+      ],
+      "tags": [
+        "afișaj electoral",
+        "panouri",
+        "propagandă"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -480,8 +665,14 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"],
-      "tags": ["alcool", "secție de votare", "perimetru"],
+      "competenta": [
+        "Ofițerii, agenții și subofițerii din cadrul Poliției Române, Poliției de Frontieră Române și Jandarmeriei Române, precum și polițiștii locali"
+      ],
+      "tags": [
+        "alcool",
+        "secție de votare",
+        "perimetru"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -496,8 +687,14 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": 500,
-      "competenta": ["Președintele biroului electoral județean, biroului electoral al sectorului municipiului București sau al biroului electoral pentru secțiile de votare din străinătate"],
-      "tags": ["sigilare", "secție de votare", "materiale electorale"],
+      "competenta": [
+        "Președintele biroului electoral județean, biroului electoral al sectorului municipiului București sau al biroului electoral pentru secțiile de votare din străinătate"
+      ],
+      "tags": [
+        "sigilare",
+        "secție de votare",
+        "materiale electorale"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -512,8 +709,14 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": 500,
-      "competenta": ["Președintele biroului electoral județean, biroului electoral al sectorului municipiului București sau al biroului electoral pentru secțiile de votare din străinătate"],
-      "tags": ["liste electorale", "numărare", "integritate documente"],
+      "competenta": [
+        "Președintele biroului electoral județean, biroului electoral al sectorului municipiului București sau al biroului electoral pentru secțiile de votare din străinătate"
+      ],
+      "tags": [
+        "liste electorale",
+        "numărare",
+        "integritate documente"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,

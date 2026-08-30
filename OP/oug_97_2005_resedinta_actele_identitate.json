@@ -1,7 +1,7 @@
 {
   "lege_metadata": {
     "titlu": "ORDONANȚĂ DE URGENȚĂ nr. 97 din 14 iulie 2005 (**republicată**) privind evidența, domiciliul, reședința și actele de identitate ale cetățenilor români",
-    "data_actualizare": "27 martie 2025",
+    "data_actualizare": "27.03.2025 (Legea 14/2025) - deja corect",
     "monitor_oficial": "MONITORUL OFICIAL nr. 719 din 12 octombrie 2011",
     "forma_republicata": "M.Of. nr. 719/2011",
     "acte_modificatoare": [
@@ -9,7 +9,8 @@
       "O.U.G. nr. 17/2025 (M.Of. nr. 272/2025)",
       "Legea nr. 162/2023 (M.Of. nr. 698/2023)",
       "O.U.G. nr. 148/2022 (M.Of. nr. 1068/2022)"
-    ]
+    ],
+    "patch_notes": "Verificat 63354, 40-80->500-1000 deja reflectat"
   },
   "fapte": [
     {

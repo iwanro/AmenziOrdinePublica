@@ -1,0 +1,23 @@
+{
+  "lege_metadata": {
+    "titlu": "Prețul mediu al unui metru cub de masă lemnoasă pe picior - 2026",
+    "emitent": "Guvernul României (OUG aprobată ianuarie 2026)",
+    "data_aplicare": "1 ianuarie 2026",
+    "monitorul_oficial": "OUG privind aprobarea prețului mediu - 272 lei/mc (abrogă art.II Legea 265/2017)",
+    "sourceUrl": "https://legislatie.just.ro/Public/DetaliiDocument/293197",
+    "temei_legal": "Anexa 1 Legea 331/2024 (media INS ultimii 3 ani)",
+    "valori_INS": {
+      "2022": "292,33 lei/mc",
+      "2023": "294,87 lei/mc",
+      "2024": "227,45 lei/mc",
+      "media": "272 lei/mc"
+    },
+    "crestere": "+65,85% vs 164 lei/mc (valabil până 31.12.2025)",
+    "valabilitate": "Anual - se stabilește prin OUG/ordin MMAP; 2026=272 lei",
+    "notă": "Distinct de prețurile de referință pe sortimente (Ordin 160/2026). Utilizat pentru: stabilire prag infracțiune/contravenție (art.8 Legea 171, art.108-109 Codul Silvic), taxe scoatere definitivă/ocupare temporară, despăgubiri, compensații proprietari păduri protecție, garanții."
+  },
+  "valoare_2026": "272 lei/mc fără TVA",
+  "valoare_anterioara": "164 lei/mc (până 31.12.2025, Legea 265/2017)",
+  "impact": "Creștere cu 65,85% a taxelor, garanțiilor, redevențelor Romsilva (+880.953 lei/an), despăgubirilor pentru tăieri ilegale.",
+  "fapte": []
+}

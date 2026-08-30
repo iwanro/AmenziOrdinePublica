@@ -1,17 +1,18 @@
 {
   "lege_metadata": {
-    "titlu": "Ordonanța de Urgență a Guvernului nr. 81 din 21 iulie 2021 privind aprobarea metodelor de intervenție imediată pentru prevenirea și combaterea atacurilor exemplarelor de urs brun asupra persoanelor și bunurilor acestora, în intravilanul localităților, precum și pentru modificarea și completarea unor acte normative",
+    "titlu": "ORDONANȚA DE URGENȚĂ nr. 81 din 21 iulie 2021 privind aprobarea metodelor de intervenție imediată pentru prevenirea și combaterea atacurilor exemplarelor de urs brun",
     "emitent": "Guvernul României",
     "data_publicare": "26 iulie 2021",
     "monitorul_oficial": "Monitorul Oficial nr. 732 din 26 iulie 2021",
-    "data_actualizare": "21 iulie 2021"
+    "data_actualizare": "21.05.2026 (Legea 197/2022 + OUG 60/2025 + Legea 73/2026)",
+    "notă": "Fișier redenumit din oug_82 (eronat) în oug_81 (corect). Ultima consolidare 21.05.2026 introduce contravenția hrănirii ursului 10.000-30.000 lei."
   },
   "fapte": [
     {
       "id": "fapta_1",
-      "descriere": "Împiedicarea prin orice mijloace a intervenției imediate asupra exemplarelor de urs brun în intravilanul localităților, efectuate în scopul prevenirii și combaterii atacurilor asupra persoanelor și bunurilor acestora.",
-      "articol_prevedere": "Art. 15",
-      "articol_sanctiune": "Art. 15",
+      "descriere": "Nerespectarea dispozițiilor art.11 privind intervenția imediată pentru prevenirea atacurilor ursului brun",
+      "articol_prevedere": "Art.15",
+      "articol_sanctiune": "Art.15",
       "amenda_min": 7000,
       "amenda_max": 10000,
       "permite_jumatate": true,
@@ -37,6 +38,27 @@
       "agravare_fapta": null,
       "repetare_fapta": null,
       "observatii": "Dacă fapta a fost săvârșită în astfel de condiții încât, potrivit legii penale, constituie infracțiune, nu se aplică sancțiunea contravențională. Aplicabile dispozițiile Ordonanței Guvernului nr. 2/2001 privind regimul juridic al contravențiilor."
+    },
+    {
+      "id": "fapta_hrănire_urs",
+      "descriere": "Hrănirea exemplarelor de urs brun în libertate, cu încălcarea prevederilor art. X",
+      "articol_prevedere": "Art. X (OUG 60/2025)",
+      "articol_sanctiune": "Art.48 alin.(1) lit.d^1) Legea 407/2006 coroborat",
+      "amenda_min": 10000,
+      "amenda_max": 30000,
+      "permite_jumatate": true,
+      "suma_jumatate": 5000,
+      "competenta": [
+        "Ofițerii și agenții de poliție",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române",
+        "Personalul silvic"
+      ],
+      "tags": [
+        "urs",
+        "hrănire",
+        "faună"
+      ],
+      "notă": "Adăugat prin OUG 60/2025 + Legea 73/2026 MO 419/18.05.2026"
     }
   ],
   "note": "Prevederile privind sancțiunile (Art. 15-17) au intrat în vigoare la 5 august 2021 (10 zile de la data publicării în Monitorul Oficial). OUG nr. 81/2021 conține o singură faptă contravențională explicită. Restul dispozițiilor reglementează proceduri de intervenție, atribuții instituționale și modificări ale altor acte normative."

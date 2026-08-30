@@ -4,7 +4,8 @@
     "emitent": "Guvernul României",
     "data_publicare": "26 august 2021",
     "monitorul_oficial": "Monitorul Oficial nr. 820 din 26 august 2021",
-    "data_actualizare": "12 ianuarie 2023 (modificări aduse prin Legea nr. 17/2023)"
+    "data_actualizare": "11.07.2026 (Legea 26/11.03.2026 MO 189 + Lege 17/2023)",
+    "patch_notes": "Adăugat diferențiere PF 5k-15k / PJ 40k-60k Art.62 lit.a, ANPM->ANMAP art.IV"
   },
   "fapte": [
     {
@@ -16,12 +17,30 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["clasificare deșeuri", "codificare deșeuri", "listă deșeuri", "producător deșeuri", "persoană juridică"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "clasificare deșeuri",
+        "codificare deșeuri",
+        "listă deșeuri",
+        "producător deșeuri",
+        "persoană juridică"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_2",
@@ -32,12 +51,30 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["încadrare deșeu", "deșeu nepericulos", "caracteristici periculoase", "analiză deșeuri", "teste deșeuri"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "încadrare deșeu",
+        "deșeu nepericulos",
+        "caracteristici periculoase",
+        "analiză deșeuri",
+        "teste deșeuri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_3",
@@ -48,12 +85,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["caracterizare deșeuri", "deșeuri periculoase", "proprietăți periculoase", "analiză compoziție"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "caracterizare deșeuri",
+        "deșeuri periculoase",
+        "proprietăți periculoase",
+        "analiză compoziție"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_4",
@@ -64,12 +118,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["răspundere extinsă producător", "deșeuri ambalaje", "continuitate servicii", "gestionare deșeuri"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "răspundere extinsă producător",
+        "deșeuri ambalaje",
+        "continuitate servicii",
+        "gestionare deșeuri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_5",
@@ -80,12 +151,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["răspundere extinsă producător", "vânzări la distanță", "raportare date", "operatori economici"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "răspundere extinsă producător",
+        "vânzări la distanță",
+        "raportare date",
+        "operatori economici"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_6",
@@ -96,12 +184,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["reprezentant autorizat", "producător străin", "răspundere extinsă producător", "import produse"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "reprezentant autorizat",
+        "producător străin",
+        "răspundere extinsă producător",
+        "import produse"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_7",
@@ -112,12 +217,30 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["furnizor articol", "substanțe chimice", "REACH", "Agenția Europeană pentru Produse Chimice", "informații produse"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "furnizor articol",
+        "substanțe chimice",
+        "REACH",
+        "Agenția Europeană pentru Produse Chimice",
+        "informații produse"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_8",
@@ -128,12 +251,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["pregătire reutilizare", "reciclare", "valorificare deșeuri", "ierarhie deșeuri"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "pregătire reutilizare",
+        "reciclare",
+        "valorificare deșeuri",
+        "ierarhie deșeuri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_9",
@@ -144,12 +284,30 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["valorificare deșeuri", "spații stocare", "condiții stocare", "protecția mediului", "sănătate publică"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "valorificare deșeuri",
+        "spații stocare",
+        "condiții stocare",
+        "protecția mediului",
+        "sănătate publică"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_10",
@@ -160,12 +318,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["stocuri deșeuri", "poluare mediu", "risc sănătate", "valorificare deșeuri"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "stocuri deșeuri",
+        "poluare mediu",
+        "risc sănătate",
+        "valorificare deșeuri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_11",
@@ -176,12 +351,28 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["cele mai bune tehnici disponibile", "valorificare deșeuri", "tehnologii deșeuri"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "cele mai bune tehnici disponibile",
+        "valorificare deșeuri",
+        "tehnologii deșeuri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_12",
@@ -192,12 +383,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["stocare deșeuri", "spații amenajate", "protecția mediului", "sănătate publică"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "stocare deșeuri",
+        "spații amenajate",
+        "protecția mediului",
+        "sănătate publică"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_13",
@@ -208,12 +416,30 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["colectare separată", "amestec deșeuri", "reciclare", "pregătire reutilizare", "valorificare"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "colectare separată",
+        "amestec deșeuri",
+        "reciclare",
+        "pregătire reutilizare",
+        "valorificare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_14",
@@ -224,12 +450,30 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["colectare deșeuri", "transport deșeuri", "verificare vizuală", "amestec deșeuri", "separare deșeuri"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "colectare deșeuri",
+        "transport deșeuri",
+        "verificare vizuală",
+        "amestec deșeuri",
+        "separare deșeuri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_15",
@@ -240,12 +484,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["transport deșeuri", "autovehicule marcate", "litera D", "inscripționare vehicule"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "transport deșeuri",
+        "autovehicule marcate",
+        "litera D",
+        "inscripționare vehicule"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_16",
@@ -256,12 +517,30 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["transport deșeuri", "rute prestabilite", "transfer deșeuri", "frontieră", "import deșeuri"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "transport deșeuri",
+        "rute prestabilite",
+        "transfer deșeuri",
+        "frontieră",
+        "import deșeuri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_17",
@@ -272,12 +551,30 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["incinerare deșeuri", "deșeuri colectate separat", "pregătire reutilizare", "reciclare", "ierarhie deșeuri"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "incinerare deșeuri",
+        "deșeuri colectate separat",
+        "pregătire reutilizare",
+        "reciclare",
+        "ierarhie deșeuri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_18",
@@ -288,12 +585,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["eliminare substanțe periculoase", "deșeuri periculoase", "valorificare deșeuri", "tratare deșeuri"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "eliminare substanțe periculoase",
+        "deșeuri periculoase",
+        "valorificare deșeuri",
+        "tratare deșeuri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_19",
@@ -304,12 +618,32 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["colectare separată", "hârtie", "metal", "plastic", "sticlă", "textile", "reciclare"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "colectare separată",
+        "hârtie",
+        "metal",
+        "plastic",
+        "sticlă",
+        "textile",
+        "reciclare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_20",
@@ -320,12 +654,31 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["plan gestionare deșeuri", "construcție", "desființare", "sortare deșeuri", "demolare selectivă", "deșeuri construcție"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "plan gestionare deșeuri",
+        "construcție",
+        "desființare",
+        "sortare deșeuri",
+        "demolare selectivă",
+        "deșeuri construcție"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_21",
@@ -336,12 +689,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["răspundere extinsă producător", "costuri gestionare deșeuri", "deșeuri municipale", "producător produse"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "răspundere extinsă producător",
+        "costuri gestionare deșeuri",
+        "deșeuri municipale",
+        "producător produse"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_22",
@@ -352,12 +722,31 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["gestionare deșeuri construcție", "pregătire reutilizare", "reciclare", "valorificare materială", "rambleiere", "țintă 70%"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "gestionare deșeuri construcție",
+        "pregătire reutilizare",
+        "reciclare",
+        "valorificare materială",
+        "rambleiere",
+        "țintă 70%"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_23",
@@ -368,12 +757,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["eliminare deșeuri", "condiții siguranță", "deșeuri nevalorificate", "protecția mediului"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "eliminare deșeuri",
+        "condiții siguranță",
+        "deșeuri nevalorificate",
+        "protecția mediului"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_24",
@@ -384,12 +790,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["eliminare deșeuri", "operator autorizat", "eliminare totală", "protecția mediului"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "eliminare deșeuri",
+        "operator autorizat",
+        "eliminare totală",
+        "protecția mediului"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_25",
@@ -400,12 +823,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["cele mai bune tehnici disponibile", "eliminare deșeuri", "costuri", "operator autorizat"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "cele mai bune tehnici disponibile",
+        "eliminare deșeuri",
+        "costuri",
+        "operator autorizat"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_26",
@@ -416,12 +856,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["instalație eliminare", "autorizație de mediu", "tipuri deșeuri", "tehnologie eliminare"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "instalație eliminare",
+        "autorizație de mediu",
+        "tipuri deșeuri",
+        "tehnologie eliminare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_27",
@@ -432,12 +889,30 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["deșeuri abandonate", "curățare mediu", "refacere mediu", "costuri eliminare", "producător necunoscut"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "deșeuri abandonate",
+        "curățare mediu",
+        "refacere mediu",
+        "costuri eliminare",
+        "producător necunoscut"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_28",
@@ -448,12 +923,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["deșeuri abandonate", "restituire cheltuieli", "identificare contravenient", "răspundere financiară"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "deșeuri abandonate",
+        "restituire cheltuieli",
+        "identificare contravenient",
+        "răspundere financiară"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_29",
@@ -464,12 +956,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["operațiuni tratare", "operator autorizat", "colectare deșeuri", "gestionare deșeuri"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "operațiuni tratare",
+        "operator autorizat",
+        "colectare deșeuri",
+        "gestionare deșeuri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_30",
@@ -480,12 +989,30 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["lucrări construcție", "lucrări desființare", "sistem organizat", "autoritate locală", "deșeuri construcție"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "lucrări construcție",
+        "lucrări desființare",
+        "sistem organizat",
+        "autoritate locală",
+        "deșeuri construcție"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_31",
@@ -496,12 +1023,30 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["colectare deșeuri", "instalații autorizate", "eliminare deșeuri", "valorificare deșeuri", "predare deșeuri"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "colectare deșeuri",
+        "instalații autorizate",
+        "eliminare deșeuri",
+        "valorificare deșeuri",
+        "predare deșeuri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_32",
@@ -512,12 +1057,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["desemnare persoană", "gestionare deșeuri", "responsabil deșeuri", "delegare obligații"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "desemnare persoană",
+        "gestionare deșeuri",
+        "responsabil deșeuri",
+        "delegare obligații"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_33",
@@ -528,12 +1090,30 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["instruire", "management deșeuri", "substanțe periculoase", "autorizație mediu", "programe perfecționare"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "instruire",
+        "management deșeuri",
+        "substanțe periculoase",
+        "autorizație mediu",
+        "programe perfecționare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_34",
@@ -544,12 +1124,30 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["transfer deșeuri", "responsabilitate", "tratare preliminară", "valorificare", "eliminare"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "transfer deșeuri",
+        "responsabilitate",
+        "tratare preliminară",
+        "valorificare",
+        "eliminare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_35",
@@ -560,12 +1158,31 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["deșeuri periculoase", "colectare separată", "transport separat", "stocare separată", "trasabilitate", "compatibilitate deșeuri"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "deșeuri periculoase",
+        "colectare separată",
+        "transport separat",
+        "stocare separată",
+        "trasabilitate",
+        "compatibilitate deșeuri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_36",
@@ -576,12 +1193,30 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["amestec deșeuri", "deșeuri periculoase", "interdicție amestec", "comercianți deșeuri", "brokers deșeuri"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "amestec deșeuri",
+        "deșeuri periculoase",
+        "interdicție amestec",
+        "comercianți deșeuri",
+        "brokers deșeuri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_37",
@@ -592,12 +1227,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["separare deșeuri", "deșeuri periculoase", "amestec ilegal", "fezabilitate tehnică"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "separare deșeuri",
+        "deșeuri periculoase",
+        "amestec ilegal",
+        "fezabilitate tehnică"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_38",
@@ -608,12 +1260,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["tratare deșeuri", "deșeuri periculoase", "instalație autorizată", "amestec deșeuri"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "tratare deșeuri",
+        "deșeuri periculoase",
+        "instalație autorizată",
+        "amestec deșeuri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_39",
@@ -624,12 +1293,31 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["ambalare deșeuri", "etichetare deșeuri", "deșeuri periculoase", "colectare", "transport", "stocare"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "ambalare deșeuri",
+        "etichetare deșeuri",
+        "deșeuri periculoase",
+        "colectare",
+        "transport",
+        "stocare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_40",
@@ -640,12 +1328,30 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["transfer deșeuri", "document identificare", "deșeuri periculoase", "transport național", "Regulament 1013/2006"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "transfer deșeuri",
+        "document identificare",
+        "deșeuri periculoase",
+        "transport național",
+        "Regulament 1013/2006"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_41",
@@ -656,12 +1362,30 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["uleiuri uzate", "colectare separată", "recipiente etanșe", "deșeuri periculoase", "gestionare uleiuri"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "uleiuri uzate",
+        "colectare separată",
+        "recipiente etanșe",
+        "deșeuri periculoase",
+        "gestionare uleiuri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_42",
@@ -672,12 +1396,31 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["uleiuri uzate", "tratare", "regenerare", "reciclare", "prioritate regenerare", "protecția mediului"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "uleiuri uzate",
+        "tratare",
+        "regenerare",
+        "reciclare",
+        "prioritate regenerare",
+        "protecția mediului"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_43",
@@ -688,12 +1431,31 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["uleiuri uzate", "amestec uleiuri", "caracteristici diferite", "regenerare", "reciclare", "interdicție amestec"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "uleiuri uzate",
+        "amestec uleiuri",
+        "caracteristici diferite",
+        "regenerare",
+        "reciclare",
+        "interdicție amestec"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_44",
@@ -704,12 +1466,31 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["uleiuri uzate", "stocare", "recipiente adecvate", "spații amenajate", "securizare", "prevenire scurgeri"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "uleiuri uzate",
+        "stocare",
+        "recipiente adecvate",
+        "spații amenajate",
+        "securizare",
+        "prevenire scurgeri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_45",
@@ -720,12 +1501,31 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["stație distribuție", "uleiuri motor", "uleiuri transmisie", "colectare uleiuri uzate", "spațiu colectare", "gratuitate"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "stație distribuție",
+        "uleiuri motor",
+        "uleiuri transmisie",
+        "colectare uleiuri uzate",
+        "spațiu colectare",
+        "gratuitate"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_46",
@@ -736,12 +1536,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["stație distribuție", "uleiuri uzate", "predare operator autorizat", "protecția mediului"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "stație distribuție",
+        "uleiuri uzate",
+        "predare operator autorizat",
+        "protecția mediului"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_47",
@@ -752,12 +1569,30 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["afișare indicatoare", "spațiu colectare", "uleiuri uzate", "vizibilitate", "informare publică"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "afișare indicatoare",
+        "spațiu colectare",
+        "uleiuri uzate",
+        "vizibilitate",
+        "informare publică"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_48",
@@ -768,12 +1603,31 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["uleiuri uzate", "predare cantitate totală", "operator autorizat", "colectare", "valorificare", "eliminare"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "uleiuri uzate",
+        "predare cantitate totală",
+        "operator autorizat",
+        "colectare",
+        "valorificare",
+        "eliminare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_49",
@@ -784,12 +1638,31 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["autorizație mediu", "autorizație integrată mediu", "colectare deșeuri", "salubritate", "tratare deșeuri", "operator economic"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "autorizație mediu",
+        "autorizație integrată mediu",
+        "colectare deșeuri",
+        "salubritate",
+        "tratare deșeuri",
+        "operator economic"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_50",
@@ -800,12 +1673,30 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["revizuire autorizație", "documentație", "tratare deșeuri", "termen limită", "1 februarie 2024"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "revizuire autorizație",
+        "documentație",
+        "tratare deșeuri",
+        "termen limită",
+        "1 februarie 2024"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_51",
@@ -816,12 +1707,31 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["registru ANPM", "înscriere registru", "operator economic", "transport deșeuri", "comerciant", "broker"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "registru ANPM",
+        "înscriere registru",
+        "operator economic",
+        "transport deșeuri",
+        "comerciant",
+        "broker"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_52",
@@ -832,12 +1742,30 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["program prevenire", "reducere deșeuri", "design produse", "reducere periculozitate", "audit deșeuri"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "program prevenire",
+        "reducere deșeuri",
+        "design produse",
+        "reducere periculozitate",
+        "audit deșeuri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_53",
@@ -848,12 +1776,30 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["publicare program", "transmitere APM", "raportare anuală", "prevenire deșeuri", "progres raportat"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "publicare program",
+        "transmitere APM",
+        "raportare anuală",
+        "prevenire deșeuri",
+        "progres raportat"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_54",
@@ -864,12 +1810,31 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["evidență cronologică", "raportare lunară", "ANPM", "format tabelar", "termen raportare", "15 martie"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "evidență cronologică",
+        "raportare lunară",
+        "ANPM",
+        "format tabelar",
+        "termen raportare",
+        "15 martie"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_55",
@@ -880,12 +1845,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["buletine analiză", "deșeuri periculoase", "caracterizare deșeuri", "transmitere autorități"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "buletine analiză",
+        "deșeuri periculoase",
+        "caracterizare deșeuri",
+        "transmitere autorități"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_56",
@@ -896,12 +1878,31 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["păstrare evidență", "termen păstrare", "3 ani", "12 luni", "transport deșeuri", "gestiune deșeuri"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "păstrare evidență",
+        "termen păstrare",
+        "3 ani",
+        "12 luni",
+        "transport deșeuri",
+        "gestiune deșeuri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_57",
@@ -912,12 +1913,29 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["documente justificative", "operațiuni gestionare", "furnizare la cerere", "deținător anterior"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "documente justificative",
+        "operațiuni gestionare",
+        "furnizare la cerere",
+        "deținător anterior"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_58",
@@ -928,12 +1946,31 @@
       "amenda_max": 60000,
       "permite_jumatate": true,
       "suma_jumatate": 20000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["acces amplasament", "control", "refuz control", "Garda Națională de Mediu", "Poliție", "Jandarmerie"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "acces amplasament",
+        "control",
+        "refuz control",
+        "Garda Națională de Mediu",
+        "Poliție",
+        "Jandarmerie"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "amenda_min_PF": 5000,
+      "amenda_max_PF": 15000,
+      "amenda_min_PJ": 40000,
+      "amenda_max_PJ": 60000,
+      "notă": "Art.62 lit.a: PF 5000-15000 / PJ 40000-60000"
     },
     {
       "id": "fapta_59",
@@ -944,8 +1981,22 @@
       "amenda_max": 70000,
       "permite_jumatate": true,
       "suma_jumatate": 25000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["reclasificare ilegală", "deșeuri periculoase", "diluare", "amestecare", "substanțe periculoase", "fraudă deșeuri"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "reclasificare ilegală",
+        "deșeuri periculoase",
+        "diluare",
+        "amestecare",
+        "substanțe periculoase",
+        "fraudă deșeuri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -960,8 +2011,21 @@
       "amenda_max": 70000,
       "permite_jumatate": true,
       "suma_jumatate": 25000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["abandonare deșeuri", "părăsire deșeuri", "debarasare ilegală", "poluare", "protecția mediului"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "abandonare deșeuri",
+        "părăsire deșeuri",
+        "debarasare ilegală",
+        "poluare",
+        "protecția mediului"
+      ],
       "masuri_complementare": "Ridicarea deșeurilor depozitate în alte zone decât cele autorizate, curățarea terenului, precum și eliminarea acestora conform legislației în vigoare.",
       "confiscare": "Confiscarea vehiculelor, bunurilor și mijloacelor folosite la săvârșirea contravenției.",
       "agravare_fapta": null,
@@ -976,8 +2040,21 @@
       "amenda_max": 70000,
       "permite_jumatate": true,
       "suma_jumatate": 25000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["aruncare deșeuri", "debarasare ilegală", "spații neautorizate", "poluare", "protecția mediului"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "aruncare deșeuri",
+        "debarasare ilegală",
+        "spații neautorizate",
+        "poluare",
+        "protecția mediului"
+      ],
       "masuri_complementare": "Ridicarea deșeurilor depozitate în alte zone decât cele autorizate, curățarea terenului, precum și eliminarea acestora conform legislației în vigoare.",
       "confiscare": "Confiscarea vehiculelor, bunurilor și mijloacelor folosite la săvârșirea contravenției.",
       "agravare_fapta": null,
@@ -992,8 +2069,20 @@
       "amenda_max": 70000,
       "permite_jumatate": true,
       "suma_jumatate": 25000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["ascundere deșeuri", "camuflare deșeuri", "poluare", "protecția mediului"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "ascundere deșeuri",
+        "camuflare deșeuri",
+        "poluare",
+        "protecția mediului"
+      ],
       "masuri_complementare": "Ridicarea deșeurilor depozitate în alte zone decât cele autorizate, curățarea terenului, precum și eliminarea acestora conform legislației în vigoare.",
       "confiscare": "Confiscarea vehiculelor, bunurilor și mijloacelor folosite la săvârșirea contravenției.",
       "agravare_fapta": null,
@@ -1008,8 +2097,21 @@
       "amenda_max": 70000,
       "permite_jumatate": true,
       "suma_jumatate": 25000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["eliminare neautorizată", "deținere deșeuri", "păstrare deșeuri", "spații neautorizate", "protecția mediului"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "eliminare neautorizată",
+        "deținere deșeuri",
+        "păstrare deșeuri",
+        "spații neautorizate",
+        "protecția mediului"
+      ],
       "masuri_complementare": "Ridicarea deșeurilor depozitate în alte zone decât cele autorizate, curățarea terenului, precum și eliminarea acestora conform legislației în vigoare.",
       "confiscare": "Confiscarea deșeurilor care au valoare, deținute, păstrate în afara spațiilor autorizate și/sau a căror proveniență nu este dovedită, în condițiile legii.",
       "agravare_fapta": null,
@@ -1024,8 +2126,20 @@
       "amenda_max": 70000,
       "permite_jumatate": true,
       "suma_jumatate": 25000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["incendiere deșeuri", "ardere deșeuri", "poluare aer", "interdicție incendiere"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "incendiere deșeuri",
+        "ardere deșeuri",
+        "poluare aer",
+        "interdicție incendiere"
+      ],
       "masuri_complementare": "Ridicarea deșeurilor depozitate în alte zone decât cele autorizate, curățarea terenului, precum și eliminarea acestora conform legislației în vigoare.",
       "confiscare": "Confiscarea vehiculelor, bunurilor și mijloacelor folosite la săvârșirea contravenției.",
       "agravare_fapta": null,
@@ -1040,8 +2154,20 @@
       "amenda_max": 70000,
       "permite_jumatate": true,
       "suma_jumatate": 25000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["îngropare deșeuri", "ascundere în sol", "poluare sol", "interdicție îngropare"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "îngropare deșeuri",
+        "ascundere în sol",
+        "poluare sol",
+        "interdicție îngropare"
+      ],
       "masuri_complementare": "Ridicarea deșeurilor depozitate în alte zone decât cele autorizate, curățarea terenului, precum și eliminarea acestora conform legislației în vigoare.",
       "confiscare": "Confiscarea vehiculelor, bunurilor și mijloacelor folosite la săvârșirea contravenției.",
       "agravare_fapta": null,
@@ -1056,8 +2182,21 @@
       "amenda_max": 20000,
       "permite_jumatate": true,
       "suma_jumatate": 5000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["colectare separată", "deșeuri gospodărești", "persoană fizică", "depunere selectivă", "centre colectare"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "colectare separată",
+        "deșeuri gospodărești",
+        "persoană fizică",
+        "depunere selectivă",
+        "centre colectare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -1072,8 +2211,21 @@
       "amenda_max": 20000,
       "permite_jumatate": true,
       "suma_jumatate": 5000,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["uleiuri vegetale uzate", "predare gratuită", "operator autorizat", "gospodărie", "persoană fizică"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "uleiuri vegetale uzate",
+        "predare gratuită",
+        "operator autorizat",
+        "gospodărie",
+        "persoană fizică"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -1088,8 +2240,17 @@
       "amenda_max": 45000,
       "permite_jumatate": true,
       "suma_jumatate": 10000,
-      "competenta": ["Garda Națională de Mediu"],
-      "tags": ["autoritate locală", "colectare separată", "ținte reciclare", "tarife salubrizare", "plătește pentru cât arunci", "indicatori performanță"],
+      "competenta": [
+        "Garda Națională de Mediu"
+      ],
+      "tags": [
+        "autoritate locală",
+        "colectare separată",
+        "ținte reciclare",
+        "tarife salubrizare",
+        "plătește pentru cât arunci",
+        "indicatori performanță"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -1104,8 +2265,16 @@
       "amenda_max": 45000,
       "permite_jumatate": true,
       "suma_jumatate": 10000,
-      "competenta": ["Garda Națională de Mediu"],
-      "tags": ["deșeuri periculoase", "colectare separată", "gospodării", "termen 2025", "autoritate locală"],
+      "competenta": [
+        "Garda Națională de Mediu"
+      ],
+      "tags": [
+        "deșeuri periculoase",
+        "colectare separată",
+        "gospodării",
+        "termen 2025",
+        "autoritate locală"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -1120,8 +2289,16 @@
       "amenda_max": 45000,
       "permite_jumatate": true,
       "suma_jumatate": 10000,
-      "competenta": ["Garda Națională de Mediu"],
-      "tags": ["biodeșeuri", "colectare separată", "reciclare la sursă", "termen 2023", "autoritate locală"],
+      "competenta": [
+        "Garda Națională de Mediu"
+      ],
+      "tags": [
+        "biodeșeuri",
+        "colectare separată",
+        "reciclare la sursă",
+        "termen 2023",
+        "autoritate locală"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -1136,8 +2313,17 @@
       "amenda_max": 45000,
       "permite_jumatate": true,
       "suma_jumatate": 10000,
-      "competenta": ["Garda Națională de Mediu"],
-      "tags": ["raportare", "ANPM", "registru deșeuri", "asociație dezvoltare intercomunitară", "operator salubritate", "cantități deșeuri"],
+      "competenta": [
+        "Garda Națională de Mediu"
+      ],
+      "tags": [
+        "raportare",
+        "ANPM",
+        "registru deșeuri",
+        "asociație dezvoltare intercomunitară",
+        "operator salubritate",
+        "cantități deșeuri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -1152,8 +2338,17 @@
       "amenda_max": 45000,
       "permite_jumatate": true,
       "suma_jumatate": 10000,
-      "competenta": ["Garda Națională de Mediu"],
-      "tags": ["autoritate locală", "gestionare deșeuri", "colectare separată", "informare publică", "spații colectare", "monitorizare"],
+      "competenta": [
+        "Garda Națională de Mediu"
+      ],
+      "tags": [
+        "autoritate locală",
+        "gestionare deșeuri",
+        "colectare separată",
+        "informare publică",
+        "spații colectare",
+        "monitorizare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -1168,8 +2363,17 @@
       "amenda_max": 45000,
       "permite_jumatate": true,
       "suma_jumatate": 10000,
-      "competenta": ["Garda Națională de Mediu"],
-      "tags": ["PJGD", "PMGD", "plan județean", "plan București", "consiliu județean", "monitorizare deșeuri medicale"],
+      "competenta": [
+        "Garda Națională de Mediu"
+      ],
+      "tags": [
+        "PJGD",
+        "PMGD",
+        "plan județean",
+        "plan București",
+        "consiliu județean",
+        "monitorizare deșeuri medicale"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -1184,8 +2388,16 @@
       "amenda_max": 45000,
       "permite_jumatate": true,
       "suma_jumatate": 10000,
-      "competenta": ["Garda Națională de Mediu"],
-      "tags": ["hotărâre consiliu", "interzicere abandonare", "interzicere aruncare", "ierarhie deșeuri", "gestionare neconformă"],
+      "competenta": [
+        "Garda Națională de Mediu"
+      ],
+      "tags": [
+        "hotărâre consiliu",
+        "interzicere abandonare",
+        "interzicere aruncare",
+        "ierarhie deșeuri",
+        "gestionare neconformă"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -1200,8 +2412,16 @@
       "amenda_max": 45000,
       "permite_jumatate": true,
       "suma_jumatate": 10000,
-      "competenta": ["Garda Națională de Mediu"],
-      "tags": ["contracte", "parteneriate", "răspundere extinsă producător", "organizații autorizate", "colaborare"],
+      "competenta": [
+        "Garda Națională de Mediu"
+      ],
+      "tags": [
+        "contracte",
+        "parteneriate",
+        "răspundere extinsă producător",
+        "organizații autorizate",
+        "colaborare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -1216,8 +2436,15 @@
       "amenda_max": 45000,
       "permite_jumatate": true,
       "suma_jumatate": 10000,
-      "competenta": ["Garda Națională de Mediu"],
-      "tags": ["acoperire costuri", "răspundere extinsă producător", "deșeuri municipale", "asociație dezvoltare intercomunitară"],
+      "competenta": [
+        "Garda Națională de Mediu"
+      ],
+      "tags": [
+        "acoperire costuri",
+        "răspundere extinsă producător",
+        "deșeuri municipale",
+        "asociație dezvoltare intercomunitară"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -1232,8 +2459,15 @@
       "amenda_max": 45000,
       "permite_jumatate": true,
       "suma_jumatate": 10000,
-      "competenta": ["Garda Națională de Mediu"],
-      "tags": ["utilizare sume", "costuri gestionare", "răspundere extinsă producător", "destinație fonduri"],
+      "competenta": [
+        "Garda Națională de Mediu"
+      ],
+      "tags": [
+        "utilizare sume",
+        "costuri gestionare",
+        "răspundere extinsă producător",
+        "destinație fonduri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -1248,8 +2482,21 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["informare publică", "uleiuri uzate", "colectare", "puncte comercializare", "afișare informații"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "informare publică",
+        "uleiuri uzate",
+        "colectare",
+        "puncte comercializare",
+        "afișare informații"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -1264,8 +2511,22 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["etichetare ambalaj", "ulei motor", "ulei transmisie", "inscripționare", "colector autorizat", "interdicție amestec"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "etichetare ambalaj",
+        "ulei motor",
+        "ulei transmisie",
+        "inscripționare",
+        "colector autorizat",
+        "interdicție amestec"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -1280,8 +2541,22 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["raportare anuală", "APM", "autorizație construire", "uleiuri uzate", "termen 30 aprilie", "conformare"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "raportare anuală",
+        "APM",
+        "autorizație construire",
+        "uleiuri uzate",
+        "termen 30 aprilie",
+        "conformare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -1296,8 +2571,22 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["raportare", "operatori economici", "deșeuri alimentare", "agricultură", "ANPM", "măsuri adoptate"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "raportare",
+        "operatori economici",
+        "deșeuri alimentare",
+        "agricultură",
+        "ANPM",
+        "măsuri adoptate"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -1312,8 +2601,21 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["produse reutilizate", "evidență cronologică", "produse reparate", "pregătire reutilizare", "raportare cantități"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "produse reutilizate",
+        "evidență cronologică",
+        "produse reparate",
+        "pregătire reutilizare",
+        "raportare cantități"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -1328,8 +2630,21 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Garda Națională de Mediu", "Gărzile forestiere", "autoritățile administrației publice locale", "poliția locală", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["raportare", "ANPM", "registru deșeuri", "producător deșeuri", "deținător deșeuri"],
+      "competenta": [
+        "Garda Națională de Mediu",
+        "Gărzile forestiere",
+        "autoritățile administrației publice locale",
+        "poliția locală",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "raportare",
+        "ANPM",
+        "registru deșeuri",
+        "producător deșeuri",
+        "deținător deșeuri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,

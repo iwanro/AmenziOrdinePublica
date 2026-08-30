@@ -3,7 +3,9 @@
     "titlu": "Ordonanța de Urgență nr. 34 din 19 martie 2008 privind organizarea și funcționarea Sistemului național unic pentru apeluri de urgență",
     "data_publicare": "28 martie 2008",
     "monitorul_oficial": "Monitorul Oficial nr. 246 din 28 martie 2008",
-    "ultima_modificare": "Legea nr. 198/2022 (MO nr. 681 din 7 iulie 2022)"
+    "ultima_modificare": "Legea nr. 198/2022 (MO nr. 681 din 7 iulie 2022)",
+    "data_actualizare": "26.05.2023 (OUG 48/2023) + 10.07.2022 (Legea 198/2022)",
+    "patch_notes": "Art.32 cuantumuri deja corecte"
   },
   "fapte": [
     {
@@ -16,8 +18,19 @@
       "amenda_max": 2000,
       "permite_jumatate": false,
       "suma_jumatate": 500,
-      "competenta": ["Persoane anume împuternicite din cadrul Ministerului Afacerilor Interne"],
-      "tags": ["apel abuziv", "112", "mesaj abuziv", "113", "114", "apelație", "telefon", "urgență falsă"],
+      "competenta": [
+        "Persoane anume împuternicite din cadrul Ministerului Afacerilor Interne"
+      ],
+      "tags": [
+        "apel abuziv",
+        "112",
+        "mesaj abuziv",
+        "113",
+        "114",
+        "apelație",
+        "telefon",
+        "urgență falsă"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -40,8 +53,16 @@
       "amenda_max": 2000,
       "permite_jumatate": false,
       "suma_jumatate": 500,
-      "competenta": ["Persoane anume împuternicite din cadrul Ministerului Afacerilor Interne"],
-      "tags": ["comunicație abuzivă", "112", "serviciu urgență", "abuz", "comunicații"],
+      "competenta": [
+        "Persoane anume împuternicite din cadrul Ministerului Afacerilor Interne"
+      ],
+      "tags": [
+        "comunicație abuzivă",
+        "112",
+        "serviciu urgență",
+        "abuz",
+        "comunicații"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -65,8 +86,18 @@
       "amenda_max": 4000,
       "permite_jumatate": false,
       "suma_jumatate": 1000,
-      "competenta": ["Persoane anume împuternicite din cadrul Ministerului Afacerilor Interne"],
-      "tags": ["alertare falsă", "agenții intervenție", "pompieri", "poliție", "ambulanță", "alarmă falsă", "dezinformare"],
+      "competenta": [
+        "Persoane anume împuternicite din cadrul Ministerului Afacerilor Interne"
+      ],
+      "tags": [
+        "alertare falsă",
+        "agenții intervenție",
+        "pompieri",
+        "poliție",
+        "ambulanță",
+        "alarmă falsă",
+        "dezinformare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -89,8 +120,20 @@
       "amenda_max": 100000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Persoane anume împuternicite din cadrul Autorității Naționale pentru Reglementare în Comunicații și Tehnologia Informației (ANCOM)"],
-      "tags": ["furnizor", "rețea comunicații", "servicii telefonie", "obligații tehnice", "112", "rutare", "localizare", "date personale", "suspendare servicii"],
+      "competenta": [
+        "Persoane anume împuternicite din cadrul Autorității Naționale pentru Reglementare în Comunicații și Tehnologia Informației (ANCOM)"
+      ],
+      "tags": [
+        "furnizor",
+        "rețea comunicații",
+        "servicii telefonie",
+        "obligații tehnice",
+        "112",
+        "rutare",
+        "localizare",
+        "date personale",
+        "suspendare servicii"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -98,7 +141,7 @@
       "observatie": "Obligații privind: primirea și rutarea apelurilor (art. 14-15), primirea apelurilor din locuri publice (art. 16), prioritizarea legăturilor în situații de urgență (art. 17), furnizarea bazelor de date (art. 18 alin. 1), suspendarea serviciilor pentru apeluri abuzive (art. 20 alin. 8-9)",
       "dispozitii_incalcate": [
         "Art. 14 - Obligații furnizori servicii telefonie fixă",
-        "Art. 15 - Obligații furnizori servicii telefonie mobilă", 
+        "Art. 15 - Obligații furnizori servicii telefonie mobilă",
         "Art. 16 - Primirea apelurilor din locuri publice",
         "Art. 17 - Prioritate legături în situații de urgență",
         "Art. 18 alin. (1) - Furnizarea bazelor de date",
@@ -115,8 +158,19 @@
       "amenda_max": 100000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Persoane anume împuternicite din cadrul Autorității Naționale pentru Reglementare în Comunicații și Tehnologia Informații (ANCOM)"],
-      "tags": ["furnizor", "rețea comunicații", "condiții tehnice", "condiții economice", "SNUAU", "ANCOM", "standarde", "interoperabilitate"],
+      "competenta": [
+        "Persoane anume împuternicite din cadrul Autorității Naționale pentru Reglementare în Comunicații și Tehnologia Informații (ANCOM)"
+      ],
+      "tags": [
+        "furnizor",
+        "rețea comunicații",
+        "condiții tehnice",
+        "condiții economice",
+        "SNUAU",
+        "ANCOM",
+        "standarde",
+        "interoperabilitate"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -133,8 +187,19 @@
       "amenda_max": 50000,
       "permite_jumatate": false,
       "suma_jumatate": 750,
-      "competenta": ["Persoane anume împuternicite din cadrul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal (ANSPDCP)"],
-      "tags": ["administrator SNUAU", "securitate date", "confidențialitate", "bază date", "protecție date personale", "GDPR", "STS", "SNUAU"],
+      "competenta": [
+        "Persoane anume împuternicite din cadrul Autorității Naționale de Supraveghere a Prelucrării Datelor cu Caracter Personal (ANSPDCP)"
+      ],
+      "tags": [
+        "administrator SNUAU",
+        "securitate date",
+        "confidențialitate",
+        "bază date",
+        "protecție date personale",
+        "GDPR",
+        "STS",
+        "SNUAU"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
@@ -165,16 +230,25 @@
       "articol": "Art. 32, alin. (2)-(4)",
       "detalii": [
         {
-          "fapte": ["a)", "a^1)", "b)"],
+          "fapte": [
+            "a)",
+            "a^1)",
+            "b)"
+          ],
           "competenta": "Persoane anume împuternicite din cadrul Ministerului Afacerilor Interne",
           "baza": "Datele furnizate de administratorul SNUAU"
         },
         {
-          "fapte": ["c)", "d)"],
+          "fapte": [
+            "c)",
+            "d)"
+          ],
           "competenta": "Persoane anume împuternicite din cadrul ANCOM"
         },
         {
-          "fapte": ["e)"],
+          "fapte": [
+            "e)"
+          ],
           "competenta": "Persoane anume împuternicite din cadrul ANSPDCP"
         }
       ]

@@ -3,8 +3,9 @@
     "titlu": "Legea nr. 60 din 23 septembrie 1991 privind organizarea și desfășurarea adunărilor publice (republicată)",
     "data_publicare": "14 martie 2014",
     "monitorul_oficial": "Monitorul Oficial nr. 186 din 14 martie 2014",
-    "data_actualizare": "2021-10-11 (modificări prin Legea nr. 240/2021), 2026-02-27 (OUG nr. 7/2026) și 2026-07-20 (Legea nr. 154/2026)",
-    "nota": "Republicată în temeiul art. 248 din Legea nr. 187/2012"
+    "data_actualizare": "23.07.2026 (Legea 154/2026 MO 592/20.07.2026)",
+    "nota": "Republicată în temeiul art. 248 din Legea nr. 187/2012",
+    "patch_notes": "Eliminat OUG 7/2026 inexistent, corectat 20.07->23.07"
   },
   "fapte": [
     {

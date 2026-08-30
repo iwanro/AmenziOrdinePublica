@@ -4,7 +4,8 @@
     "emitent": "GUVERNUL ROMÂNIEI",
     "data_publicare": "19 august 2021",
     "monitorul_oficial": "MONITORUL OFICIAL nr. 797 din 19 august 2021",
-    "data_actualizare": "08 martie 2026"
+    "data_actualizare": "26.01.2023 (HG 837/2022 MO 667/04.07.2022)",
+    "patch_notes": "Corectat 08.03.2026 eronat -> 26.01.2023"
   },
   "fapte": [
     {
@@ -16,8 +17,18 @@
       "amenda_max": 40000,
       "permite_jumatate": true,
       "suma_jumatate": 12500,
-      "competenta": ["Personalul împuternicit de Autoritatea Aeronautică Civilă Română", "Ofițerii și agenții de poliție din cadrul Poliției Române", "Ofițerii și subofițerii din cadrul Jandarmeriei Române", "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române", "Polițiștii locali (doar pentru UAS)"],
-      "tags": ["asigurare aeronavă", "răspundere terți", "zbor neasigurat"],
+      "competenta": [
+        "Personalul împuternicit de Autoritatea Aeronautică Civilă Română",
+        "Ofițerii și agenții de poliție din cadrul Poliției Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Polițiștii locali (doar pentru UAS)"
+      ],
+      "tags": [
+        "asigurare aeronavă",
+        "răspundere terți",
+        "zbor neasigurat"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -32,8 +43,15 @@
       "amenda_max": 40000,
       "permite_jumatate": true,
       "suma_jumatate": 12500,
-      "competenta": ["Personalul împuternicit de Autoritatea Aeronautică Civilă Română"],
-      "tags": ["plan de zbor", "zbor IFR", "zbor VFR", "notificare trafic"],
+      "competenta": [
+        "Personalul împuternicit de Autoritatea Aeronautică Civilă Română"
+      ],
+      "tags": [
+        "plan de zbor",
+        "zbor IFR",
+        "zbor VFR",
+        "notificare trafic"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -48,8 +66,19 @@
       "amenda_max": 4000,
       "permite_jumatate": true,
       "suma_jumatate": 1000,
-      "competenta": ["Personalul împuternicit de Autoritatea Aeronautică Civilă Română", "Ofițerii și agenții de poliție din cadrul Poliției Române", "Ofițerii și subofițerii din cadrul Jandarmeriei Române", "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române", "Polițiștii locali"],
-      "tags": ["drone", "UAS", "autorizare operare", "categorie deschisă"],
+      "competenta": [
+        "Personalul împuternicit de Autoritatea Aeronautică Civilă Română",
+        "Ofițerii și agenții de poliție din cadrul Poliției Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Polițiștii locali"
+      ],
+      "tags": [
+        "drone",
+        "UAS",
+        "autorizare operare",
+        "categorie deschisă"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -64,8 +93,14 @@
       "amenda_max": 40000,
       "permite_jumatate": true,
       "suma_jumatate": 12500,
-      "competenta": ["Personalul împuternicit de Autoritatea Aeronautică Civilă Română"],
-      "tags": ["sancțiuni internaționale", "zbor interzis", "restricții spațiu aerian"],
+      "competenta": [
+        "Personalul împuternicit de Autoritatea Aeronautică Civilă Română"
+      ],
+      "tags": [
+        "sancțiuni internaționale",
+        "zbor interzis",
+        "restricții spațiu aerian"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -80,8 +115,18 @@
       "amenda_max": 9000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Personalul împuternicit de Autoritatea Aeronautică Civilă Română", "Ofițerii și agenții de poliție din cadrul Poliției Române", "Ofițerii și subofițerii din cadrul Jandarmeriei Române", "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române", "Polițiștii locali"],
-      "tags": ["drone", "spațiu controlat", "coordonare civilo-militară"],
+      "competenta": [
+        "Personalul împuternicit de Autoritatea Aeronautică Civilă Română",
+        "Ofițerii și agenții de poliție din cadrul Poliției Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Polițiștii locali"
+      ],
+      "tags": [
+        "drone",
+        "spațiu controlat",
+        "coordonare civilo-militară"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -96,8 +141,18 @@
       "amenda_max": 40000,
       "permite_jumatate": true,
       "suma_jumatate": 12500,
-      "competenta": ["Personalul împuternicit de Autoritatea Aeronautică Civilă Română", "Ofițerii și agenții de poliție din cadrul Poliției Române", "Ofițerii și subofițerii din cadrul Jandarmeriei Române", "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române"],
-      "tags": ["materiale periculoase", "tehnică militară", "securitate națională", "autorizare MT"],
+      "competenta": [
+        "Personalul împuternicit de Autoritatea Aeronautică Civilă Română",
+        "Ofițerii și agenții de poliție din cadrul Poliției Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române"
+      ],
+      "tags": [
+        "materiale periculoase",
+        "tehnică militară",
+        "securitate națională",
+        "autorizare MT"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -112,8 +167,14 @@
       "amenda_max": 25000,
       "permite_jumatate": true,
       "suma_jumatate": 7500,
-      "competenta": ["Personalul împuternicit de Autoritatea Aeronautică Civilă Română"],
-      "tags": ["spațiu aerian rezervat", "zonă restricționată", "autorizare ATC"],
+      "competenta": [
+        "Personalul împuternicit de Autoritatea Aeronautică Civilă Română"
+      ],
+      "tags": [
+        "spațiu aerian rezervat",
+        "zonă restricționată",
+        "autorizare ATC"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -128,8 +189,14 @@
       "amenda_max": 25000,
       "permite_jumatate": true,
       "suma_jumatate": 7500,
-      "competenta": ["Personalul împuternicit de Autoritatea Aeronautică Civilă Română"],
-      "tags": ["spațiu aerian clasă G", "zonă rezervată", "autorizare entitate"],
+      "competenta": [
+        "Personalul împuternicit de Autoritatea Aeronautică Civilă Română"
+      ],
+      "tags": [
+        "spațiu aerian clasă G",
+        "zonă rezervată",
+        "autorizare entitate"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -144,8 +211,14 @@
       "amenda_max": 25000,
       "permite_jumatate": true,
       "suma_jumatate": 7500,
-      "competenta": ["Personalul împuternicit prin ordin al ministrului apărării naționale"],
-      "tags": ["survol București", "zonă restricționată", "autorizare MApN"],
+      "competenta": [
+        "Personalul împuternicit prin ordin al ministrului apărării naționale"
+      ],
+      "tags": [
+        "survol București",
+        "zonă restricționată",
+        "autorizare MApN"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -160,8 +233,18 @@
       "amenda_max": 25000,
       "permite_jumatate": true,
       "suma_jumatate": 7500,
-      "competenta": ["Personalul împuternicit prin ordin al ministrului apărării naționale", "Ofițerii și agenții de poliție din cadrul Poliției Române", "Ofițerii și subofițerii din cadrul Jandarmeriei Române", "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române", "Polițiștii locali"],
-      "tags": ["drone București", "survol interzis", "autorizare MApN"],
+      "competenta": [
+        "Personalul împuternicit prin ordin al ministrului apărării naționale",
+        "Ofițerii și agenții de poliție din cadrul Poliției Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Polițiștii locali"
+      ],
+      "tags": [
+        "drone București",
+        "survol interzis",
+        "autorizare MApN"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -176,8 +259,19 @@
       "amenda_max": 25000,
       "permite_jumatate": true,
       "suma_jumatate": 7500,
-      "competenta": ["Personalul împuternicit prin ordin al ministrului apărării naționale", "Ofițerii și agenții de poliție din cadrul Poliției Române", "Ofițerii și subofițerii din cadrul Jandarmeriei Române", "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române", "Polițiștii locali"],
-      "tags": ["filmarе aeriană", "cartografiere", "informații clasificate", "aviz MApN"],
+      "competenta": [
+        "Personalul împuternicit prin ordin al ministrului apărării naționale",
+        "Ofițerii și agenții de poliție din cadrul Poliției Române",
+        "Ofițerii și subofițerii din cadrul Jandarmeriei Române",
+        "Ofițerii și agenții de poliție din cadrul Poliției de Frontieră Române",
+        "Polițiștii locali"
+      ],
+      "tags": [
+        "filmarе aeriană",
+        "cartografiere",
+        "informații clasificate",
+        "aviz MApN"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -192,8 +286,14 @@
       "amenda_max": 25000,
       "permite_jumatate": true,
       "suma_jumatate": 7500,
-      "competenta": ["Personalul împuternicit de Autoritatea Aeronautică Civilă Română"],
-      "tags": ["bunuri periculoase", "derogare transport", "Doc 9284"],
+      "competenta": [
+        "Personalul împuternicit de Autoritatea Aeronautică Civilă Română"
+      ],
+      "tags": [
+        "bunuri periculoase",
+        "derogare transport",
+        "Doc 9284"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -208,8 +308,14 @@
       "amenda_max": 40000,
       "permite_jumatate": true,
       "suma_jumatate": 12500,
-      "competenta": ["Personalul împuternicit de Autoritatea Aeronautică Civilă Română"],
-      "tags": ["risc ridicat", "operațiuni specializate", "autorizare AACR"],
+      "competenta": [
+        "Personalul împuternicit de Autoritatea Aeronautică Civilă Română"
+      ],
+      "tags": [
+        "risc ridicat",
+        "operațiuni specializate",
+        "autorizare AACR"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -224,8 +330,14 @@
       "amenda_max": 40000,
       "permite_jumatate": true,
       "suma_jumatate": 12500,
-      "competenta": ["Personalul împuternicit de Autoritatea Aeronautică Civilă Română"],
-      "tags": ["închidere plan zbor", "termen 30 minute", "raportare activitate"],
+      "competenta": [
+        "Personalul împuternicit de Autoritatea Aeronautică Civilă Română"
+      ],
+      "tags": [
+        "închidere plan zbor",
+        "termen 30 minute",
+        "raportare activitate"
+      ],
       "masuri_complementare": "Suportarea costurilor generate de operațiunile de căutare-salvare declanșate ca urmare a nerespectării prevederilor.",
       "confiscare": null,
       "agravare_fapta": null,

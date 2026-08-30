@@ -4,7 +4,7 @@
     "emitent": "PARLAMENTUL",
     "data_publicare": "10 aprilie 2014",
     "monitorul_oficial": "MONITORUL OFICIAL nr. 262 din 10 aprilie 2014",
-    "data_actualizare": "08 martie 2026"
+    "data_actualizare": "05.06.2022 (OUG 31/2011 consolidată Legea 166/2022)"
   },
   "fapte": [
     {
@@ -16,8 +16,17 @@
       "amenda_max": 150000,
       "permite_jumatate": true,
       "suma_jumatate": 50000,
-      "competenta": ["Poliția Română", "Jandarmeria Română", "Poliția de Frontieră Română"],
-      "tags": ["metale feroase", "metale neferoase", "infrastructură critică", "achiziție ilegală"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Poliția de Frontieră Română"
+      ],
+      "tags": [
+        "metale feroase",
+        "metale neferoase",
+        "infrastructură critică",
+        "achiziție ilegală"
+      ],
       "masuri_complementare": "Anularea autorizației de colectare (dacă este operator economic care realizează activități de colectare a deșeurilor industriale reciclabile).",
       "confiscare": "Metalele feroase și neferoase și aliajele acestora se confiscă și se valorifică; sumele obținute se fac venit la bugetul de stat dacă nu se identifică partea prejudiciată.",
       "agravare_fapta": null,
@@ -32,8 +41,17 @@
       "amenda_max": 150000,
       "permite_jumatate": true,
       "suma_jumatate": 50000,
-      "competenta": ["Poliția Română", "Jandarmeria Română", "Poliția de Frontieră Română", "Garda Națională de Mediu"],
-      "tags": ["deșeuri metalice", "gospodărie proprie", "achiziție ilegală"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Poliția de Frontieră Română",
+        "Garda Națională de Mediu"
+      ],
+      "tags": [
+        "deșeuri metalice",
+        "gospodărie proprie",
+        "achiziție ilegală"
+      ],
       "masuri_complementare": "Anularea autorizației de colectare (dacă este operator economic care realizează activități de colectare a deșeurilor industriale reciclabile).",
       "confiscare": "Metalele feroase și neferoase și aliajele acestora se confiscă și se valorifică; sumele obținute se fac venit la bugetul de stat dacă nu se identifică partea prejudiciată.",
       "agravare_fapta": null,
@@ -48,8 +66,18 @@
       "amenda_max": 50000,
       "permite_jumatate": true,
       "suma_jumatate": 15000,
-      "competenta": ["Poliția Română", "Jandarmeria Română", "Poliția de Frontieră Română", "ANAF"],
-      "tags": ["plată", "virament bancar", "numerar", "obligații financiare"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Poliția de Frontieră Română",
+        "ANAF"
+      ],
+      "tags": [
+        "plată",
+        "virament bancar",
+        "numerar",
+        "obligații financiare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -64,8 +92,19 @@
       "amenda_max": 30000,
       "permite_jumatate": true,
       "suma_jumatate": 5000,
-      "competenta": ["Poliția Română", "Jandarmeria Română", "Poliția de Frontieră Română", "Garda Națională de Mediu", "ANAF"],
-      "tags": ["borderou achiziție", "evidență", "declarație", "date identificare"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Poliția de Frontieră Română",
+        "Garda Națională de Mediu",
+        "ANAF"
+      ],
+      "tags": [
+        "borderou achiziție",
+        "evidență",
+        "declarație",
+        "date identificare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,

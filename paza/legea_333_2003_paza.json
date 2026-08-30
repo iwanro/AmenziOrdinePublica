@@ -4,7 +4,8 @@
     "emitent": "PARLAMENTUL",
     "data_publicare": "18 martie 2014",
     "monitorul_oficial": "MONITORUL OFICIAL nr. 189 din 18 martie 2014",
-    "data_actualizare": "08 martie 2026"
+    "data_actualizare": "2026-08-30 (OUG 37/06.05.2026 MO 381/06.05.2026)",
+    "patch_notes": "Art.59 alin.1 lit.a 5000-10000 (f-m,p), lit.b 2000-5000 (a-d,n,o,q,r), lit.c 100-300 (e) - OUG 37/2026; plan pază electronic Art.5, supraveghere video Art.18(6)"
   },
   "fapte": [
     {
@@ -16,8 +17,17 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": 1000,
-      "competenta": ["Poliția Română", "Jandarmeria Română", "Primarii sau împuterniciții acestora"],
-      "tags": ["organizare pază", "plan de pază", "măsuri securitate", "pază rurală"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Primarii sau împuterniciții acestora"
+      ],
+      "tags": [
+        "organizare pază",
+        "plan de pază",
+        "măsuri securitate",
+        "pază rurală"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -32,8 +42,16 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": 1000,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["pază transport", "valori", "materiale speciale", "monitorizare"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "pază transport",
+        "valori",
+        "materiale speciale",
+        "monitorizare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -48,8 +66,15 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": 1000,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["plan de pază", "sarcini pază", "documente pază"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "plan de pază",
+        "sarcini pază",
+        "documente pază"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -64,8 +89,16 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": 1000,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["angajare personal", "atestare", "uniforme", "confuzie autorități"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "angajare personal",
+        "atestare",
+        "uniforme",
+        "confuzie autorități"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -80,8 +113,16 @@
       "amenda_max": 300,
       "permite_jumatate": true,
       "suma_jumatate": 50,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["atribuții paznic", "gardi de corp", "conduită", "uz de armă"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "atribuții paznic",
+        "gardi de corp",
+        "conduită",
+        "uz de armă"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -96,8 +137,16 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": 1000,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["obligații conducători", "organizare pază", "contracte", "armament"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "obligații conducători",
+        "organizare pază",
+        "contracte",
+        "armament"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -112,8 +161,17 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["gardi de corp", "sisteme alarmă", "angajare", "echipament", "ecuson"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "gardi de corp",
+        "sisteme alarmă",
+        "angajare",
+        "echipament",
+        "ecuson"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -128,8 +186,16 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["sisteme alarmă", "proiecte", "avizare poliție", "protecție mecano-fizică"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "sisteme alarmă",
+        "proiecte",
+        "avizare poliție",
+        "protecție mecano-fizică"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -144,8 +210,15 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["refuz control", "acces autorități", "prevenire"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "refuz control",
+        "acces autorități",
+        "prevenire"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -160,8 +233,15 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["depășire atribuții", "obiect activitate", "licență"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "depășire atribuții",
+        "obiect activitate",
+        "licență"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -176,8 +256,15 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["refuz informare", "documente", "control"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "refuz informare",
+        "documente",
+        "control"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -192,8 +279,15 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["condamnări", "conducere societate", "incompatibilitate"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "condamnări",
+        "conducere societate",
+        "incompatibilitate"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -208,8 +302,15 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2500,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["licență funcționare", "condiții", "societăți specializate"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "licență funcționare",
+        "condiții",
+        "societăți specializate"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,

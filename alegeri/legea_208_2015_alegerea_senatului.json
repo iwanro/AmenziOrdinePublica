@@ -4,7 +4,7 @@
     "emitent": "PARLAMENTUL",
     "data_publicare": "24 iulie 2015",
     "monitorul_oficial": "MONITORUL OFICIAL nr. 553 din 24 iulie 2015",
-    "data_actualizare": "08 martie 2026"
+    "data_actualizare": "08.10.2024"
   },
   "fapte": [
     {
@@ -16,8 +16,16 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2250,
-      "competenta": ["Poliția Română", "Jandarmeria Română", "Autoritatea Electorală Permanentă"],
-      "tags": ["liste electorale", "fraudă", "Registrul electoral"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Autoritatea Electorală Permanentă"
+      ],
+      "tags": [
+        "liste electorale",
+        "fraudă",
+        "Registrul electoral"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -32,8 +40,14 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Autoritatea Electorală Permanentă"],
-      "tags": ["Registrul electoral", "termene", "radieri"],
+      "competenta": [
+        "Autoritatea Electorală Permanentă"
+      ],
+      "tags": [
+        "Registrul electoral",
+        "termene",
+        "radieri"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -48,8 +62,14 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Autoritatea Electorală Permanentă"],
-      "tags": ["operațiuni neautorizate", "liste electorale", "acces"],
+      "competenta": [
+        "Autoritatea Electorală Permanentă"
+      ],
+      "tags": [
+        "operațiuni neautorizate",
+        "liste electorale",
+        "acces"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -64,8 +84,16 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Poliția Română", "Jandarmeria Română", "Biroul Electoral Central"],
-      "tags": ["afișare candidați", "propagandă", "candidaturi"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Biroul Electoral Central"
+      ],
+      "tags": [
+        "afișare candidați",
+        "propagandă",
+        "candidaturi"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -80,8 +108,14 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Autoritatea Electorală Permanentă"],
-      "tags": ["refuz control", "documente", "agenți constatatori"],
+      "competenta": [
+        "Autoritatea Electorală Permanentă"
+      ],
+      "tags": [
+        "refuz control",
+        "documente",
+        "agenți constatatori"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -96,8 +130,15 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2250,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["adunări electorale", "alcool", "ordine publică"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "adunări electorale",
+        "alcool",
+        "ordine publică"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -112,8 +153,15 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["distrugere liste", "afișe", "propagandă"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "distrugere liste",
+        "afișe",
+        "propagandă"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -128,8 +176,16 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Autoritatea Electorală Permanentă", "Poliția Română", "Jandarmeria Română"],
-      "tags": ["extras registru", "afișaj electoral", "transparență"],
+      "competenta": [
+        "Autoritatea Electorală Permanentă",
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "extras registru",
+        "afișaj electoral",
+        "transparență"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -144,8 +200,14 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Biroul Electoral Central"],
-      "tags": ["candidatură multiplă", "incompatibilitate", "circumscripții"],
+      "competenta": [
+        "Biroul Electoral Central"
+      ],
+      "tags": [
+        "candidatură multiplă",
+        "incompatibilitate",
+        "circumscripții"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -160,8 +222,17 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2250,
-      "competenta": ["Poliția Română", "Jandarmeria Română", "Autoritatea Electorală Permanentă", "Biroul electoral ierarhic superior"],
-      "tags": ["neexecutare hotărâri", "BEC", "AEP"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română",
+        "Autoritatea Electorală Permanentă",
+        "Biroul electoral ierarhic superior"
+      ],
+      "tags": [
+        "neexecutare hotărâri",
+        "BEC",
+        "AEP"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -176,8 +247,14 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Autoritatea Electorală Permanentă"],
-      "tags": ["delimitare secții", "actualizare", "legalitate"],
+      "competenta": [
+        "Autoritatea Electorală Permanentă"
+      ],
+      "tags": [
+        "delimitare secții",
+        "actualizare",
+        "legalitate"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -192,8 +269,15 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["campanie electorală", "mass-media", "sondaje"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "campanie electorală",
+        "mass-media",
+        "sondaje"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -208,8 +292,15 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2250,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["buletine de vot", "tipărire ilegală", "fals"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "buletine de vot",
+        "tipărire ilegală",
+        "fals"
+      ],
       "masuri_complementare": null,
       "confiscare": "Bunurile destinate sau folosite la săvârșirea contravenției ori rezultate din comiterea acesteia se confiscă.",
       "agravare_fapta": null,
@@ -224,8 +315,15 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["acces secție", "observatori", "transparență"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "acces secție",
+        "observatori",
+        "transparență"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -240,8 +338,14 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Biroul electoral ierarhic superior"],
-      "tags": ["refuz sesizare", "contestații", "înregistrare"],
+      "competenta": [
+        "Biroul electoral ierarhic superior"
+      ],
+      "tags": [
+        "refuz sesizare",
+        "contestații",
+        "înregistrare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -256,8 +360,15 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["ordine publică", "președinte secție", "refuz"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "ordine publică",
+        "președinte secție",
+        "refuz"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -272,8 +383,15 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2250,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["buletin de vot", "act identitate", "votare ilegală"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "buletin de vot",
+        "act identitate",
+        "votare ilegală"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -288,8 +406,15 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["ștampilă VOTAT", "act identitate", "procedură vot"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "ștampilă VOTAT",
+        "act identitate",
+        "procedură vot"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -304,8 +429,14 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Biroul electoral ierarhic superior"],
-      "tags": ["proces-verbal", "întocmire", "nereguli"],
+      "competenta": [
+        "Biroul electoral ierarhic superior"
+      ],
+      "tags": [
+        "proces-verbal",
+        "întocmire",
+        "nereguli"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -320,8 +451,15 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2250,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["propagandă ilegală", "ziua votării", "experți electorali"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "propagandă ilegală",
+        "ziua votării",
+        "experți electorali"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -336,8 +474,15 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["însemne propagandă", "votare", "neutralitate"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "însemne propagandă",
+        "votare",
+        "neutralitate"
+      ],
       "masuri_complementare": null,
       "confiscare": "Bunurile destinate sau folosite la săvârșirea contravenției ori rezultate din comiterea acesteia se confiscă.",
       "agravare_fapta": null,
@@ -352,8 +497,14 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Biroul electoral ierarhic superior"],
-      "tags": ["absență", "membri birou", "obligații"],
+      "competenta": [
+        "Biroul electoral ierarhic superior"
+      ],
+      "tags": [
+        "absență",
+        "membri birou",
+        "obligații"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -368,8 +519,14 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Biroul electoral ierarhic superior"],
-      "tags": ["copie proces-verbal", "refuz", "transparență"],
+      "competenta": [
+        "Biroul electoral ierarhic superior"
+      ],
+      "tags": [
+        "copie proces-verbal",
+        "refuz",
+        "transparență"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -384,8 +541,15 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["observatori", "mass-media", "acreditare"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "observatori",
+        "mass-media",
+        "acreditare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -400,8 +564,15 @@
       "amenda_max": 4500,
       "permite_jumatate": true,
       "suma_jumatate": 750,
-      "competenta": ["Poliția Română", "Jandarmeria Română"],
-      "tags": ["persoane acreditate", "intervenție", "propagandă"],
+      "competenta": [
+        "Poliția Română",
+        "Jandarmeria Română"
+      ],
+      "tags": [
+        "persoane acreditate",
+        "intervenție",
+        "propagandă"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -416,8 +587,14 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": 2250,
-      "competenta": ["Biroul electoral ierarhic superior"],
-      "tags": ["închidere votare", "numărare voturi", "proces-verbal"],
+      "competenta": [
+        "Biroul electoral ierarhic superior"
+      ],
+      "tags": [
+        "închidere votare",
+        "numărare voturi",
+        "proces-verbal"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
