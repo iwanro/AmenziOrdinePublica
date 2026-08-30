@@ -31,7 +31,7 @@
       "masuri_complementare": "Nulitatea de drept a contractelor încheiate.",
       "confiscare": "",
       "agravare_fapta": "",
-      "repetare_fapta": ""
+      "repetare_fapta": "La repetare în 3 luni suspendare 3 luni autorizație (Art.3 lit.d - șef ocol)"
     },
     {
       "id": "fapta_2",
@@ -731,7 +731,7 @@
         "volum 10 mc",
         "distrugere arbori"
       ],
-      "masuri_complementare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile, 35% agent constatator / 65% buget (Art.36)",
       "confiscare": "Confiscarea materialelor lemnoase în cauză.",
       "agravare_fapta": "",
       "repetare_fapta": ""
@@ -758,7 +758,7 @@
         "volum 30 mc",
         "distrugere arbori"
       ],
-      "masuri_complementare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile, 35% agent constatator / 65% buget (Art.36)",
       "confiscare": "Confiscarea materialelor lemnoase în cauză.",
       "agravare_fapta": "",
       "repetare_fapta": ""
@@ -785,7 +785,7 @@
         "volum 100 mc",
         "distrugere arbori"
       ],
-      "masuri_complementare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile, 35% agent constatator / 65% buget (Art.36)",
       "confiscare": "Confiscarea materialelor lemnoase în cauză.",
       "agravare_fapta": "",
       "repetare_fapta": ""
@@ -812,7 +812,7 @@
         "volum 500 mc",
         "distrugere arbori"
       ],
-      "masuri_complementare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile, 35% agent constatator / 65% buget (Art.36)",
       "confiscare": "Confiscarea materialelor lemnoase în cauză.",
       "agravare_fapta": "",
       "repetare_fapta": ""
@@ -839,7 +839,7 @@
         "volum mare",
         "distrugere arbori"
       ],
-      "masuri_complementare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile, 35% agent constatator / 65% buget (Art.36)",
       "confiscare": "Confiscarea materialelor lemnoase în cauză.",
       "agravare_fapta": "",
       "repetare_fapta": ""
@@ -2342,7 +2342,7 @@
         "prelucrare",
         "volum 10 mc"
       ],
-      "masuri_complementare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile, 35% agent constatator / 65% buget (Art.36)",
       "confiscare": "Confiscarea materialelor lemnoase în cauză.",
       "agravare_fapta": "",
       "repetare_fapta": ""
@@ -2369,7 +2369,7 @@
         "prelucrare",
         "volum 30 mc"
       ],
-      "masuri_complementare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile, 35% agent constatator / 65% buget (Art.36)",
       "confiscare": "Confiscarea materialelor lemnoase în cauză.",
       "agravare_fapta": "",
       "repetare_fapta": ""
@@ -2396,7 +2396,7 @@
         "prelucrare",
         "volum 100 mc"
       ],
-      "masuri_complementare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile, 35% agent constatator / 65% buget (Art.36)",
       "confiscare": "Confiscarea materialelor lemnoase în cauză.",
       "agravare_fapta": "",
       "repetare_fapta": ""
@@ -2423,7 +2423,7 @@
         "prelucrare",
         "volum 500 mc"
       ],
-      "masuri_complementare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile, 35% agent constatator / 65% buget (Art.36)",
       "confiscare": "Confiscarea materialelor lemnoase în cauză.",
       "agravare_fapta": "",
       "repetare_fapta": ""
@@ -2450,7 +2450,7 @@
         "prelucrare",
         "volum mare"
       ],
-      "masuri_complementare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile, 35% agent constatator / 65% buget (Art.36)",
       "confiscare": "Confiscarea materialelor lemnoase în cauză.",
       "agravare_fapta": "",
       "repetare_fapta": ""
@@ -2477,7 +2477,7 @@
         "volum 1 mc",
         "ilegal"
       ],
-      "masuri_complementare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile, 35% agent constatator / 65% buget (Art.36)",
       "confiscare": "Confiscarea materialelor lemnoase în cauză.",
       "agravare_fapta": "",
       "repetare_fapta": ""
@@ -2504,7 +2504,7 @@
         "volum 3 mc",
         "ilegal"
       ],
-      "masuri_complementare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile, 35% agent constatator / 65% buget (Art.36)",
       "confiscare": "Confiscarea materialelor lemnoase în cauză.",
       "agravare_fapta": "",
       "repetare_fapta": ""
@@ -2531,7 +2531,7 @@
         "volum 5 mc",
         "ilegal"
       ],
-      "masuri_complementare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile, 35% agent constatator / 65% buget (Art.36)",
       "confiscare": "Confiscarea materialelor lemnoase în cauză.",
       "agravare_fapta": "",
       "repetare_fapta": ""
@@ -2558,8 +2558,8 @@
         "neconcordanta",
         "volum 1 mc"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -2585,8 +2585,8 @@
         "neconcordanta",
         "volum 3 mc"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -2612,8 +2612,8 @@
         "neconcordanta",
         "volum 5 mc"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -2639,7 +2639,7 @@
         "volum 5 mc",
         "confiscare"
       ],
-      "masuri_complementare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile, 35% agent constatator / 65% buget (Art.36)",
       "confiscare": "Confiscarea materialelor lemnoase în cauză.",
       "agravare_fapta": "",
       "repetare_fapta": ""
@@ -2666,7 +2666,7 @@
         "specificatii tehnice",
         "volum 1 mc"
       ],
-      "masuri_complementare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile, 35% agent constatator / 65% buget (Art.36)",
       "confiscare": "Confiscarea diferenței de volum în plus constatată.",
       "agravare_fapta": "",
       "repetare_fapta": ""
@@ -2693,7 +2693,7 @@
         "specificatii tehnice",
         "volum 3 mc"
       ],
-      "masuri_complementare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile, 35% agent constatator / 65% buget (Art.36)",
       "confiscare": "Confiscarea diferenței de volum în plus constatată.",
       "agravare_fapta": "",
       "repetare_fapta": ""
@@ -2720,7 +2720,7 @@
         "specificatii tehnice",
         "volum 5 mc"
       ],
-      "masuri_complementare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile, 35% agent constatator / 65% buget (Art.36)",
       "confiscare": "Confiscarea diferenței de volum în plus constatată.",
       "agravare_fapta": "",
       "repetare_fapta": ""
@@ -2747,8 +2747,8 @@
         "SUMAL 2.0",
         "depozit"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -2774,8 +2774,8 @@
         "SUMAL 2.0",
         "depozit"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -2801,8 +2801,8 @@
         "SUMAL 2.0",
         "depozit"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -2828,8 +2828,8 @@
         "SUMAL 2.0",
         "lipsa lemn"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -2855,8 +2855,8 @@
         "SUMAL 2.0",
         "lipsa lemn"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -2882,8 +2882,8 @@
         "SUMAL 2.0",
         "lipsa lemn"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -2909,8 +2909,8 @@
         "monitorizare",
         "aplicatie mobila"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -2936,8 +2936,8 @@
         "transport lemn",
         "obligatie"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -2963,8 +2963,8 @@
         "completare aviz",
         "documente"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -2989,8 +2989,8 @@
         "transport lemn",
         "monitorizare"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -3015,8 +3015,8 @@
         "transport lemn",
         "monitorizare"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -3042,7 +3042,7 @@
         "aviz expirat",
         "valabilitate"
       ],
-      "masuri_complementare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile, 35% agent constatator / 65% buget (Art.36)",
       "confiscare": "Confiscarea materialelor lemnoase în cauză.",
       "agravare_fapta": "",
       "repetare_fapta": ""
@@ -3066,7 +3066,7 @@
         "exportator",
         "regulament comunitar"
       ],
-      "masuri_complementare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile, 35% agent constatator / 65% buget (Art.36)",
       "confiscare": "Confiscarea materialelor lemnoase.",
       "agravare_fapta": "",
       "repetare_fapta": ""
@@ -3093,8 +3093,8 @@
         "mijloc transport",
         "date gresite"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -3141,7 +3141,7 @@
         "produse din lemn",
         "comercializare"
       ],
-      "masuri_complementare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile, 35% agent constatator / 65% buget (Art.36)",
       "confiscare": "Confiscarea produselor din lemn.",
       "agravare_fapta": "",
       "repetare_fapta": ""
@@ -3166,7 +3166,7 @@
         "lemn legal"
       ],
       "masuri_complementare": "Suspendarea pentru o perioadă de maximum 12 luni a acordului de distribuire și utilizare a documentelor cu regim special.",
-      "confiscare": "",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -3189,8 +3189,8 @@
         "control",
         "operatori"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -3213,8 +3213,8 @@
         "regulament UE",
         "control"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -3237,8 +3237,8 @@
         "regulament UE",
         "control"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -3261,8 +3261,8 @@
         "evidenta",
         "due diligence"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -3285,8 +3285,8 @@
         "regulament UE",
         "sistem control"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -3309,8 +3309,8 @@
         "import lemn",
         "documente"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -3333,8 +3333,8 @@
         "operator economic",
         "monitorizare"
       ],
-      "masuri_complementare": "",
-      "confiscare": "",
+      "masuri_complementare": "Valorificare prin licitație 30 zile / donație grădinițe/școli (Art.36)",
+      "confiscare": "Confiscarea materialelor lemnoase în cauză / diferenței constatate (Art.19)",
       "agravare_fapta": "",
       "repetare_fapta": ""
     },
@@ -3601,6 +3601,42 @@
       "agravare_fapta": "",
       "repetare_fapta": "",
       "alternativa_sanctiune": "Se poate aplica avertisment sau amendă conform lit. b), c) sau d) în funcție de gradul depășirii"
+    },
+    {
+      "id": "fapta_141",
+      "descriere": "Primirea materialelor lemnoase fără documente proveniență (Art.20 lit.a)",
+      "articol_prevedere": "Art.20 lit.a)",
+      "articol_sanctiune": "Art.20",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic",
+        "Ofițerii și agenții de poliție",
+        "Jandarmeria"
+      ],
+      "confiscare": "",
+      "masuri_complementare": "Reținerea materialelor lemnoase în vederea stabilirii provenienței (Art.20)",
+      "repetare_fapta": ""
+    },
+    {
+      "id": "fapta_142",
+      "descriere": "Deținerea de materiale lemnoase fără documente (Art.20 lit.b)",
+      "articol_prevedere": "Art.20 lit.b)",
+      "articol_sanctiune": "Art.20",
+      "amenda_min": 1000,
+      "amenda_max": 5000,
+      "permite_jumatate": true,
+      "suma_jumatate": 500,
+      "competenta": [
+        "Personalul silvic",
+        "Ofițerii și agenții de poliție",
+        "Jandarmeria"
+      ],
+      "confiscare": "",
+      "masuri_complementare": "Reținerea în vederea stabilirii provenienței",
+      "repetare_fapta": ""
     }
   ]
 }

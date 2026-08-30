@@ -16,8 +16,15 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["control", "arme", "poliție", "prezentare"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "control",
+        "arme",
+        "poliție",
+        "prezentare"
+      ],
       "masuri_complementare": "Anularea dreptului de deținere, de port și folosire a armelor",
       "confiscare": null,
       "agravare_fapta": null,
@@ -32,8 +39,15 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["anunțare", "pierdere", "furt", "arme letale"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "anunțare",
+        "pierdere",
+        "furt",
+        "arme letale"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -48,8 +62,14 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["încredințare", "persoane neautorizate", "arme letale"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "încredințare",
+        "persoane neautorizate",
+        "arme letale"
+      ],
       "masuri_complementare": "Anularea dreptului de deținere, de port și folosire a armelor; Confiscarea armelor",
       "confiscare": "Confiscarea armelor",
       "agravare_fapta": null,
@@ -64,8 +84,15 @@
       "amenda_max": 1000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["înstrăinare", "documente", "permis de armă", "pașaport european"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "înstrăinare",
+        "documente",
+        "permis de armă",
+        "pașaport european"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -80,8 +107,15 @@
       "amenda_max": 2000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["deces", "dispariție", "depunere arme", "rude"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "deces",
+        "dispariție",
+        "depunere arme",
+        "rude"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -96,8 +130,14 @@
       "amenda_max": 2000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["încărcătoare", "interdicție", "capacitate cartușe"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "încărcătoare",
+        "interdicție",
+        "capacitate cartușe"
+      ],
       "masuri_complementare": "Anularea dreptului de deținere, de port și folosire a armelor; Confiscarea armelor sau munițiilor; Retragerea definitivă a autorizației",
       "confiscare": "Confiscarea armelor sau munițiilor",
       "agravare_fapta": null,
@@ -112,8 +152,15 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["declarare", "informații", "termen", "modificări"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "declarare",
+        "informații",
+        "termen",
+        "modificări"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -128,8 +175,15 @@
       "amenda_max": 2000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["închiriere", "comodat", "armurier", "intermediere"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "închiriere",
+        "comodat",
+        "armurier",
+        "intermediere"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -144,8 +198,15 @@
       "amenda_max": 2000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["procurare", "vânzare", "modificare", "încărcător"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "procurare",
+        "vânzare",
+        "modificare",
+        "încărcător"
+      ],
       "masuri_complementare": "Anularea dreptului de deținere, de port și folosire a armelor; Confiscarea armelor",
       "confiscare": "Confiscarea armelor",
       "agravare_fapta": null,
@@ -160,8 +221,15 @@
       "amenda_max": 1000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["permis de armă", "prezentare", "poliție", "termen"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "permis de armă",
+        "prezentare",
+        "poliție",
+        "termen"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -176,8 +244,15 @@
       "amenda_max": 2000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["prezentare armă", "cartușe", "înregistrare", "proiectil"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "prezentare armă",
+        "cartușe",
+        "înregistrare",
+        "proiectil"
+      ],
       "masuri_complementare": "Suspendarea dreptului de deținere, respectiv de port și folosire a armelor pentru o perioadă de 6 luni",
       "confiscare": null,
       "agravare_fapta": null,
@@ -192,8 +267,14 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["păstrare", "securitate", "acces neautorizat"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "păstrare",
+        "securitate",
+        "acces neautorizat"
+      ],
       "masuri_complementare": "Anularea dreptului de deținere, de port și folosire a armelor",
       "confiscare": null,
       "agravare_fapta": null,
@@ -208,8 +289,15 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["folosire armă", "poligon", "colecție", "legitimă apărare"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "folosire armă",
+        "poligon",
+        "colecție",
+        "legitimă apărare"
+      ],
       "masuri_complementare": "Anularea dreptului de deținere, de port și folosire a armelor",
       "confiscare": null,
       "agravare_fapta": null,
@@ -224,8 +312,14 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["încredințare", "interdicție", "poligon"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "încredințare",
+        "interdicție",
+        "poligon"
+      ],
       "masuri_complementare": "Suspendarea dreptului de deținere, respectiv de port și folosire a armelor pentru o perioadă de 6 luni",
       "confiscare": null,
       "agravare_fapta": null,
@@ -240,8 +334,15 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["dovadă", "depunere", "armurier", "poliție"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "dovadă",
+        "depunere",
+        "armurier",
+        "poliție"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -256,8 +357,15 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["păstrare", "port", "securitate", "condiții"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "păstrare",
+        "port",
+        "securitate",
+        "condiții"
+      ],
       "masuri_complementare": "Anularea dreptului de deținere, de port și folosire a armelor",
       "confiscare": null,
       "agravare_fapta": null,
@@ -272,9 +380,15 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["uz de armă", "primul ajutor", "anunțare poliție"],
-      "masuri_complementare": null,
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "uz de armă",
+        "primul ajutor",
+        "anunțare poliție"
+      ],
+      "masuri_complementare": "Anularea dreptului de deținere/port (Art.130 lit.b)",
       "confiscare": null,
       "agravare_fapta": null,
       "repetare_fapta": null
@@ -288,8 +402,14 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["transport", "arme vânătoare", "condiții"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "transport",
+        "arme vânătoare",
+        "condiții"
+      ],
       "masuri_complementare": "Anularea dreptului de deținere, de port și folosire a armelor",
       "confiscare": null,
       "agravare_fapta": null,
@@ -304,8 +424,14 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["port", "arme vânătoare", "condiții"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "port",
+        "arme vânătoare",
+        "condiții"
+      ],
       "masuri_complementare": "Suspendarea dreptului de deținere, respectiv de port și folosire a armelor pentru o perioadă de 6 luni",
       "confiscare": null,
       "agravare_fapta": null,
@@ -320,8 +446,14 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["gaj", "garanție", "interdicție"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "gaj",
+        "garanție",
+        "interdicție"
+      ],
       "masuri_complementare": "Suspendarea dreptului de deținere, respectiv de port și folosire a armelor pentru o perioadă de 6 luni",
       "confiscare": null,
       "agravare_fapta": null,
@@ -336,8 +468,14 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["transport", "arme tir", "condiții"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "transport",
+        "arme tir",
+        "condiții"
+      ],
       "masuri_complementare": "Anularea dreptului de deținere, de port și folosire a armelor",
       "confiscare": null,
       "agravare_fapta": null,
@@ -352,8 +490,15 @@
       "amenda_max": 2000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["muniție", "expirată", "degradată", "interdicție"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "muniție",
+        "expirată",
+        "degradată",
+        "interdicție"
+      ],
       "masuri_complementare": null,
       "confiscare": "Confiscarea armelor sau munițiilor",
       "agravare_fapta": null,
@@ -368,8 +513,14 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["întoarcere", "frontieră", "prezentare arme"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "întoarcere",
+        "frontieră",
+        "prezentare arme"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -384,8 +535,15 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["declarație", "termen", "pierdere", "furt"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "declarație",
+        "termen",
+        "pierdere",
+        "furt"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -400,8 +558,15 @@
       "amenda_max": 500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["declarare", "furt", "pierdere", "permis"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "declarare",
+        "furt",
+        "pierdere",
+        "permis"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -416,9 +581,16 @@
       "amenda_max": 1000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["înstrăinare", "încredințare", "împrumut", "arme neletale"],
-      "masuri_complementare": "Anularea dreptului de deținere, de port și folosire a armelor; Confiscarea armelor",
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "înstrăinare",
+        "încredințare",
+        "împrumut",
+        "arme neletale"
+      ],
+      "masuri_complementare": "Suspendare 6 luni (Art.130 lit.a) - corectat din anulare",
       "confiscare": "Confiscarea armelor",
       "agravare_fapta": null,
       "repetare_fapta": null
@@ -432,8 +604,15 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["înstrăinare", "procurare", "arme neletale", "vârstă"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "înstrăinare",
+        "procurare",
+        "arme neletale",
+        "vârstă"
+      ],
       "masuri_complementare": null,
       "confiscare": "Confiscarea armelor",
       "agravare_fapta": null,
@@ -448,8 +627,15 @@
       "amenda_max": 1000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["certificat deținător", "prezentare", "poliție", "termen"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "certificat deținător",
+        "prezentare",
+        "poliție",
+        "termen"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -464,8 +650,14 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["frontieră", "înstrăinare", "certificat"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "frontieră",
+        "înstrăinare",
+        "certificat"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -480,8 +672,14 @@
       "amenda_max": 1000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["păstrare", "arme neletale", "securitate"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "păstrare",
+        "arme neletale",
+        "securitate"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -496,8 +694,14 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["notificare", "arme neletale", "categoria D"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "notificare",
+        "arme neletale",
+        "categoria D"
+      ],
       "masuri_complementare": null,
       "confiscare": "Confiscarea armelor",
       "agravare_fapta": null,
@@ -512,8 +716,15 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["port", "folosire", "transport", "arme utilitare"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "port",
+        "folosire",
+        "transport",
+        "arme utilitare"
+      ],
       "masuri_complementare": "Suspendarea dreptului de deținere, respectiv de port și folosire a armelor pentru o perioadă de 6 luni",
       "confiscare": "Confiscarea armelor",
       "agravare_fapta": null,
@@ -528,8 +739,15 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["muniție", "procurare", "permis", "armurier"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "muniție",
+        "procurare",
+        "permis",
+        "armurier"
+      ],
       "masuri_complementare": null,
       "confiscare": "Confiscarea armelor sau munițiilor",
       "agravare_fapta": null,
@@ -544,8 +762,14 @@
       "amenda_max": 15000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["păstrare", "spații", "pază înarmată"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "păstrare",
+        "spații",
+        "pază înarmată"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -560,8 +784,14 @@
       "amenda_max": 15000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["registre", "evidență", "persoane juridice"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "registre",
+        "evidență",
+        "persoane juridice"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -576,8 +806,14 @@
       "amenda_max": 15000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["port", "ore program", "deținere"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "port",
+        "ore program",
+        "deținere"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -592,8 +828,15 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["port", "arme neletale", "interdicții", "autoapărare"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "port",
+        "arme neletale",
+        "interdicții",
+        "autoapărare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -608,8 +851,14 @@
       "amenda_max": 15000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["verificare", "personal", "stare tehnică"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "verificare",
+        "personal",
+        "stare tehnică"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -624,8 +873,14 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["persoane juridice", "obligații", "autorizație"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "persoane juridice",
+        "obligații",
+        "autorizație"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -640,8 +895,14 @@
       "amenda_max": 2000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["societăți pază", "armă serviciu", "interdicție"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "societăți pază",
+        "armă serviciu",
+        "interdicție"
+      ],
       "masuri_complementare": "Suspendarea dreptului de deținere, respectiv de port și folosire a armelor pentru o perioadă de 6 luni",
       "confiscare": null,
       "agravare_fapta": null,
@@ -656,8 +917,15 @@
       "amenda_max": 30000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["registre", "armurieri", "arhivare", "termen"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "registre",
+        "armurieri",
+        "arhivare",
+        "termen"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -672,8 +940,15 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["platforma eARM", "actualizare", "armurieri", "poligoane"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "platforma eARM",
+        "actualizare",
+        "armurieri",
+        "poligoane"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -688,8 +963,15 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["reînnoire", "autorizație", "armurieri", "societăți"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "reînnoire",
+        "autorizație",
+        "armurieri",
+        "societăți"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -704,8 +986,15 @@
       "amenda_max": 30000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["armurieri", "registre", "evidență", "securitate"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "armurieri",
+        "registre",
+        "evidență",
+        "securitate"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -720,8 +1009,15 @@
       "amenda_max": 50000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["armurieri", "comerț", "obligații", "aviz poliție"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "armurieri",
+        "comerț",
+        "obligații",
+        "aviz poliție"
+      ],
       "masuri_complementare": "Retragerea definitivă a autorizației",
       "confiscare": null,
       "agravare_fapta": null,
@@ -736,9 +1032,16 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["armurieri", "documente", "consignație", "anunțare"],
-      "masuri_complementare": null,
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "armurieri",
+        "documente",
+        "consignație",
+        "anunțare"
+      ],
+      "masuri_complementare": "Retragere definitivă autorizație art.104 (Art.130 lit.d)",
       "confiscare": null,
       "agravare_fapta": null,
       "repetare_fapta": null
@@ -752,9 +1055,16 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["import", "export", "aviz", "armurieri"],
-      "masuri_complementare": null,
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "import",
+        "export",
+        "aviz",
+        "armurieri"
+      ],
+      "masuri_complementare": "Retragere definitivă autorizație art.104 (Art.130 lit.d)",
       "confiscare": null,
       "agravare_fapta": null,
       "repetare_fapta": null
@@ -768,9 +1078,16 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["import", "export", "documente", "termen"],
-      "masuri_complementare": null,
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "import",
+        "export",
+        "documente",
+        "termen"
+      ],
+      "masuri_complementare": "Retragere definitivă autorizație art.104 (Art.130 lit.d)",
       "confiscare": null,
       "agravare_fapta": null,
       "repetare_fapta": null
@@ -784,9 +1101,15 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["schimbare destinație", "aviz", "armurieri"],
-      "masuri_complementare": null,
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "schimbare destinație",
+        "aviz",
+        "armurieri"
+      ],
+      "masuri_complementare": "Retragere definitivă autorizație art.104 (Art.130 lit.d)",
       "confiscare": null,
       "agravare_fapta": null,
       "repetare_fapta": null
@@ -800,9 +1123,16 @@
       "amenda_max": 30000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["armurieri", "reparare", "producere", "obligații"],
-      "masuri_complementare": null,
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "armurieri",
+        "reparare",
+        "producere",
+        "obligații"
+      ],
+      "masuri_complementare": "Retragere definitivă autorizație art.104 (Art.130 lit.d)",
       "confiscare": null,
       "agravare_fapta": null,
       "repetare_fapta": null
@@ -816,9 +1146,16 @@
       "amenda_max": 30000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["transport", "registre", "evidență", "armurieri"],
-      "masuri_complementare": null,
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "transport",
+        "registre",
+        "evidență",
+        "armurieri"
+      ],
+      "masuri_complementare": "Retragere definitivă autorizație art.104 (Art.130 lit.d)",
       "confiscare": null,
       "agravare_fapta": null,
       "repetare_fapta": null
@@ -832,8 +1169,14 @@
       "amenda_max": 2000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["pașaport european", "deținere", "state membre"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "pașaport european",
+        "deținere",
+        "state membre"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -848,8 +1191,14 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["transfer temporar", "anunțare", "termen"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "transfer temporar",
+        "anunțare",
+        "termen"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
@@ -864,9 +1213,16 @@
       "amenda_max": 30000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["transfer", "informare", "poliție", "armurieri"],
-      "masuri_complementare": null,
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "transfer",
+        "informare",
+        "poliție",
+        "armurieri"
+      ],
+      "masuri_complementare": "Retragere definitivă autorizație art.104 (Art.130 lit.d)",
       "confiscare": null,
       "agravare_fapta": null,
       "repetare_fapta": null
@@ -880,8 +1236,15 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["pierdere", "arme letale", "arme neletale", "autorizare"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "pierdere",
+        "arme letale",
+        "arme neletale",
+        "autorizare"
+      ],
       "masuri_complementare": "Anularea dreptului de deținere, de port și folosire a armelor",
       "confiscare": null,
       "agravare_fapta": null,
@@ -896,8 +1259,15 @@
       "amenda_max": 10000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Ministerul Afacerilor Interne"],
-      "tags": ["pierdere", "muniție", "arme letale", "arme neletale"],
+      "competenta": [
+        "Ministerul Afacerilor Interne"
+      ],
+      "tags": [
+        "pierdere",
+        "muniție",
+        "arme letale",
+        "arme neletale"
+      ],
       "masuri_complementare": "Suspendarea dreptului de deținere, respectiv de port și folosire a armelor pentru o perioadă de 6 luni",
       "confiscare": null,
       "agravare_fapta": null,

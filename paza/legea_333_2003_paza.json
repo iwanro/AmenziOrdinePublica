@@ -31,7 +31,7 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null,
+      "repetare_fapta": "Art.60(1)b: repetarea în 1 an a faptelor care atrag suspendarea (Art.62 g/h) => anularea licenței",
       "termen_jumatate": "15 zile",
       "tip_jumatate": "aplicat",
       "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
@@ -58,7 +58,7 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null,
+      "repetare_fapta": "Art.60(1)b: repetarea în 1 an => anulare licență",
       "termen_jumatate": "15 zile",
       "tip_jumatate": "aplicat",
       "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
@@ -84,7 +84,7 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null,
+      "repetare_fapta": "Art.60(1)b",
       "termen_jumatate": "15 zile",
       "tip_jumatate": "aplicat",
       "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
@@ -111,7 +111,7 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null,
+      "repetare_fapta": "Art.60(1)b",
       "termen_jumatate": "15 zile",
       "tip_jumatate": "aplicat",
       "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
@@ -135,10 +135,10 @@
         "conduită",
         "uz de armă"
       ],
-      "masuri_complementare": null,
+      "masuri_complementare": "Retragerea atestatului personal pază/gardă de corp (Art.61 alin.1 lit.b) - la 2 sancțiuni în 6 luni pentru art.46-48; RIL 11/2025",
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null,
+      "repetare_fapta": "Art.61(1)b: 2x în 6 luni => retragere; reprimire după 1 an",
       "termen_jumatate": "15 zile",
       "tip_jumatate": "aplicat",
       "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
@@ -190,10 +190,10 @@
         "echipament",
         "ecuson"
       ],
-      "masuri_complementare": null,
+      "masuri_complementare": "Suspendarea dreptului de a încheia noi contracte și de a angaja personal, 1-3 luni (Art.62) - la 2x g/h în 3 luni",
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null,
+      "repetare_fapta": "Art.62: 2x g/h în 3 luni => suspendare 1-3 luni; Art.60(1)b: repetarea => anulare",
       "termen_jumatate": "15 zile",
       "tip_jumatate": "aplicat",
       "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
@@ -217,10 +217,10 @@
         "avizare poliție",
         "protecție mecano-fizică"
       ],
-      "masuri_complementare": null,
+      "masuri_complementare": "Suspendarea 1-3 luni (Art.62)",
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null,
+      "repetare_fapta": "Art.62",
       "termen_jumatate": "15 zile",
       "tip_jumatate": "aplicat",
       "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
@@ -243,10 +243,10 @@
         "acces autorități",
         "prevenire"
       ],
-      "masuri_complementare": null,
+      "masuri_complementare": "Anularea licenței (Art.60 alin.1 lit.a) - dacă făptuitor = conducător societate pază; dispusă IGPR/instanță, ORC 10 zile",
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null,
+      "repetare_fapta": "Art.60(1)b",
       "termen_jumatate": "15 zile",
       "tip_jumatate": "aplicat",
       "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
@@ -269,10 +269,10 @@
         "obiect activitate",
         "licență"
       ],
-      "masuri_complementare": null,
+      "masuri_complementare": "Anularea licenței Art.60(1)a conducător",
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null,
+      "repetare_fapta": "Art.60(1)b",
       "termen_jumatate": "15 zile",
       "tip_jumatate": "aplicat",
       "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
@@ -295,10 +295,10 @@
         "documente",
         "control"
       ],
-      "masuri_complementare": null,
+      "masuri_complementare": "Anularea licenței Art.60(1)a conducător",
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null,
+      "repetare_fapta": "Art.60(1)b",
       "termen_jumatate": "15 zile",
       "tip_jumatate": "aplicat",
       "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
@@ -321,10 +321,10 @@
         "conducere societate",
         "incompatibilitate"
       ],
-      "masuri_complementare": null,
+      "masuri_complementare": "Anularea licenței Art.60(1)a necondiționat",
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null,
+      "repetare_fapta": "Art.60(1)b",
       "termen_jumatate": "15 zile",
       "tip_jumatate": "aplicat",
       "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
@@ -347,10 +347,10 @@
         "condiții",
         "societăți specializate"
       ],
-      "masuri_complementare": null,
+      "masuri_complementare": "Anularea licenței Art.60(1)a necondiționat",
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null,
+      "repetare_fapta": "Art.60(1)b",
       "termen_jumatate": "15 zile",
       "tip_jumatate": "aplicat",
       "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"

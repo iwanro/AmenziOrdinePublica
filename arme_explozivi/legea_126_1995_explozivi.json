@@ -16,11 +16,19 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["transport", "materii explozive", "documente", "mijloace amenajate"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "transport",
+        "materii explozive",
+        "documente",
+        "mijloace amenajate"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -32,11 +40,19 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["amplasament", "depozitare", "aviz", "cantitate maximă"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "amplasament",
+        "depozitare",
+        "aviz",
+        "cantitate maximă"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -48,11 +64,19 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["împrejmuire", "depozite", "teren", "securitate"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "împrejmuire",
+        "depozite",
+        "teren",
+        "securitate"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -64,11 +88,19 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["acces depozit", "gestionar", "noapte", "control"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "acces depozit",
+        "gestionar",
+        "noapte",
+        "control"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -80,11 +112,20 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["evidență", "registre", "intrări", "ieșiri", "consum"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "evidență",
+        "registre",
+        "intrări",
+        "ieșiri",
+        "consum"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -96,11 +137,19 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["gestionar", "artificier", "pirotehnist", "răspundere"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "gestionar",
+        "artificier",
+        "pirotehnist",
+        "răspundere"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -112,11 +161,19 @@
       "amenda_max": 2500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["înstrăinare", "găsire", "predare", "nedetonate"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "înstrăinare",
+        "găsire",
+        "predare",
+        "nedetonate"
+      ],
       "masuri_complementare": null,
       "confiscare": "Materiile explozive reținute constituie corpuri delicte",
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -128,11 +185,18 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["încetare activitate", "predare autorizație", "termen"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "încetare activitate",
+        "predare autorizație",
+        "termen"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -144,11 +208,19 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["viză anuală", "autorizație", "schimbare sediu", "pierdere"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "viză anuală",
+        "autorizație",
+        "schimbare sediu",
+        "pierdere"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -160,11 +232,19 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["anunțare", "prospecțiuni", "antigrindină", "48 ore"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "anunțare",
+        "prospecțiuni",
+        "antigrindină",
+        "48 ore"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -176,11 +256,19 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["transport", "mânuire", "artificier", "personal instruit"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "transport",
+        "mânuire",
+        "artificier",
+        "personal instruit"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -192,11 +280,19 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["capse detonante", "depozitare", "separare", "echivalent trotil"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "capse detonante",
+        "depozitare",
+        "separare",
+        "echivalent trotil"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -208,11 +304,18 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["articole pirotehnice", "depozitare", "instrucțiuni producător"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "articole pirotehnice",
+        "depozitare",
+        "instrucțiuni producător"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -224,11 +327,18 @@
       "amenda_max": 5000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["comercializare", "înscriere registru", "operatori autorizați"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "comercializare",
+        "înscriere registru",
+        "operatori autorizați"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -240,11 +350,20 @@
       "amenda_max": 6000,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["articole pirotehnice", "folosire", "distanțe", "interdicții", "avize"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "articole pirotehnice",
+        "folosire",
+        "distanțe",
+        "interdicții",
+        "avize"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -256,11 +375,19 @@
       "amenda_max": 7500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["preparare", "amestecuri explozive", "autorizare", "destinație militară"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "preparare",
+        "amestecuri explozive",
+        "autorizare",
+        "destinație militară"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -272,11 +399,19 @@
       "amenda_max": 7500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["garanție", "inscripționare", "ambalaje", "producător"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "garanție",
+        "inscripționare",
+        "ambalaje",
+        "producător"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -288,11 +423,19 @@
       "amenda_max": 7500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["introducere piață", "cerințe esențiale", "REACH", "clasificare"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "introducere piață",
+        "cerințe esențiale",
+        "REACH",
+        "clasificare"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -304,11 +447,19 @@
       "amenda_max": 7500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["manipulare", "articole pirotehnice", "supraveghere", "pirotehnician"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "manipulare",
+        "articole pirotehnice",
+        "supraveghere",
+        "pirotehnician"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -320,11 +471,19 @@
       "amenda_max": 7500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["depozitare", "capacitate maximă", "echivalent trotil", "depășire temporară"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "depozitare",
+        "capacitate maximă",
+        "echivalent trotil",
+        "depășire temporară"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -336,11 +495,19 @@
       "amenda_max": 7500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["noapte", "încărcare", "transfer", "excepții"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "noapte",
+        "încărcare",
+        "transfer",
+        "excepții"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -352,11 +519,19 @@
       "amenda_max": 7500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["incompatibilitate", "materii explozive", "acces persoane", "excepții"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "incompatibilitate",
+        "materii explozive",
+        "acces persoane",
+        "excepții"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -368,11 +543,18 @@
       "amenda_max": 7500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["depozitare comună", "tipuri explozivi", "anexă"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "depozitare comună",
+        "tipuri explozivi",
+        "anexă"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -384,11 +566,20 @@
       "amenda_max": 7500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["pază", "transfer", "jandarmi", "anunțare poliție", "sigilii"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "pază",
+        "transfer",
+        "jandarmi",
+        "anunțare poliție",
+        "sigilii"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -400,11 +591,18 @@
       "amenda_max": 7500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["pază depozit", "personal înarmat", "excepție subteran"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "pază depozit",
+        "personal înarmat",
+        "excepție subteran"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -416,11 +614,19 @@
       "amenda_max": 7500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["lipsă materii explozive", "anunțare imediată", "poliție", "inspectorat"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "lipsă materii explozive",
+        "anunțare imediată",
+        "poliție",
+        "inspectorat"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -432,11 +638,18 @@
       "amenda_max": 7500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["împușcare", "artificier autorizat", "excepții"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "împușcare",
+        "artificier autorizat",
+        "excepții"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     },
     {
@@ -448,11 +661,19 @@
       "amenda_max": 7500,
       "permite_jumatate": true,
       "suma_jumatate": "In 15 zile - 50 % din valoarea amenzii aplicata de agentul constatator",
-      "competenta": ["Inspecția Muncii", "Poliția Română"],
-      "tags": ["inscripționare", "limba română", "instrucțiuni", "conformitate"],
+      "competenta": [
+        "Inspecția Muncii",
+        "Poliția Română"
+      ],
+      "tags": [
+        "inscripționare",
+        "limba română",
+        "instrucțiuni",
+        "conformitate"
+      ],
       "masuri_complementare": null,
       "confiscare": null,
-      "agravare_fapta": null,
+      "agravare_fapta": "Art.38 alin.2: pentru persoane juridice limitele amenzii se majorează cu 100%",
       "repetare_fapta": null
     }
   ]
