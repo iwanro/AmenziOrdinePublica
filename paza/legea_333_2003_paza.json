@@ -5,7 +5,7 @@
     "data_publicare": "18 martie 2014",
     "monitorul_oficial": "MONITORUL OFICIAL nr. 189 din 18 martie 2014",
     "data_actualizare": "2026-08-30 (OUG 37/06.05.2026 MO 381/06.05.2026)",
-    "patch_notes": "Art.59 alin.1 lit.a 5000-10000 (f-m,p), lit.b 2000-5000 (a-d,n,o,q,r), lit.c 100-300 (e) - OUG 37/2026; plan pază electronic Art.5, supraveghere video Art.18(6)"
+    "patch_notes": "Art.59 alin.1 lit.a 5000-10000 (f-m,p), lit.b 2000-5000 (a-d,n,o,q,r), lit.c 100-300 (e) - OUG 37/2026; plan pază electronic Art.5, supraveghere video Art.18(6) | 30.08.2026 corecție jumătate: 50% din aplicată (OUG7/2026) nu din minim"
   },
   "fapte": [
     {
@@ -16,7 +16,7 @@
       "amenda_min": 2000,
       "amenda_max": 5000,
       "permite_jumatate": true,
-      "suma_jumatate": 1000,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Poliția Română",
         "Jandarmeria Română",
@@ -31,7 +31,10 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat",
+      "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
     },
     {
       "id": 2,
@@ -41,7 +44,7 @@
       "amenda_min": 2000,
       "amenda_max": 5000,
       "permite_jumatate": true,
-      "suma_jumatate": 1000,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Poliția Română",
         "Jandarmeria Română"
@@ -55,7 +58,10 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat",
+      "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
     },
     {
       "id": 3,
@@ -65,7 +71,7 @@
       "amenda_min": 2000,
       "amenda_max": 5000,
       "permite_jumatate": true,
-      "suma_jumatate": 1000,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Poliția Română",
         "Jandarmeria Română"
@@ -78,7 +84,10 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat",
+      "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
     },
     {
       "id": 4,
@@ -88,7 +97,7 @@
       "amenda_min": 2000,
       "amenda_max": 5000,
       "permite_jumatate": true,
-      "suma_jumatate": 1000,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Poliția Română",
         "Jandarmeria Română"
@@ -102,7 +111,10 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat",
+      "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
     },
     {
       "id": 5,
@@ -112,7 +124,7 @@
       "amenda_min": 100,
       "amenda_max": 300,
       "permite_jumatate": true,
-      "suma_jumatate": 50,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Poliția Română",
         "Jandarmeria Română"
@@ -126,7 +138,10 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat",
+      "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
     },
     {
       "id": 6,
@@ -136,7 +151,7 @@
       "amenda_min": 2000,
       "amenda_max": 5000,
       "permite_jumatate": true,
-      "suma_jumatate": 1000,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Poliția Română",
         "Jandarmeria Română"
@@ -150,7 +165,10 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat",
+      "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
     },
     {
       "id": 7,
@@ -160,7 +178,7 @@
       "amenda_min": 5000,
       "amenda_max": 10000,
       "permite_jumatate": true,
-      "suma_jumatate": 2500,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Poliția Română",
         "Jandarmeria Română"
@@ -175,7 +193,10 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat",
+      "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
     },
     {
       "id": 8,
@@ -185,7 +206,7 @@
       "amenda_min": 5000,
       "amenda_max": 10000,
       "permite_jumatate": true,
-      "suma_jumatate": 2500,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Poliția Română",
         "Jandarmeria Română"
@@ -199,7 +220,10 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat",
+      "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
     },
     {
       "id": 9,
@@ -209,7 +233,7 @@
       "amenda_min": 5000,
       "amenda_max": 10000,
       "permite_jumatate": true,
-      "suma_jumatate": 2500,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Poliția Română",
         "Jandarmeria Română"
@@ -222,7 +246,10 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat",
+      "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
     },
     {
       "id": 10,
@@ -232,7 +259,7 @@
       "amenda_min": 5000,
       "amenda_max": 10000,
       "permite_jumatate": true,
-      "suma_jumatate": 2500,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Poliția Română",
         "Jandarmeria Română"
@@ -245,7 +272,10 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat",
+      "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
     },
     {
       "id": 11,
@@ -255,7 +285,7 @@
       "amenda_min": 5000,
       "amenda_max": 10000,
       "permite_jumatate": true,
-      "suma_jumatate": 2500,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Poliția Română",
         "Jandarmeria Română"
@@ -268,7 +298,10 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat",
+      "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
     },
     {
       "id": 12,
@@ -278,7 +311,7 @@
       "amenda_min": 5000,
       "amenda_max": 10000,
       "permite_jumatate": true,
-      "suma_jumatate": 2500,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Poliția Română",
         "Jandarmeria Română"
@@ -291,7 +324,10 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat",
+      "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
     },
     {
       "id": 13,
@@ -301,7 +337,7 @@
       "amenda_min": 5000,
       "amenda_max": 10000,
       "permite_jumatate": true,
-      "suma_jumatate": 2500,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Poliția Română",
         "Jandarmeria Română"
@@ -314,7 +350,16 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare_fapta": null,
-      "repetare_fapta": null
+      "repetare_fapta": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat",
+      "temei_jumatate": "Art. 60^1 Legea 333/2003 (derogare OG2/2001 via OUG 7/2026)"
     }
-  ]
+  ],
+  "plata_jumatate_amenda": {
+    "articol": "Art. 60^1 (introdus prin OUG 7/2026)",
+    "dispozitie": "Contravenientul poate achita, în termen de cel mult 15 zile de la data înmânării/comunicării procesului-verbal, jumătate din cuantumul amenzii aplicate de agentul constatator",
+    "termen": "15 zile",
+    "observatie": "Derogare de la OG2/2001 art.28 (jumătate din minim) - se aplică pentru toate contravențiile Legii 333/2003"
+  }
 }

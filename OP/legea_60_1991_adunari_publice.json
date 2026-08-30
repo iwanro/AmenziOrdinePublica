@@ -17,7 +17,7 @@
       "amenda_min": 1000,
       "amenda_max": 10000,
       "permite_jumatate": true,
-      "suma_jumatate": 500,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "polițiști",
         "ofițeri și subofițeri de jandarmi",
@@ -45,7 +45,9 @@
         "Art. 12 alin. (1) lit. a): Obligația de a înregistra declarațiile la unitățile de jandarmi competente teritorial, cu cel puțin 48 de ore înainte",
         "Art. 10: Interdicția organizării când primarul a dispus interzicerea conform art. 10 alin. (1) (date de la organele specializate că desfășurarea ar duce la încălcarea art. 2 sau lucrări edilitar-gospodărești de amploare)"
       ],
-      "sancționat": "organizatorii sau persoanele fizice responsabile pentru conducerea adunărilor publice (conform Art. 26 alin. 3)"
+      "sancționat": "organizatorii sau persoanele fizice responsabile pentru conducerea adunărilor publice (conform Art. 26 alin. 3)",
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "26_1_b",
@@ -56,7 +58,7 @@
       "amenda_min": 1000,
       "amenda_max": 10000,
       "permite_jumatate": true,
-      "suma_jumatate": 500,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "polițiști",
         "ofițeri și subofițeri de jandarmi",
@@ -82,7 +84,9 @@
         "Art. 8 alin. (2): Obligația de a respecta modificările convenite cu comisia de avizare",
         "Art. 12 alin. (1) lit. f): Obligația de a respecta traseele de afluire și defluire și de a ocupa spațiile cu puțin timp înainte de ora începerii și de a le părăsi imediat după ora-limită"
       ],
-      "sancționat": "organizatorii sau persoanele fizice responsabile pentru conducerea adunărilor publice (conform Art. 26 alin. 3)"
+      "sancționat": "organizatorii sau persoanele fizice responsabile pentru conducerea adunărilor publice (conform Art. 26 alin. 3)",
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "26_1_c",
@@ -93,7 +97,7 @@
       "amenda_min": 1000,
       "amenda_max": 10000,
       "permite_jumatate": true,
-      "suma_jumatate": 500,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "polițiști",
         "ofițeri și subofițeri de jandarmi",
@@ -118,7 +122,9 @@
         "Art. 2: Adunările publice trebuie să se desfășoare în mod pașnic și civilizat, cu protecția participanților și a mediului ambiant, fără să stânjească folosirea normală a drumurilor publice, a transportului în comun, funcționarea instituțiilor publice sau private, a celor de învățământ, cultură și sănătate, a unităților economice ori să degenereze în acțiuni turbulente de natură a pune în primejdie ordinea și liniștea publică, siguranța persoanelor, integritatea corporală, viața sau bunurile",
         "Art. 12 alin. (1) lit. i): Obligația organizatorilor de a întrerupe imediat adunarea publică atunci când constată că au intervenit fapte de natura celor prevăzute la art. 2"
       ],
-      "sancționat": "organizatorii sau persoanele fizice responsabile pentru conducerea adunărilor publice (conform Art. 26 alin. 3)"
+      "sancționat": "organizatorii sau persoanele fizice responsabile pentru conducerea adunărilor publice (conform Art. 26 alin. 3)",
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "26_1_d",
@@ -129,7 +135,7 @@
       "amenda_min": 500,
       "amenda_max": 5000,
       "permite_jumatate": true,
-      "suma_jumatate": 250,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "polițiști",
         "ofițeri și subofițeri de jandarmi",
@@ -152,7 +158,9 @@
       "obligatii_incalcate_detaliate": [
         "Art. 13 lit. d): Obligația participanților de a părăsi imediat adunările publice sau locul unde acestea se desfășoară, când au fost somați de către organizatori, împuterniciții acestora sau organele de poliție",
         "Art. 20-23: Procedura de avertizare și somare înaintea folosirii forței"
-      ]
+      ],
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "26_1_e",
@@ -163,7 +171,7 @@
       "amenda_min": 500,
       "amenda_max": 5000,
       "permite_jumatate": true,
-      "suma_jumatate": 250,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "polițiști",
         "ofițeri și subofițeri de jandarmi",
@@ -190,7 +198,9 @@
         "Art. 12 alin. (1) lit. j): Obligația organizatorilor de a interzice participarea persoanelor care au asupra lor arme, materiale explozive, substanțe iritant-lacrimogene, dispozitive pentru șocuri electrice sau alte obiecte ce pot fi folosite pentru acțiuni violente",
         "Art. 13 lit. b): Obligația participanților de a se abține de la acțiuni de natură a împiedica desfășurarea normală a adunărilor publice și de a nu incita la asemenea acțiuni",
         "Art. 14: Interdicția infiltrării de persoane sau grupuri fără legătură cu adunarea publică organizată, cu scopul de a tulbura desfășurarea normală"
-      ]
+      ],
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "26_1_f",
@@ -201,7 +211,7 @@
       "amenda_min": 500,
       "amenda_max": 5000,
       "permite_jumatate": true,
-      "suma_jumatate": 250,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "polițiști",
         "ofițeri și subofițeri de jandarmi",
@@ -222,7 +232,9 @@
       "repetare": null,
       "obligatii_incalcate_detaliate": [
         "Art. 13 lit. d): Obligația participanților de a părăsi imediat adunările publice sau locul unde acestea se desfășoară, când au fost somați de către organizatori sau împuterniciții acestora"
-      ]
+      ],
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "26_1_g",
@@ -233,7 +245,7 @@
       "amenda_min": 500,
       "amenda_max": 5000,
       "permite_jumatate": true,
-      "suma_jumatate": 250,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "polițiști",
         "ofițeri și subofițeri de jandarmi",
@@ -255,7 +267,9 @@
       "repetare": null,
       "obligatii_incalcate_detaliate": [
         "Art. 5 alin. (2): Interdicția desfășurării simultane a două sau mai multe adunări publice distincte, în același loc sau pe aceleași trasee, indiferent de caracterul acestora"
-      ]
+      ],
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "26_1_h",
@@ -266,7 +280,7 @@
       "amenda_min": 500,
       "amenda_max": 5000,
       "permite_jumatate": true,
-      "suma_jumatate": 250,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "polițiști",
         "ofițeri și subofițeri de jandarmi",
@@ -293,7 +307,9 @@
         "Art. 13 lit. e): Obligația participanților de a nu consuma și de a nu distribui băuturi alcoolice sau droguri",
         "Art. 15 lit. c): Obligația primăriilor de a interzice desfacerea băuturilor alcoolice în locurile destinate desfășurării adunărilor publice, cu excepțiile menționate (modificat prin Legea nr. 240/2021)"
       ],
-      "nota_modificare": "Modificat prin Legea nr. 240/2021 din 8 octombrie 2021 - au fost adăugate excepțiile pentru revelion, zilele unităților administrativ-teritoriale etc."
+      "nota_modificare": "Modificat prin Legea nr. 240/2021 din 8 octombrie 2021 - au fost adăugate excepțiile pentru revelion, zilele unităților administrativ-teritoriale etc.",
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "26_1_i",
@@ -304,7 +320,7 @@
       "amenda_min": 500,
       "amenda_max": 5000,
       "permite_jumatate": true,
-      "suma_jumatate": 250,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "polițiști",
         "ofițeri și subofițeri de jandarmi",
@@ -327,7 +343,9 @@
       "obligatii_incalcate_detaliate": [
         "Art. 13 lit. d): Obligația participanților de a părăsi imediat adunările publice sau locul unde acestea se desfășoară, când au fost somați de către organele de poliție",
         "Art. 17-24: Procedura de intervenție a organelor de ordine și obligația participanților de a se dispersa la avertizări și somații"
-      ]
+      ],
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     }
   ],
   "dispozitii_generale": {

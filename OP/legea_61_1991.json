@@ -15,7 +15,7 @@
       "amenda_min": 200,
       "amenda_max": 1000,
       "permite_jumatate": true,
-      "suma_jumatate": 100,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -47,7 +47,9 @@
         "amenda_min": 1000,
         "amenda_max": 3000,
         "alternativa": "Prestarea a 50-100 ore de activități în folosul comunității"
-      }
+      },
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "2",
@@ -58,7 +60,7 @@
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
-      "suma_jumatate": 250,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -81,7 +83,9 @@
         "amenda_min": 1000,
         "amenda_max": 3000
       },
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "2_1",
@@ -92,7 +96,7 @@
       "amenda_min": 10000,
       "amenda_max": 30000,
       "permite_jumatate": true,
-      "suma_jumatate": 5000,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -112,7 +116,9 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "3",
@@ -123,7 +129,7 @@
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
-      "suma_jumatate": 50,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -140,7 +146,9 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "4",
@@ -151,7 +159,7 @@
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
-      "suma_jumatate": 50,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -179,7 +187,9 @@
         "amenda_min": 1000,
         "amenda_max": 3000
       },
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "5",
@@ -190,7 +200,7 @@
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
-      "suma_jumatate": 250,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -211,7 +221,9 @@
         "descriere": "Sunt supuse confiscării bunurile care au servit la săvârșirea contravenției, dacă sunt ale contravenientului, precum și bunurile dobândite prin săvârșirea contravenției, dacă nu sunt restituite persoanei vătămate"
       },
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "6",
@@ -222,7 +234,7 @@
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": false,
-      "suma_jumatate": 250,
+      "suma_jumatate": "Exceptat - nu beneficiază de plata la jumătate (Art.6^1 pct.6 proxenetism)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -242,7 +254,9 @@
       "confiscare": null,
       "agravare": null,
       "repetare": null,
-      "observatie": "Conform Art. 6^1, pentru pct. 6 nu se poate achita jumătate din amendă"
+      "observatie": "Conform Art. 6^1, pentru pct. 6 nu se poate achita jumătate din amendă",
+      "termen_jumatate": "-",
+      "tip_jumatate": "exceptat"
     },
     {
       "id": "7",
@@ -253,7 +267,7 @@
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
-      "suma_jumatate": 250,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -280,7 +294,9 @@
       },
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "8",
@@ -291,7 +307,7 @@
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
-      "suma_jumatate": 250,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -314,7 +330,9 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "9",
@@ -325,7 +343,7 @@
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
-      "suma_jumatate": 250,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -346,7 +364,9 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "10",
@@ -357,7 +377,7 @@
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
-      "suma_jumatate": 250,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -378,7 +398,9 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "11",
@@ -389,7 +411,7 @@
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
-      "suma_jumatate": 50,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -409,7 +431,9 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "12",
@@ -420,7 +444,7 @@
       "amenda_min": 200,
       "amenda_max": 1000,
       "permite_jumatate": true,
-      "suma_jumatate": 100,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -440,7 +464,9 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "13",
@@ -451,7 +477,7 @@
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
-      "suma_jumatate": 250,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -473,7 +499,9 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "14",
@@ -484,7 +512,7 @@
       "amenda_min": 3000,
       "amenda_max": 6000,
       "permite_jumatate": true,
-      "suma_jumatate": 1500,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -514,7 +542,9 @@
         "descriere": "Sunt supuse confiscării bunurile care au servit la săvârșirea contravenției, dacă sunt ale contravenientului, precum și bunurile dobândite prin săvârșirea contravenției, dacă nu sunt restituite persoanei vătămate"
       },
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "14_1",
@@ -525,7 +555,7 @@
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
-      "suma_jumatate": 50,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -544,7 +574,9 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "15",
@@ -555,7 +587,7 @@
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
-      "suma_jumatate": 250,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -573,7 +605,9 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "16",
@@ -584,7 +618,7 @@
       "amenda_min": 200,
       "amenda_max": 1000,
       "permite_jumatate": true,
-      "suma_jumatate": 100,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -604,7 +638,9 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "17",
@@ -615,7 +651,7 @@
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
-      "suma_jumatate": 50,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -634,7 +670,9 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "18",
@@ -645,7 +683,7 @@
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
-      "suma_jumatate": 50,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -663,7 +701,9 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "19",
@@ -674,7 +714,7 @@
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
-      "suma_jumatate": 250,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -700,7 +740,9 @@
         "tip": "suspendare activitate",
         "perioada": "10-30 zile",
         "articol": "Art. 3, alin. (4)"
-      }
+      },
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "20",
@@ -711,7 +753,7 @@
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
-      "suma_jumatate": 250,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -733,7 +775,9 @@
       },
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "21",
@@ -744,7 +788,7 @@
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
-      "suma_jumatate": 50,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -774,7 +818,9 @@
         "tip": "suspendare activitate",
         "perioada": "10-30 zile",
         "articol": "Art. 3, alin. (4)"
-      }
+      },
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "22",
@@ -785,7 +831,7 @@
       "amenda_min": 5000,
       "amenda_max": 20000,
       "permite_jumatate": true,
-      "suma_jumatate": 2500,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -817,7 +863,9 @@
         "tip": "suspendare activitate",
         "perioada": "10-30 zile",
         "articol": "Art. 3, alin. (4)"
-      }
+      },
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "23",
@@ -828,7 +876,7 @@
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
-      "suma_jumatate": 50,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -855,7 +903,9 @@
       },
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "23_1",
@@ -866,7 +916,7 @@
       "amenda_min": 5000,
       "amenda_max": 20000,
       "permite_jumatate": true,
-      "suma_jumatate": 2500,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -898,7 +948,9 @@
         "tip": "suspendare activitate",
         "perioada": "10-30 zile",
         "articol": "Art. 3, alin. (4)"
-      }
+      },
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "23_2",
@@ -909,7 +961,7 @@
       "amenda_min": 5000,
       "amenda_max": 20000,
       "permite_jumatate": true,
-      "suma_jumatate": 2500,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -943,7 +995,9 @@
         "tip": "suspendare activitate",
         "perioada": "10-30 zile",
         "articol": "Art. 3, alin. (4)"
-      }
+      },
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "24",
@@ -954,7 +1008,7 @@
       "amenda_min": 200,
       "amenda_max": 1000,
       "permite_jumatate": true,
-      "suma_jumatate": 100,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -978,7 +1032,9 @@
         "amenda_min": 1000,
         "amenda_max": 3000
       },
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "25",
@@ -989,7 +1045,7 @@
       "amenda_min": 200,
       "amenda_max": 1000,
       "permite_jumatate": true,
-      "suma_jumatate": 100,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -1015,7 +1071,9 @@
         "amenda_min": 1000,
         "amenda_max": 3000,
         "alternativa": "Prestarea a 50-100 ore de activități în folosul comunității"
-      }
+      },
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "26",
@@ -1026,7 +1084,7 @@
       "amenda_min": 1000,
       "amenda_max": 2000,
       "permite_jumatate": true,
-      "suma_jumatate": 500,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -1060,7 +1118,9 @@
         "amenda_max": 6000,
         "alternativa": "Prestarea a 70-120 ore de activități în folosul comunității",
         "masuri_suplimentare": "Suspendarea activității localului public 10-30 zile (Art. 3, alin. 4)"
-      }
+      },
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "27",
@@ -1071,7 +1131,7 @@
       "amenda_min": 4000,
       "amenda_max": 6000,
       "permite_jumatate": true,
-      "suma_jumatate": 2000,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -1098,7 +1158,9 @@
         "amenda_min": 6000,
         "amenda_max": 12000,
         "alternativa": "Prestarea a 100-150 ore de activități în folosul comunității"
-      }
+      },
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "28",
@@ -1109,7 +1171,7 @@
       "amenda_min": 200,
       "amenda_max": 1000,
       "permite_jumatate": true,
-      "suma_jumatate": 100,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -1137,7 +1199,9 @@
         "descriere": "Este necesară plângerea părții vătămate. Retragerea plângerii ori împăcarea părților înlătură răspunderea făptuitorului"
       },
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "29",
@@ -1148,7 +1212,7 @@
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
-      "suma_jumatate": 250,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -1168,7 +1232,9 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "30",
@@ -1179,7 +1245,7 @@
       "amenda_min": 4000,
       "amenda_max": 6000,
       "permite_jumatate": true,
-      "suma_jumatate": 2000,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -1200,7 +1266,9 @@
       },
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "31",
@@ -1211,7 +1279,7 @@
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
-      "suma_jumatate": 250,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -1230,7 +1298,9 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "32",
@@ -1241,7 +1311,7 @@
       "amenda_min": 500,
       "amenda_max": 1500,
       "permite_jumatate": true,
-      "suma_jumatate": 250,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -1260,7 +1330,9 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "33",
@@ -1271,7 +1343,7 @@
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
-      "suma_jumatate": 50,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -1295,7 +1367,9 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "34",
@@ -1306,7 +1380,7 @@
       "amenda_min": 100,
       "amenda_max": 500,
       "permite_jumatate": true,
-      "suma_jumatate": 50,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -1328,7 +1402,9 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "35",
@@ -1339,7 +1415,7 @@
       "amenda_min": 3000,
       "amenda_max": 6000,
       "permite_jumatate": true,
-      "suma_jumatate": 1500,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -1362,7 +1438,9 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     },
     {
       "id": "36",
@@ -1373,7 +1451,7 @@
       "amenda_min": 3000,
       "amenda_max": 6000,
       "permite_jumatate": true,
-      "suma_jumatate": 1500,
+      "suma_jumatate": "50% din amenda aplicată (15 zile, OUG 7/2026)",
       "competenta": [
         "Primar",
         "Împuterniciții primarului",
@@ -1393,7 +1471,9 @@
       "masuri_complementare": null,
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "termen_jumatate": "15 zile",
+      "tip_jumatate": "aplicat"
     }
   ],
   "dispozitii_generale": {
