@@ -31,7 +31,9 @@
         "ucidere",
         "măsuri prevenire",
         "proprietar câine"
-      ]
+      ],
+      "confiscare": "Ridicarea/confiscarea exemplarului canin și plasare în adăpost / eutanasiere la repetare",
+      "masuri_complementare": "Obligarea la dresaj, sterilizare, asigurare"
     },
     {
       "id": "art_18_1_b",
@@ -52,7 +54,9 @@
         "deces câine",
         "termen 48 ore",
         "câine periculos"
-      ]
+      ],
+      "confiscare": "Ridicarea/confiscarea exemplarului canin și plasare în adăpost / eutanasiere la repetare",
+      "masuri_complementare": "Obligarea la dresaj, sterilizare, asigurare"
     },
     {
       "id": "art_18_1_c",
@@ -75,7 +79,9 @@
         "sterilizare",
         "asigurare",
         "schimbare adresă"
-      ]
+      ],
+      "confiscare": "Ridicarea/confiscarea exemplarului canin și plasare în adăpost / eutanasiere la repetare",
+      "masuri_complementare": "Obligarea la dresaj, sterilizare, asigurare"
     },
     {
       "id": "art_18_1_d",
@@ -97,7 +103,9 @@
         "acte origine",
         "sterilizare obligatorie",
         "câini luptă"
-      ]
+      ],
+      "confiscare": "Ridicarea/confiscarea exemplarului canin și plasare în adăpost / eutanasiere la repetare",
+      "masuri_complementare": "Obligarea la dresaj, sterilizare, asigurare"
     },
     {
       "id": "art_18_1_e",
@@ -119,7 +127,9 @@
         "transport în comun",
         "locuri publice",
         "circulație câine"
-      ]
+      ],
+      "confiscare": "Ridicarea/confiscarea exemplarului canin și plasare în adăpost / eutanasiere la repetare",
+      "masuri_complementare": "Obligarea la dresaj, sterilizare, asigurare"
     },
     {
       "id": "art_18_1_f",
@@ -139,7 +149,9 @@
         "câine periculos",
         "câine agresiv",
         "protecția animalelor"
-      ]
+      ],
+      "confiscare": "Ridicarea/confiscarea exemplarului canin și plasare în adăpost / eutanasiere la repetare",
+      "masuri_complementare": "Obligarea la dresaj, sterilizare, asigurare"
     },
     {
       "id": "art_19_1",
@@ -159,7 +171,9 @@
         "reacții agresive",
         "maltratare câine",
         "protejare animale"
-      ]
+      ],
+      "confiscare": "Ridicarea/confiscarea exemplarului canin și plasare în adăpost / eutanasiere la repetare",
+      "masuri_complementare": "Obligarea la dresaj, sterilizare, asigurare"
     }
   ]
 }

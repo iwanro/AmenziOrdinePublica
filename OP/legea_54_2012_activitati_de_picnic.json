@@ -41,10 +41,11 @@
         "parcări",
         "poliție locală"
       ],
-      "masuri_complementare": null,
+      "masuri_complementare": "Obligarea contravenientului la refacerea zonei / aducerea la starea inițială și suportarea costurilor (Art.8)",
       "confiscare": null,
       "agravare": null,
-      "repetare": null
+      "repetare": null,
+      "repetare_fapta": "La repetare majorare amendă (Art.8)"
     },
     {
       "id": "2",

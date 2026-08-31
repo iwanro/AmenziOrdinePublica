@@ -28,7 +28,9 @@
         "revendicare",
         "adăpost",
         "identificare proprietar"
-      ]
+      ],
+      "confiscare": "Ridicarea și plasarea câinilor în adăpost public (Art.14)",
+      "masuri_complementare": "Obligarea la suportarea cheltuielilor de capturare/transport/întreținere"
     },
     {
       "id": "fapta_2",
@@ -50,7 +52,9 @@
         "identificare câine",
         "carnet sănătate",
         "pașaport câine"
-      ]
+      ],
+      "confiscare": "Ridicarea și plasarea câinilor în adăpost public (Art.14)",
+      "masuri_complementare": "Obligarea la suportarea cheltuielilor de capturare/transport/întreținere"
     },
     {
       "id": "fapta_3",
@@ -73,7 +77,9 @@
         "registru evidență",
         "consilii locale",
         "consilii județene"
-      ]
+      ],
+      "confiscare": "Ridicarea și plasarea câinilor în adăpost public (Art.14)",
+      "masuri_complementare": "Obligarea la suportarea cheltuielilor de capturare/transport/întreținere"
     },
     {
       "id": "fapta_4",
@@ -96,7 +102,9 @@
         "revendicare",
         "adopție",
         "protecția animalelor"
-      ]
+      ],
+      "confiscare": "Ridicarea și plasarea câinilor în adăpost public (Art.14)",
+      "masuri_complementare": "Obligarea la suportarea cheltuielilor de capturare/transport/întreținere"
     },
     {
       "id": "fapta_5",
@@ -119,7 +127,9 @@
         "revendicare",
         "adopție",
         "condiții adăpost"
-      ]
+      ],
+      "confiscare": "Ridicarea și plasarea câinilor în adăpost public (Art.14)",
+      "masuri_complementare": "Obligarea la suportarea cheltuielilor de capturare/transport/întreținere"
     },
     {
       "id": "fapta_6",
@@ -142,7 +152,9 @@
         "protecția animalelor",
         "ucidere câini"
       ],
-      "observatii": "Art. 14 alin. (2) lit. a) prevede că uciderea câinilor de către alte persoane decât cele prevăzute sau prin alte metode decât eutanasierea constituie infracțiune cu închisoare de la 6 luni la 3 ani sau amendă penală și confiscarea câinilor"
+      "observatii": "Art. 14 alin. (2) lit. a) prevede că uciderea câinilor de către alte persoane decât cele prevăzute sau prin alte metode decât eutanasierea constituie infracțiune cu închisoare de la 6 luni la 3 ani sau amendă penală și confiscarea câinilor",
+      "confiscare": "Ridicarea și plasarea câinilor în adăpost public (Art.14)",
+      "masuri_complementare": "Obligarea la suportarea cheltuielilor de capturare/transport/întreținere"
     },
     {
       "id": "fapta_7",
@@ -164,7 +176,9 @@
         "finanțare",
         "gestionare câini",
         "adăposturi"
-      ]
+      ],
+      "confiscare": "Ridicarea și plasarea câinilor în adăpost public (Art.14)",
+      "masuri_complementare": "Obligarea la suportarea cheltuielilor de capturare/transport/întreținere"
     },
     {
       "id": "fapta_8",
@@ -188,7 +202,9 @@
         "microcipare",
         "identificare",
         "condiții adopție"
-      ]
+      ],
+      "confiscare": "Ridicarea și plasarea câinilor în adăpost public (Art.14)",
+      "masuri_complementare": "Obligarea la suportarea cheltuielilor de capturare/transport/întreținere"
     },
     {
       "id": "fapta_9",
@@ -210,7 +226,9 @@
         "adăpost provizoriu",
         "legislație sanitar-veterinară",
         "protecția animalelor"
-      ]
+      ],
+      "confiscare": "Ridicarea și plasarea câinilor în adăpost public (Art.14)",
+      "masuri_complementare": "Obligarea la suportarea cheltuielilor de capturare/transport/întreținere"
     },
     {
       "id": "fapta_10",
@@ -232,7 +250,9 @@
         "metiși",
         "control reproducere",
         "regim special"
-      ]
+      ],
+      "confiscare": "Ridicarea și plasarea câinilor în adăpost public (Art.14)",
+      "masuri_complementare": "Obligarea la suportarea cheltuielilor de capturare/transport/întreținere"
     },
     {
       "id": "fapta_11",
@@ -254,7 +274,9 @@
         "regulament UE",
         "sănătate publică",
         "prevenire boli"
-      ]
+      ],
+      "confiscare": "Ridicarea și plasarea câinilor în adăpost public (Art.14)",
+      "masuri_complementare": "Obligarea la suportarea cheltuielilor de capturare/transport/întreținere"
     },
     {
       "id": "fapta_12",
@@ -298,7 +320,9 @@
         "dejecții câini",
         "curățenie",
         "proprietari câini"
-      ]
+      ],
+      "confiscare": "Ridicarea și plasarea câinilor în adăpost public (Art.14)",
+      "masuri_complementare": "Obligarea la suportarea cheltuielilor de capturare/transport/întreținere"
     },
     {
       "id": "fapta_14",
@@ -320,7 +344,9 @@
         "adopție",
         "obligații adoptator",
         "monitorizare"
-      ]
+      ],
+      "confiscare": "Ridicarea și plasarea câinilor în adăpost public (Art.14)",
+      "masuri_complementare": "Obligarea la suportarea cheltuielilor de capturare/transport/întreținere"
     },
     {
       "id": "fapta_15",
@@ -343,7 +369,9 @@
         "consilii locale",
         "consilii județene",
         "personal specializat"
-      ]
+      ],
+      "confiscare": "Ridicarea și plasarea câinilor în adăpost public (Art.14)",
+      "masuri_complementare": "Obligarea la suportarea cheltuielilor de capturare/transport/întreținere"
     },
     {
       "id": "fapta_16",
@@ -367,7 +395,9 @@
         "monitorizare",
         "adăposturi publice",
         "adăposturi private"
-      ]
+      ],
+      "confiscare": "Ridicarea și plasarea câinilor în adăpost public (Art.14)",
+      "masuri_complementare": "Obligarea la suportarea cheltuielilor de capturare/transport/întreținere"
     },
     {
       "id": "fapta_17",
