@@ -1,23 +1,23 @@
 {
   "lege_metadata": {
     "titlu": "Prețul mediu al unui metru cub de masă lemnoasă pe picior - 2026",
-    "emitent": "Guvernul României (OUG aprobată ianuarie 2026)",
-    "data_aplicare": "1 ianuarie 2026",
-    "monitorul_oficial": "OUG privind aprobarea prețului mediu - 272 lei/mc (abrogă art.II Legea 265/2017)",
-    "sourceUrl": "https://legislatie.just.ro/Public/DetaliiDocument/293197",
-    "temei_legal": "Anexa 1 Legea 331/2024 (media INS ultimii 3 ani)",
+    "emitent": "Guvernul României",
+    "data_aplicare": "1 ianuarie 2026 - 31 decembrie 2026",
+    "monitorul_oficial": "Monitorul Oficial nr. 1203 din 24 decembrie 2025 (OUG nr. 89/2025, art. XLI)",
+    "sourceUrl": "https://legislatie.just.ro/Public/DetaliiDocument/307679",
+    "temei_legal": "Art. 164 alin. (29) din Legea nr. 331/2024 (Codul silvic), modificat prin OUG nr. 89/2025; valoarea de 164 lei/mc a fost aprobată prin Legea nr. 265/2017",
+    "valoare_2026": "164 lei/mc (menținută până la 31.12.2026)",
     "valori_INS": {
       "2022": "292,33 lei/mc",
       "2023": "294,87 lei/mc",
       "2024": "227,45 lei/mc",
-      "media": "272 lei/mc"
+      "media": "272 lei/mc (proiect OUG decembrie 2025, neadoptat)"
     },
-    "crestere": "+65,85% vs 164 lei/mc (valabil până 31.12.2025)",
-    "valabilitate": "Anual - se stabilește prin OUG/ordin MMAP; 2026=272 lei",
-    "notă": "Distinct de prețurile de referință pe sortimente (Ordin 160/2026). Utilizat pentru: stabilire prag infracțiune/contravenție (art.8 Legea 171, art.108-109 Codul Silvic), taxe scoatere definitivă/ocupare temporară, despăgubiri, compensații proprietari păduri protecție, garanții."
+    "valabilitate": "Menținută până la 31.12.2026 prin OUG nr. 89/2025",
+    "notă": "Distinct de prețurile de referință pe sortimente (Ordin 160/2026). Utilizat pentru: stabilire prag infracțiune/contravenție (art. 8 Legea 171/2010, art. 108-109 Codul silvic), taxe scoatere definitivă/ocupare temporară, despăgubiri, compensații proprietari păduri de protecție, garanții."
   },
-  "valoare_2026": "272 lei/mc fără TVA",
-  "valoare_anterioara": "164 lei/mc (până 31.12.2025, Legea 265/2017)",
-  "impact": "Creștere cu 65,85% a taxelor, garanțiilor, redevențelor Romsilva (+880.953 lei/an), despăgubirilor pentru tăieri ilegale.",
+  "valoare_2026": "164 lei/mc fără TVA (menținută)",
+  "valoare_anterioara": "164 lei/mc (Legea 265/2017, neschimbată)",
+  "impact": "Neschimbat față de 2025; proiectul de majorare la 272 lei/mc (decembrie 2025) nu a fost adoptat.",
   "fapte": []
 }
